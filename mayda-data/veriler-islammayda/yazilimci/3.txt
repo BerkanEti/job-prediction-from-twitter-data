@@ -1,0 +1,1152 @@
+Yazilimda çatı kullanımı teknik borçlanma türevlerinden birisidir, er ya da geç tasarlanmadığı bir senaryo ile karşılaşıldığında, workaroundlar kaçınılmazdır. Her workaround bir teknik borçtur.
+Yazilimcilari bekleyen yeni dünyayi en iyi anlatan replik: "komutan Logar, bir cisim yaklasiyor efendim". O cismin adi unbounded streams processing ve sadece yeni bir programlama paradigmasi degil,big data diye kendini göstermeye baslayan yeni veri evreninin yazilim metodolojisi.
+Yeni yazim: Çevik Süreçler Neden Dikiş Tutturamadı
+Kisisel gelisim mi diyorsunuz? O isler ufak, ufak olmaz. En yüksekten atlayacaksin ki en derine dalabilesin, en zorundan giris yapacaksin ki zorda kalip, zoru basararak geliseceksin. Konfor alaninda kalarak, kisisel gelisim olmaz.
+Yazdigim kitaplara ücretsiz olarak adresinden ulasabilirsiniz.
+Neye hizmet ettiginiz, vicdaninizin bu evrende kapladigi alanin yüzölcümünü belirler. Yani ne kadar büyük bir insan oldugunuzu ölcmek kolay bir istir.
+Hayata dair en önemli ipucu gönüllere atilan halatlarinki.
+Neye talipsen, icinde o büyür ve yeserir. Eger bu formülün basitligi secimi kolaylastiriyor olsa idi, her sey sevgiden/sevmeden/asktan yana ve bu da vahdete güzel bir örnek olurdu.
+Baskomutanin ego oldugu her türlü savasi kaybetmeye mahkum olmak...
+Kiz babasina sormuslar, kiziniza iyi bir egitim mi yoksa ilerde bir milyon lira mi vermek istersiniz? Bir milyon demis baba, kizimin egitimi ve gelecegine harcayacagim bir milyon. Gelecegi anneler insa ederler, cünkü onlar evlatlarina bildiklerini ögretirler.
+Sadece TDD ile refactoring yan etkileri tespit edilemez. Refactoring yan etkileri tam olarak onay kabul kriterlerini yansitan testler ile tespit edilebilir. Onay kabul testlerinin en ideal implementasyonu topdown ATDD ile yapilir. Bu konudaki blog yazim yakinda...
+Kodun ne kadar iyi oldugu önemli degil, test olmadigi sürece refactoring yapamazsiniz. Müsadenizle tekrarlayayim: Kod ne kadar iyi olursa, olsun, genis tabanli uygulamalarda test olmadan refactoring yapilamaz. Yapsaniz bile yan etkilerin hepsini tespit etmeniz imkansiz.
+Yazilimda kalite nedir? Kodun iyi ya da okunabilir yazilmis olmasi degildir. Yazilimda kalite hangi suratte musteri isteklerine adapte olunabildigidir. Bunun tek bir yolu var: genis test kapsama alani ve akabinde mumkun olan refactoring. Test yoksa refactoring yok, kalite yok!
+Mamari, tasarim, test, dokumentasyon, canliya alma ve isletme, ölcekleme, bakim ve gelistirme konularinin tumune talip olmayip, isin sadece bir alt kanadi olan kod yazmaya yeltenenlere ne yazik ki yazilimci denemiyor!
+Gunumuz programcinin kopamadigi mantiklar: statefullculuk, impreatifcilik, statik fonksiyonculuk, instanceofculuk, utility libcilik, debugcilik, appservercilik, lokalde calisiyorculuk, somut sinifcilik, calissin yetercilik, benden sonra bananecilik vs.
+Dün dev, bugun devops ve fullstack, yarin gitops, ondan sonrasi allah kerim. Yazilim camiasinda gidisata istesende ayak uyduramazsin. Isin temel prensiplerini bilmek ayakta kalmani saglayacak yegane yontemdir.
+Yazilimda önemli tek bir ölcü vardir: bu senin kodu ne kadar iyi yazdigin degil, müsterinin yazilimdan ne kadar memnun kaldigidir.
+Bu arada, sadece diploma ile muhendis olunmus olunmuyor. Muhendislik yaraticilik gerektirir. Ona vucut veren genis kapsamli bilgi ve beceri birikimidir.
+Software craftsmanship akiminin ozeti: yeteneklerim muhendislige yetmiyor, bari usta olayim. Ustalik tekrar ile gelirken, muhendislik yaraticilik gerektirir. Yazilim bir muhendislik dalidir.
+Yeni yazim: Bilginin Evrimi
+Bilginin Evrimi baslikli yazim yakinda..
+Saglikli gözler icin özellikle yazilimcilar ve bilgisayar basinda calisanlarin gözlerini mavi isik filteleri ile korumali gerekli. Ayni sey sürekli cep telefonlarina bakanlar icin de gecerli. Yazilim tabanli mavi isik filtreleri etkisizdir.
+Yazilim sistemlerindeki sorunlar osi katmanlari asagi dogru inilerek cözülür.Yazilimci bu katmanlari tirmanarak,uygulama katmanina yerlesmediyse,sorun cözme kabiliyeti sadece algoritma ve veri yapilari analizi ile sinirli kalacaktir ki onlarin da cogu osi katman. inmek icindir.
+Zor olan seyler kiymetlidir, sevmenin zor, sinirlenmenin kolay oldugu gibi...
+Devops'un anlasilmadiginin baska bir ornegi. Hala QA takimi diyor...
+Is görüsmelerinde ilk sordugum soru: "sizden ne ögrenebilirim". Is görüsmelerinde son sordugum soru: "ne kadar para kazanabilirim". Bunu tersine cevirenler bilginin maliyeti ve kiymeti hakkinda tekrar düsünebilirler.
+Yeni yazim: Yazılım Dünyasının Hızlı Çözüm Üretmek İle Olan İmtihanı...
+Kamil insanlik amac, gectigi yol filozofi. #seneca
+Insanin dis dunyasi icin yaptigi/yapmadigini herkes gorur, taktir eder ya da etmez. Ic dunya icin yapilan calisma her yonuyle gizli kalir. Kamil insan olmanin bedeli yuksektir. Bu sebeple insani sadece zahiri yapisi ile gormek yetersizdir. Kimbilir kimlerdir karsilastiklarimiz...
+Ömür kisa degil, sadece insanin bakis acisi kisa mesafe.
+Hegel'e gore tezin yaninda antitez olmazsa, sentezlemek ve bir ust soyutluk seviyesine cikmak mumkun degil. Degisim icin ikisi de gerekli.
+Dunyada neler oluyor diyen kapitalizme degil, insanin dogasina baksin. Kapitalizm insanin gercek dogasi olan hirs, kiskanclik ve bencilligi ortaya cikaran isletim sistemidir.
+Zihin ve ego oyunlarina gelmek yerine, tefekkür ile meta-benlik seviyesinde olup, bitenlere müdahil olmamak...
+Para insanin karakterini bozmaz. Var olan bozuklugu ortaya cikarir.
+Diger adi kafaya takmama sanati.
+Teslimiyet ANI oldugu sekli ile, olumlu ya da olumsuz anlam yuklemeden kabullenmektir. Anla her zaman ters dusen kisinin kendisi degil, egosudur. Huzursuzlugun ana kaynagi bu ters dusmelerdir. Teslimiyet bu durumu ortadan kaldiran en etkin yontemdir.
+Egoless programming - egosunu bir kenara biraktiginda less yani daha az, öz ve temiz kod yazmasidir programcinin.
+Iyi programci olma derdi olmayanlarin yarattiklari kaosu temizlemekle gecen bir ömür bazilarininki....
+Günün gülümsemesi: canli kubernetes ag göctükten sonra patronun ilk sorusu: "hani artik bundan sonra böyle seyler olmayackti?" #konfigurasyon-meselesini-anlamamis-olmak
+Bundan daha kötüsü nedir? Hata gidermek icin konfigurasyon degisikligi yapip, bunun bir fayda getirmedigini göreden programcinin düstügü durum.
+Hazir yazilim catilarini kullanmaktan daha kötüsü nedir? Yazilimcinin konfigüre etmek zorunda oldugu yazilim catilari. Bundan da kötüsü nedir? Konfigurasyonu koda gömülen yazilim catilari. Bundan daha da kötüsü nedir? Konfigurasyonu nerede bulacagini bilemeyen programci.
+Yeni yazim: Yazılım Camiasından Son Gelişmeler ve Gidişat
+Insanlar üçe ayrilir: parametresiz ve void (ne alir, ne verir), parametreli ve void (alir, bir sey geri vermez) ve parametreli olup, aldigi gibi bir seyler geri veren fonksiyonlar gibi olanlar.
+Hem nesneye yonelik, hem imperatif hem de fonksiyonel olacagim derse bir programlama dili, sonu scala gibi olur. Yeni scala javadir.
+Yeniden yapilandirma, test etme ve temiz kod yazma gibi faaliyetler event horizon i öteler.
+Her yazilim sisteminin bir event horizoni var. O nokta gecildikten sonra artik tüm degisim, yenileme ve yeniden yapilandirma calismalari beyhudedir, cünkü sistem kendi agirligi altinda bir kara delige dönüsür ve kendi sonunu getirir.
+Fullstack,backend,devops,frontend developer derken günümüz yazilimcisi ne olacagini sasirmis durumda. Hepsini bir kenara birakip, iyi bir yazilimci olmak asil mesele. Gerisi zaten gelici.  Iyi bir yazilimci muhendislik ile zanaati derin ve kapsamli bilgisi ile birlestirebiledir.
+Gücünü maneviyattan alanlar evrenin parcasi olurken, bunu maddiyata dayandiranlar onun kölesi olurlar.
+Insanlar cevreyi kirleterek gelecek nesilleri kizdiriyor, programcilar da kodu kirleterek.
+Yeni yazim: Alan Borcu (Domain Debt)
+Artik parayi veren degil, bilgiyi veren düdügü calacak. #bilgiekonomisi
+Insan evladi olmak baska, insandan dogmus olmak baska bir sey.
+Hic kitap bir hayat, bin kitap, bin hayat. Kitap okumayan sadece bir hayat yasar.
+AhlakOS, insan icin en gerekli isletim sistemi.
+Sanatta islev aranmaz. Programcilikta islev ön plandadir. Programcilik sanattir diyen, islevin ne oldugunu anlamamistir. Musteri isteklerine kulak vermemesi dogaldir. O sanatinin pesindedir.
+Anlanmayan kodun kopyala,.yapistir ile kullanilmasi vahim. Daha da vahim olan metodoloji ve sureclerin sorgulanmadan ve anlasilmadan adapte edilip, kullanilmasi. Örnegin scrum kullanip, cevik oldugunu dusunen komple yeni bir muhendis jenerasyonu var disarida.
+Konfor alani tukettirir, panik alani urettirir...
+Bir iktisatci ile bir yazilimci arasindaki fark nedir? Iktisatci ekonomik durum hakkinda fikir yurutebilmek icin pmi,faiz, enflasyon ve issizlik orani gibi verilere bakarken,yazilimcinin kod hakkinda dikkate aldigi tek tip bir metrik vardir:kod calisiyor mu, calismiyor mu? #sonar
+Kod kalitesi dusuk olanin cevik olma ihtimali de dusuk.
+Bu problemin tek cozumu aradaki araci kulaklari ortadan kaldirip, musterinin ya da onun temsilcisinin mevcut gereksinimleri programcinin kulagina dogrudan fisildamasini saglamaktir. Cevik yazilimin temel prensiplerinden birisi budur.
+Yazilim kulaktan kulaga oyununa döndü. Musterinin istedigi ile ortaya cikan sey cok farkli seyler, cunku aradaki kulaklar sadece istediklerini duyup, istediklerini bir sonraki kulaga soylemekteler.
+TDD (test driven development) denince akla ilk gelen test yazarak ilerlemektir, lakin asil amaci kodu surekli yogurarak, yeniden yapilandirmaktir. Test yazmak marifet degil. Asil mesele musteri gereksinimleri dogrultusunda kodu yeniden yapilandirabilme ortamini olusturmak.
+Evde yapmak isteyenlere beyin tarifi: 1 litre su, 160 gram yag, 110 gram protein, 15 gram seker, 10 gram tuz.  Bu kadar basit malzeme mutfakda da var, yapamassin, niye... sefin özel sosu, canlilik yok! @SinanCanan
+Reaktif programlamayi tasarim sablonu ve prensiplerinden bihaber bir programciya nasil anlatirdiniz? Anlatamazsiniz! Karsinizdakinin once yazilimin temel taslari hakkinda ihtisas yapmasi gerekir. Yeniliklere hakim olmak ve kavramak icin isin temellerini bilmek zaruri.
+Hastaneler aci ama tavanlarina bakmak daha da aci.
+80 yasinda satilik araba ilanlarina bakmaya yasam ümidi denir.
+Yazilim dünyasini alt üst eden, dillerin yapisal gelisimlerine yön veren, programcilari yeni bir programlama paradigmasinda düsünmeyen zorlayan yapinin adi: Observer tasarim sablonu.
+Yazilimcilar uce ayrilir: derinde yuzenler, su ustunde kendini tutabilenler ve yizmeyi bilmeyip bogulanlar. Bir de derinleri icat edenler.
+Emsalsiz mutlulugun membagi her zaman batinidir. O sadece zahire yansir ama zahirde bulunamaz.
+Oysaki web yazilimi tadindan yenmeyecek kadar.guzel ve zevkli olabiliyormus... Angular+Typescript+RxJS
+Veren, yardim eden ve hizmet eden el hakikatte paslanmis kalbi yugar.
+Tefekkur aklin dogru yolu bulmasi icin vicdana taninan zamandir.
+Bu iki tezati ayni cumlede yasayanlara gelsin.
+%25 mevduat faizi sukela, dunyanin civisi cikmis ne fena.
+Güzel ahlak fiildir, sözde kalani ise sadece bir sifat.
+Gercek bilgi arayisi arama motorunun sonuc listesindeki linkleri daha önce ziyaret edilmis olarak göstermesi demotivasyonu ile baslar.
+Bir ömür ile sinirli zenginlige zenginlik denmez. Dense dense nöbetci zenginlik denir. Onemli olan hakikatte fakir olmamaktir.
+Insanlara saygin sonsuz, fakat sabrin yaradandan ötürü sonsuz üstü olsun.
+Pratik Spring, Pratik Agile, Pratik Git ve Design Patterns isimli kitaplarimi ücretsiz olarak adresinden edinebilirsiniz.
+Ögrenmek ayni zamanda yeni bir kelime hazinesi kazanmaktir. Ögrenmenin kalitesi bilinmeyen ve arastirilarak, ögrenilen yeni kelimelerin adedi ile dogru orantilidir.
+Teorisi kilidi, onu acan ise anahari pratigi...
+Cihanin butun mulkune sahip olsan ne olur. Muhim olan bu cihanda bulbuller gibi hos bir sada birakmaktir. O sada tevhid kelimesinden baskasi degildir. Tapduk Emre.
+Testi olmayan kod köle eder kendine, testi olani köle olur programcisina. Test kodun terbiyesidir.
+Bilgi ile hikmetin, malumat ile irfanin farklikigini kavrayabilmek...
+Bir nefis hastaligi, namidiger mutsuzluk...
+Her seyi bilen yuce yaratan nezdinde her sey yasandi ve bittigine gore, hep ben, hep bana diyen insanoglunun bu gayreti ne olaki!
+Ben bilmem.
+Bu kod test edilemez diyen kendini kandiriyordur.
+Java ile ilgilenip "ne ögrenmeliyim" diyen yeni mezun yazilim/bilgisayar mühendisi arkadaslara: JHipster! Fullstack dev olmak icin icinde her sey olan en iyi yazilim gelistirme catilarindan birisi. Fullstack dev olmak is bulumunu kolaylastiracaktir.
+Adami adam yapan onu tasiyanlar degil (araba, yat, taht), onun tasidiklaridir (vicdan, akil, merhamet).
+Siradan frontend/backend/desktop ve bulut yazilimcisi arasindaki fark metot, mindset,calisma tarzi ve yazilima bakis degisiminden dolayi gece ve gunduz gibi.
+Java dilini, güncel sürümlerini ve yenilikleri ögrenmek isteyenler icin hazirladigim java kursunu youtube bünyesinde olusturmaya basladim.
+Yazilimda yeni bir paradigma degisikligi yasiyoruz. Hale hazirda soyutlugun tepesindeki yazilim dil ve teknikleri bir ust soyutluk seviyesine cekilerek, daha soyut ve sanal yapilar olusturuluyor. #dockerAndCo
+Ceviklik salt yazilimci işi. Aksini savunanlarin neden böyle düsündüklerini paylasmaya davet ediyorum.
+Scrum, SAFe, DAD gibi sacmaliklarla yazilim projeleri ceviklestirilemez. Ceviklik isteniyorsa, bunu gerceklestirebilcek tek otorite yazilimcilardir. Yazilimcilardan baska herkesin cevik yazilimda soz sahibi olmaya calismasi son bulmali.
+Yazilimla ugrasmak basli basina zaman kaybidir, cünkü cok okuyup, cok deneyip, cok arastirip zaman kaybeden istenilen cözümü ortaya koyabilir..
+Her seyin yazilim ile döndügü ve insanlarin artik yazilima bagimli olduklarini göz önünde bulundurursak, deadline gibi suni yapilara boyun egmek ve beklentileri karsilamayan ya da hata iceren uygulamalar olusturmak insanliga ihanettir.
+Yazilimda deadline programcilara diretilen suni bir yapidir. Tek amaci programcinin hizli is bitirmesini saglamaktir. Programcilar bu duruma boyun egdikleri sürece, kaliteli kod yazmak bir hayal ürünü olarak kalmaya devam edecektir.
+Yani siradan ugrasilari birakip, vücudu, beyni ve maneviyati zorlayacak islere girismek gerekiyor...
+Konfor alaninda vücudun salgiladigi mutluluk hormonlari (dopamin,serotonin) hissiyatta farklilik yaratacak kadar degisiklik göstermez. Vucüt bu duruma alismistir. Bu yüzden mutlu olmanin en kisa yolu bu alani terketmekten gecer.
+Karin acligi öldürür, göz acligi öldürtür!
+Üretim yapmayan yasam, bitkisel yasam diyecegim lakin bitki de bir seye yariyor!
+Yazilim bir motor ise, cevik yazilim o motorun yapilmaya baslandigi ilk andan itibaren calismaya baslamasidir.
+Her zaman en basit cozum denir,ama en basit cözüm en dandik cözüm olmamalidir. Basit cözüm zarif olusu yani sira iyi kaynak kullanimi, performans ve sürdüdülebilirlik konularini da göz ardi etmemelidir.
+Baskasina evet derken kendine hayir demis olmak insanin kendisine yapabilecegi en buyuk haksizlik. Senin unuttugun seni baskasi neden hatirlasin!
+Yil 1990...
+Zaman tekildir. Yazilimcinin bu gercegi kabul ederek, zaman kaybina neden olan programcilik aktivitelerden uzak durmasi ve verimliligimi nasil artiririm sorusunun cevabini aramasi gerekmektedir.
+Test nasil yazilir bilmiyorum diyen yazilimciya mi uzulelim yoksa bunun sebebinin turkce kaynak eksikligi olduguna mi!
+Debug tartismasinda ortaya cikan aci gercek: test yazmanin yerini debug aktivitesi almis.
+Debugging konusunds yeni blog yazim:
+Gelen yorumlara bakildiginda islemci yapisi (orn. out of order execution) ve derleyici optimizasyonu gibi nedenlerden dolayi debug etmenin bir ilüzyon oldugu goz ardi edilmekte. Yazilimcinin debug ettigi kod ile islemcinin gordugu kod ayni degil.
+Artik bundan böyle is ilanlarinda yanyana görmeye alisacagimiz terimler: kubernetes, cloud, reactive, agile...
+Öyle ya da böyle cloud artik defacto standart haline geldi. AWS Certified Solutions Architect gibi sertifikalar önem kazanmaya basladi.
+Sadece bir tweetin bu kadar büyük bir tartismaya neden olmus olmasi sevindirici. Her yazilimcinin geldigi yer ve ugrastigi seyler degisik oldugundan, yazdiklarima bakis acisi farkli olacaktir. Ama güzel olan da zaten bu degil midir? Farkli fikirler bizi ileri götürür. Kirmadan!
+Debug yapiyorsan, kodu anlamadin demektir. Debug yaparken kodu anlamiyorsan, nasil debug yapilir, onu anlamadin demektir.Debug yaparken kodu anladigini dusunuyorsan, aslinda debuga ihtiyacin olmadigini anladin demektir. Debug etmek kodun mental bir modelinin eksikligine isarettir
+OSI modeli ne ise, firmada iletisim kültürü de o: yazilimcilar netwokcülerle muhattap olmuyorlar, ne yaptiklarini bile bilmiyorlar.
+Yazilimda gercegi dost degil, yük (load) söyler. Bu yuzden en hukumsuz ifade 'benim bilgisayarimda calisiyor ama' dir.
+Modern bir uygulamanin linux isletim sistemi üzerinde kullanabilecegi sistem cagrilarinin (system call) hep topu 313 adet. Uygulamalar bunlarin kombinasyonlarindan baska bir sey degil.
+Insani diger canlilardan ayiran akli degil, kalbidir. Kalbe dokunan hic bir hissiyat kalmadiysa, tüketimden baska bir secenek kalmamis demektir.
+Cehaletin yer aldigi kefeyi dengelemek icin terazinin diger kefesine kitap atiniz.
+Iki degisik paradigmanin dilini bilmek, ayni paradigmanin on dilini bilmekten on kat daha iyi programci yapar.
+Nasil sorunun cevabini buldugunda, beyinde günes aydinliginda bir lambanin yanmasi ... Essiz bir his.
+Bir sonraki level bilgi akümülasyonu ve kombinasyonundan baska bir sey degil. Isin temelinden yani ilk levelden baslamayanlar icin yüksek seviyelere gecis, hangi konu olursa olsun bir seviyeden sonra imkansiz hale gelecektir, cünkü bilgi akümülasyon eksiligi magdurudurlar.
+Bir dili cok iyi biliyorsunuz: anadilinizi. Anadilini iyi bilenler, diger dilleri kolay ogrenir. Ayni sekilde cok iyi bildiginiz bir ana programlama dili olmali.
+Asenkron + fonksiyonel = reaktif. Yeni yazilim devrinin formulu.
+1996 yilinda elime üç pembe disket olarak gecen ilk Java surumunun uzerinden 22 sene gecmis. Insan olsa, Java simdi karsimizda bir delikanli ya da guzel bir genc kiz olarak duruyor olacakti. Ama artik o yasli bir moruk.
+Artik buzzword degil, acele ogrenilmesi ve anlasilmasi gereken teknolojiler: vert.x ve reactive microservices, docker, kubernetes, assembly :)
+Uzay caginin baslangici...
+Abartma lo!
+Tecrube denilen sey gidilen yolda baskalarinin dönüyor olmasidir.
+Alin teriyle kazanilmayan para baskasinin alin teridir.
+Yeni Yazim: Java 9 ile Modül Bazlı Yazılım
+Investör ve manipülatörler bitcoini 10bin uzeri tutamaz oldular. Kaderi belli olmaya basladi.
+Nihai amaci üreme ve tüketim olan insanoglunun 2018 de geldigi nokta: savas, katliam, taciz, sahtekarlik ve diger kötülükler. Gemide yer icin kayitlar basladi.
+Ha kodun icine not dusmussun, ha wikiye. Ikisi de kisa bir zaman sonra gecerliligini yitirme ve gercekleri yansitmama tabiatina sahip.
+JDK olmus 8 ama hala eski tip programlamaya devam. Java programcisinin fonksiyonel programlama ile imtihani zor...
+Paranin asil amaci mal takasini kolaylastirmakti. Dijital paralarda bu parayi parayla takasa donustu ve insanoglunun sacmaliklar silsilesi bir ust levele cikmayi basardi.
+Birim testlerinin ana amaci kodun dogrulugunu degil, kodun yeniden yapilandirdiktan sonra dogru kaldigini ispatlamaktir.
+Hangi teknoloji cikarsa cikisin, isini temelini bilmeyen, tepesinde tutunamaz.
+Fortran I derleyicisin implementasyonu icin 1 sene planlanmisti. Implementasyonu 1954 yilinda basladi ve 1957 yilinda tamamlandi. Modern yazilimin temellerinin atildigi o ilk günlerden beri yazilim projelerinde yapilan tahminlerin hepsi yanlis!
+Kirk dereden su getirip, kod akrobasisi yapanlarin (gereksiz katman, inheritance, design pattern...) yeri sirktir. Bize basit ve sade kod yazanlar lazim.
+Kod yazmadan once bir test yazildiginda, kodun yapmasi gerektigi islemin ve programcinin yanlis yollara sapmadiginin bekcisi ve garantörü o test olacaktir.
+Gunumuz programcisinin tek derdi, yazdigi kodu hemen calisir hale getirmek. Musteri gereksinimini tatmin edip, etmemesi ikinci plandadir, hatta onu, anlayip, anlamadigi bile belli degildir...
+Dünkü kafani begeniyorsan, okumuyorsun demektir.
+Beyni taze tutmak ve sekillendirebilmek icin okumak gerekir. Okumayan beyin kemiklesir.
+Prensip icabi bitcoin, ether ya da iota almiyorum. Bir anda yerden mantar gibi biten sözde para politikalari ve ekonomi uzmanlarini ve teknolojiden ne kadar bihaber olduklarini gördükte, fikrim degismeyecek. Herkesin yatirimi kendine. Ama kalkip, insanlari yanlis yönlendirmek....
+Bunlari soyleyen bu isin icindeki adamlardan birisi. Bitcoin dendiginde gozlerinde dolar isaretleri beliren, agzindan salyalar akanlara gelsin. Belli bir zenginlik bile elde etseniz, bunun bedelini dogaya odeteceksiniz. Ama bu umrunuzda degil. Dunya batsin, ben zengin olayim.
+Hatasiz uygulama olmaz. Bitcoin bir uygulama degildir. Guven ve huzurla yatiriminizi yapabilirsiniz.
+Dunyada olup, bitenler gercek olamaz. Bu bir simulasyon olmali. Nitekim son yüz yildaki teknik gelisime bakildiginda, yuksek bir bilincin simulasyonu hizlandirdigi ve sonuna dogru gelindigi kanisi olusmuyor degil. #matrix
+Mühleti dolan kitaplar kitaplikla vedalastilar...
+10.000 dolara tirmanan bitcoinin sinir tanimayan inis cikislari ile gunluk hayatta kullanilabilir bir para birimi olamayacagi artik ortadadir. Bitcoin yuksek spekulasyon yatirim aracina donusmustur.
+Bilgisayar programcinin hatalarini yüzüne vuran aractir.
+Zorla guzellilk olmaz ama zorlamayla iyi programci olunur.
+Programcilarla taksicilerin ortak ozelligi nedir? Her iki meslek grubu da hedefe giden en kisa yolu secmemeye meyillidirler.
+Programcinin her daim önünü görmesini saglayacak iki prensip: KISS ve SRP.
+Blockchain teknolojisi dunyayi degistirecek, lakin gunumuzdeki dijital paralar Kastelli 2.0 dir.
+Yazilimin tabiatindan anlamayanlarin dijital paralar hakkinda ahkam kesmeleri gunumuzdeki dijital para balonunun en temel sebeplerinden birisi olmakla birlikte bircok yatirimci icin yaniltici olma niteligindedir.
+Fiat para (dolar, avro, tl) ve dijital para birimlerinin ortak yani: arkalarinda koca bir illüzyon harici hicbir sey olmamasi!
+Yazilim dunyayi yiyor, maliyeti de onu!
+Marifet egoya değil, vicdana tezahürat edildiğinde harekete geçebilmektir.
+Muzik endustrisi yamuldu. Sirada bankalar var. Blockchain gercek demokrasinin temel tasi olacak.
+Insanlari irk, mezhep, renk,cinsiyet ve secimlerinden bagimsiz sadece insan olarak gordugunde, soyutlamaya basladin demektir.
+Yeni yazim: Yeni Teknolojileri Öğrenme Konusunda Nasıl Bir Yol Haritası Oluşturmalıyım?
+Dedem aklima geldi. "Ben anadolu cocuguyum" derdi hep. Öyleydin dedem. Ben de anadolu cocuguyum.
+Flash TV'de güzel bir program var:Latif Dogan Yollarda.Güzel anadolumuzun,güler yüzlü,yardim sever,cana yakin,güzel insanlarini gösteriyor.
+Hemen birisine sorarak cozmeye calistigin problem sana bir sey ogretemez.
+Yeni yazim: Neden Programcılık Harici İşlerle Uğraşmak Daha İyi Bir Programcı Olmayı Sağlar
+u yeni tasarimi ile begeninize sunarim....
+Programci oldugunuzu biliyor muydunuz? (gelisi güzel klavye tuslarina dokunmaniz yeterli)
+Yeni yazım: Zaman Eksenindeki Teknolojik Fay Hatlarının Programcılar Üzerindeki Etkileri
+Bir yazilim hatasi ilk etapta ortadan kaldirilmak icin degil, yapilan hatayi kavramak ve bir seyler ogrenmek icin vardir.
+27-31.12.2016 – İspanya Cartagena Pist Günleri
+Yeni yazım: Geri Dönüşü Olmayan Ünvanlar
+Amazon Echo ve Echo dot geldi. Ev otomasyonu oyunlari baslasin.
+Esp8266 + Dth22 + MQTT + Eclipse + C ile kablosuz sicaklik ve nem sensörü... Yazisi yakinda..
+IoT de gelinen son nokta: babyphone ddos atak icin kullanildi... :)
+Tartisma kültürü konusunda eksiklerimiz mevcut...
+Motosiklet Zinciri Nasıl Değiştirilir?
+Esp8266 candir.
+Yazilim projelerine soyle bir bakin,angarya olarak gorulen islerin tumu projenin kaderini belirleyici niteliktedir:Test,entegrasyon,review..
+Pratik Programci Yayinlari bünyesindeki tüm kitaplari "yaz2016" indirim kuponu ile %50 indirimli alabilrsiniz.
+Bir yerde kalp, ona yakin yerde cep. Aralarindaki mesafe elli santim, cok ayri düsmüs madde ile maneviyat.
+Yeni yazim: Neden Fabrikadan Çıkan Bir Yarış Motoru Yarış Motoru Değildir?
+Bir sonraki yazimin basligi "Konfigürasyonu gömsemde mi kodlasam, konfigürasyonu gömmesemde mi kodlasam"...
+Kodun icine konfigürasyonu gömme fikri kimin aklina geldiyse, programcilarin gözünde sonu xmli icat eden sahis gibi olacak.
+Neredeyse 20 sene olmus, ilk internet girisimlerim....
+Intel'in Xeon islemcilerinin gömülü FPGa ile gelmeleri, önümüzdeki dönemde yazilimciligin nereye dogru gideceginin en belirgin ibaresidir.
+Asfaltin soguk olmasin ve lastik isiticisinin bozulmasinin neticesi...
+Yeni blog yazim: Java Just In Time Compiler (JIT) Nasıl Çalışır?
+IoT nin sadece App lerle kontrol edilen cihazlar olarak algilandigi bir dönemden geciyoruz.
+Yeni yazim: Java JVM Nasıl Çalışır - Java Nesne Düzeni (Java Object Layout)
+29.04 – 01.05.2016 İtalya Misano Pist Günlerinden İzlenimler
+Design Patterns kitabim biraz önce @pratikprogramci tarafindan yayimlandi.
+FizzBuzz bile implemente edemeyecek durumdaki wannabe senior programcilarla dolu bir dunyada genc programcilarin basarisizlik kaygisi yersiz
+Materyale anti materyal ne ise, tamah da ömre odur.
+Otomotiv de Java kullanılıyomu @BTSoruCom aracılığıyla
+Filmlerde kullanilan kod parcalari...
+11-13.03.2016 Misano / Italya Pist Günleri
+En cok kullanilan elli tasarim sablonunu ihtiva eden yeni kitabim Design Patterns yakinda @pratikprogramci 'da
+Blog Yazilarim isimli ekitabimin 4. sürümünü begeninize sunarim.Yeni sürüm 395 sayfadan olusuyor.
+Yeni yazım: Yazılımda Şemsiye Modeli
+Java ile web de neler kullanmami önerirsiniz? via @BTSoruCom
+Soyutluk seviyesi yukseldikce altta ne olup bittigini anliyorum demenin adi ahkam kesmektir.
+Donanimdan uzaklasan programciliktan uzaklasir.
+Yazilim verileri katman ve soyutluk seviyesine göre paketleme zanaatidir.
+Bugünün backend programcisi yarinin embeded iot programcisi, yani vakit elektronik ögrenme vaktidir.
+Yeni blog yazim: Yarış Pisti İçin Gerekli Malzemeler
+Yeni meteoroloji istasyonum... Yazisi yakinda.
+Yeni yazım; Kıymeti Bilinmeyen Eskimiş Bilginin Kıymeti
+Yazmadigin seyi anlamiyorsun demektir, Hibernate ile SQL orneginde oldugu gibi.
+Kod ismi tüketim, ama neyin tükendigi, bittigi, eridigi, son buldugu belirtilmemis.
+Yeni yazim: Su Uyarı Sensörü İle Su Basmasına Karşı Önlem
+Yeni yazım: Raspberry PI Zero, 128GB Sdcard ve Samba İle NAS Sunucusu
+128 GB SD-Card İle Raspberry PI Kullanımı
+Akıllı Ev Projesinde Son Durum
+Cartagena / İspanya Yarış Pistinden İzlenimler
+Evdeki W-Lan'in kökünü kurutmak icin akilli televizyonu ve amazon fire tv boxu yerel aga bagladim.
+Bu seneki ilk yazım: Daha İyi Bir Programcı Olmak İçin Sınırlar Nasıl Zorlanmalı?
+22-25.12.2015 Cartagena İspanya Pist Günlerinden İlk İzlenimler
+Avoid the build guru. Ayni sey development guru icin de gecerli.
+Flux lehim pastasi nasil yapilir?
+Yarış Grenajı Boyama ve Montaj
+Kawa ZX10R teker degisimi....
+Yeni yazım: Karadelikler, Soyutluk ve Yazılım
+Pilot icin sadece bir tane motoru calistir dügmesi olmaliydi. Yazilimla cok ironik parallellikler ihtiva ediyor...
+Globallesen dunya ekonomisi degil, insanlarin görgüsüzlügü.
+Pizero. Kendisi 5 dolar, kargosu 13. Adafruit den 1 adet siparis verdim. Daha fazlasina musade etmiyorlar.
+Dunyayi onlerinde diz cokturenler bile ellerinde kocaman bir sifirla burayi terk ederler.
+Ne kaybedilen, ne kazanilan, sifir toplamli oyunlar vardir ya, iste hayat dedikleri sey bu oyunlarin basinda gelir.
+Yeni yazım: Gitolite İle Git Depo Erişimi
+Kapı Açık mı, Kapalı mı Statü Göstergesi...
+Motor Koruma Kapakları ve Düşme Padleri
+Oda Sıcaklık Sensörü Kullanımı...
+Ev otomasyonu tablet kurulumu...
+Babamdan TSM..
+Yeni blog yazim: Zx10R İçin Yeni Yarış Grenajı
+Yeni yazim Raspberry PI Router Olarak Nasıl Kullanılır?
+Yeni Raspberry PI B Model 2 ile ev otomasyonu
+EcmaScript 5 standarti ile %100 uyumlu olan Java Nashorn Javascript implementasyonunda bile bu tuhaf sey olusuyor.
+Benim işim programcilik degil. Program yazmak benim tutkum.
+Sonra neden Javascript ogrenmiyorsun...
+Yeni yazım Paralel Evrenlerin Programcıları 
+Angular konferansi basliyor... Canli takip icin
+Yeni yazim: Yeni Yangın Alarm Sistemi...
+Yeni yazım: Neden Frontend ve Backend Programcısı Tarihe Karışıyor 
+Yeni Ninja 2016 ZX10R
+Motosikletde ücüncü teker zihindir.
+Bir sonraki kitabimin icerigi ne olmali?
+Bu kitabimin ( yeni sürümü Pratik Agile isminde 
+Programci oldugunu düsünen birisi Java'yi karalamaya kalkinca, ortaya cikan komik ifadeler...
+Bu nasil mumkundur diyenlere.. Külliyen fizik.
+Yeni yazım Yazılımcıların Performansı Nasıl Ölçülür?  
+Yarinki yazim basligi "Yazilimcilarin Performansi Nasil Ölcülür" olacak.
+Bir okurumun Pratik Git kitabim hakkinda yorumu
+Yuksek teknoloji kullanimi yaninda yeterli adap ve terbiye olmayinca insani modernlestirmekde bile aciz.
+Spor yapmayan vucut hibernate modundadir ve uyuyanlar ölür.
+Spor yaparken dökülen ter vücudun sevinc gözyaslaridir.
+Yeni kitabı Pratik Git Pratik Programcı Yayınları​'nda...
+"Yani aslında elektroniğin yazılım mühendisliğine yaklaştığı döneme gelmiş bulunuyoruz" demis Coskun hoca
+Cahil eşittir rehin
+Yük ve performans testleri yazilim disinda da gecerliligini koruyor...
+Ilk hanging off denemeleri...
+Motor egitim gunu...
+Tavuklari pisirmisem, yeni bir ossiloskop ve fonksiyon generatörü siparisi vermisem.
+Program hatalarinin yegane sebebi yer cekimidir. Programcilar sutten cikmis ak kasiktirlar.
+Karmasik problem cozme yetisini gelistiren en sistematik yontem program yazmaktir. Bu yuzden her cocuk program yazmayi ogrenmeli.
+Yeni yazım Nasıl Usta Programcı Olunurmuş
+Katmanli mimari iste bu. Her katman sadece altindaki katmani gormeli.
+Bugun motor viraj egitiminin ikinci bolumu...
+Yeni yazım Programcıların Besleyip, Büyüttükleri Canavar
+Programciligi birakiyorum. Şaka, şaka 😊
+Ortaya koydugu ürünü degistirmeye korkan meslek sahibine programci denir.
+Kitap okumadan daha iyi olmak isteyenler birde uyuyarak denesin.
+Bir devrin programcisi olmak icin uzmanlas.
+Bir devrin programcisi olmak icin uzmanlas!
+Daha ergonomik bir calisma sahasi icin...
+Lehim taklavat...
+Bir okuma-yazma var, bir de okuyup, yazma var.
+Yeni kitaplik....
+Yeni calisma masam...
+Yarinki motosiklet zincir temizligi icin gerekli hammadde...
+Nitelik arttikca, gönül alcalir, cünkü farkindalik cogalir.
+Pratik Git kitabim bu hafta icinde @pratikprogramci yayinlarinda...
+Günlük yasam sadece sizi en iyi oldugunuz ve cok sevdiginiz seylerden uzak tutmak icin var.
+Yani yazim:
+Bugun motor guvenlik egitimi...
+Sinif atlamak kolay da, cirak olmadan ustasi olmaya calismak zor!
+Okumayi sevmeyenin, kod yazmayi sevmesi en büyük tezat!
+Yeni yazım: Yazılımcı Olarak Daha İyi ve Usta Olmak Mecburiyetindesiniz
+Yeni blog yazim: Viraj Egitimi – 1. bölüm
+1977 de voyager ile uzaya gonderilen turkce mesaj
+Bir toplumun gelismisligi sahip oldugu mutfak zenginligi ile ters orantilidir. Nünüge kafa yoran bilime zaman bulamaz.
+Hepsi g harfi ile basliyor: guzel, gradle, groovy, grails, guice. Hepsini tek bir uygulamada kullanmak cok GÜZEL.
+Yeni yazim: Public/Private Anahtar İkilisi İle Git Repository Erişimi
+Blog tutmanın önemi ? @BTSoruCom aracılığıyla
+Yeni proje, yeni ofis. KPMG,nin P sinin ustundeki cam kenarindayim:)
+Eskinin ne yapmis acaba diye bakilan cv si simdilerin ne biliyor acaba diye bakildigi blog sayfasi.
+Saygiyi veren alir.
+Akıllı Çiçek Sulama Sistemi
+Yeni yazım: Programcının Evrimi
+Yaptigin islerle degil de sahip oldugunu dusundugun unvanlarla anilmak, abesle istigalin en belirgin ibaresidir.
+Yedi adimda programci olmanin sirri demek, raketi icat edecek bilgi lazim degil, aya kement atip, cikarim demek gibi bir sey...
+Bitirmek icin baslamamissan, henuz baslamamissin.
+Cahilligi süs gibi takinmak kolay oldugundan, süs olmayan bilgiye itibar az.
+Cogu Java kodu JVM Hotspot tarafindan optimize edildiginden hizli, programcisi tarafindan oyle tasarlandigindan degil.
+Yeni yazım: Merkezi Versiyon Yönetim Sistemlerinde Sürüm Almak İçin İş Akışı Nasıl Şekillendirilir?
+Bedeli ödenmeyem her sey emanettir.
+Cok calismak sadece bir sendrom. Altinda yatan ise dogru tutkuya sahip olmak.
+Programcinin kariyeri bilginin onu götürdügü yerdir.
+Nasil daha iyi bir yazilimci olurum sorusunun cevabi yarin konferansinda. Bekleriz...
+Övgü durdurur, kritik yürütür.
+Yeni yazım: 2015 Yılına Geldik, Hala Spring’le Birlikte İnterface sınıf mı Kullanmak Zorundayız?
+Ag kurulumu
+Parmak İzi Tarayıcısı Nasıl Programlanır?
+Vucut harici derdi mülkiyet, sıkı dur geliyorum edebiyet.
+Bu haftasonu "vintage computer festival europa" Münih'deyim
+Ağ Priz Kurulumu
+Blog Yazilarim baslikli kitabimin son sürümü ücretsiz da...
+Aslinda hic bir sey anlamamak cok iyiye alamet...
+CraftSummit 2015 de bulusmak uzere
+Teknik borcun ( en büyük maliyeti bir zaman sonra kacan programcidir.
+Yeni yazım: İşin İnceliklerini Sadece Ustası Bilir
+Bir noktadan baska bir noktaya gitmenin en kisa yolu, isin ustasini ziyaret etmekten gecer.
+Yeni yazım: Kod Kalitesi Denince Akla Gelenler
+Cok yazmak cok biliyorum degil, cok ogreniyorum demektir.
+Yakindan tanimayan insanlar hakkinda kafada olusan imajin %99 u öngürüsten ibarettir ve %99 oraninda yanlistir.
+JavaOne 2015 için sunum önerim
+Elektrik kesintisine atfen...
+Yeni yazim: Bekledigim sey en sonunda gerceklesti! "Java Embedded 8 İle 32 Bit Mikrodenetleyici Programlama"
+Programciliktan yoneticilige terfi cüzdan icin yukselis, beyin icin çöküştür. Bunu amaclamak beyni paketleyip, rafa kaldirma rizasidir.
+Eclipse Altında Birim ve Entegrasyon Testleri Nasıl Ayrı Koşturulur?
+Yeni yazım: Kod Redaktörlügü
+Mister Miyagi programci olsaydi, ogrencilerine kod katasi yaptirirdi. #kodkatacom
+Programciligi ogrenmek icin en iyi kitap alice harikalar diyarinda demis.
+Yabanci dusmanligi toplumlara degil bireylere has bir ozellik.
+Yeni yazım: Yazılımda Otopilot
+Marifet egoya degil, vicdana tezahürat edildiginde eriyebilmektir.
+Akıllı ev projem: Merkezi Süpürme Sistemi
+Yeni yazım: Mevcut Bir Uygulama Koduna Nasıl Adapter Olunur?
+Neleri Otomatize Ettim?
+Akıllı Ev Projemde Son Durum
+Yeni yazim 20 Yaş, 30 Yaş, 35 Yaş ve Bugünki Programcı Ben
+Her yazılımcının bilmesi gereken 20 konu diye bir sey olamaz. Yazilimcinin ihtiyaci olan tek sey meraktir, nasil yapildigini merak etmek.
+Degisik perspektiflerden bakilmayan bir sey sadece tek bir yüzünü gosterir. Gercekleri goruyor olmak sans isidir.
+Fazla konusanin soyleyebilecegi fazla bir sey yoktur.
+Bilgiyi edinmek eglence olabilirken, onu tutmak bitmek bilmeyen bir boks macindan farksiz. Kaybeden bilgi olmuyor, sessizce kayboluyor.
+Beraber calisilan insanlardan bir sey ögrenilemiyorsa, orada kalmanin tek sebebi, statüyü koruma eylemidir.
+Anlamayarak yapan kullanici, anlayarak yapan bilginin gercek sahibidir.
+Yeni yazım: Bir Mahrumiyetin Sonu
+Bir okurken bir sey anlamamak, bir de okurken bir sey anlamadigin halde okuduklarindan buyuk haz almak var.
+Bugün geldi. Üzerinde Java ME Embedded 8.1 JVM calisiyor. Freescale frdm k64f.
+Yeni yazım: JVM Stack Nedir ve Nasıl Çalışır?
+Birisi sana hocam, ustadim diye hitap ediyorsa, bu senin sahip oldugun degil, karsi tarafin sana verdigi degerdir. #havayagirmeme
+Yeni yazım: Java Dilinde Neden Göstergeçler (Pointer) Yok?
+Önüne gelen yamalamis.Yangin bile cikmis.Yazilimda böyle bir sey iste... Her an yangin cikabilir.
+Bilgisaya Mühendisleri Odasi Dergisi'nin 22. sayfasinda benimle yapilan söylesi yer aliyor
+Aktörlerin programlanmasi sürüyor....
+Agaclardan (teknoloji) ormani (felsefesi) göremez olduk
+da yazdigim ilk yazim. Makale (PDF) 18 bin kez indirilmis
+Konusarak bildiklerini tekrar eder, kitap okuyarak yeni bilgiler ögrenir, onlari ögreterek bildiklerini pekistirirsin.
+Kapital sömüremeyecegi yere gelmez.
+At binenin, kilic kusananin, kod da onu yeniden yapilandirabilenin.
+Kendinize verdiginiz unvanlar parayla satin aldiklariniz kadar kiymetsizdir.
+Yazilim yapmanin felsefesini ve temellerini ogrenmek demek once cefasini cekip, sonra sefasini surmek demektir.
+Yeni yazım: Neden Spring, JPA ve Diğer Çatılar ÖğrenilmeMEli
+Tablet Çerçeve Projesi Tamamlandı
+.net cilerin sadece .net cileri, java cilarin sadece java cilari takip ettigi bir yazilim dunyasinda yasiyoruz. #crossplatformdeveloper
+Programciliga olan sevdanin büyüklügü, okumasanda sahip olmaktan haz aldigin senden yasli kitaplarin adediyle dogru orantilir.
+Assembly ögreniyorum ya da kullaniyorum diyen birine bakis tarziniz,programciliginizin ne seviyede oldugunu gösteren en saglam indikatördür
+Olaganüstü yetenekler gelistirmek icin sürüyü birakip, erisilemez olarak görülen hedeflerin pesine düsmek gerekir.
+Yeni yazım: Manyetik Reed Anahtarı Nedir ve Nasıl Kullanılr?
+Kötü yoneticiler sadece piyasa icin adam yetistirmis olurlar.
+Birseyler ogrenmenin önündeki en buyuk engel ninetofive mesai.
+Yeni yazım: Neden Kafam Bu Kadar Rahat?
+lead olabilecek senior java developer ariyor. Ilgilenenlere duyurulur.
+Aslinda hic bir sey anlamamak cok iyiye alamet...
+Duvardaki Kabloları Nasıl Bulurum?
+Düz Çizginin Sırrı
+Bir ipte iki cambaz, bir kod biriminde birden fazla sorumluluk olmaz. — Özcan Acar,
+Kurumsal Java ismini tasiyan kurdugum yeni grup.
+Yeni yazım: Versiyon ve Sürüm Numaraları Nasıl Oluşturulur?
+Yeni yazım: Hangi Programla Dilini Öğrenmeliyim?
+C ögrenmek isteyenler icin....
+Programciya yol gösteren sadece mantigi ve kullandigi araclardir.
+Yeni yazim: Java Şampiyonluğu Nedir ve Nasıl Olunur?
+Bakiniz
+Bilgiyi paylasmayanin ya bilgisi yoktur ya da egosu vardir.
+Ev otomasyonu icin duvara gömülecek tablet cerceve yapimindan resimler....
+Yeni geldi. 1235 sayfa ve 1999 baski. Kim okuyor bu kadar sayfayi acaba?
+Yeni blog sayfam yakinda.....
+Yeni yazım: Kokan Kod – 1. Bölüm
+günün sözü bölümü güncellendi...
+Git kaynak kodu icin Linus Torwalds tarafindan yapilan ilk commit
+Yeni yazım: Ev Otomasyonun Temel Taşı Aktörler
+Bilgi hisse senediyse, o zaman kazanmak icin genis capli cesitlilige (diversification) gidilmeli.
+Yeni yazım: Akıllı Evlerde Kablo Kullanımı Neden Önemli?
+Alman IngDiba bank. ise basladiginizda,elinize kara para aklamayi engellemenin yollarini gosteren kitap veriyorlar.
+Yazilimda, pratik yapmak basarinin annesidir. #kodkatacom
+Sen kendine bir sey ogretemezsin, projelerin sana bir seyler ogretir.
+Yeni yazım: Çalışan Bir Java Uygulamasında Bytekod Nasıl Değiştirilir?
+Java'yi zor kilan, JVM'in yazilimcilar tarafindan kara kutu gibi gorulmesidir.
+[Akilli Ev Projem] Sıva Yapıldı, Pencereler Takıldı.
+STM32 Arm Cortex-M3/M4 seti geldi
+Yeni yazım: Teknik Borç Nedir ve Nasıl Ödenir?
+Akilli ev sistemleri ve otomasyonu konularina ilgi duyanlar icin bir grup olusturdum. Bilginize.
+Akilli ev projemde kablo cekme isini bitirdik. Resimleri sizlerle paylasmak istedim...
+Raspberry Pi İle 1920×1080 Ekran Çözünürlüğü
+Yeni yazım: Başkalarının Kodu Okunarak Daha İyi Programcı Olunabilir mi?
+Akıllı ev projem: Ağ Kablo Çekimi – 1. Bölüm
+Ileri (Advanced) Java yazilarim:
+Yeni yazım: Java String Nesnelerinin Hafıza Kullanımı Nasıl Azaltılır?
+EEPROM ve Flash Hafıza Entegre Devreleri Nasıl Proglanır?
+Yazılımda iyi olmanın sırrı sürekli değişikliğe maruz kalmakta gizlidir.
+Yeni yazım: Çok gezen mi bilir, çok okuyan mı?
+Bu konuda kargasa var... Programcılık Sanat mı, Zanaat mı?
+Yeni yazım: Yazılımda Geviş Getirme Taktiği Nasıl Uygulanır?
+Fayda saglayan pratik cozumler ureten herkes muhendistir.
+Yazimda elestirmek zorunda kaldigim yazarin benim yazima biraktigi ilginc yorum....
+En etkili mülakat sorusu: en son okudugunuz bilisim kitaplari hangileridir?
+Yazdigin kodu bir süre sonra begenmiyorsan, ögreniyorsun demektir.
+Yeni yazım: Yazılımcılığın Ne Olduğunu Anlamamış Bilgisayar Mühendisi
+Freelancer Platformu @BTSoruCom aracılığıyla
+Kitap Tanıtımı: TTL Cookbook ve CMOS Cookbook
+Hayat yuvarlayarak, götürmeye calistigimiz tatli bir küp sekeri. Marifet küpü küreye dönüstürebilmek.
+Ücretsiz olan kitabimin ikinci sürümü
+Yeni yazım: TTL 7474 Entegre Devre İle 8 Bit Bir Sayaç Nasıl Yapılır?
+Yeni yazım: Yazılımcıların Gerçek Ekmek Teknesi
+[Yeni blog yazim] Baslama ve bitirme kriterleri
+Kafalarda yarim kalan projelerin en guzel sahitleri mezar taslaridir.
+Örnek alindiginda degil, rekabet edildiginde öne gecilebilir.
+[Yeni blog yazım] 5 Adımda Daha Kaliteli Yazılım Testleri
+[Yeni videoblog kaydim] TTL 7474 ve D Flipflop Hafıza Donanımı Kullanımı
+bilgisayar muhendisligine giris @BTSoruCom aracılığıyla
+Programlama Becerisi @BTSoruCom aracılığıyla
+Yaptigin isin arkasini corap sökügü gibi getirmek istiyorsan, önce bilgi ve ilimle o corabi örmen lazim.
+[Yeni blog yazım] Müşteri Gereksinimlerini Anladığımızdan Nasıl Emin Olabiliriz?
+Kisisel gelisim konusunda ilerleme kaydedemiyorum diyenler, aslinda zora gelemiyorum demektedirler
+Donanimcilar yazilimi test araci olarak gorurken,yazilimcilar donanimin farkinda bile degiller.Bu iki dunyayi birlestiren Devronikler geliyo
+Gelecegin yazilimcilari donanim ve elektronige de hakim olan Devronikler olacak.
+Profesyonel Nesneye Yönelik Programlama sanal kursu cekimleri devam ediyor. Yakinda @pratikprogramci'da
+Cogu yazilimcinin diger yazilim paradigmalarini ogrenmelerindeki ana gucluk, imperatif (imperative) program gelistirmeye alismis olmalaridir
+Vaktim yok diyenlere: 8 saat patronun, 8 saat de uyku icin. Geri kalan 8 saat de kafandaki projelerin icin..
+Kiyakciligin sonu ayakcilik, herkesi mutlu etmeye calismanin sonu yanlizliktir.
+Kisisel gelisim ve preemtif olmayan insan beyni... bu konuda edindigim tecrübe bu yazimda
+[Yeni blog yazim] Programcının Hayatını Kolaylaştıran 18 Alışkanlık
+HTC Desire Hd İşlemci ve Hafıza Donanımı
+Hic bagis yapmadigin Kizilay'inla nasil gurur duyarsin!
+Bilgi cagina paralel yasiyor olmanin ibaresi nedir? Her sabah bugün ne ögrenirim sorusu yerine bugün ne yerim sorusuna cevap aramak...
+Nesneye yönelik programlama da kalitim kullanmak ic güveysi olmak gibidir. Üst sinif ne isterse, nasil isterse, o olur!
+Masa üstü programlarda katmanli mimari nasil olur? @BTSoruCom aracılığıyla
+Hanim hocalarimizi tebrik ederim, paylasimin nasil olmasi gerektigini yine hanimlar gösterdi
+Kurumsaljava günün sözü bölümü güncellendi
+Extreme topdown TDD türü
+Okudugunda anlar, uyguladiginda ögrenir, pratik yapmadiginda unutursun...
+Kötü programci yoktur. Kullandiklari yazilim gelistirme paradigmasi yetersiz ya da uygun degildir.
+Panic zone ( a girmek ya da cikmak istemeyenler AKKA ve flow based programming konularina bir göz atsinlar.
+Nesneye yonelik programlamada bagimliligin diger bir ismi kaos.
+Ic bagimlilik (cohesion) ne kadar dusukse, dis bagimlilik (coupling) o kadar yuksek olacagindan, uygulamayi gelistirmek zorlasir.
+Birim Testlerinde Beklentilerimi Daha Net Nasıl İfade Edebilirim? baslikli yazim
+Sözde lean baslikli yazim
+daki verdigim 4 gunluk Spring ve Software Engineering egitimi bitmek uzere...
+Refactoring icin yoneticiden izin istemek temel ihtiyac olan uyku icin izin istemek gibidir. Terzi de nasil dikis atacagini kimseye sormuyor
+En Basit Çözümü Oluşturma Yetisi Nasıl Kazanılır? baslikli yazim...
+Bir gun daha fazla yasayabilmek, kirk yilda kazandigin parayi gozunu kirpmadan feda ederdin.
+Cok maas cok sorumluluk ve cok mesai anlamina gelebilir. Mutlu eden paranin fazlaligi degil, kendine ayirabildigin zamanin coklugudur.
+Melek yatirimci firmanizin cogunluk hissesine goz diktiyse, seytan yatirimcidir
+Hayati kolaylastirmak icin cozum ureten herkes muhendistir.
+Elinizde uzerinde her turlu Java programi calisan bir Windows 8 tablet tuttugunuz zaman, Android ve Ipadlerin hikaye oldugunu anliyorsunuz.
+Akıllı Ev Projem
+Dunyayi ben yarattim edasinin ilaci, bunu dusunmeyi mumkun kilan kendi yaraticinin oldugunu unutmamaktir.
+Iyi programcilarla degil, sadece iyi arac ve yazilim metotlariyla buglarin onune gecilebilir.
+Iki lehimle oyuncagi tamir edenin yaninda supernen kahraman olarak halt etmis :)
+Bugun geldi.
+1975 baski
+Why Java Sucks and C# Rocks hakkındaki düşünceleriniz nelerdir? @BTSoruCom aracılığıyla
+Yeni kitabim Pratik Hibernate icin calismalara basladim.Güze yetistirmeyi planliyorum.Hibernate 4.x catisini temel...
+Profesyonel Java Kursu hakkinda bir yorum
+Yeni kitabim Pratik Agile Pratik Programci Yayinlari'nda yayimlandi...
+Kodun Okunabilirlik Seviyesi Nasıl Artılır? baslikli yazim...
+Java’da Polimorfizm Nasıl İşler?
+Uygulama Geliştirme Süre(ç)leri PHP vs Java via @BTSoruCom
+Azim calisir, tutku calistirir.
+Cogu insan azimliyim yerine hirsliyim diyor. Azim != Hirs. Azim basi goge erdirir, hirs eninde, sonunda yerin dibine sokar.
+Tutku basarinin anasidir, azim de babasi.
+Dağın Ayağına Gelmesini Bekleyen Birisi baslikli yazim
+Bir sınıfı test edebilmenin anahtarı new direktifinde yatar. New ile bir nesne oluşturamıyorsam, o sınıfı test etmek için kırk dereden su...
+Standart Java API’ler Neden Tercih Edilmeli baslikli yazim
+Merhamet olmadan maneviyat olmaz.
+Java’ya Nereden Başlamalıyım? baslikli yazim...
+Önemli olan bilgi sahibi olmak degil, sahip olunan bilgi ile ne yapildigidir.
+PHP Uygulamaları Nasıl Hızlandırılır? FastCGI, PHP-FPM ve OpCache Kullanımı baslikli yazim...
+Bir izleyicimin Profesyonel Java kursu hakkindaki düsünceleri...
+[Yeni blog yazim] Ne Zaman Test Güdümlü Yazılım Yapmalıyım?
+Izleyicilerim hazirladigim Profesyonel Java sanal kursu hakkindaki sorularini dogrudan bana iletebiliyorlar.
+Java Magazine mart 2014 sayisi
+Profesyonel Java kursuna katilan bir izleyicimin kurs hakkinda yazdiklari...
+Java ögrenmek isteyenler icin profesyonel java ismini tasiyan ve 4 saat uzunlugunda sanal bir kurs hazirladim
+Maneviyat ihtiva etmeyen terbiyeden geri vermesini bilmeyen tüketiciler türer. Tüketimde sinirda tanimazlar.
+Evde eli alet tutan esinin, is yerinde hatasiz kod yazan patronunun gözüne girer ;-)
+Koddan daha hizli guncelligini yitiren nedir? Kod icinde yer alan yorum ve dokümentasyonlar. Onlar hep uvey evlat muamelesi gorurler.
+eposta bilgilendirme servisi
+Pratik Spring kitabima yapmis oldugun bu yorum icin tesekkür ederim Ertugrul Saruhan
+Yeni blog yazim: java.lang.IncompatibleClassChangeError: Implementing class Nedir ve Analizi Nasıl Yapılır?
+Bu minik vatan evladina yardim icin devlet buyuklerinin dikkati nasil cekilir? Lutfen yayalim!!!
+Kapuskayi sevenlere
+Devop'larin yaninda birde elektronikle ugrasan programcilar var. Onlar Devronik.
+Hedef miknatis gibidir, kendine dogru ceker.
+Yeni blog yazim: 500 Beygir Gücünün Hazin Sonu
+Basari kazanilan parayla olculseydi, spor toto milyonerleri dunyanin en basarili insanlari olurdu.
+Severek ogrendigin her yeni birsey zihnine yeni bir kanat takar.
+Neden dependency injection icin Java CDI anotasyonlari kullanilmali?
+Yakinda Istanbul'da profesyonel Java konularinda haftasonu kurslari basliyor.
+Certified Spring Trainer olma talebim Pivotal tarafindan kabul edildi. Egitim nisanda.
+Gercek birim (unit) testleri ag kablosu cekildiginde bile calisan testlerdir. Agsiz calismiyorsa, entegrasyon testidir.
+Ilim ogrenmenin yolu sözdür, meslek ogrenmenin yolu istir (Mevlana V/1062).
+günün sözü bölümü güncellendi...
+Ne Zaman Başımız Göğe Erer? baslikli yazim....
+4 saatlik temel java kursunun 2.5 saatlik bölümünü tamamladim.
+Yazılımda fazla mesai yapılmayacak diye bir kural yoktur. Lakin fazla mesai bir kural haline gelmemelidir.
+Melek Programcılar ve Şeytan Yatırımcılar
+Kim Daha İyi Programcı?
+Pratik Agile isimli kitabim yakinda da
+Basari devamli kurban vermektir.
+EJB nin ne kadar bas belasi bir tekniloji oldugunu unutmustum. Development yaparken deployment diye bir mecburiyet olmamali. #GoForPojo
+Bilgi girdigin karanlik oda icin isiktir.
+Yapilmasi gereken islerde en buyuk sorun zaman yetersizligi degil, atilmasi gereken bir sonraki adimin bilinmemesidir.
+Online görsel Java kursu geliyor, yakinda.....
+Ne oldum degil, yarin ne ogrenecegim demeli.
+Paranin kiymetini bir seyler uretip, sattiginda anlarsin, maas alarak degil. Hele, hele urettigin seyler gecim kaynagin olmak zorundaysa...
+Okunan bir blogdan en az iki tweet cikmiyorsa ya o blog anlasilmadi ya da blog okumaya degmezmis. #anladigini-evrene-bildir
+Anlagindan sadece ögrettigin zaman emin olabilirsin.
+Yazilimda basarinin sirri baskalarinin bireye bir seyler ogretmesi degil, bireyin kendi kendine ogrenebilme kabiliyetine sahip olmasidir.
+Türkiye Yazılımcı Raporu 2013
+Benimle birlikte ya da teknik editorlugumde kitap yazmak isteyenler benimle baglanti kurabilir.
+Unit testing is a bitch demis, evet o muameleyi goruyor :)
+Spring 3.x İle Gelen Yenilikler
+Ogrenmenin en efektif yolu hizmet etmektir, ciragin ustasinin ihtiyaclarini gormesi gibi. Bu hizmet ustaya ya da insanliga olabilir.
+Pratik Spring kitabim yayimlandigi ilk günden sonra bir haftada 20 adet satti.
+Agile Türleri
+Sahip oldugu API'yi sundugu siniflari genisleterek kullanmaya zorlayan cati bankadan kredi cekmek gibi kullanicisini kendine bagimli kilar.
+Hatirlayan var mi?
+Yazılımcı Anketi 2013 icin 310 katilim olmus. Anket bir hafta daha devam edecek. Katilimlarinizi beklerim...
+Photoshop'u yazan(lar) mi daha usta grafiker yoksa kullanicilari mi?
+Clean code icin simdi vaktimiz yok. Ne icin var? Projeyi adim, adim batirmak icin mi?
+Yazılımcının Verimliliğini Artıran Eclipse Ayarları
+Objektif kalabilmenin sirri, aci versede karsit goruse kulak vermeden gecer.
+Pratik Spring Core kitabimin konu basliklari (pdf)
+Pratik Spring Core isimli kitabim e-kitap olarak Pratik Programci Yayinlari'nda satisa sunuldu.
+Iki sene sonra bir proje daha son buldu. Aufwiedersehen Navteq/Nokia.
+Kitap Okumanın Önemi
+Spring Core 3.2 Sertifikası Ardından
+Gelen eski yeni kitaplarim. En eskisi 1974 baski
+Basarinin habercisi istikrarli basarisizlik serisidir.
+Bir tasarim harikasi: ServiceImplBuilderFactoryManagerBuilderImpl.java
+bünyesinde yazdığım yazılardan seçtiğim elli yazı bu e-kitapta..
+Benim babam bana kirmizli baslikli kiz masalini anlatacak diyor, benimki de babam bana star wars masalini anlatacak diyor ;-)
+1 byte neden 8 bit
+2013 yazilimci anketine 260 in üzerinde yazilimci katilmis. Daha fazla katilim icin lütfen yayalim...
+Her insan potansiyel bir iyilik melegidir.
+Pratik Spring tablet
+Pratik Spring kapak
+Pratik Spring kitabim ilk benim tabletimde :)
+Pratik Spring isimli kitabimi tamamladim. Kitap 18 bolumden olusuyor. Yakinda sadece ekitap formatinda satisa sunulacak.
+Parlak ve yapici fikirler mutlu ve zinde akillara gelir.
+Yazılımcılık kariyerinizde sizi en çok etkileyen kitap hangisi olmuştur? @BTSoruCom aracılığıyla
+Saglam kafa, saglam vucutta bulunur. Saglikli programci, iyi programcidir.
+1987 baski understanding digital computers kitabim geldi.
+Dijital elektronigi ögrenmek icin benimle yasit kitaplar okuyorum... Ayni temel bilgiler simdide gecerli.
+Video Store katasini yapiyorum
+Yazılımcılar iş ilanlarını hangi tarz sitelere vermeliler? @BTSoruCom aracılığıyla
+2013 senesi icin yazılımcı anketini olusturdum. Yazilimci arkadaslardan katilimlarini rica ediyorum. Lütfen RT.
+Günün Sözü bölümü güncellendi
+Suratindan gülücügü düsüren, insan iliskilerini yerden toplar.
+özür dileyebilmek.... sismis egolarin cok uzaginda olan hayattaki en önemli yetilerden bir tanesi.
+Rüyada birisiyle esli programlama yapmak ne anlama geliyor, rüya tabirleri kitabina bakabilir misiniz?
+Yazilim bir sanattir, yasam bicimidir demis. Deterministik olmak zorunda olan muhendis kafasiyla nasil bagdastiriyorlar, merak ediyorum!
+[Yeni blog yazım] Java Hotspot, Assembler Kodu ve Volatile Analizi
+Melek Programcılar ve Şeytan Yatırımcılar
+Programcinin hayatini zorlastiran bilginin yari ömrünün cok düsük olmasi degil, mikroislemcilerdeki cekirdek sayisinin devamli artmasidir.
+Yakinda SpringSource Certified Spring Professional sertifikasi sinavi...
+Hangi linux dağıtımından başlanmalı ? @BTSoruCom aracılığıyla
+Arduino ile Scrumin ortak yani nedir? Ikisinin de var oluslarinin temellerindeki prensipleri maskelemede ustune yoktur.
+Basarili olmak icin daha cok calisman gerektigini ne zaman anlarsin? Basarili olmak icin daha cok calismaya basladiginda.
+Az para veriyorlar diye degil, bana bir sey ogretemiyorlar diye yeni is aranir.
+Cross fuctional calisan bir ekipte sadece bir isten sorumlu olan tek sahis kim? Scrümmaster. #Dontneedanyscrummaster
+Mikrodenetleyici Yazılım Geliştirme Ortamı Kurulumu baslikli yazim
+8 bit AVR uzerinde 32 bit linux os
+Baskasi icin calismak onun gelecegini insa etmektir.
+Ucuz Etin Yahnisi baslikli yazim
+Mikrodenetleyicilerle ugrasmak girisimci ruhun beyin jimnastigi aktivitelerinin calisma sahasini genisletiyor.
+Gecen hafta katildigim AVR Microcontroller seminerin PDF sunumu
+Arduino ile uc gecedir ciplak breadboard uzerinde yapamadigim seyi 5 dakikada yapardim. Ama bu kadar sirra vakif olabilir miydim? #kolayakac
+Mikrodenetleyici dunyasina adim atmanin bedeli: 3 adet yanmis ATmega8, breadboard basinda sabahlamalar ve santim ilerlememis olmak.
+Mikrodenetleyici Hello World yazım
+Pratik Spring isimli kitabimin 14. bolumu Spring ile Web Servis kullanimi bitme asamasina geldi. Bir sonraki bolum Spring ile test.
+Toplumlarin gelismislik oranlari bireylerinin bilgi playlasimi icin kurduklari dernek sayisiyla dogru orantilidir.
+Konferanslarda ürün tanitimi yasaklanmali.Bir sey ogrenirim diye sunuma giriyorsun,community editioni bile olmayan programi tanitiyorlar.
+Rapid smd prototyping sunumundayim.
+Ayarlanabilir Güç Kaynağı
+Projenin sallantida oldugunun en saglam indikatörü nedir? Yazilimcilarin dua edelim de olsun ya da insallah yarin calisir demeleri :)
+Senior takilan birisi double checked locking terimini duydun mu diyor.O zaman laflara degil,icraata bakmanin daha dogru oldugunu anliyorsun.
+Iyi programci kompleksiteyi koddan uzak tutandir, icine sokan degil!
+ATMega Microdenetleyiciler İçin Bir USB Programcı Yapıyoruz – I. Bölüm
+Mikrodenetleyicili Minik Bir Kart
+Elektroniğe Yeni Başlayanlar İçin Gerekli Malzemeler
+Bir Aşk Hikayesi
+Neden
+Anladim demek cogu zaman anlamadigini anlamaktir.
+Para tutanin, ask sevenin, bilgi paylasanindir.
+Elektronigin en gizemli taraflarindan birisi her direnc ile gerilim duserken devrenin her yerinde akimin ayni olmasi. Bunu kavramak zormus.
+9 kisi bir bebegi 1 ayda doguramaz -- Fred Brooks
+Eger debugging hatalari gidermek icin kullanilan surecse, programlama bu hatalari olusturan surec olmali -- Edsger Dijkstra
+Kuamtum fiziginde gozlem yapmak deneyin neticesini, yazilimda debug paralel programlarin davranis bicimlerini etkiler.
+ÜDD(ümit driven development)nin diger guzel bir ornegi paralel calisan bir programi logging kullanarak anlamaya ve debug etmeye calismaktir.
+ÜDD (ümit driven development) nin en guzel ornegi, ana nedenini (root cause) anlamadan kodu degistirerek, sorun cozmeye calismaktir.
+Neden oldugunu anlamadan sorun cozmeye kalkmak,bir ucagin kokpitinde su dugmeye de basalim, bakalim ne olacak demek gibidir.
+Bir kahve makinasinin en büyük dezavantiji nedir? SPOF (Single Point Of Failure) olmasi!
+Meshur programcilar öldükten sonra geride biraktiklari kodlar birgün sanat eseri gibi müzayedelerde satilir mi acaba? :)
+Kendin lehimle, kendin programla... ATtiny13
+Temel elektronik bilgisi olmadan mikrodenetleyicilerle ilgilenmek, nota bilmeden muzik yapmak gibi bir sey.
+Yazdigim kodu bana sormadan degistirebilirsin.Ama coderev. yapark. yanlis oldugunu düsündügüm seyleri duymaya,degistirmeye katlanabilir misi
+Bugün bana bir yazilimci "kodunu degistirsem, bana kizar misin" diye sordu. Bu programcilar arasinda büyük bir probleme isaret ediyor.
+Bugun beni bir programci "kodumu degistirirsen aninda revert ederim" diye tehdit etti.
+[Yeni blog yazım] Koddan korkan programci ...
+Daft Punk - "Get Lucky" - Bass Cover:
+BTSoru 1800 soru ve 3000 cevaba ulasti.....
+Farklı veri kaynakları ile çalışırken uygulama mimarisi nasıl olmalı? @BTSoruCom aracılığıyla
+JDBC exceptionlarını Spring exceptionlarına dönüştürmek için nasıl bir yöntem uygulanmalı? @BTSoruCom aracılığıyla
+Akilli ev icin ilk komponentler hazir... #homematic
+Low level program yazma zamani...
+Eksi(k) olan elektron cekirdegine gitme egilimindeyse, eksi(k) bilgili cirak ustasina gitme,onu arama egiliminde olmalidir.
+Aklinda en az bir proje ile etrafta gezinmeyen sahsi sadece emeklilik hayalleri mutlu eder.
+Filozofa sormuslar dûrüstlük nedir diye. Beden icin acı, ruh icin ilac demis.
+Insan ogrendigi her seyi cok cabuk unutur. Onlarin beyinde kalici olmalarini saglamanin tek yolu pratik yapmaktir. #kodkata
+Neden bir çok profesyonel geliştirici macbook ve iOS tercih ediyor? @BTSoruCom aracılığıyla
+Bugun musterin icin ne yaptin?
+Musterinin yuzunu guldurmekdikten sonra en muazzam teknik cozum bile hicbir sey ifade etmez. #musterigudumluyazilimci
+Spring Integration sertifikasini bugün gönderdiler (yazinin sonunda)
+denedim, dogruymus ;-)
+Oldugundan az görünmeyi zor kilan tersinin cok kolay olmasidir. Insan her zaman kolayi tercih eden bir mahluktur.
+Ne zaman daha iyi bir programci olurum? Kafami koddan kaldirip, programciligin diger yönleri ile ilgilendigim zaman. #softskills
+Büyük resmi görebilmek icin uzman degil generalist olmak gerekir.
+Kitap okumayla programci olunsa idi, dunyada iyi programcidan gecilmezdi. #pratikyapanadam
+Her sistem en zayif yerinden patlak verir, yazilim sistemlerinde bu test edilmeyen kod birimleridir.
+10 sene alti istatistik verilere dayanarak yatirim yapanlar kanunen bir palyaco kostumu giymeye zorlanmalidir. W. Bernstein
+Kişinin kendisi bir dilde hangi derecede olduğunu (iyi, orta, uzman) nasıl kestirir? @BTSoruCom aracılığıyla
+Musterisini memnun edemeyen programci gereksiz isler muduru olarak sadece kendini mutlu etmistir.
+Refactoring kodu yogurmaksa, yeni bir programlama dili ogrenmek beyni refactor etmektir.
+Patronun degil, musterinin ne istedigi onemli.
+Bu toplumun dijital benligini insa eden biz programcilariz.
+Yemek secenler ile progranlama dili secenlerin ortak yani: ilerki bir zamanda ac kalabilme ihtimali.
+HTML5 + CSS3 için tavsiye edebileceğiniz Türkçe kaynak var mı? @BTSoruCom aracılığıyla
+yer alan makalelerin indirilme adedi 190 bine yaklasmis...
+[Yeni blog yazım] Alışkanlıkların Gücü
+Benlik gütmek yerine benligi gütmek.
+[Yeni blog yazım] Kim Senior Programcıdır?
+Kendi yazdigi kodu degistirenlere sinirlenenler var. Babasinin mali mi acaba?
+Senior olmayi bazilari sadece bilgi kûpü olmak ve daha fazla maas almak olarak tanimliyor.
+Ekibin parcasi olmaya direnen senior programciyi egosuyla basbasa birakmak en iyisi. Kapi orada!
+Bir anlik öfke bin kalbi kirabilir, bir kalbi kazanmak bin yil surebilir.
+Amac olmadan motivasyon balon gibi zamanla söner.
+Demokrasi sokaga dökülebilmekse, kendini ifade ettikten sonra evine dönebilmektir.
+Trende cene calan iki japon teyzeye cok sesli konusuyorsunuz diye cikisan amca, karsisina 4 amerikan menejer oturunca gikini cikaramadi.
+Bir IDE kullanmadan orta capli bir Java projesine gunumuzde hangi programci daha hukmedebilir?#lightable
+BTSoru soru rss feed
+Bi calismak icin ogrenmek var, bi de ogrenmek icin calismak...
+BTSoru 1500. soruya ulasti...
+Programlama öğrenme tekniğiniz nasıldır ? @BTSoruCom aracılığıyla
+Yazilimci ve mimar icin "Okunmazsa olmaz" diyebilecegimiz kaynaklar hangileridir? @BTSoruCom aracılığıyla
+KurumsalJava Günün Sözü bölümü güncellendi...
+Kalbini seven asansöre binmesin!
+Yeri gelince yazdigi kodu cöpe atabilen kodun efendisi, bunu yapamayan kodun kölesidir.
+Yüksek ölçekli bir web projesi için JSF 2.1 ve PlayFramework 2.0 frameworklerinden hangisini tercih edersiniz?
+[Yeni blog yazım] Açık Kaynağa Destek
+Eclipse Foundation icin bagis...
+Egoist bir cirak zamani gelince iyi bir programci olabilir, ama ismi cirak yetistirmedigi icin tarihin sayfalarinda yer almaz.
+Her gün bir kod katasi yapmayan ya tembeldir ya da kata yapmayi kücümsüyordur. Demek oluyor ki tembellik ve kibir gelisimin önündeki engel.
+Usta ciragini aramaz, cirak ustasini bulur. Ciragin ilk imtihani budur.
+Apple orneginde de goruldugu gibi satin alinan bir Iphone yol,okul olarak geri donmuyor,cunku bu firmalar arsizca vergi kaciriyorlar.
+Bos zamanlarimda yazilimla ilgilenmiyorum, sadece mesai saatlerinde demek yazilimi sevmiyorum,sadece ekmek kapisi olarak görüyorum demektir.
+SpringSource Certified Integration Specialist sertifika imtihani ardindan...
+Araba motoru icin en pahali yagi kullanip, supermarkette en dandik aycicegi yagini satin almak. Insanlari anlamak mi?
+Türkiye bir yazılım ve bilişim teknolojileri merkezi olabilir mi? Java ve webtek. bunda nasıl bir rol oynayabilir?
+Bu haftasonu Pratik Spring kitabini yazmaya devam. Spring WS ve Rest konularina deginecegim. Daha sonra JMS ve Taskscheduling konulari var.
+SpringSource Certified Enterprise Integration Specialist sertifikasini biraz önce katildigim imtihanla almayi hak ettim.
+Esnek bagimliligin en guzel hali.. EDA (Event Driven Architecture) ile SEDA (Staged EDA)
+En guzel ogrenme yontemi imtihan baskisina maruz kalmak.
+EDA (Event Driven Architecture) hakkında neler söyleyebilirsiniz? @BTSoruCom aracılığıyla
+BTSoru 1400 soru ve 2500 cevaba ulasti...
+Cok seker giren vücuda ilac ta girer!
+Ruhsal ve bedensel dengenin anahtari maddiyat olamaz.
+Hayat sigortasi maddi bir sigorta ise, bağış manevi bir sigortadir. Ikincisi birincisinden daha saglam korur.
+Yapacak iş kalmayinca ne iş yapabilirim diye sormakta bir geribildirimdir.
+Basarisizlik batak gibidir. Cirpinmadan batmak var,süt canagina dusup, cirpinarak sutu maya yapan fare misali tekrar bataktan cikmak var.
+Ümit Driven Development; Bir seyin calisacagini ümit ederek kod yazmak.
+Sadece iki ögünle yetinmenin sirri nedir? Sadece iki ögün yemek! Iki õğünden fazlasi saglik sorunlarinin habercisidir.
+Yazilimci olarak okuduklarin degil, uyguladiklarinsin.
+Merhamet sefil birini gorup, uzulmek degildir. Merhamet kisiyi sefaletten cikarmak icin edilen hizmettir.
+Parayi bulduktan sonra yuregi merhamet dolu olanlar hayir isine, yuregi soguk olanlar kata, yata yoneliyor. #bugunhayirisiyaptinmi
+Günün lafi: digital native ( dijital cagda yetisip, analog dünyayi tarih kitaplarindan okuyanlar...)
+BT yas degil, bas isidir.
+Ucuz yazilimci pesinde olanlara duyurulur: if u pay peanuts, u get monkeys.
+Yazdigi kodu Sonar gibi kod metriklerini gösteren araclari tatmin etmek icin adapte eden makyajdan baska bir sey yapmamaktadir.
+Kullandigim en faydali programlardan bir tanesi Disk üzerinde ne var, ne yok, hepsini gösteriyor.
+32 GB hafizali Windows 7 isletme sisteminde 32 GB swap alani (pagefile.sys) var. Absurdistana hosgeldiniz.
+Bu haftasonu non stop ögrenim, sadece ben ve 32 GB ram'im.
+COBOL öğrenmek için tavsiye edebileceğiniz kaynak var mı? @BTSoruCom aracılığıyla
+Java 8 2014 e kaldi
+Programci yönetici mi olmak zorunda?
+“Eğer sevdiğin işi yaparsan hayatta bir gün dahi çalışmamış olursun” -Konficyus
+Sahane bir sinif tasarimi sahane bir mimari olusturmus olma garantisi ihtiva etmez.
+Esnek bir mimariden soz edip, bagimliliklarin fiziksel olarak (Jar) nasil yapilandirildiklarindan bahsetmemek olur mu?
+Mimarlar yazilim sisteminin enine, yazilimcilar boyuna dogru gider.
+BTSoru bugün itibariyle 1300. soruya ulasti.
+[Yeni blog yazım] TeletAPI’nin API’si
+Yeni bir api yi yapan degil, kullanan tanitmali. Yapan detaylarda kaybolur, kullanim konusunda kafalari karistirir.
+Mal geri gelecegine, musteri geri gelsin demis filozof.
+Nesneye yonelik programlamayi zor kilan, ne is olsa yaparim, her sey elimden gelir abi diyen nesnelerdir. #teksorumlulukprensibi
+Nesneye yonelik programlama nesnelerin gizemli olmalari, sahip olduklari bilgileri ve davranislari ulu, orta gostermemeleridir.
+Mevcut projede kod parcalari kayboluyor ve kimse bunun farkina varmiyorsa, test konseptlerinin tekrar gozden gecirilmesi gerekir.
+Kendinize daha rahat bir is bakiyorsaniz, comfort zonu seviyorsunuz demektir
+[Yeni blog yazim] Bir Java’cının Gözünden Ruby
+Basarisizliklar elektrik kesilmesi gibidir, tum hafizayi resetler ve bitleri sifirdan programlanir hale getirirler.
+32 gb ram + ssd; ucmak isteyen programcilara tavsiye edilir.
+Tek tarafli beslenmek iyi degil, sagligi tehdit eder, Java yaninda c#, python, ruby gibi nimetlerden de beslenmek lazim.
+Kendi yazdigi kodu test edemeyen yazilimci motor tamir edemeyen araba tamircisi gibidir. Eninde sonunda elinde patlar.
+Iyi programcilarin azalmasinin sebebi uzmanlasma meragi. Uzmanlasmak sonun baslangici.
+[Yeni blog yazım] Nasıl Arkadaş Kazanır ve Diğer İnsanları Etkilersiniz
+Bir programcinin ögrenmesi gereken en önemli dil: Nesneye Yönelik Ingilizce
+Bir bit 8 uyeli Avrupa Bit Birligine girmek icin basvurmus.Genislemeden sorumlu bit dedigimiz reformlari yaparsan seni aramiza aliriz demis.
+Bitler saklanbac oynuyor. Yedi bit saklanmis, sekizinci bit sayiyor: sifir, bir, sifir, bir, sifir dersem cik, bir dersem cikma....
+On parmak yazi yazamayani sekreter olarak ise almazlar. Programciyim diyorsa is degisir.
+Kod yazmayla start-up olsaydi, facebook, google, twitter, linkedin gibi firmalar Hindistan menseli olurdu.
+Nasrettin hocanin ya tutarsa dediginin yeni turkcesi start-up kelimesidir.
+Ucak bileti sag varma garantisi ihtiva etmez, bilgisayar muhendisi olmakta iyi bir yazilimci olmayi.
+Bircok start-up fikri pazarda limon satmanin eline su dokemez, pazara cikamadiklari da cabasi. #hayaldunyasindayasayanlar
+Ana ile baslayan her seyi seviyorum: ana, anavatan, anadil, anadolu....
+Gercek ozgurluk ve ayricalik tutku ile bagli oldugun isi yapabilmektir.
+Her bitin en buyuk hayali usta bir programcinin elinde yogrulmak ve elektrik kesilene kadar kendisini ozel hissetmektir.
+Nerede o eski programcilar demis bit diger yedi kardesine.
+Bilginin en mukemmel hali mutevazilikle birlestigi andir.
+Cok bildigini sanmak kulaklari tikar, karsi tarafi dinletmez, yerin dibine sokar, yine de bunlarin farkina vardirmaz,cunku iyi hissettirir.
+Kisesel gelisimin en katiksiz iki yol arkadasi: eglence ve aci. Ikisinin de olmadigi yerde arpa boyu yol almak imkansiz.
+Isveren yerinde olsam yazilimcilari kontrol etmeye calismak yerine nasil verimliliklerini artirabilirim sorusuna cevap bulmaya calisirdim.
+Ekip icinde fikir yurutup musteri ne istiyor sorusuna cevap aramak, musteri gereksiminin analizinin yerini alamaz.
+Gelistirilen cogu program software degil, hardware, cünkü degistirilmeleri cok zor ya da imkansiz.
+3 yasinda bir cocuk nasil oluyor da tanimadigi halde ana dilinin gramatiksel kurallarina uyarak cumleler kurabiliyor?
+Musterinin ne istedigini anlamadan kod yazmak, samanlikta toplu igne aramak gibidir.
+Test edilmeden eklenen her yeni metot bugdir.
+Refactoring yapmadan kod yazmak bakkaldan veresiye almak gibidir. Defter kabardikca borc batagindan kurtulmak imkansizlasir.
+Isverenler yazilimcilarina 64bit/ssd/16GB konfigürasyonunda bilgisayar sunarak verimliliklerinin artmasini saglayabilirler.
+Bu devirde 32 bitlik bir sistem ile yazilim gelistirmeye calismak verimli olmanin önündeki en büyük engeldir.
+Yazılımda en önemli yetilerden birisi bakış açısını degiştirebilmektir.
+[Yeni blog yazım] Alet İşler, El Övünür
+Impetatif tarz program yazma bir kelebegin kanat cirpisinin okyanusun oteki tarafinda tsunami olusmasina sebep olmasi gibidir#donttouchstate
+Akin Önen'in Turkceyi Turkce konusmak isimli kitabini okuyorum.
+Rus ruleti ile uzun bir metodun ortak yani nedir? Mutlaka patlarlar ama ne zaman patlayacaklari belli olmaz.
+Kod silip programciyi cezalandiran ilk dil
+[Yeni blog yazım] Cahilliğime Verin
+[Yeni blog yazım] Açık Sözlü Programcı
+Pratik Spring 3 isimli yeni kitabimin Spring MVC bolumu uzerinde calisiyorum. Kitabi tamamlamaya az kaldi...
+BTSoru'da cevap sayisi 2000 i gecti...
+Bir yazılım projesinin JDK versiyonunu değiştirmek sakıncalı mıdır? @BTSoruCom aracılığıyla
+Türkiye'de neden .Net teknolojileri ağırlıkla kullanılıyor?
+Kodlarin efendisi...
+Usta olmayi zor kilan teknik degil insani yönüdür.
+Ustalik sadece iyi kod yazmak degildir, efendilik, benlik gutmemek, usta yetistirmek ve canliya ve dogaya olan derin saygidir.
+Bir Turkiye Yazilimci Raporu 2012 raporu analizi...
+Yeni programlama dilleri bir gun bir yerde belki kullanirim diye degil, ufku genisletip, bakis acisini zenginlestirsinler diye ogrenilir.
+Promodoro teknigi zevk alinarak yapilan islerde olusan akisi (flow) kesiyor. Angarya gorulen islerde kullanilmali.
+KurumsalJava Günün Sözü bölümü güncellendi.
+Neden Java'nin Closure yapilarina ihtiyaci var diyorsaniz bir Swing uygulamasinin koduna bakin. #anonimicsiniflarclosuredegil
+Learning zone duvarlari kafayla yarip gecmek,panic zone denizde bogulmak,comfort zone cay bahcesinde cay icmek gibi...
+Linus Torvalds: kotu programcilar yazdiklari kod hakkinda,iyi programcilar veri yapilari (data structures) hakkinda kafa yorarlar.
+Tasarim sablonlari gibi algoritmalar da programcilar icin ortak kelime hazinesi olusturur ve iletisimi kolaylastirir.
+Algoritma kursu basliyor...
+Java Generics Get ve Put Prensibi
+Java'nin gelecegini gormek icin JVM uzerinde calisan Scala gibi dillere bir goz atmak yeterli.Bu dillerdeki yeni konsepler Java'ya eklenecek
+[Yeni blog yazım] Programcılık Çıtası Yükseliyor.
+Yazilimda cogu konseptin dogru anlasilmamasinin sebebi,konu hakkinda bir kaynak okuyup ve anladigini sanip devam etmektir.
+Ayni metni ilk okuyus gözü kelimelere asina eder.Ikinci okuyus cümlelerin anlasilmasini saglar. Ücüncü okuyus metnin anlanimi idrak ettirir.
+Okudugunu anlamiyorsan panic, anlam verebiliyorsan learning, anliyorsan comfort zone'dasin. Anliyorsan, ögrenmiyorsun!
+Pop metodu olmayan stack implementasyonu ornegi nedir? Daldan dala atlama ogrenme metodolojosi. Stackoverflow= BirseyOgrenilmediException
+Cok zengin olup parasini hayir islerine yatiranlar,zamaninda cok porselen kirmis olmali.Kirilan porseleni yapistirsanda eskisi gibi olmaz.
+Hayat bir porselen dükkani. Nihayi amac kirip, dökmeden dükkandan cikabilmek.
+Java'nin tip sistemi takim elbiseli bir bankaci ise, Ruby'ninki kot ve tshirt giyen genc ve dinamik bir delikanli.
+Java 8 type inference... Scala'daki gibi turing complete degildir umarim...
+En sık kullandigi eclipse kisa yol tusu: alt+shift+r
+Gozden irak,gonulden irak. Elektronik ortamda tutulan kullanici hikayeleri,duvarda asili olanlara nazaran cok daha az irdeleniyor.#scrumpano
+Uzmanlar comfort zone'larini terk etmeyi sevmez
+Bir dilin syntax'ini bilmek/anlamak, o dilin temsil ettigi konsepleri anlamis olmak degildir. Arapca okuyup,anlamamak gibi....
+Jdk 8 ve intellij' 12 eap community versiyonunu indirip, lambdalari bir deneyin
+Kod yazmak insaatin kendisi, refactoring ic dekorasyonudur. Buna gore dis cephenin sivasi nedir?
+Saglam programci kafasi saglam programci vucudunda olur. Hadi tum programcilar spora...
+Uzmanlasmak teknoloji korkusunu artirir
+Uzmanlastiginizin en belirgin ozelligi kullandiginiz tek IDE'den kopamayip,digerlerine sans verememenizdir. #ustabilimumidelerikullanir
+Bir uygulamanin bakimini zorlastiran sebeplerden birisi copy/paste,digeri sinif hiyerarsileri olusturup OOP'nin kalirim ozelligini kullanm.
+Java'cilar icin statik tip sistemi ne ise, agile'cilar icin de Extreme Programming (XP) o. #WYSIWYG
+Scrum iyi bir duck-typing ornegi, istedigin yere cek.
+Statik veri tipli bir dunyadan gelenler icin duck-typing ilk basta tuhaf geliyor ama insan zamanla alisip, siniflara baska gozle bakiyor.
+Fonksiyonel bir dili ogrenmek, pantalonu tersine cevirip,tersinden giymek gibi bir sey.Bir kere giydikten sonra nasil durduguna aldirma. lzm
+Dinamik dillerde veri tipi belli olmayan degiskenlere ne denir? Tipsiz ya da tipitip :)
+ilkini kaciranlara... "@odersky: Going to re-do the #progfun MOOC on coursera. Start date: March 25th.
+Maasin yuksekligi ustalik derecesini gosteren indikatör degildir.
+Teknoloji avukatligi yapanlar sozde uzmandir
+10 senede on degisik programlama diline hakim olmanin en kolay yolu, her sene is yerini degistirmektir.
+Gelecege en saglam yatirim, her sene iyi seviyede yeni bir programlama dili ogrenmektir.
+Ic dunyanin en guclu stabilizatörû uygulanan meslekten alinan hazdir.
+Programcilik == dibi olmayan eglence kuyusu
+Yazilimcilar arasinda en mutsuz olanlar bu isi para icin yapanlarla, daha fazla para kazanmak icin yonetecilige terfi edenlerdir.
+Özellikle girisimci ruhu olan programcilarin degisik dil ve platformlari tanimasi gerekir.Girisimciligin en hassas noktasi kisa timetomarket
+Program yazma paradigmalari duzenli araliklarla degisiyor. Bir sonraki degisiklik icin hazir olmak lazim.
+Cahilligin en belirgin ozelligi bir konuya hakim olmadan ahkam kesip, bunu bir marifet sanmaktir.
+Programci olarak cok iyi bir is ortaya koyabilmek icin ufkun cok genis olmasi,bunun icin de yarim omur okumak,ogrenmek ve pratik yapmak grk.
+Programcilik yuzme gibi bir sey olsaydi, programcilarin yuzde kaci karaya cikabilirdi acaba?
+7 hafta, 7 dil kitabini okuyorum.. ruby,io,prolog,scala,erlang,clojure,haskell...
+Bugun ruyamda daha once sadece ismini duydugum ML dilini ogrendim. Bilincaltim nefret ettigim seylerin bu dilde olmamasina ozen gosterdi.
+Tum degiskenkeri final, tum metotlari rekursiv yapin, alin size fuctional java.
+Aspect, advice, join point, pointcut derken yeni kitabim Pratik Spring 3'ün AOP bölümünü tamamladim. Sirada birim testleri bölümü var.
+Enterprise Corba... Birisi yemek kitabi zannetti :)
+Kullandiginiz programlama dili bir yemek cesidi olsaydi, hergün ayni yemegi yemek ister miydiniz?
+Patch delikli kartlarla programlama yapildigi zamanlarda olusan hatalari gidermek icin delikleri yamama usulü ile kapatma anlaminda gelirmis
+Bir programci icin beyin, soyutlama, algilama ne kadar önemliyse, saglikli parmaklar, göz ve agrisiz bir bel de önemli. #öncesaglik
+Java hakkinda ileri, geri konusmak, Java'yi kavramis olmanin degil, kavrayamamis olmanin ibaresidir. Nankörlügün alemi yok.
+Yakinda geliyor.
+Hotfix, Fix, Patch, Version, Release kavramlarını açıklayabilirmiyiz? @BTSoruCom aracılığıyla
+Cevik sureclerin basarili olma potansiyelinin onundeki en buyuk engel,eski davranis bicimlerini terk edemeyen yazilimcilardir.
+Profiline software enginar yazip, arkasina cirak ibaresini eklemek, aranip, bulunmasi gereken yazilimci prototipine isarettir.
+Yasaminiz bir fonksiyon olsaydi son buldugunda return ile hangi degeri geri vermesini isterdiniz? Benimkisinin geri verdigi sinif HizmetLtd.
+Ana gibi yar olmaz, C gibi dürüst programlama dili olmaz.
+Sadece senior yazilimcilarin oldugu bir ekipte son sozu soyleyecek bir merci olmadigi surece neyin nasil yapilacagi devamli tartisilir.
+Karsi taraf konusurken ne soyleyecegini kurmak, karsi tarafi degil, kendini dinlemektir.
+Profesyonellik soylenenleri kisisel almamak, darilmamak, her zaman alcak ve sakin sesle konusmak,karsi tarafin soylediklerini dinlemektir.
+Android için Google Maps API'yi nasıl eklerim? @BTSoruCom aracılığıyla
+BTSoru 1000. soruya yaklasiyor...
+Vaadin nedir ? @BTSoruCom aracılığıyla
+Kisinin cani gonulden programciligini sevip,sevmedigini anlamak icin bir milyon verseler bu isi birakir misin sorusunu sorun.
+Aspect Oriented Programming terimini Türkçe'ye nasıl tercüme edersiniz?
+Bir T´ürkiye Yazilimci Raporu 2012 analizi
+Pratik Spring 3 isimli yeni kitabimin Spring ile JPA kullanimi bölümünü tamamladim. Simdi sirada AOP bölümü var.
+[Yeni blog yazım] Organizasyonel Değişim
+Iki yahudi biraraya gelince ticaret yapar, iki Türk devlet kurar, iki programci da bir araya gelince kod kata yapar ;-)
+Kullanmak isteyenler icin Türkiye Yazilimci Raporu 2012 ( logosu
+Türkiye Yazılımcı Raporu 2012 yi hazırladım. Lütfen yayalım
+[Yeni blog yazım] Neden Fonksiyonel Programlamayı Öğrenmek Zorundayız
+Hayat kocaman bir stack. Butun gunumuzu push ve pop yaparak geciriyoruz. Buna gore en son pop islemi hangisidir? :-)
+Fonksiyonel dillerin kiymetini bilmek icin imperatif dillerin cefasini cekmis olmak gerekir.
+Bir ari kovaniyla bir OOP uygulamasinin ortak yani nedir? Ikisinde de ogeler arasindaki iliskileri kavramak cok zordur.
+Sadece Java bilen birine dunyanin en iyi dili hangisidir diye sormayin. Objektif fikir beyani icin karsilatirabilmek sarttir.
+Sövme ve övme... Tek bir harfin fazlaligi ya da eksikligi insanlarla olan iliskinizi nasil etkiliyor, bir deneyin. #sövmeöv
+Okumak != ogrenmek == pratik yapmak
+En makbul ekip arkadasi amansizca tartisip, cekistigin, dovesin geldigi ama ogle ve is aralarinda hos sohbet yapabildigin sahistir.
+Kargaya yavrusu kuzgun gorunurmus. Herkes kendi yazdigi kodu begenir. #kodunabirbakabilirmiyim
+Kod yazarken iyi isimler secemeyen bir yazilimci bu isin ne kadar hakkini verdigini sorgulamali.
+Yazilimci olarak butun bir gun boyunca sinif/metot/degisken isimleri okuyoruz,onlara isimler veriyoruz ama yinede bu isi iyi yapamiyoruz.
+[Yeni blog yazım] Ayakta Alkışlıyorum
+Pratik Spring 3 kitabimin 7. bolumu Spring Hibernate entegrasyonu tamamlanmak uzere. Bir sonraki bolum Spring ile JPA.
+Swing ile gui gelistirmek ne kadar zevkliymis. On yargilarim gozlerimi kor etmis. Ozur dilerim Swing abi.
+Birim testi piyade ise, entegrasyon testi tank, patriot. Birim testleri her zaman gercegi soylemez, entegrasyon testleti de yalan...
+Mesai arkadaslarinizin bir araya geldiklerinde sizin hakkinizda konustuklarini dusunuyorsaniz, yazdiginiz koddan emin degilsiniz demektir.
+Bilgi ve tecrubenin onunde saygiyla egiliyorum. Yarim gun ugrastigim algoritmayi adam 8 satirlik kodla yeniden yazdi. #herkesustaolabilir
+Beyin kullanilmayan organlarin fisini cekiyor. Ayni seyler kullanilmayan yetiler icin de gecerli.
+Ölümü en anlamli kilan sey hizmet, en anlamsiz kilan sey ise bir ömür buyu "hep ben" demis olmaktir.
+Calisan kazanir, elmasi kizarir.Kimin ilkokulda duvarda resimden bir elmasi vardi? Simdilerde böyle bir egitim metodu kullaniliyor mu acaba?
+RSS Adresi degişmiştir. Lütfen olarak değiştiriniz.
+1998 de olusturdugum Türkiye'nin ilk acik artirma platformu...
+Ilk olusturdugum web platformlari (1997).
+Kurdugum ilk bilisim firmasi.
+Sadece mimarlarin yasadigi bir dünya hayal dünyasidir.
+Web girisimciliginin en zevkli tarafi, kurulan platformun kisa sürede kullanici sayisi ve icerik olarak rakiplerini sollamasi.
+Yazdigi teste bak, programciyi al.
+Uygulamayi yeniden yapilandirip,testlere el sürmeyenler, testlerin kendilerini üvey evlat gibi hissettiklerini bilmezler mi? #canimtestlerim
+Hata yonetimini kokune kiran girmis gibi tek bir exception sinifi ile yonetmek gırslığın daniskasidir. #throw new SpecificException();
+Saat 17 oldu,mesai bitti, ama sen bir turlu klavyeyi birakamiyor musun? Program yazmak cok mu zevkli?Maddi/manevi dopdolu bir gelecek senin.
+Girisimci yaptigi degil, kafasindaki bir sonraki proje ile yasar.
+Yazilimcilar tasavvuf gibi kavramlari cok hizli ve iyi kavrayabilirler. Kavramak != Yasamak #matrix
+Para karsiligi ödevini yaptirmak isteyen 4. sinif bil.müh. ögrencisi benden iyi bir firca yedi. Istersen diploma sinavlarina da ben gireyim!
+Tereyagindan kil ceker gibi sistemin herhangi bir tarafini degistirebiliyorsun, yaptigin tasarim o zaman tamamdir.
+Hic bir sey bilmedigini anlayip, cirpindikca, daha derine batiyorsun.
+Günün sözü bölümü güncellendi...
+[Yeni blog yazım] Copy/Paste Programcı
+Yazılım dünyasında diploma ne kadar önemli? @BTSoruCom aracılığıyla
+[Yeni blog yazım] Test Edebilme Uğruna Her Şey Mübahtır!...
+Bir takipcim beni IT isimli listesine eklemis, nasil anlamak lazim acaba :) Isim olarak BT'yi tercih ederdim...
+Programcinin yeni CV'si Github.
+Big Oh notasyonuyla yeni bir sey ogrenme hizin nedir?... O(n)? O(n^2)?
+[Yeni blog yazım] Deneme Yanılmanın Bedeli
+Icerden nasil calistigini gormek icin tdd, disardan nasil calistigini gormek icin bdd. Tdd gereksiz diyenler,icerde olup,bitenlerden bihaber
+800. soruya ulasti...
+Deneme, yanilma tarzi kod yazmanin õnüne gecmenin en kolay yolu, hemen bir test sinifi yazmaktir.
+Yaptigin iste daha iyi olmanin tek gidasi devamli yaptigin iste iyi olmadigini dusunmektir.
+Kavga,dövüs,savas,küfür,bencillik tanimayan bir dünyanin fertleri.Hicbir seyleri yok,insanlardan daha cok seyesahipler.
+Bir rakamin ikinin kati oldugunu anlamak icin yapilacak bit operasyonu: x&(x-1); Eger sonuc 0 ise, x 2'nin herhangi bir katidir.
+verilen cevap sayisi 1500'e ulasti.
+Renkler herkes içindir.
+algoritma hastalari icin:
+Iyi bir yazilimci olmak icin edebiyat eserleri okumak lazim. Kazanilan kelime hazinesi ve ifade gucu koda ve diger yazi turlerine yansir.
+Pratik yapmanin önemi...
+Okunmasi ve bakimi güc programlarin en belirgin özelligi nedir? 5 dakikada bulmaniz gereken bir hata icin bir gün boyu debug yapmak...
+Rekursiyonu anlamak isteyenlerr Inception filmini seyretmeli. Her bir rüyanin icindeki rüya yeni bir stack frame, her kick bir return...
+Static method neden override edilemiyor? @BTSoruCom aracılığıyla
+Buyuk edebiyat eserlerini okumadan edebiyat eseri yazilamayacagi gibi,usta yazilimcilarin kodunu okumadan iyi programci olmak mumkun degild
+Buyuk edebiyat eserlerini okumadan edebiyat eseri yazilamayacagi gibi,usta yazilimcilarin kodunu okumadan iyi programci olmak mumkun degil
+Pratik Spring 3 kitabi üzerinde calismaya basladim. Bildireyim de, sonra kaytarmaya yüzüm olmasin!
+"Kafama göre, kimseye sormadan bir seyler kodladim, ama performansi nasil olur bilemiyorum" deme bari!
+Iyi bir programci olmak yeterli degil, iyi bir takim oyuncusu olmak gerekir! Takim ruhunun olmadigi projelerin basari orani cok düsüktür.
+Güzel bir cözüm üreten calisma arkadasini övmesini bilmek gerekir.
+Sertifika olayi groupon'a kadar dustuyse, artik gerisini siz dusunun
+[Yeni blog yazım] Uzaktan Eşli Programlama
+Birlikte simdi roma rakamlari katasini yapmaya ne dersiniz? Ayrintilar icin bakiniz
+Bir yazilim sistemini bu sekilde yogurabilmek...
+New economyde geldigimiz son durum:100 milyar deger bictikleri facebok asna,fisne reklamindan baska reklam göstermiyor.
+Günün Sözü bölümü güncellendi...
+Metot satir sayisi programcinin kalitesini ölcmek icin iyi bir metrik. Ne kadar az, o kadar iyi.
+Usta olarak görmedim kendimi, ama kalfa bile degilmisim. Simdi cirak olarak yeniden basliyorum.
+Bir konuda ustalasmak icin on sene gerekli oldugunu anlamak bile on sene sürüyor.
+Metot icinde metot tanimlama... #scala
+Java'da referanslar kullanildigi icin "call by reference" ile isledigi yanilgisi yaygindir.
+Yazilimda ustalasmanin onundeki en buyuk engel her gun ise gidip, sekiz saat calismaktir.
+En az deger verdigimiz, ama en degerli varligimiz ne? Verimli bir seyler yapmak icin kullanabilecegimiz ama bosa harcadigimiz zamanimiz.
+Nasil daha iyi bir yazilimci olabilirim?
+Her fani ölümü tadar. Bazi programcilar her imkana sahip olmalarina ragmen ustalasamadan fani olarak kalirlar.
+Kisisel gelisimde multithreading... Paralel üç programlama dilini ogrenmek.
+Ermis meyve dalinda durmaz. Ermis programci bildikleriyle yetinmez.
+Acaba bunu dogru mu programladim sorusuna cevap arama suresi bir birim testi yazmak icin yeterlidir.
+Java'da anlasilmayan konularin basinda logging catilari gelir. Bir log ciktisi almak icin bu kadar cati,mati olusturulmasinin bedeli budur.
+Bir yazilimcinin yaptigi ise verdigi deger yazdigi metodun satir sayisiyla ters orantilidir.
+Güzel bir yazilimci profili...
+Siniflar egoist, apiler minimalist, moduller koherent,bagimliliklar esnek olmali.
+Arabanin yakiti benzin, programcinin yakiti bilgi. Yakitin olmadan ilerleyemessin.
+Programci icin popüler dil yoktur, isi icin kullandigi dil(ler) vardir.
+Java'nin yaslandigini ve hala closure gibi bircok dilin ihtiva ettigi basit bir özellige sahip olmamasini görmek icler acisi...
+Programcilikta bir üst seviyeye gecis, bu kodu nasil daha kisa ve okunur yazarim sorusu ile baslar.
+Neden ustalasmak isteyen bir müzisyen pratik yapma harici müzik tarihi ile ilgili kitaplar okur? #büyükresmigörebilmek
+Ufkun genislemesi icin python, scala, groovy ne varsa ögrenmek gerekiyor. Eskiden ne geregi var, Java yeter derdim. Ufkum ne kadar darmis!
+Ufkunuzun genisledigine canli canli sahit olmak istiyorsaniz fonksiyonel bir dil ögrenin. Beyin hücreleriniz size tesekkür edecektir.
+Functional Programming Principles in Scala online kursuna kayboldum.
+Ogrenmeyi ogrenmis olmanin ibaresi nedir? Baskalarina ogretebilmek.
+Code reviewden kacan programci olarak sorumlu oldugu her seyden kaciyor demektir. #dörtgözprensibi
+Git-Gerrit ikilisi final commit öncesi code review yapmak icin bicilmis kaftandir.
+Icinde code review olmayan Definition Of Done yarimdir.
+Definition Of Done ne kadar lacka ise, sürecin geri kalan kismi da o kadar lacka. #balikbastankokar
+Yemin et fonksiyonel bir dil ogrenecegine! Vallahi, billahi ...
+Ismi ustunde "kisisel gelisim". Sizi baskasi gelistiremez. Kisisel gelisiminizden kendiniz sorumlusunuz. #baskasindanmedetumma
+Fonksiyonel dillerden kacis var mi? Nayir!
+Bir dil, bir insan. Bir programlama dili, bir programci.
+Python dilini öğrenmek için hangi kitapları tavsiye edersiniz? @BTSoruCom aracılığıyla
+Her Java'nın ögrenmesi,bilmesi ve kullanması gereken üç dil: scala,groovy,clojure...
+BTSoru 700. soruya ulaştı...
+Gercek yazilim ustalari suslu, puslu unvanlar kullanmazlar.
+Yeni yazilimci unvanlari icat edildikce iyi yazilimci sayisi azaliyor.
+Yazilimda bazi unvanlar pesinde kosanlar, yazilimin ozunun ne oldugunu anlamislar mi? #unvandegilbecerionemli
+Test edilemeyen kod vardir diyen kendini kandirir.
+Certified Spring Professional sertifikasi imtihani icin hazirlik....
+Bir kumru, iki simit yiyen ve kumruyu gormezlikten gelen iki yabanci. #herkesikendingibibilme
+Iki boyutlu yaratiklarla sadece oop bilen programcilarin ortak yani nedir? Diger boyutlarda olup, bitenleri kavrayamazlar.
+On alti yasindaki bir yazilimci aday adayinin sordugu soruya bakar misiniz #taktirettim
+Uzun, ince bir yoldayim, gidiyorum gunduz, gece. Yazilimci bu turkuyu soyler devamli, ne yaptigini unutmamak icin.
+Bugun cok para kazandiran bir programlama dili, yarin ayni seyi saglayamayabilir. #birdilbanayeter
+Birden fazla programlama dili öğrenmek uygun mudur? @BTSoruCom aracılığıyla
+Lead olmayı kabul eden yazılımcı olmaya veda etmiş demektir.
+"Yazilimda ustalasmak ne kadar surer?" diye sormus ogrenci. En uygun cevap "ne kadar daha yasarsin?" sorusu olur demis usta.
+[Yeni blog yazım] Veresiye Satan Yazılımcı
+Korkulan isler kisisel gelisim icin nitrodur.
+[Yeni blog yazım] Uzman ve Usta Yazılımcı Arasındaki Fark
+Kod katasi yapmak, cicek tohumlarini sulamak gibidir.
+Uzman yazilimci misin, usta mi?
+Tekrar tekrar beyaz kusagi kusanmayi bilmeyen yazilimci, ustalasamaz, sadece bir konuda uzmanlasir.
+Tek bir dili savunan yazilimcilar uzman, cok dili kullananlar ustadir. Tercih sondakinden yana olmali.
+Ne oldugunu anlamaya calismak yerine soru sormak....
+Beceri bilginin yasayan halidir.
+Kitabi sadece okumak; kitabi okumak ve kitaptaki kod orneklerini uygulamak. Bu ikisi arasindaki fark kisisel gelisim acisindan gece ve gund
+Kitabi sadece okumak;kitabi okumak ve kitaptaki kod orneklerini uygulamak. Bu ikisi arasindaki fark kisisel gel.acisindan gece ve gunduzgibi
+İki satır kod yazmayla girişimcilik olmaz.
+Twitter'da olduğu gibi Javascript ile dinamik "Takip Et" ve "Takibi Bırak" butonları nasıl oluşturulur?
+Bilgi paylasmayi ve yardimlasmayi seven bir yazilimci...
+Her yazilimcinin böyle bir profil sayfasi olmali...
+Muharrem Taç, Net Sohbet Programına Konuk Oldu / Gelecekonline @gelecekonline aracılığıyla
+verilen cevap sayisi 1300'e ulasti....
+Iyi niyetli fikir sahibi olmak bile bu konuda radikallesmenin önünde engel degil.
+Dinamik dillerin suyunu iyice cikarmak istiyorsaniz, en az ücünü, ayni anda paralel ögrenin :) #groovypythonvebilmemnedili
+Bu safhaya ulas(a)mayanlar ne kadar usta olduklarini sorgulamali.
+Yazilimda ustalasmanin sonu kendini programciliga ve senden sonra gelenleri yetistirmeye adama.
+Blog bilgi paylasimi icin yazilir.Ingilizce blog yazan Turk yazilimcisi ingilizce bilmeyen vatandasi ile bilgi paylasmak istemiyor demektir.
+Mingle gibi web tabanli gorev panosu kullanimi cevik surecin tekerine comak sokar. Gozden irak, gonulden irak!
+Yazdigi koddan utanmayanlar el kaldirsin. #elimhavada
+Kod inceleme (code review) seanslarinin onundeki en buyuk engel, yazdigi koddan utanip, ne yaptigini gostermek istemeyen yazilimcilardir.
+Yazilimda verimlilik okunabilirlikle dogru orantilidir. Bu sebepten dolayi temiz kod yazin diyorlar ya da dsl gibi icatlar yapiyorlar.
+Ögle arasi stack kata....
+Dag peygambere gelmesse, peygamber daga gider. Veri koda gelmesse, kod veriye gider.... #hadoop
+Lead dev ariyorlar, en az 3 yil tecrubeli olmasi lazimmis. Ekip sadece bir kisiden olusacaksa, o zaman sorun yok.
+Kodu commit etmek altina imza atmak gibidir. Bildigim en iyi sekilde yaptim, calisir durumda ve test ettim demektir.
+Tek bir assert kullanmadan %100 code coverage olusturmak mümkün. %100 code coverage kodun en iyi sekilde test edildigi anlamina gelmiyor.
+Testlerin kodu yüzde yüz kapsamasini kodun yüzde yüz test edildiginin ibaresi olarak görenler var. #kendimizikandirmayadevamedelim
+Yazılımda çeviklik sadece çevikliği kavramış mühendislerle mümkündür.
+Yazilimda cevik terimini enflasyona ugratanlar utansin.
+Yazilim zeka isidir demis... Yüzde doksan bilmem kac genetik örtüstügümüz Orangutan'da da zeka var.
+Trafik lambasinda kirmizi yaninca bekleyerek kücüklere, temiz kod yazarak ekip arkadaslarina örnek olmak....
+Yazilimci Raporu 2012'yi hazirlayabilmem icin sizi yazilimci anketine katilmaya davet ediyorum. Retweetleyin lüffen.
+Ari olup her cicegin nektarini kapmak, freelance yazilimci olup her projeden yeni bir seyler ogrenmek...
+Akici konusabilmek icin kelime hazinesi, akici kod yazabilmek icin teknoloji ve bilgi hazinesi gerekir.
+Test konseptleri icinde en anlasilmayani birim (unit) testleri. Entegrasyon testi yazip, bunun birim testi oldugunu düsünenler var.
+Birim testinin gercek anlamda birim testi oldugunu nasil anlarsiniz? Elli tanesini ayni anda kostursaniz bile yarim saniye surmez.
+.Net ya da JEE gibi teknolojilere hakimiyet sahsin iyi bir yazilimci oldugunun kaniti olamaz. Yazilimcilik baska bir sey!
+Baskasinin kodunu anlamiyorsaniz, birim testi yazip, kullanmaya calisin. Birim testi yabanci kod hakkinda hikayeler anlatmaya baslayacaktir
+Bugun kisisel gelisiminiz icin ne yaptiniz?
+Bugün yazdigin koda baktiginda onunla gurur duyabiliyor musun? Evet diyebiliyorsan, temiz kod yazanlar kulübüne hosgeldin.
+Feci bir kazaya sahit olup genc bir insanin soka girdigi gormek icler acisi. Cana zarar gelmemesi tek tesellisi. Gecmis olsun Duygu.
+Bilgisayar muhendisi olmanin sevinecek tarafi yok, uzulecek cok tarafi var.
+Bilgisayar muhendisiyim deyince bilgisayar tamir edebilecegimi dusunenler var.Dis doktoruna kalp ameliyati yapabilir misin demekgibibir sey.
+Her hafta baska bir yazilimcinin devraldigi ve dusuncelerini paylastigi bir twitter hesabi olsa nasil olur? #yazilimciyim
+Bilginin yari ömrûnü artirmak icin paylasarak cogalmasini saglamak gerekir.
+Zeka sahibi olmanin diyeti bilgiyi paylasmaktir.
+Sahis yazilimci olacaksa, en iyi yazilimci olmayi hedeflemelidir, bu meslekte vasatliga yer yok.
+Dervisin iki kefesi vardir,birinde anladiklari,digerinde anlayacaklari. Yazilimcinin bir kefesi vardir, icinde bildigini sandiklari...
+Yazilimda kidem yoktur, matruska gibi actikca icinden yeni dunyalar cikar. Bir dunyanin kidemi, diger dunyanin baslangicidir.
+Yazilimda ceviklige en buyuk ihanet bu konudaki cehalet ve bilip, bilmeden fikir beyan etmektir.
+Scrum buzdaginin gorunen kismiysa, xp (extreme programming) buzdaginin kendisidir.
+Ustandan daha iyi olamassin. Kulagin boynuzu gecebilmesi icin degisik ustalarin yaninda calismak gerekir.
+Bir sonraki kata binary search algoritmasi...
+Insertion sort algoritmasini ihtiva eden katayi ekledim...
+Pdf olarak sundugum 53 makalesi simdiye kadar 149.319 kez indirilmis.
+Benim interface implementasyon siniflarimi disarindan kimse göremez, sadece public olan factory sinifi üzerinden kulllanilir. #kontrolbende
+Olusturdugunuz Java siniflarini ne kadar iyi saklarsaniz, o oranda dis dünyaya hesap verme sorumlulugunuz azalir. #protectedclass
+yer alan katalarin kodlari GitHub'da...
+Bir API'yi ogrenmenin en kolay yolu birim testi yazip, API ile oynamaktir.
+Birim testi olmayan bir kod tabanini nereden test etmeye baslayacagini bilemiyorsun, daginik odayi toplamak gibi.
+On bin satir kod, sifir test, iki gundur refactoring ve unit test yazmayla cebelles... Manyak seviyirum bu isi :)
+Yazilimcilara bilgi seviyesine gore degil, bilgi edinme heyecanina gore deger bicmeli.
+Baskalarinin iyi bir yazilimci olma hevesinizi kirmasina izin vermeyin. Meyva veren agac taslanir.
+Bir sonraki programlama dilini, dili kullanan toplumun kod paylasma kulturune gore secin.
+Yaşa degil bilgiye, bilene degil, ogretene saygim var.
+Sinif ve metotlari final yaparak telif haklariniza sahip cikmis olursunuz, kimse degistirip kendi maliymis gibi satamaz,sadece kullanabilir.
+Bir sinifi test edebilmek icin sinif uzerinde her turlu degisligi yapmak mübahtir.
+Gercek erdem yillar suren yazilim seruveninde bir arpa boyu ilerlememis olmayi gormek ve sil bastan yapabilmektir. #biryazilimciciragiyim
+Cok bilgi ve tecrube sahibi olmak usta olmak mi demektir? Hayir! Bu bilgi ve tecrubeyi paylasan gercek ustadir. Digeri sadece bilgi küpúdür.
+Yazilimda paylasim kulturunun en guzel ornegini acik kaynakli projeler teskil etmektedir.
+Yazilim yapmayi sadece bir is olarak gorenler dogru isi yapip yapmadiklarini sorgulamalidir.
+Degiskenleri private yapip, set ve get metotlari olusturmak, evden cikarken anahtari kapida birakmak gibidir.
+Yazilimci olarak gorevim yerime baskasi konabilecek sekilde is cikarmaktir.
+Twitter'de paylastigim cümleleri bu sayfada topladim.
+Bilgi paylasma kültürüne sahip olmayan bir yazilimcinin soyleyecek neyi olabilir? Konussa , nesi ciddiye alinir?
+Yazilimcinim calisma tarzini konusarak degistiremessin. Senin gibi guzel kod yazmaya imrendiginde kendiliginden degisecektir. #imrendir
+Hello world ile baslayan bir kariyer yonetici olduktan sonra, hüzünle son buluyor. Yazilim sektorunde mutsuz insan sayisi cok yuksek.
+Neden bir Java'ci try/finally ile kullandigi bir kaynagi kapatmiyor da, evinde uyumaya gitmeden önce gaz vanasini kapatiyor? #yazilimaözen
+Son bilisim modasi: twitter takipcisi satin alma. 10.000 adet 15 TL
+3 liraya firmanin %70ine el koyan bir sahis kendisine neden melek yatirimci unvanini uygun goruyor? Somurucu yatirimci daha uygun.
+Firmanin %70ini 3 lira karsiligi melek yatirimcilara devreden genc girisimcileri anlamiyorum. Adam seni toptan satin aldi iste!
+Yazilimciyi tartma birimi nedir? Itibar. Itibarinin kaynagi nedir? Basariyla sürümledigi projeleri.
+Yazilim ekibini siz kurmayin,usta bir yazilimci kursun. Kimin isin ustasi oldugunu en iyi o bilir.Laf olsun,torba dolsun diye eleman aramaz.
+Yazilim projelerinin basarisi insan gucune degil, ekip elemanlarinin ustalik derecesine baglidir.
+Allahim beni bastan yarat ama ne olur tekrar yazilimci olayim ;-)
+Dost (Sonar) aci soyler.
+Yazilimcinin en iyi dostu Sonar.
+Projede 50bin satirlik kod yazilmis ama birim testi yok. Bu proje nedir? Saatli bomba... tik...tik...tik...tik...dagau...
+Usta yazilimci birim test koduna uvey evlat muamelesi yapmaz.
+Keske bazi programcilarin kod yazarken dusuncelerini de kaydeden bir karakutu olsa. Program düsünce karakutuyu dinlerdik.
+Eger bir metot bir sinif degiskeni ya da bir sinif metodunu kullanmiyorsa, bu metodun bu sinifta ne isi var? #srp
+Birden fazla sorumlulugu olan sinifa ne denir? Sizofrenik ve cok kisilikli sinif.
+Bir ipte iki cambaz, bir kod biriminde birden fazla sorumluluk olmaz.
+Toplantilarda ezilen takim arkadaslari biline ki aleyhte lobi calismasi yaparlar.
+Bir isin temelini anlamadan tepesini anlayamamak...
+Bilgiyi unutmak cok kolay. Beyne kazimak icin devamli pratik yapmak gerekiyor.
+Blog yazmanin onundeki en buyuk engel mikroblog yazmaktir.
+Yazilimci olarak ne zaman emekli olurum? Öldügümde...
+En zahmetsiz edinilen meslek? Yazilimcilik. En zor kavranan meslek? Yazilimcilik.
+Yazilimci bilgi ile balon gibi siser, ayaklari yerden kesilir. Onemli olan bilgiyi paylasarak balonun havasini almak ve tekrar yere bas.
+Bilgiye kedinin fareye baktigi gibi bakmak...
+Ne guzel... Twitter hep DRY(dont repeat yourself) uyumlu yazmaya zorluyor. Demek ki her Java sinifi 140 harften olusmali.
+Ebeveynin odak merkezi cocugu, yazilimcinin odak merkezi kisisel gelisimi...
+Ne zaman iyi bir yazilimci oluruz? Yazilimciligin cok uzun bir yol oldugunu kabul edip, bu yola düstügümüzde. Amac yolun kendisi.
+Bir sahsin yazilimci olmaktan mutlu olmadigini nasil anlarsiniz? Ya mimar ya da yonetici olmak ister.
+Dao katmani gereksiz. #activerecordkullanin
+Iyi kod yazmak anadil hakimiyeti ile dogrudan orantilidir.
+Ögrenim sahaniz (learning zone) hareket etmiyorsa, kisisel gelisiminiz yerinde sayiyor demektir
+İyi bir Java uzmanı olmak için usta çırak ilişkisi önemli midir? Bir kişi tek başına ustalaşabilir mi?
+Usta ne diyorsa dikkatle takip edeceksin, bir kitabi tavsiye ediyorsa okuyacaksin. Paylasim yapiyorsa bir bildigivardir
+Yazilimci 2012 anketine 306 kisi katilmis. Ha gayret, 500....
+Bir yazilimcinin itibarini artiran en onemli sey nedir? Musterisine calisir bir sürüm sunmasi. Bunu devamli yapabilen kazanir,elmasi kizarir
+Kod birimlerini tekrar kullanamamak (conponent reuse) gayri safi milli hasilayi asagi ceker. #sorumluluklarimizibilelim
+Java bilen issiz kalamaz, simdinin java kodu 30 sene sonrasinin simdiki cobol'u. # issizkalmaz
+Kapitalizmin ruyasi gerceklesmedi, program yazmayi fabrikada uretim yapmaya donusturemediler. #codegeneretionhikaye
+Bazilari icin kodun herkesin mali oldugu dusuncesi kendi kodlari degisiklige ugradigindaaninda gecerliligini yitiriyor. #kodbabaninmalidegil
+Isin en trajikomedik tarafi her firsatta agile kelimesini agzindan dusurmeyenlerin bir tanecik bile unit test yazmamalari. Altta db varmis!
+Yazilimcinin ustadan ögrenmesini engelleyen en büyük düsmani kendi egosudur.
+Marifet ustadan ögrenebilmek icin senior bile olunsa tüm bilgi, tecrübe ve egoyu bir kenara koyup, tekrar cirak olabilmektir.
+Bir yazilimci ekibi ekip lideri olmadan belki isler ama her seye hakim gayriresmi lideri/liderleri olmadan islemez. #bilgeprogramci
+Projeye illa kendi imzalarini atmaya calisan yazilimcilar bu isin bir ekip isi oldugunu unutuyorlar. #bencilyazilimci
+Davinci gibi her yazilimci kod yazmadan once eserine ismini yazmali.o zaman bilir ki altinda imzasi olan bir yapiti bastan savma yapamaz.
+Yazilimci icin bos bir editor tual, klavyesi firca, hayal gucu paletindeki renklerdir.
+Bakalim 600. sorusu ne olacak?
+CRUD yapan ile rocket ucuran yazilimci arasindaki fark ne? Hic bir fark yok! Calistigin ortam neyse, sen osun.
+Kimin usta yazilimci oldugu yazdigi koddan anlasilir. Roman gibi yazar, Fadime deyze bile okuyup, anlar.
+Projenizin cabucak bitmesini istiyorsaniz, usta yazilimcilara gorev verin.
+Cevikligin özü refactoring ve tdd
+Google da bir tarayayim bakalim kalp ameliyati nasil yapiliyor diyen bir doktor gordunuz mu? Biz yazilimcilar neden her seyi googleliyoruz?
+Algoritmalari kapali gozle programlayamayip gerekirse kitaba bakarim demek buyuk yanilgidir.
+Kac yazilimci kitaba bakmadan insertion ya da merge sort algoritmasini programlayabilir?
+Ogrenileni hazmetmenin en guzel yolu ogrenileni baska birisine ogretmektir.
+Bir firmada, gel abi biz seni yetistirelim demiyor, hepsi senior bilmem ne ariyor. Yazilimcilar agacta mi yetisiyor?
+Sesli dusunuyorum: bir yazilimci ciraginin egitimi nasil olmali? Cirak olabilmesi icin hangi yeteneklere sahip olmali?
+Bilginin sahibi yok, ama vicdanin var. Bilgiyi paylasin, vicdaniniz rahatlasin.
+Programcilik kurslari hikaye. Bu isi dizini kirip, ustanin yanina oturarak, ondan ogreneceksin.
+Üjbej vakitte usta yazilimci oldugunu dusunenler var. 15 yil dirsek cürütün, ondan sonra goruselim.
+[Yeni blog yazım] Sorumluluk Sahibi Olmak
+Baba algoritma kitabi diye buna derim, tam 1320 sayfa... H. Cormen üstada buradan emegine hürmetle karsilik....
+Bir programcı günde sekiz saat ve haftada beş gün çalışır, NOKTA!
+[Yeni blog yazım] Böyle Girişimcilik Olmaz!
+Software craftsmanship sunumu
+Yeni bir iş teklifi alınca iş değiştirme konusuna nasıl yaklaşmalıyız? @BTSoruCom aracılığıyla
+223 yazilimci, yazilimci anketine katilmis. Bu rakam 500 olmadan yazilimci 2012 raporunu hazirlamam :) Lütfen yayalim...
+600. soruya yaklasiyor... @BTSoruCom
+Yeni kesfettim
+Algoritma katalari yakinda da
+Programcilar keske armut gibi agacta yetisse, ya da karpuz gibi tarlada.
+[Yeni blog yazım] Göz Boyamaca
+[Yeni blog yazım] Acı Çekmeden Üstad Olunmaz
+Roman rakamlari katasini yapiyorum....
+Prime Factor katasini ekledim .
+[Yeni blog yazım] Detayları Görebilmek Ya Da Görememek
+[Yeni blog yazım] Yazılımda Çeviklik İflas mı Etti?
+yeni eklendi: Faktoriyel (Factorial) Kata .Net C#
+Yazilimci anketine katilimi artirmak icin tanidigimiz yazilimcilara bu linki gönderelim lütfen
+#socrates12 3. Günü
+Mentoring people sunumundayim
+Taking baby steps sunumundayim
+[Yeni blog yazım] Gezen Defterin Hikayesini Biliyor musunuz?
+Infrastructure & testing in a solo project sunumundayim #socrates12
+Yaptiginiz kod katalar yayinlansin.
+#socrates12 ikinci günü
+[Yeni blog yazim] Kataların Eşli Programlanması
+Yazilimci 2012 Raporu icin anket katilimi 160a yaklasti.Bu rakami daha yükseltmemiz lazim.Tanidiklariniza iletin lütf.
+Iki gün sonra SoCraTes 2012 basliyor. Son anda katilim mümkün oldu...
+Yazilimci Raporu 2012'yi hazirlayabilmem icin sizi yazilimci anketine katilmaya davet ediyorum.
+Hazirladigim bu yazilim anketine katilir misiniz?
+JSP veritabanı bağlantısı nerede yapılmalı? @BTSoruCom aracılığıyla
+[Yeni blog yazım] Kişisel Gelişim
+[Yeni blog yazım] Bilgisayar Mühendisi mi, Yazılım Mühendisi mi?
+Bugün hangi katayi yapsam? Tavsiyesi olan?
+sabah bilgisayarin basina gecince ilk isim bakip, bugün yapacagim katayi secmek oluyor.
+Neden kata, mata yapiyorum? Daha iyi bir programci olabilmek icin.Bugün siz programci yetilerinizi gelistirmek icinhangi pratikleriyaptiniz?
+Video Store katayi yaptim
+FizzBuzz katayi yaptim
+500. soru ve 1000. cevaba ulasti...
+1000. cevaba ulasti....
+baklava code
+Türkiye'de neden .Net teknolojileri ağırlıkla kullanılıyor? @BTSoruCom aracılığıyla
+[Yeni blog yazım] Kod A.Ş. – Kod Anonim Şirketi
+Koşullu Mantığın Komut İle Değiştirilmesi (Replace Conditional Dispatcher With Command) |
+Roma Rakamları Katası |
+Yeni projem yayinda...
+Yasgunu hediyem

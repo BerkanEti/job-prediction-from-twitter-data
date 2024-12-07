@@ -1,0 +1,1154 @@
+Zeynep Küçük Youtube kanalında soruları cevaplıyor
+Görüşmek üzre...
+Akşam 9'da Canlı Yayındayız
+dün verilen sayılarla birlikte vaka sayısında 25, ölü sayısında 15. ülke olduk. Korona başta olmak üzere çoğu hastalığın ölümle sonuçlanmasında hava kalitesi çok önemli. Türkiye'de kirlilikler şehir kaynaklı ve çoğu ilde dışarı çıkılması riskli boyutta, ve biz içimize çekiyoruz
+ve dijitalleşme başladı, her konuşmada söylediğim üzere, bir dijital dalga geliyor, uyum sağlayamayanlar yok olacak. Bugün virüsle savaşıyoruz ama daha önemli dalga arkadan gelen işsizlik olacak. Sadece Türkiye'de en az 10 milyon kişi doğrudan etkilenecek. dijitalleşin.
+2019 yılında veremden günde 4000 kişi ölürken corona için aşırı ekonomik ve politik tepkiler gösteriyoruz. bir de şu hava kirliliğine el atılsa.Alerjik vakalar, solunum yolu kaynaklı kanser, verem, günlük binlerce ölümün sebebi ve türkiyede şehirler aşırı kirli ve hasalık yayıyor
+ara dönemde, bilgisayar mühendisliği doktora programına, akdeniz üniversitesinde başvurmak için link (düşünenlere şirketimiz @OptiWisdom üzerinden burs başvurusu ve uygun görülenler için iş imkanı):
+Gerçek verilerle uçtan uca karşılaştırmalı AutoML kütüphaneleri: Real Life AutoML Problem with Multiple Tools and Libraries, a Comparative Approach
+Veri Ön İşleme sürecinin otomatize edilmesi ve Python ile kodlama üzerinden basit bir başlangıç
+Uçtan uca adım adım AutoML kodlamaya başlıyoruz.:
+AutoML (otomatik makine öğrenmesi) kavramına giriş niteliğindeki yazıya aşağıdaki bağlantıdan erişilebilir:
+Einstein der ki : "dahilik, karmaşık şeyleri basit şekilde anlatabilmektir" “The definition of genius is taking the complex and making it simple.”― Albert Einstein
+17 Haziran 2019, Fransa, Üniversite Sınav Soruları
+2023'e ve Şayet bize verilen vaadler tutulursa, Türkiyenin ilk 10 ekonomiye girmesine çok az kaldı. Bunu başarmak için rakiplerimizden çok çalışmalıyız. Girişimlere yapılan yatırımda 39 ülke arasında 31. sıradayız, israilde kişi başına yatırım 316 katımız:
+bugün yine yasaklı sitelerde dolaştım, hani yasak olan şeyler genelde zevkli ve faydasızdır ya, sadece 1 hafta sonra Türkiye'de Wikipedia yasaklanalı 2 yıl olacak. Yasak kalkarsa bu kadar heyecanlı olmaz.
+"...felsefe, zekâmızın dil aracılığıyla büyülenmesine karşı bir mücadeledir" wittgenstein
+Nesnelerin İnterneti ve Yapay Zeka Yeditepe Üniversitesi:
+Hotech'den Aysun POLAT'la U/X design ve Progress Management hakkında Sohbetler.:
+Hotech'den Hamdullah TURGUT'la Röportaj.:
+freelance çalışmak:
+optiscorer ürünümüzün prototipi, kaggle'da bir yarışmada daha yarışmanın birincisinden daha yüksek skor elde etti. by @optiwisdom
+2018 Tercihler ve Sorular / Cevaplar:
+Harran Üniversitesi Bilgisayar Mühendisliği:
+ODTÜ Biyoloji Ve Genetik Topluluğu:
+Otonom Sistemleri Topluluğu İle Yapay Zeka Röportajı Gazi Üniversitesi:
+IEEE Etkinliği GTÜ:
+Antalya Bilim Üniversitesi Röportaj:
+Harran Öğrencilerle Röportaj:
+Berkan Harran Üniversitesi:
+Nagihan Hoca Harran Üniversitesi:
+İTÜRO2018 Organizasyon Ekibinden Öğrencilerle Röportaj:
+İstanbul Kültür Üniversitesi CSCON:
+Liderlik ve Öncülük (Marmara Üniversitesi):
+IoT, Yapay Zeka ve Büyük Veri (Yalova Üniversitesi):
+12 Aykut Kence Evrim Konferansı ODTÜ:
+Uçtan uca Veri Bilimi (Knime ile) kitabımız yayınlandı ve bu alanda ilerlemek isteyen herkesin faydalanması için ücretsiz olarak şuradan indirilebilir: Paralelindeki Udemy eğitimi için indiri kuponu :
+Keras ile Yapay Sinir Ağı ve Müşteri Kayıp Analizi
+Eskişehir Osmangazi Üniversitesi Soru-Cevap:
+Doç. Dr. Duygu Çelik Ertuğrul ile Röportaj (DAÜ):
+IEEE Organizasyonu Bilgisayar Mühendisliği Öğrencileri İle:
+DAÜ Öğrencileriyle Röportaj:
+Yekim Dinitz'in makalesinden (bu adamın makale yazışını seviyorum :) )
+Veri Bilimi: 10 Derste 10 Araç: 2- KNIME:
+Bilişim Sektöründe Kariyer (Kocaeli Üniversitesi):
+Bilişimde Girişimcilik ve Kariyer (Marmara Ünivesitesi):
+Veri Bilimi: 10 Derste 10 Araç: 2- KNIME
+Ege Üniversitesinde Öğrenci olmak
+Veri Bilimi: 10 Derste 10 Araç: 1- SPSS Modeler
+Çukurova Üniversitesi Bilgisayar Mühendisliği Hocaları ile Röportaj:
+Çukurova Üniversitesi Mühendislik Mimarlık Kulübü
+Çukurova Üniversitesi Bilgisayar Mühendisliği Bölümü
+Makine Öğrenmesi Uygulamaları konuşmasından kısa kısa
+Makine Öğrenmesinde Kümeleme Algoritmaları:
+Makine Öğrenmesi ve Uygulamları:
+Makine Öğrenmesi kursu udemy üzerinden bugün yayına girdi, indirim kuponu için :
+Öğrencilerin Gözünden Yalova Üniversitesi Bilgisayar Mühendisliği:
+Yalova Üniversitesi Yapay Zeka Kulübü Yönetim Kurulu ile Röportaj:
+Derin Öğrenme, Görüntü İşleme ve Akademisyenlik Ayyüce Kızrak Kodluyoruz Etkinliği:
+Yalova Üniversitesi Yapay Zeka Kulübü Öğrencileriyle Röportaj:
+Kodluyoruz Derneği, Dilek Dündar ve Betül Aslan:
+Öğrenci Gözüyle, Yeditepe Üniversitesi Bilgisayar Mühendisliği
+Kıbrısta Öğrenci olmak
+Uluslararası Kıbrıs Üniversitesi Bilgisayar Mühendisliği
+Inelligent World Konferansı Açılış Konuşması Maltepe Üniversitesi:
+Bilmök #2018 Yeditepe Üniversitesi
+Yalova Üniversitesi Bilgisayar Mühendisliği Bölümü Hocaları ile Röportaj:
+Büyük Veri, Paralel İşleme ve Akademisyenlik:
+Kodluyoruz Akademi, Yapay Zeka Konuşması Öncesi
+Knime ile R birlikte kullanımı
+Knime ile XPath kullanımı ve Web Sitesi İçerikleri
+Knime ile Weka Özelliklerinin Kullanılması
+Soru Cevap 10 Kasım 2015 (Kosinüs Benzerliği)
+Knime ile Twitter Verilerinin İşlenmesi (Veri Madenciliği Eğitim
+Knime ve Web Madenciliğine Giriş (Veri Bilimi Eğitim Serisi 45.
+Shannon Fano Sıkıştırma ve Açma Algoritması:
+Mustafa Murat Coşkun ile Soru Cevap
+Sosyal Liderlik Kulübü Röportajı
+selen demir roportaj:
+Öğrenci Gözüyle Uludağ Üniversitesi Mühendislik
+Öğrenci Gözüyle Kocaeli Üniversitesi Bilgisayar Mühendisliği
+2018 Şubat ve Mart aylarındaki konferanslar:
+Bilgisayar Mühendisliği / bilimi ve Yazılım mühendisliği hakkında:
+ETL (Extract, Transform and Load) Nedir ve Veri Olgunluğu?:
+Okul Notları Önemsenmeli Mi?:
+Lisans Öğrencileri Büyük Veri’de veya Veri Bilimi’nde Gelişmek İçin Neler Yapabilir?:
+Internetteki Veriler ve Güvenlik
+Bilişim Alanında Kendi İşimizi Kurmalı Mıyız?
+Bilgisayar Mühendisliğindeki Çalışma Alanları Arasında Nasıl Seçim Yapılır:
+Doktora Programlarına Başvuruda Lisans Eğitiminin Baz Alınması Doğru Mu:
+Programlamayı Öğrenmek ve Üniversiteler:
+İzmir Ekonomi Üniversitesi Öğrenci Soruları:
+Bilişimde Kariyer, Düzce Üniversitesi Konuşmasından bir kısım
+Kocaeli Üniversitesi Bilgisayar Mühendisliği Bölümü:
+Makine Öğrenmesine Giriş:
+Öğrenci Gözüyle NEÜ Bilgisayar Mühendisliği:
+SDÜ Bilgisayar Mühendisliği Bölümü:
+Süleyman Demirel Üniversitesindeki Konuşmadan Kısa Kısa:
+Necmettin Erbakan Üniversitesi Konuşmasından Bir Kısım:
+Bilişimde Kadın Çalışanlar:
+Bilişimde Farklı Dünyalar:
+İş Görüşmesi ve Design Pattern:
+BitCoin ve BlockChain Üzerine:
+Öğrenci Gözüyle Toros Üniversitesi Bilgisayar Mühendisliği:
+Toros Üniversitesi Büyük Veri Konuşmasından Kısa Kısa
+Süleyman Demirel Üniversitesi Bilgisayar Mühendisliği Bölümü:
+Necmettin Erbakan Üniversitesi, Bilgisayar Mühendisliği Bölümü:
+Namık Kemal Üniversitesi Bilgisayar Mühendisliği Bölümü:
+Kırklareli Üniversitesi, Yazılım Mühendisliği Bölümü:
+Kırklareli Üniversitesi Yazılım Mühendisliği Öğrencilerle Part1:
+Kırklareli Üniversitesi Yazılım Mühendisliği Öğrencilerle Part2:
+Bugün Kocaeli Üniversitesindeyiz, #kou #koubk
+Kırklareli Üniversitesi Öğrenciler Part2:
+Kırklareli Üniversitesi Öğrenciler Part1:
+Görüntü İşleme ve İzmir Ekonomi Üniversitesi Bilgisayar Mühendisliği Üzerine:
+Toros Üniversitesi Bilgisayar ve Yazılım Mühendisliği Bölüm Başkanı ile Röportajımız:
+Yarın Isparta Süleyman Demirel Üniversitesindeyiz. Diğer konuşma ve organizasyonlar için:
+27 Kasım Pazartesi Karabük Üniversitesindeyiz. Diğer konuşma ve seminerler için:
+Donanımın Yazılımdaki Gelişmeleri Sekteye Uğrattığı Alanlar Var Mı:
+Yapay Zekanın Geleceği Hakkında:
+Bilişimde Yenilikler ve DBA olmak:
+Yapay Zeka Saldırgan Yolu Mu Tercih Ediyor:
+İş ilanı:
+Eğitim, Yazılım ve Pazarlama Sektörleri Üzerine
+Bilgisayar Mühendisliğinin Geleceği
+Bilgisayar Mühendisleri Ne Yapar
+Görüntü İşleme Alanına Nasıl Başlanır:
+Siber Güvenlik, Kariyer, Eğitim, Sektör
+Bilişimde Girişimcilik, Para Kazanmak, MIS, İş Analitiği ve Yurt
+BilgisayarKavramları Live Stream:
+Bilecik Şeyh Edebali Üniversitesi Bilgisayar Mühendisliği Hakkındaki Konuşmadan:
+Bilecik Şeyh Edebali Üniversitesi Bilgisayar Mühendisliği Hocaları ile:
+Öğrenci Gözü ile KOU Bilişim Sistemleri Mühendisliği
+KOU Bilişim Sistemleri Mühendisliği Hocalarına Bölümü Soruyoruz
+Kocaeli Üniversitesi Büyük Veri'ye giriş konuşmasından kısa kısa:
+Büyük Veri (Big Data) Üzerine
+BU Siber Boğaziçi Üniversitesi Yönetim Bilişim Sistemleri Siber Güvenlik:
+Sakarya Üniversitesi Bilgisayar ve Bilişim Bilimleri Fakültesi Röportajının Tamamı:
+Bilişimde Kariyer Konuları:
+Bir Bilgisayar Mühendisliği Serüveni: Alpay Alkan Röportajının Tamamı:
+Doç Dr Erchan Aptoula Röportajının Tamamı
+Yazılım vs Bilgisayar Mühendisliği
+Ekim Ayındaki Organizasyonlar:
+ERP ve SAP Sektörü ve SAP'deki yenilikler
+Backend Developer Kimdir Back end ve Front end Arasındaki Farklar
+Canlı Yayın 4: Konu Java: Konuk Levent Ergüder
+SAP ve ERP Sektörüne Dair Söyleşinin Tamamı:
+Deep Web (Derin Web):
+İş Analitiği programında vereceğim dersin izlencesi, Program için
+Derin Öğrenme
+Spark 6: MapReduce Programlama 3, Proje Çözümü
+Spark 5: MapReduce Programlama 2, Proje Uygulaması
+Bilgisayar ile Görüntü İşleme Nedir?
+Programlama Dilleri ve Kariyer
+Front End ve Sektörün Durumu
+Python-Django 13: Blog oluşturmak 5
+Python-Django 11: Blog oluşturmak 4:
+Dijital Göçebeli (Digital Nomad) ve Bilgi Çalışanları (Knowledge Workers) Hakkında:
+Python-Django 11: Blog oluşturmak 3:
+Python-Django 10: Blog oluşturmak 2:
+Python-Django 9: Blog Sitesi Oluşturmak 1:
+Büyük Veri ve Apache Cassandra Giriş 2
+Büyük Veri ve Apache Cassandra Giriş 1:
+CAP Toerisi ve Büyük Veri
+Data Governence (Veri Yönetişimi)
+Java'nın Geleceği
+Yazılım Sektöründe Dünya Liginde Neredeyiz
+Bilişimde Girişim: Kurucu Ortağı Mert Salur
+Bilgisar kavramları:
+BilgisayarKavramları Live Stream:
+Prof. Dr. Suzan Üsküdarlı ile olan Röportajın Tamamı
+Spark 3: Çalıştırılması ve Örnek Kodlama
+Web Programlama 12: SVG ve HTML:
+Spark 2: Kurulum ve Uygulamalara Giriş
+Spark 1: Spark'a ve Eğitim Serisine Giriş:
+Python-Django 8: Basit Web Sitesi 3:
+Ege Üniversitesi IEEE Bilgisayar Topluluğu:
+Ege Üniversitesi Bilgisayar Mühendisliği, Öğrenci Gözünden:
+Bilgisayar Mühendisliği Öğrencisi Olmak:
+Python-Django 7: Basit Web Sitesi 2
+Python-Django 6: Basit bir Web sitesi
+Python-Django 5: Kurulum
+Cüneyt Yeşilkaya ile Web Crawling ve Web Scraping Üzerine
+Mehmet Kurt ile Yazılım, .Net ve E-Ticarete Dair:
+Django-Python 4 : Python Programlamaya Giriş 2
+Bilgisayar kavramları buluşması 2:
+İş Analitiği Yüksek Lisans Programı : İstanbul Şehir Üniversitesi:
+JavaScript 6: Canvas Üzerinde Hareket
+Python-django 2 , ortam ve çalıştırma:
+JavaScript 5: Canvas ve Mouse Etkileşimi
+Hayata Dair: PAÜ Bilgisayar Mühendisliği Bölümü Hocalarımıza Soruyoruz:
+Pamukkale Üniversitesi Bilgisayar Mühendisliği
+Scratch 8: Algılama Menüsü
+Scratch 7: Ses Menüsü
+Scratch 6: Görünüm Menüsü
+Python - Django Eğitimleri 1 : Giriş
+Hayata Dair: Erol Değim
+Bilişimde Girişim: Kurucu Ortağı Erol Değim:
+Staj Okulu 2017: Veri Bilimi Üzerine Kısa Kısa
+Hayata Dari : Bora Kaşmer'e Soruyoruz
+Back-End Geliştiriciliği Üzerine : Bora Kaşmer ile
+Hayata Dair: Kurucusu Hakkı Alkan ile
+Girişimcilik: Kurucusu Hakkı Alkan ile Bilişim alanında Girişimcilik Üzerine: via
+2017 Üniversite Tercihleri - Soru Cevap
+Hayata Dair - Mustafa Acungil
+İş Zekası, Veri Analitiği ve Hayata Dair Tavsiyelerle Mustafa Acungil:
+Scratch 6 Görünüm:
+Engin Polat'a Hayata dair tavsiyelerini soruyoruz.:
+Front-End Geliştiriciliği üzerine Engin Polat ile
+JavaScript3: Örnek Kodlar
+JavaScript 2: Temeller ve Yapısal Programlama
+İş Zekası Sohbetleri 1: Yusuf Arslan
+YBS Kongersi 2017
+JavaScript 1: Giriş ve Basit bir Kod (Web Programlama 9. Video)
+Scratch 5: Hareket Menüleri
+2017 Üniversite Tercihleri Üzerine
+Web Programlama 8 : HTML 5.0 Giriş
+HTML Formları (HTML 4. Video) (Internet Nasıl Çalışır 8.
+CSS ve Stillere Giriş (HTML 3. Video) - Internet Nasıl
+HTML Giriş 2 (Internet Nasıl Çalışır 6. Video)
+HTML Giriş (Internet Nasıl Çalışır - 5 )
+Scratch 4: Kod Blokları ve Kodlama Mantığına Giriş
+Scratch 3: Olaylar
+Scratch 2: Arayüzler
+Çocuklar için Programlama : Scratch 1, Giriş ve Kurulum
+Web Programlama 2 : HTML Giriş, Sunucu Mantığı ve Kurulumu
+Web Programlama Eğitimleri (Front End Developer Olmak)
+Teknoloji Fakültelerinde Bilgisayar, Yazılım veya Bilişim alanlarını tercih etmek:
+Gelişmeler, Yaz Dönemi, Sosyal Etkinlikler:
+Kod Dünyası Röportajının Tamamı:
+Enformatik Bölümü
+Kod Dünyası Röportajından:
+Ağ (Network), Güvenlik, Sistem ve Genel olarak Bilişimde Kariyer:
+Yapay Zeka, Gelecek ve YBS
+Nişantaşı Üniversitesi Bilgisayar Mühendisliği
+Erciyes Üniversitesi Konuşmasından Kısa Kısa
+Hayata Dair Tavsiyeleriniz?
+Erciyes Üniversitesi Bilgisayar Mühendisliği Bölümü
+Türkiye ve Bilişim Teknolojileri
+Hayata Atılmak, Amaçlar ve İleri Yaşlar (Soru Cevap 13
+Teknoloji ve Türkiye Üzerine bir kesit
+Ve A.Ü. Bilg Müh Öğrencileri ile...:
+Kız Öğrenciler ve Bilgisayar Mühendisliği
+Bilgisayar Mühendisliğinde Yüksek Lisans
+Bilgisayar Mühendisliği Öğrencilerine Tavsiyeler
+Bilgisayar ve Eğitim Dili
+Ankara Üniversitesi Bilgisayar Mühendisliği
+Büyük Veri ve Veri Güvenliği:
+Veri Bilimi , DEU, YBS Konuşmasından Kısa Kısa
+Yıldırım Beyazıt Üniversitesi Yönetim Bilişim Sistemleri Bölüm Başkanı Kemal İlter ile Söyleşimiz:
+YBS vs İşletme vs Bilgisayar:
+YBS ve İngilizce Eğitim:
+YBS ve ERP eğitimi:
+İş Analistliği ve YBS
+IoT ve YBS
+YBS ve Proje Yöneticisi Olmak
+Yönetim Bilişim Sistemleri ve Veri Bilimi
+YBS Çalışma Alanı ve Siber Güvenlik
+Veri Bilimi, Kitapların Yerine Geçer mi?
+Uludağ Üniversitesi yönetim bilişim Sistemleri bölümü öğrencileriyle beraber:
+Muğla Üniversitesi Bilişimde Kariyer:
+Ankara Üniversitesi Bi'Gün Ankara '17 etkinliği konferansından
+Bilişimde Kariyer Konuşmasından Kısa Kısa
+Ankara Üniv Bi'Gün Ankara'17 etkinliği için Ankara'ya geldik. Bilgisayar müh. bölüm başkanı Prof.Dr.İman Askerbeyli ile röportajımızdan
+Hayata Dair, Prof. Dr. Vahap Tecim
+YBS ve Okurken Çalışmak
+YBS Yüksek Lisansı ve Akademisyenlik:
+Yıldırım Beyazıt Üniversitesi MIS Talks konuşmamız
+Ege Üniversitesi #ieee #cyberege'17 etkinliğindeyiz
+Kamuda Yönetim Bilişim Sistemlerinin Durumu:
+Yönetim Bilişim Sistemleri Bölümü Mezunlarının Avantajlı oldukları yanlar:
+Dokuz Eylül Üniversitesi Yönetim Bilişim Sistemleri Bölümü:
+YBS'nin Geleceğini Nasıl Görüyorsunuz?:
+Yönetim Bilişim Sistemlerini Herkes Yapabilir mi?:
+Yönetim Bilişim Sistemleri Nedir?
+Dokuz Eylül Üniversitesi Yönetim Bilişim Sistemleri konferansından
+Dokuz Eylül Üniv. Yönetim Bilişim Sistemleri Bölüm Başkanı Prof.Dr. Vahap Tecim hocamız ile bölüm hakkındaki röportajımızın kamera arkası
+Kamuda Bilişim Çalışanı Olmak
+Akıllı Şehirler ve Yollar
+Bilişimde Kadınlar daha Başarılı
+Bilişim Sistemleri Mühendisliğinde okuyan öğrencilere tavsiyeler:
+Teknoloji Fakülteleri ve Staj Farkı
+Bilişim Sistemleri Mühendisliğinde Yüksek Lisans
+Bilişim Sistemleri Mühendisliğinin Geleceği?
+Teknoloji Fakültesinin Farkı Nedir?
+Bilişim Sistemleri Mühendisliği Nedir?
+Muğla Üniversitesi Bilişim Sistemleri Mühendisliğinin Farklı Yanları?:
+Bilişim Sistemleri Mühendisliği Bölümü Mezuniyet Sonrası Nerelerde Çalışır?:
+Bilişim Sistemleri Mühendisliğini Herkes Yapabilir mi?:
+Muğla Bilişim Sistemleri Mühendisliği Hocalarımızı Tanıyoruz:
+Uludağ Üniversitesi İnegöl İşletme Fakültesi konferansı
+Uludağ Üniversitesi İnegöl İşletme Fakültesi'nde röportaj ile başladık güne
+Araştırma, Lab ve Öğrencilerin gözünden CÜ Bilgisayar
+CÜ Bilgisayar Mühendisliği Bölümündeki Akademik Çalışmalar:
+Bilgisayar Mühendisliğinin Geleceği
+CÜ Bilgisayar Mühendisliğinde Öğrencilik
+Yönetim Bilişim Sistemlerinin Geleceği ve Yenilikler:
+Cumhuriyet Üniversitesi Bilgisayar Mühendisliği Bölümü
+Yüksek Lisans ve Kimler Yapmalı?
+Veri Madenciliği Konusundaki Çalışmalarınız Nelerdir?
+Kimler Yönetim Bilişim Sistemleri Bölümünü Okuyabilir?
+Diğer konuşma ve seminerler için:
+Cumhuriyet Ünviersitesi YBS Bölümünün Farkı Nelerdir?
+Diploma mı Başarı mı?:
+Dijital Pazarlama ve Kariyer:
+Hangi Programlama Dili Hangi Ortam için Uygundur?:
+Bilişimde Hangi Alanda Açık Daha Fazla?
+Sivas Teknoşim Firması Genel Müdürü ile Soru-Cevap
+Muğla Sıtkı Koçman Üniversitesi Bilişim Sistemleri Mühendisliği bölümü ile röportaj videomuzun kamera arkası
+En sevdiğimiz bölümlerden biri de öğrenci arkadaşlarla sohbet saatimiz. Hocalarımız bu saate katılamıyor :)
+Muğla Sıtkı Koçman Üniversitesinde Konferansa başladık. Öğleden sonra 15-16 ya kadar burdayız, bekleriz .
+Sivas Cumhuriyet Üniversitesi bilgisayar müh. bölüm başkanı ve bölümü kuran diğer hocalar ile röportaj videoları ve diğer videolar
+Sivas Cumhuriyet Üniversitesinde konferansımız, soru cevap çekimlerimiz ve röportaj videolarımıza devam ediyoruz.
+Sivas Cumhuriyet Üniversitesi konferansı öncesi kahvaltı programı
+2017 Staj Duyurusu:
+2017 Staj İmkanı
+Kanal Fragmanı:
+Tanışma, Üniversite Konuşmaları, Organizasyonlar
+#bilişim #kariyer ve #bilgisayar konularında #mugla 'da 9 Mayıs'ta @muglaedutr @BilimTT
+Python Veri Yapıları ve NYP 11: Nesne ve Sınıf Kavramları
+Python Veri Yapıları ve NYP 10: Değişkenlerin Geçerlilik Alanı:
+Neural Network 3: Çok Katmanlı Yapay Sinir Ağları:
+Neural Network 2: Perceptron Kavramı ve Öğrenme
+Neural Network 1 : Eğitime ve Kavramlara Giriş
+Yapay Zeka 14: Doğal Dil İşleme, Metin Madenciliği ve Hesaplamalı Dil Bilim:
+11 Mayıs'ta Bursa Uludağ Üniversitesi, Bilişim Sohbetleri
+İş Analitiği (Business Analytics) , MIS Video Serisi 8. Video:
+Neural Network 1 : Eğitime ve Kavramlara Giriş
+Tanışma, Üniversite Konuşmaları, Organizasyonlar
+ne yazık ki haklı bir açıklama
+Yapay Zeka 11: Genetik Algoritmalar
+Amerika'da Üniversite Hayatı ve Türkiye'den farkları:
+Amerika'da Devletin Yazılım Projelerini Yazdırması:
+Amerika'da bir Yazılım Mühendisliği Macerası:
+Hayata dair tavsiyeleriniz | Yazılım Mühendisi Mahmut
+Veri Bilimi Güncel Gelişmeler, Konferansın İlk Gününün ardından:
+Veri Bilimi Konferansı ve İlk Günün ardından
+Kadınlar ve Veri Bilimi
+Türkiye ve Veri Bilimi
+Veri Biliminin Geleceği
+Veri Bilimine Nereden Başlanır?, Kurslar ve Amerika
+Bir Veri Bilimcisinin Hikayesi ve Dr. Meltem BALLAN
+Veri Bilimi Konferansı, Şikago
+Android 24: Müzikler:
+Yazılımların Pazarlanması, Ücretlendirilmesi ve Satışı
+Yurt Dışında Üniversite nasıl Seçilir?
+Python Veri Yapıları ve NYP 9: Dosyalar
+Android 23: SQLite ve Veri Tabanı
+Python Veri Yapıları ve NYP 8: Modüller ve Projenin Dosyalara
+Bilgisayar Mühendisliği Tezsiz Yüksek Lisansı
+Para Kazanmak ve Meslek Seçimi ve Bilişim (Part 2/2)
+Meslek Seçimi ve Para Kazanmak ve Bilişim Sektörü
+İş Analitiği ve İş Analizi ve İş Zekasının farkları ve iş analistinin tanımı ve bir YBS bakışı:
+Kızlar ve Bilişim / Bilgisayar Mühendisliği okumak/çalışmak:
+Yapay Zeka 10: Bulanık Mantık ve Bulanık Kümeler:
+Dr. Racket (Lisp) 14: Yapay Zeka Mantıklarının Kodlanması (FOL):
+Amerika'da Hocaların Değerlendirilmesi
+Online Kurslar ve Öğrencilere Tavsiyeler
+YBS Eğitimi Sonrası Amerika'da Çalışmak
+Amerika'da Doktora Yaparken Geçinmek
+YBS'nin Geleceği, Çalışma Alanları ve İş Analitiği:
+Amerika'da Öğrencilik ve Akademisyenlik:
+1000. Video'ya Özel Durum Değerlendirmesi ve Haberler:
+Bilgi Ekosistemi Başlıklı Konuşmadan Kesiteler
+Freelance veya Kendi işini kurmak?
+ERP'nin Geleceği
+Sanal ve Arttırılmış Gerçekliğin Geleceği
+Yapay Zeka İnsanlık için Tehdit mi?
+Yazılım'da Dokümantasyonun Önemi
+Programlama Dilleri Nereye Gidiyor?
+Amerika vs Türkiye'de Yönetim Bilişim Sistemleri
+Android 22: Web Servis Bağlantısı ve HTTP İstemci
+Kurslarla Bilişim Alanında Kariyer Yapılabilir mi?
+Tez Nedir? Nasıl Yazılır? Neler olmalıdır?
+Hedefler, Kariyerde Son Nokta ve Bilişim Alanında Sık İş Değiştirmeler:
+R ve Python neden popüler, kurslar ve Yurt dışında y.lisansta işimize yarar mı?:
+Uygulama ve Teori Dengesi, Lisanstaki Öğrencilere Tavsiyeler, Sektör Tecrübesi ve Akademisyenlik: via
+İş başvurularında dikkat edilecek bazı konular:
+Bilgiye Erişim ve Nasıl Öğrenirim?
+Amerika'daki Farklar
+Gerçek Hayattan Bir Derin Öğrenme (Deep Learning) Projesi
+Derin Öğrenme (Deep Learning) Nedir ve İnsanlık için Tehdit midir?:
+Amerikada Çalışılacak Firma Tercihi ve Start-up Alternatifi:
+Yapay Zeka 9: Birinci Derece Mantık (First Order Logic):
+Yapay Zeka 8.2: Mantık (Devam)
+Amerikada Bilişim Alanında İş Bulmak
+Yurt Dışına Gitmek Bilgisayar Mühendisliği ve Staj
+Bir Bilgisayar Mühendisliği Serüveni
+Veri Madenciliği ve Büyük Veri Söyleşisi
+Pazarlama Veri Bilimi ve Davranış Bilimi
+Ekonometri, Veri Madenciliği ve Hangi Teknolojilerin Önemli Olduğu?:
+Erken Yaşlarda Programlamaya İlgi
+Ne kadar zamanda Veri Bilimi Öğrenilir ve Hangi Araçları Öğrenmeli?:
+YBS alanında okuyanlar hangi alanlarda çalışabilir?
+Akademisyen olmak isteyenlere tavsiyeleriniz nelerdir?
+YBS Bölümlerinde okuyan öğrencilere tavsiyeleriniz nelerdir?:
+İşletme ve İşletme Enformatiği ile Yönetim Bililişim Sistemleri Eğitiminin Farkları nelerdir?: via
+Sakarya Üniversitesinin YBS Alanındaki Farkları Nelerdir?
+Yönetim Bilişim Sistemleri Nedir? Kimler için uygundur? Ne kazandırır?:
+Dr Racket (Lisp) 13: Oyun Ağaçları ve Tic Tac Toe
+Dr Racket (Lisp) 12: BFS Algoritmasının Binary Ağaçta Kodlaması:
+Dr Racket (Lisp) 11: DFS Algoritmasının Binary Ağaçta Kodlaması:
+Yapay Zeka 8.1: Mantık (Logic) Giriş:
+Yazılım Alanında Yurt Dışı İş Başvurusu
+Özgür Yazılım ve Büyük Veri Sektörü
+Mobil ve Bilişimde Kariyer Yatırımı
+Üniversite Eğitimi ve Sektörün Takibi
+Veri Bilimine ve Projelerine Nasıl Başlanır
+Yurt Dışında Üniversite Kabul Şartları
+Node JS 8: HTTP Sunucu ile Oynamak:
+Sakarya Üniversitesi Ekonometri Bölümü Veri Bilimi Konuşması:
+Akademisyen olmak isteyenlere tavsiyeler.:
+Ekonometri Bölümü Nedir? Ne iş Yapar? Kimler için uygundur?:
+Node JS 7: HTTP Sunucu
+Node JS #6: Döngüler ve Koşullar
+Node JS 5: Fonksiyonlar
+Node JS 4: Operatörler
+Node JS #3 : Değişkenler ve Nesneler
+Node.JS 1: Eğitime Giriş:
+Node JS 2: Kurulum ve Çalıştırma
+Üniversite Öğrencilerine ve Gençlere Tavsiyeler
+Yazılım Proje Yönetiminin Önemi ve Türkiye
+Boğaziçi Üniversitesi YBS Bölümünün Sektör ile ilişkileri:
+Akademisyenlik Kimler için uygundur ve kim tercih etmeli?
+MIS vs MBA Yüksek Lisans Tercihi
+Yönetim Bilişim Sistemleri Alanında Yüksek Lisans
+YBS Öğrenciliği ve Okurken Çalışmak
+Boğaziçi Üniversitesi YBS Bölümü
+YBS Okuyanlara Tavsiyeler
+Yönetim Bilişim Sistemlerinin Geleceği?
+Kısaca YBS'nin Türkiye'de çıkışı ve kısa tarihi
+Hosting/Domain Pazarı, Türkiye ve İsim Tescil Firması:
+Web Projelerinde nasıl Başarılı olunur?:
+Bilişim alanı ve web teknolojileri alanlarına girecek gençlere tavsiyeler:
+Bilişim Sektöründeki Gençlere Hayat Tavsiyeleri:
+Bilişim Çalışanı Olmak ve E-Ticaret Alanı
+E-Ticaret Web Siteleri ve Web Üzerinden Grişimcilik
+MIS vs MBA Yüksek Lisans Tercihi
+Yapay Zeka ve Veri Bilimi Sizi Korkutuyor mu?:
+Veri Bilimi ve İş Analitiğinin Devlette Kullanımı ve Önemli:
+Veri Bilimi ve İş Analitiği Kimler için uygundur?:
+İş Analitiği ve Veri Biliminin Geleceği?:
+Sabah Ekonometri, öğleden sonra da YönetimBilişimSistemleri ( #ybs )Bölümünün"Türkiye'de Bilişim Ekosistemi"konferansı için Sakarya Üniv'dyz
+Sakarya Üniversitesi Ekonometri bölümü öğrencileri ile soru cevap videoları #bilgisayarkavramları nda
+Sakarya Üniversitesi Finans ve Ekonometri bölümü için "Büyük veri & programlamanın önemi" konferansına geldik
+Veri Bilimi ve İş Zekasına Nereden Başlamalı:
+Amerikadaki Üniversitelerin farkı ve Amerikada Akademik Hayat
+Üsküdar Üniversitesi Bilgisayar Mühendisliği Bölümü
+Bilişim Alanında Kariyer:
+Program yoğun, #BOUN dan sonra için "neuro marketing" sunumundayız. Yarın Sakarya da konferansta olacağız.
+Bilgi Sistemlri UygulamaveAraştrma Mrk Müdürü #BOUN #YBS #MIS bölümünden ProfDrMeltem Özturan ile röportaj videosu #bilgisayarkavramları nda
+Bilgisayar Mühendisliği Zevkli mi? Zorlukları Neler?
+Bilgisayar Mühendisliği Öğrencilerine önemli Tavsiyeler
+Uzmanlık Alanının Seçimi
+Bilgisayar Mühendisliğinin Geleceği
+Yüksek Lisans Tercihi
+Akademik Hayat ve Akademisyenlik
+Okurken Çalışmak Doğru mudur?
+Bilgisayar Mühendisleri Asosyal midir?
+Yıldız Teknik Üniversitesi Bilgisayar Mühendisliği Bölümünün Farkı:
+Kimler Bilgisayar Mühendisi Olabilir?
+Yıldız Teknik Üniversitesinden sonra Üsküdar Üniversitesine "Bilişim Alanında Kariyer ve Veri Bilimi" konferansı için geldik
+Türkiye'ye bir haftalığına geldik. İlk röportajımızı Bilgisayar müh Dekan Yardımcısı Prof.Dr.Banu Diri ile yaptık #bilgisayarkavramları 'nda
+Katılacağımız Organizasyonlar ve Konuşmalar, Mart 2017:
+YBS Okuyanlara Tavsiyeler
+Bilişime veya Yazılıma Nereden Başlanır?:
+Python Veri Yapıları ve NYP 8: Modüller ve Projenin Dosyalara bölünmesi:
+Yurtdışında Staj Yapmak
+Python Veri Yapıları ve NYP 7: Sözlükler ve Veri Yapılarının Sonu:
+13 Mart'ta @uskudaruni 'deyiz. Önümüzdeki hafta Türkiye'deyiz ve bir dizi organizasyonlar olacak.Tam Liste için :
+Android 21: Önceden oluşturulan dosyaların yüklenmesi
+Android 20: Dosya oluşturmak, kayıt ve okuma
+Python Veri Yapıları ve NYP 6: Kümeler (Set):
+Python Veri Yapıları ve NYP 5: Tuple ve Immutable Kavramı
+Python Veri Yapıları ve NYP 4 : Listeler Listesi
+Mekatronik, Yazılım, Elektronik, Bilgisayar ve Makine:
+Dr. Racket (Lisp) 10 : Koşul Tatmin Problemleri (CSP)
+Android 19: Canvas Kavramı ve Çizimlere Giriş
+Android 18: Kameradan Resim Çekmek, Implicit Intent, Part 2
+Android 17: Telefon Aramak ve Implicit Intent Kavrami
+Yazılım Bitiyor mu? Kod yazabilen yapay zekalar
+Android 16: Localization ve Birden Fazla Dil Desteği
+Python Veri Yapıları ve NYP 3: Listelerin oluşturulması
+Ödev, Proje ve Uygulama Soruları:
+Python Veri Yapıları 2 : Stack ve Queue (Yığın ve Sıra) Kavramları:
+Python Veri Yapıları 1: Listelere Genel Bakış ve Bazı Fonksiyonlar:
+Yapay Zeka 7.2: Alfa Beta Budaması (Alpha Beta Prunning)
+Yapay Zeka 71: Oyun Ağaçları ve minimax
+PYTHONv3: Video 13: Argüman Listeleri
+Dr. Racket (Lisp) 9: Ağırlıklı Graflar ve UCS:
+Android 15: Nesne Taşıma ve Parcelable Arayüzü
+PYTHONv3: Video 12: Fonksiyonlar:
+PYTHONv3: Video 11: Örnek Soru Çözümü:
+Android 14: Kalıcı Değişkenler (Persistent):
+PYTHONv3: Video 4: IDLE Çalıştırılması ve İlk Örnek:
+PYTHONv3: Video 9 : Döngüler ve While:
+PYTHONv3: Video 8: if-else ve Dosya'dan çalıştırma:
+PYTHONv3: Video 7 : Listeler:
+PYTHONv3: Video 6: Dizgiler (Strings):
+PYTHONv3: Video 5: Basit Hesaplamalar:
+PYTHONv3: Video 3: Kurulum:
+PYTHONv3: Video 2 : İndirilmesi:
+PYTHONv3 Video 1: Dile ve Eğitime Giriş:
+PYTHONv3 10: Döngüler, for, break, continue, pass
+Amerika'da Üniversite Okumak
+Android 13: Zamanlama ve Skorlar
+Android 12: Buton Dizisi Oluşturma ve Karıştırma
+Yapay Zeka 6: Koşul Tatmin Problemleri (CSP)
+Dr. Racket (Lisp) 8: Ağaçlar Devam ve Ödev
+Android 10: Activity ve Intent kavramları ve Oyun Kodlaması 1
+Android 11: Oyun Ekranının Tasarımı ve Kendi Resimli Butonlarımız:
+Bilgisayar Mühendisliğini Uzatmak:
+Yapay Zeka 5.8: Simulated Annealing (Benzetilmiş Tavlama)
+Yapay Zeka 5.7: Local Beam Search (Yerel Işın Optimizasyonu)
+Yapay Zeka 5.6: Hill Climbing, Yerel ve Global Optimizasyon
+Yapay Zeka 5.5 : A Yıldız (A*) Sezgisel Arama Algoritması
+Yapay Zeka 5.4 : Sezgisel Fonksiyonların Özellikleri
+Yapay Zeka 5.3 : Sezgisel: Best First Search Algoritması
+Açgözlü Yaklaşımı (Greedy Approach)
+Yapay Zeka 5: Sezgisel Algoritmalar (Parça 1)
+Android 9: Oyun Tasarımı
+Android 8: Uygulamaların Debug Edilmesi
+listelerDr. Racket (Lisp) 7: Ağaçlar
+listelerDr. Racket (Lisp) 6: Listeler
+Dr. Racket (Lisp) 5: Fonksiyonlar
+Dr. Racket (Lisp) 4: Koşullar : if ve cond komutları
+Android 7: Etkinlik Yaşam Döngüsü (activity lifecycle)
+Dr. Racket (Lisp) 3: Dizgiler (Strings) ve Boolean Operatörler
+Dr. Racket (Lisp) 2: Temel operatörler ve prefix notasyon
+Rapid Miner Nominal ve Numerik Dönüşümleri (Eğitim Serisi 18):
+Android 6: Kullanıcıdan Yazı Okuma ve Bileşenleri Görünmez Yapma:
+Android 5: Karakter Oyunu, Butonlar, Aksiyonlar ve Java Sınıfları:
+Oracle, Sertifikalar ve Ünvanlar (Emrah Mete, Oracle ACE)
+Sabit Maliyet Araması (Uniformed Cost Search , UCS)
+Yayılım Öncelikli Arama (Breadth First Search, BFS)
+Derin Öncelikli Arama (Depth First Search, DFS):
+Yapay Zeka 4: Arama Problemleri
+Yapay Zeka 3, Dr. Racket (Lisp) Giriş
+Android 4: Java ile Ekrana Müdahale, R Kaynak dosyaları, listener ve view kavramları:
+Yapay Zeka 2 : Akıllı Ajanlar (Intelligent Agents)
+Android 3 : Ekran tasarımı, xml dosyaları, Layout ve Temel Bileşenler:
+Android 2: SDK, Merhaba Dünya, Studio Ortamı, Emülatör
+Android 1: Mobil Programlama Derse Giriş ve İçerik
+Yapay Zeka 1: Giriş, Dersin İçeriği ve İnsan / Rasyonellik Ayrımı:
+Veri Biliminin Geleceği, Fırsatlar ve Türkiye
+Veri Bilimi ve Türkiye
+Data Istanbul Konuşmasından (Part 3)
+Data İstanbul Konuşmasından (Part 2)
+Oyun Sektörü ve Veri Bilimi (Data Science)
+Soru - Cevap : Bir Öğrencinin Merak Ettikleri
+Bilişim Öğretmenliği ve ilk orta ve lisede bilişim eğitiminin durumu.:
+Ve Kamera Öğrencilerde (İzmir Ekonomi Üniversitesini Gezdirmelerini İstedik):
+Freelance Çalışmak ve Yazılım Sözleşmeleri
+23-24 Ocak 2017 Vodafone Oksijen Ekibi için özel tasarladığımız #YapayZeka Makine Öğrenmesi eğitimindeyiz
+Bilişimde İzmir, İEÜ ve Yazılım veya Bilgisayar Mühendisliği:
+Bilişimde Kariyer, İleri Yaşlar ve Değişiklik
+GGJ2017, Ortamı (Sabah Erken Saatler, İzmir Ekonomi Üniversitesi):
+Oyun Sektörüne Girmek ve Öğrenmenin Yolları
+Oyun Sektörünün Durumu ve Geleceği
+Genç Yaşlarda Ne İstediğine Karar Verememek
+Bilgisayar Mühendisliği ve Akademisyenlik
+Ofis Ortamı (Bilişim Çalışanı Nasıl bir Ortamda Çalışır):
+Sabah 3'te GGJ2017'de Organizasyon Ekibinden Olmak:
+Sabah 2.30'da kod yazmak #GGJ2017:
+Sabah 2.20'de Oyun Geliştirmek:
+Sabah 2.17'de Kod Yazmak
+Sağlık Bilişiminin Geleceği
+Hangi Programlama Dili, Veri Tabanı ve İş Zekası Teknolojisini Kullanıyorsunuz?:
+Bilgilerimiz Güvende mi?
+Bilişim Alanında Girişim ve Kariyer - 2
+Bilişim Çalışanı Alırken Nelere Dikkat Edersiniz?
+Hastane Bilgi Yönetim Sistemleri (HBYS) Nedir?
+Bilişim Sektörü ve Kamunun Etkisi
+Gece 2'de Global Game Jam
+İzmir'deki Probel Yazılım firmasının kurucu ve yöneticisi olan Ziya Bolgönül ile röportaj videosu #Bilgisayarkavramları nda
+İzmir Ekonomi Üniversitesi Bilgisayar Mühendisliği Bölümünün Farkı:
+Türkiye'de Bilişim Dünyası
+Doktora Programı (İzmir Ekonomi Üniversitesi)
+Bilgisayar vs Yazılım Mühendisliği:
+Okurken Çalışmak:
+Doç. Dr. Cem Evrendilek:
+Bilişim Sektörü ve Gençlere Tavsiyeler
+Akademisyen Olmak İsteyen Öğrencilere Tavsiyeler ve Okurken Çalışmak:
+Yazılım Mühendisliği vs Bilgisayar Mühendisliği:
+İzmir Ekonomi Üniversitesi Bilgisayar Mühendisliği Bölümünden Gazihan Alankuş ile röportajımız #bilgisayarkavramları 'nda
+Bilişim Alanında Yurtdışına Gitmek
+Yrd. Doç. Dr. Coşkun Atay
+İzmir ve Global Game Jam Organizasyonu
+Röportajı:
+İzmir Ekonomi Üniversitesi Yazılım Mühendisliği Bölümünden Yrd.Doç.Dr. Kaan Kurtel ile röportaj videosu #bilgisayarkavramları 'nda
+İzmir Ekonomi Üniversitesi Bilgisayar Mühendisliği Bölüm Başkan'ı Cem Evrendilek ile röportaj videosu #bilgisayarkavramları 'nda
+İzmir'e #globalgamejam etkinliği için ( #ggjege #ogt ) mentör olarak geldik. 3 gün boyunca İzmir'deyiz. Video paylaşımlarında bulunacağız
+Data İstanbul etkinliğinin bu haftaki konuşmacısı olarak davet edildik. Videosunu #Bilgisayarkavramları nda bulabilirsiniz
+a röportaj verdik. Videosunu #Bilgisayarkavramları 'nda da bulabilirsiniz.
+Türkiyede Akademinin ve Bilgisayar Mühendisliği Eğitiminin Geleceği:
+Kuantum Bilgisayarları ve Kuantum Hesaplama Nedir?
+Yapay Zeka ve Program yazan Programlar
+Bilgisayar Mühendisliği Okuyanlara Tavsiyeler
+Bilgisayar Mühendisliği Eğitimi
+Boğaziçi Üniversitesi Bilgisayar Mühendisliği bölümünden Prof.Dr. Cem Say hocamız ile röportaj videomuz #bilgisayarkavramları 'nda
+GitHub ve Kodlama Örnekleri
+Data Istanbul'daki konuşmaya kayıt için :
+YBS Okuyanlara Tavsiyeler
+Bilişimde Hangi Sektörün Geleceği daha Parlak?
+Bilişim Alanında Hangi Ülkede Eğitim veya Kariyer?
+Bilişim alanında bölüm Seçimi
+Meslek Hayatınızdaki en büyük Zorluk nedir?
+Mesleğinizde Sizi Mutlu eden şeyler?
+Mezuniyet Sonrası Yeni Şeyler Öğrenmek
+Kişisel Sorular
+İleri Yaşlarda Kariyer Değişikliği ve Bilişim Sektörü
+Abdullah Gül Üniversitesi Bilgisayar Müh. Öğrencileri ile Canlı yayın devam ediyor #bilgisayarkavramları
+Yazılımların Telif, Patent ve Fikir Hakları
+İbretlik bir Metkub ve Sektörün durumu:
+Programcılık Okuyanlara Tavsiyeler
+Siber Güvenlik Anabilim Dalı
+Siber Saldırı Yöntemlerini neden anlatmıyorsunuz?
+Bilgisayar Mühendisliği Lisansüstü Eğitimi:
+Bilgisayar Mühendisliğinde Öğrenci Olmak
+İÜ Bilgisayar Mühendisliği:
+Havelsan Kış Okulu (Son Başvuru 27 Ocakta) :
+Elektronik Mühendisliğinden Bilişim Dünyasına Geçiş:
+İstanbul Üniversitesi Bilgisayar Mühendisliği Bölümü
+Okurken Çalışmak?
+Vakıf ve Devlet Üniversitesini Tercih etmek
+Akademisyen Olmak İsteyenlere Tavsiyeler:
+Bilgisayar Donanımı Konusunda İlerlemek için Bilgisayar veya Elektronik Mühendisliği?:
+Bilgisayar Mühendisliği Öğrencilerine Tavsiyeler
+Yerli ve Başarılı bir İşletim Sistemi Yapmak çok mu Zor:
+Bilgisayar Bilmeden Bilgisayar Mühendisliğine Girmek:
+İstanbul Üniversitesi Dekan Yardımcısı Yrd.Doç.Dr Muhammed Ali Aydın ile röportaj videosu #bilgisayarkavramları
+İstanbul Üniversitesi Bilgisayar Mühendisliği Bölüm Başkan'ı Prof. Dr. Ahmet Sertbaş ile röportaj #bilgisayarkavramları
+Bilişim ve Kariyer Konulu Konuşmamızdan Kısa Kısa
+Türkçe Kod Yazmak ve 1. Sınıfta Çalışmak
+Güvenlik Sertifikaları ve Bilgisayar Mühendisliği Eğitimi
+Yerli Sohbet Platformu ve Yapay Tech Firmasının Maytap Uygulaması:
+Sohbet Robotları ve Yapay Zeka konusunda bir Teknoloji Başlangıç (Startup) firması:
+İki Yıllık Programcılık Sonrası Deneyimler
+İş ilanlarında çok sayıda dil istenmesi ve bir dili çok iyi öğrenmek:
+Yapaytech'den Enes Bulut ile yerli mesajlaşma uygulaması üzerine röportaj #bilgisayarkavramları 'nda
+Yapaytech firma yöneticisi Önder Barış Aşık ile "sohbet robotları" röportajı #bilgisayarkavramları
+Back-end vs Front-end Maaşlar ve Sektördeki Talep
+Yönetim Kariyeri için Endüstri vs İşletme'de Yandal Yapmak
+GoLang ve Okulda Öğretilen Programlama Dilleri Dışında Dil Öğrenmek:
+Programlama Dili sayısını arttırmak mı Mantığını anlamak mı?:
+Akademisyenlik amacıyla hangi alanda Yüksek Lisans yapılır?
+Endüstriye girmek niyetliye Yüksek Lisans yapmak ve dikkat edilecekler:
+Bilgisayar Programcılığı Okuyanlara Tavsiyeler
+Patentiniz ve Şifreleme Alanında Gelişim
+zaman yonetimi:
+Bilgisayar Mühendisliği Sınavlarının Kağıt Üzerinde Yapılması:
+Neden Akademisyenliği Tercih Ettiniz?
+İş Fikri için Üniversiteyi Uzatmak ne kadar doğru?
+Yurtdışında Yüksek Lisans ve Kariyer:
+Bilgisayar Mühendisliği ve Donanım Eğitimi
+İZÜ Kampüs Turu
+Devlet ve Vakıf Üniversitesi Ayrımında İZÜ'de eğitim
+İş Dünyasında Erkekler ve Kadınlar
+İstatistik ve Akademisyenlik
+Makine Öğrenmesi, Finans ve Makroekonomi
+Tump'ın Seçilmesi ve Etkileri
+Nesnelerin Interineti ve Güvenlik
+Yapay Zeka ve Yapay Sinir Ağları ve Gelecek:
+Mimar Sinan Üniversitesi "Veri Madenciliği ve İstatistik" sunum ve soru cevap videoları #bilgisayarkavramları
+Mimar Sinan Üniversitesi'nde "Veri Madenciliği ve İstatistik" üzerine konuşma
+Mutlu Yıllar ve ACM Hacettepe Öğrencileri
+Bilişim ve Hayat (NEÜ Konuşmamızdan satır başları)
+Kar yüzünden ankaradaki etkinliğimiz iptal olmuş. Ben yine de geliyorum, ilgilenen arkadaşlar bana ulaşsın bir yerlerde buluşup görüşürüz.
+Askerliğe gitmek için en uygun zaman?
+Web ve insan arayüzü ve Görsel Tasarım:
+Yazılımın Pazarlanması
+Turist Vizesi ve İş Görüşmesi Yapmak
+İş ilanlarındaki Aşırılık ve Hepsini Öğrenmek?
+Arttırtılmış Gerçeklik (Augmented Reality) ve Geleceği
+Yeni Fikirler ve İzlenecek Yol
+TBMYO'dan Akademisyenliğe
+Siber Güvenlik Kariyeri
+Okurken Açık Öğretim ve/ya Yandal
+Yrd. Doç. Dr. Mehmet Hacıbeyoğlu ile Röportajımız
+#NEÜ bilgisayar mühendisliği bölümü hocalarımızdan Mehmet Hacıbeyoğlu röportajı ve öğrencilerle soru cevap videosu #bilgisayarkavramları nda
+Necmettin Erbakan Üniv "Bilişim ve Hayat"
+Necmettin Erbakan Üniversitesi için Konya'dayız. Video çok yakında #bilgisayarkavramları 'nda
+Konya Necmettin Erbakan Üniversitesi Mühendislik Mimarlık Fakültesi, Konferans Salonu saat 13.00
+#ieee Koç Extend etkinliği kamera arkası. Video #bilgisayarkavramları 'nda
+Halkalı Ziraat Mekteb-i
+#izu soru cevap part1. Video çok yakında #bilgisayarkavramları 'nda
+#izu Kariyer Merkezine (Erbay Aydın Bey ve ilgili arkadaşlara) teşekkür ederiz.
+İstanbulSabahattinZaim ÜniversitesindeBilişimSektöründe Kariyer"konferansındayz #izu videosu çok yakında #bilgisayarkavramları 'nda
+İstanbul Sabahattin Zaim Üniversitesi Kurumsal İletişim ve Tanıtım Daire Başkanı Ebubekir Kalkan röportajından kamera arkası
+Dün İstanbul Şehir Üniversitesi'nde #Bilişimde #Kariyer Toplantısından hatıra fotoğrafımız. Videomuz çok yakında #bilgisayarkavramları nda
+Free Lance, Evden Çalışmak
+C# (C Sharp) Eğitimi 17, LINQ, List ve Generic Tip Kavramlarının Örneklerini yapıyoruz:
+30 Aralık 2016, Mimar Sinan Güzel Sanatlar Üniversitesinde konuşmamız var. Diğer konuşmalar :
+C# (C Sharp) Eğitimi 15, Diziler (Arrays) Uygulamaları:
+C# (C Sharp) Eğitimi 14 Diziler ve Exception (Part 2)
+C# (C Sharp) Eğitimi 14 Diziler ve İstisnalar (Part 1)
+Büyük veri Proje Yönetimi
+Bilgisayar Mühendisliğini Uzatmak
+C# (C Sharp) Eğitimi 13 Metot Uygulamaları
+C# (C Sharp) Eğitimi 12 Metotlar
+C# (C Sharp) Eğitimi 11 Koşullar ve döngü uygulaması
+sabah 5.30, eksi 17 derece, yine kafede mesaj cevaplıyoruz, 150 üzerinde sosyal ağlardan mail/mesaj gelmiş, daha çok çalışacağız :)
+Hacettepe Katılım için kayıt gerekiyor: Diğer konuşma ve konferanslarımız için:
+C# (C Sharp) Eğitimi 10 Koşullar, break, continue, for döngüleri, do-while, Mantıksal bağlaçlar: via
+C# (C Sharp) Eğitimi 9 Koşullar, if-else, while ve Akış Diyagramları:
+Yeni Kurulan Üniversitede Öğrenci olmak.
+İstanbulda Bilişim Çalışanı olmak
+C# (C Sharp) Eğitimi 8 Nesne Sınıf, Constructor ve Encapsulati:
+Siber Güvenlik Savaşları ve Kişisel Mahremiyet
+Öğrenci Projeleri ve Kariyere Etkisi
+Seçmeli Ders seçimi, gerekliliği ve Yüksek Lisansa Etkisi?
+Savunma sanayiinde firma mı Akademik Projeler mi?
+Kodlama Standartları ve Temiz Kodlama
+Oturum Yönetimi (Session) - Java Web Programlama 5
+Java Web Programlama 4, Out, Form ve Request
+Java Web Programlama 2 - GlassFish Sunucusu ve Elle Kontrol Edilmesi:
+Eksi 14 derece....
+Linux#13 Basit Ağ (Network) Komutları
+Linux#12 Grup Yönetimi
+Linux#9 İşlem (Process) Yönetimi ve top, kill, ps komutları
+Linux#11 Kullanıcı Yönetimi
+Linux#10 Dosya Komutları ve Dosya aratma
+Linux#10 vi editörü Kullanımı
+Linux#8 Kapatmak (Shutdown) ve Yeniden Başlatma (Restart)
+Linux#7 apt, tasksel ve sudo komutları
+Linux#6 Temel Komutlar ve LUI
+Linux#5 Ubuntu Ortamının Tanınması
+Linux#4
+Linux#3 Ubuntu İndirilmesi ve Linux Dağıtımları
+Linux#2 Virtual Box Kurulması
+Linux Eğitim Serisine Giriş ve Konular 1
+Linux Röportaj
+Linux Dünyasına Giriş
+YBS Ansiklopedi Eylül 2016, Cilt 3, Sayı 3 geç de olsa yayınlandı :
+void Tipi Nedir? Ne işe yarar?
+Özel/Devlet Üniversitesi Yazılım/Bilgisayar Mühendisliği ve Geçinme Olanağı:
+C++ vs Java, Hangisine Yatırım Yapmalı?:
+İkinci öğretim vs Gündüz eğitim:
+Öğrencilikte Yapılabilecek 13 Şey
+Yeni Başlayan Yazılım Uzmanı, Ne iş yapar? Nasıl giyinir?
+Vize ve Finalleri Yapamamak
+Yönetim Bilişim Sistemleri, Motivasyon ve Alan Seçimi
+Yazılım Maliyet Hesaplaması (Yazılım Mühendisliği 33. Video)
+Sanallaştırma (Virtualization), Bulut Bilişim - 2. Video
+Bulut Bilişim (cloud computing) Kavramlara Giriş
+1 Saatte Kodlama Öğrenin (Çocuklar ve Her yaş için) Tanıtım ve
+1 Saatte Scratch ile Oyun Geliştirmek ve Kodlamaya başlangıç, Kodlama Seferberliği:
+Sanallaştırma (Virtualization), Bulut Bilişim - 2. Video
+Mühendislik Yeterlilik Sınavı ve YÖK
+Bulut Bilişim (cloud computing) Kavramlara Giriş
+Kod Yazma Saatleri ve Ortamı
+1 Saatte Kodlama Öğrenin (Çocuklar ve Her yaş için):
+Yazılım Test Teknikleri (Yazılım Mühendisliği 32. Video)
+Derinleşmek mi Farklı konularda çalışmak mı?:
+Bilgisayar Mühendisliği eğitimi ve her yıl sonundaki bilgi düzeyi
+Yazılı Kültürün Geleceği:
+PHP 2.0 Dünyada ve Genel olarak PHP'nin durumu ve Geleceği:
+Yurtdışında Bilgisayar Mühendisliği Okumak (Soru Cevap)
+Siber Güvenlik Terimlerine Giriş (İşletim Sistemleri 23. Video)
+Hazır Kod Kullanmak? (Öğrencilikte ve İş Hayatında)
+Programlama Dilini Ne Zaman Biliyor oluruz?
+Soru Cevap - Canlı Yayında - 2
+Yurtdışında Dönüşümlü Okumak, Yazılım ve Matematik Bölümleri:
+Üniversitede Kulüpler (kurulabilecek, kurulmasını tavsiye ettiğiniz):
+Hangi Dersi Nasıl Seçmeli?
+Yurtdışına gitmek için hangi dili öğrenmek gerekir (Java, C#, C++, vs?):
+Görüntü İşleme (Image Processing) Soru-Cevap
+üniversitede öğrencilerin çalışma ortamı
+Kariyer Seçimi, Yapay Zeka ve Sosyal Medya Hesapları
+Django 4 - View (Python 9. Video):
+Django 3 - Model (Python 8. Video):
+Django 2 - Web Sunucusu (Python 7. Video):
+Django 1 - Giriş (Python 6. Video):
+Think Tank ve Hesaplamalı Sosyal Bilimler
+Nerede ve Hangi alanda Yüksek Lisans Yapalım? (Bilgisayar Mühendisliği):
+İşletim Sistemlerinde Korunma (Emniyet, Protection) İşletim Sistemleri 22. Video:
+Recursive Fonksiynlar Nasıl Çalışır ve Örnek Kodlama
+2. CanlıYayın denememizde, bilebildiğim kadarıyla canlı olarak soruları cevaplamaya çalışacağım.(Cuma 21.45'te)
+Üniversite Okumak Şart mı?:
+Siber Güvenlik için Bilgisayar Mühendisliği Şart mı?
+Üniversitenin Ücretli Olması ne Kadar Doğru?:
+Hazırlığı bırakıp Türkçe Bölüme Geçmek:
+Siber Güvenlik Alanında Kariyer:
+Yüksek Lisans ve Çalışma Hayatı
+YBS Eğitimi Sonrasında Kariyer- Soru Cevap - Rıdvan Aydın
+Pazarlama Alanında Kariyer ve Bilişim - Soru Cevap -Işıl Saraçoğlu:
+Yazılım Proje Yöneticisi Olmak, Soru Cevap - Işıl Saraçoğlu
+İş Analistliği Üzerine, Soru-Cevap, Gizem ER (Part 1)
+#Yeditepe #üniversitesi #bilgisayar topluluğunun daveti için teşekkür ederiz! Hatıra fotoğrafları söz verdiğimiz için hmn paylaşalım istedik
+#yeditepe #üniversitesi #bilgisayar #topluluğu ile soru cevap. Videosu çok yakında #bilgisayarkavramları
+Bir kaç günlüğüne Türkiye'ye geldim. Gelir gelmez "#Bilişim Sektöründe #Kariyer " sunumu için #Yeditepe #üniversitesine konferansa geldik.
+1 Saatte Kodlama Öğrenme Seferberliği (Her Yaş için):
+Kodlamayı öğrenme seferberliği, günümüzde kodlama öğrenmek okuma yazmak kadar önemli.
+Bilgisayar bilimleri eğitimi haftası kapsamında çok sayıda etkinlik var (5-11aralık) apple'ın ücretsiz eğitimi:
+SCRUM Metodu (Yazılım Mühendisliği 31. Video)
+Bu cuma Yeditepe Üniversitesindeyiz.
+C# (C Sharp) Eğitimi 7 Nesne Yönelimli Programlamaya giriş
+C# (C Sharp) Eğitimi 6 Örnek Kodlama ve Temeller:
+C# (C Sharp) Eğitimi 3 Kod yazmaya giriş ve Temel Kavramlar
+C# (C Sharp) Eğitimi 3 Kitaptan Merhaba Dünya Uygulaması
+C# (C Sharp) Eğitimi 3 Kitaptan Merhaba Dünya Konusu
+C# (C Sharp) Eğitimi 2 ve Temel Bilişim Kavramlarına Giriş
+C# (C Sharp) Eğitimi 1 ve Eğitime Giriş
+Kod Yazmadan Bilişimde Kariyer (Soru Cevap 20 Şubat 2016)
+AES (Advanced Encryption Standard) Kriptoloji 15. Video
+Sektördeki Çekememezlik, Ayak Kayırmalar ve Embesil taklidi yapmak
+Amerika ve Kanada'da doktora:
+Kodlama Örneği: Kruskal Algoritması (Algoritma Analizi 14. Video)
+Kruskal Algoritması (Algoritma Analizi 14):
+Hayattaki Zorluklar ve Üniversiteyi Telafi etmek.
+Araştırma Görevlisi, Zorunlu Hizmet, Yüksek Lisans ve Doktora
+Öğretmen Öğretmez Öğrenci Öğrenir
+Java'da Generic Tipler (Nesne Yönelimli Programlama 23. Video)
+proc Dosya Sistemi (ProcFS), işletim sistemleri 21. Video
+Açık Kaynak Projelerde Güvenlik
+Bilgisayar Mühendisliği ve Ders Projeleri
+Donanım ve Giriş Çıkış Kontrolü (İşletim Sistemleri 20. Video)
+Ekstrem Programlama (Extreme Programming 2) (Yazılım Mühendisliği 30. Video):
+Üniversiteler Zaman Kaybı mı?
+Extreme Programming (Ekstrem Programlama) ve Planlama Oyunu
+Agile Methodology (Çevik Yazılım Geliştirme) (Yazılım Mühendisliği 28. Video):
+CPU Scheduler Örnek Çözümü 5 - Priority Scheduling
+CPU Scheduler Örnek Çözümü 4 - Round Robin
+Bilişim dünyasında sosyal hayatın önemi ve üniversite öğrenciliği
+Üniversite ve Sosyallik
+Yazılım Geliştirme Modelleri, Yazılım Yaşam Döngüsü (SDLC)
+ABET ve MÜDEK Akreditasyon Sistemleri
+BÖTE ve Bilgisayar Öğretmenliği
+Sektör Dinamikleri, Yeni Mezun, İş Bulmak, Rekabet, Sektörün Durumu, Dünya Piyasaları
+Dosya Sistemi Uygulaması (İşletim Sistemleri 19. Video)
+Lise'de Web Programlama mı Veri Tabanı mı?
+Yeni Mezun, İş Bulmak, Rekabet, Sektörün Durumu, D
+Java Kodlama- Tasarım Kalıbı 3 - Player-Role Kalıbı
+Java Kodlama- Tasarım Kalıbı 2 - General Hierarchy (hiyerarşi)
+Kullanıcı Arayüzü Tasarımı ve Use Case'ler (Yazılım Mühendisliği 27. Video):
+Bilişim Dünyasında CV nasıl hazırlanır?
+Java Kodlama- Tasarım Kalıbı 1 - Abstract - Occurence Kalıbı
+Tasarım Kalıbı 10 - Proxy Pattern (Vekil Kalıp)
+Tasarım Kalıbı 8 ve 9 - Immutable ve Read Only
+Cognitive Science (Bilişsel Bilim) üzerine bir iki kelime
+Yurtdışı Yüksek lisans ve Elektronik Mühendisliği
+Dosya Sistemi (File System) İşletim Sistemleri 18. Video
+Disk Yönetimi ve RAID (Veri Tabanı Eğitimleri 8.1)
+Kötü Okul ve İyi Kariyer Mümkün mü?
+Endüstri Mühendisliği ve Bilgisayar ÇAP
+vi editörü Kullanımı
+Sektör Tecrübelerinden Kısa Kısa
+Amerika'da Ne Yapmalıyım?
+Java Öğrenirken Kaynak
+Üniversite Fark Eder mi?
+Paging ve Segmentation Birlikte Kullanılması ve Soru Çözümü
+Segmentation Örnek Çözümü
+Ağ Dersi: Go Back N ve Selective Repeat Kavramları
+Birazdan canlı yayında soru-cevap başlayacağız. ilk canlı yayın denememiz:
+ilk canlı yayın denememiz, youtube üzerinden bir öğrenci arkadaşımızı cevaplamaya çalışacağız (4 Kasım Cuma, 19.00)
+Exception Handling (Hata Yakalama) Nesne Yönelimli Programlama 18. Video:
+Değişim Öğrencisi olmak
+Koddan Karmaşıklık Analizi Yapılması
+Paging (Sayfalama) Örnek Çözümü (İşletim Sistemleri)
+Visual Studio ile C Kodu Yazmak:
+Röportaj, Hüseyin Gülşin'in sorularını cevaplıyoruz.:
+Disk Yönetimi (Mass Storage Management) İşletim Sistemleri 16. Video
+Sakallrımı kestikten sonra microsoft surface'ın beni tanıyamamsı ve yaşadığı bunalım :)
+HTML Giriş (Internet Nasıl Çalışır - 5 )
+ALES hakkında bir iki kelime (Soru Cevap)
+Ve yılın ilk karı düşer
+Büyük Veri: Meslekler, Kariyer ve Nereden Başlamalı?
+CPU Scheduler Örnek Çözümü 4 - Round Robin:
+CPU Scheduler Örnek Çözümü 5 - Priority Scheduling:
+CPU Scheduler Örnek Çözümü 2 - SJF
+CPU Scheduler Örnek Çözümü 1 - FCFS
+Makine Mühendisliği Kariyer Değişikliği ve Bilişim
+Polymorphism (Çok şekillilik) Java ile Nesne Yönelimli Programlama 18. Video:
+Tasarım Kalıbı 7- Delegation (İş Atama) Kalıbı
+İstanbul Şehir Üniversitesi Yönetim Bilişim Sistemleri Bölümü
+Yönetim Bilişim Sistemlerinde İş Bulma ve Devlet/Özel Üniversite
+Büyük Veri, Akademi ve Yönetim Bilişim Sistemleri (Akademik Soru
+İşletme mi Yönetim Bilişim Sistemleri mi? (Soru Cevap 18 Mart 2016)
+Yönetim Bilişim Sistemleri (MIS) Ne İş Yapar? (Soru Cevap 17 Şubat
+Yönetim Bilişim Sistemleri Yüksek Lisansı (7 Aralık 2015 Soru
+Yönetim Bilişim Sistemleri Röportaj (8 Temmuz 2016)
+Yönetim Bilişim Sistemleri Bölümü (Doç. Dr. Selçuk Burak
+Tasarım Kalıbı - 6 Gözlemci (Observer)
+Tasarım Kalıbı 5 - Singleton Pattern
+Tasarım Kalıbı 4 - Oyuncu Rol Kalıbı
+Tasarım Kalıbı 3 - Genel Hiyerarşi
+Tasarım Kalıbı 2 - Abstraction Occurence
+Design Pattern 1 (Tasarım Kalıpları Giriş) Yazılım Mühendisliği 9. Nesne Yönelimli Programlama 11:
+Inheritance ve Overriding (Java ile Nesne Yönelimli Programlama 10. Video):
+Mühendislik binasını girişide çalışmaktan yorulan ve yerlerde yatan öğrenciler
+Şifreleme/Kriptoloji ve internet üzerinde güvenlik (Internet Nasıl Çalışır 12):
+Hash Table Kodlaması (C ile) Veri Yapıları 24. Video:
+Hash Table (Karım Tablosu, Özet Tablosu) Veri Yapıları 22. Video
+Üniversitedeki odadan Son bahar görüntüsü
+Kamuda Bilişim Çalışanı olmak
+An itibariyle hazan yağmuru
+Outlier (Ayrkırılık) Yakalama Algoritmaları:
+Üniversitede Boş Vakitlerde ne Yapalım?
+Açık Öğretimde de Okumak
+Bir Günde Programlama Dili Öğrenmek, Hangi Dil Başlamak için iyidir?:
+Bilgisayar Mühendisliği Bitiyor mu? İşsiz Kalmak ve iş bulamamak.
+UML ve Kodlama (Part 2) Yazılım Mühendisliği 8. Video:
+YBS Röportajı ( Sitesi'nden gelen talep için yapılan):
+Internette Arama Nasıl Yapılır? Arama motorları Nasıl çalışır? (Internet nasıl çalışır 11. Video):
+Java 25 - Recursive (Özyineli) Örnek Çözümü:
+Java 24 - Rekürsif (Özyineli, Recursive) Fonksiyonlar:
+Java 23 - Diziler Örnek Çözüm:
+Java 22 - Örnek Çözümleri : Fibonacci Serisi, Döngüler ile:
+YouTube'ta çektiğim videolar (600 adet) ve oynatma listeleri, yazılan kodların indirilebileceği liste.Sırasına göre:
+UML (Part 1) Yazılım Mühendisliği 7. Video:
+Hafıza Yönetimi (Memory Management) İşletim Sistemleri 14. Video:
+Hocalardan Korkmak ve Soru Soramamak
+Endüstri Mühendisliği, Yapay Zeka ve Girişimcilik
+Yapay Zeka (oyunlar, sektör ve nereden öğrenilir?) Soru Cevap
+Yapay Zeka Röportajı
+Yapay Zeka Dersi Tanıtımı
+Hocalardan Korkmak ve Soru Soramamak:
+Deadlock ve Banker's Algoritması (İşletim Sistemleri 13. Video):
+Mobil Programlama(Android) Ders Tanıtımı
+Obama uyarıyor: yapay zeka, iş inkanlarının azalmasına sebep olabilir.
+MySQL 8 - Outer Join Kurulması (Left ve Right Outer Join):
+MySQL 7-Foreign Key ve 3 Tablo Join edilmesi:
+R-project temelgiriş.Vektör #sequence #string #mantık #operatörleri#programlama ortamı #bilgisayarkavramları
+Internet Güvenliği ve Kişisel Önlemler (Internet Nasıl Çalışır 10. Video):
+Hiç bilmeyenler için #programlama ortamının(#NetBeans)kurulması #java eğitim serisi 5. video #bilgisayarkavramları
+Deadlock ve Banker's Algoritması (İşletim Sistemleri 12. Video):
+Örnek Soru Çözümü (fork() fonksiyonu ile) İşletim Sistemleri 12. Video:
+E-Posta (e-mail) Nasıl Çalışır? (Internet Nasıl Çalışır 9):
+fork() fonksiyonu ve İşlem (Process) üretilmesi (işletim sistemleri 11. video):
+Java 21 - Metot ve Fonksiyonlar:
+Java 20 - break ve continue komutları.:
+Java 19 - Örnek Soru Çözümü (Döngüler):
+Java 18 Döngü Örneği ve Sorular:
+Java 17 Örnek Çözümü (if-else):
+Java 16 - Kullanıcıdan sayı okumak ve If else Part 2:
+#HTML nedir?Web sayfası programlaması. (İnternet Nasıl çalışır serisinin 5.videosu) #bilgisayarkavramları
+#digital tasarım #lojik #devreler #karnaugh #haritaları kullanımı,doğruluk çizelgesi #Bilgisayarkavramları
+HYIP (Yüksekl Gelirli Yatırım Planları) - Soru Cevap:
+Java 15 - Koşullar (if - else if - else Yapısı)
+Java 14 - Döngüler (Loops):
+Java 13 - İşlemler (Operators):
+Java 12 - Diziler (Arrays):
+Java 11- String (Dizgiler):
+Java 10 - Değişkenler:
+Java 9 - Yorum Eklemek:
+Java 4 - Java için ne Gerekiyor?:
+Java 8 - Merhaba Dünya:
+Java 7 - Netbeans Programlama Ortamı (hiç bilmeyenler için)
+Java 6 - Netbeans Kurulumu (hiç bilmeyenler için)
+Java 5 - Programlama Ortamının Kurulması (Hiç Bilmeyenler için):
+Java 3 - Neden Java ? (Hiç bilmeyenler için)
+Java - 2 (Java Nedir?):
+Java - 1 (Programlamaya Giriş)
+Akademik Danışmanlık ve Hocaların Derse Girmemesi:
+Amerika'da ders vermenin avantajlarından: bir kitabı okutmayı düşünüyorum diyorsunuz ve size ücretsiz yollanıyor
+MySQL Join Kurulması (Eğitim Serisi 6. Video)
+Makaleler, Akademisyenlik, Hesap verilebilirlik ve Doçentlik Üzerine:
+Temel #phyton #programlama eğitimi 2. Video #string #indentation #if yapıları #bilgisayarkavramları
+Makaleler, Akademisyenlik, Hesap verilebilirlik ve Doçentlik Üzerine:
+Akademisyenlik ve Makale Okumak
+Karnough Haritları (Karnough Map):
+HTML Formları (HTML 4. Video) (Internet Nasıl Çalışır 8. Video)
+Hocaların Makalelerini Nereden Okuyabiliriz?:
+CSS ve Stillere Giriş (HTML 3. Video) - Internet Nasıl Çalışır 7. Video:
+CPU Zamanlama (Scheduling) Algoritmaları:
+2. Yabancı Dil olarak hangi dili öğrenmeli?
+Java Web Programlama ve Veri Tabanı Bağlantısı (JavaDB)
+Yazılım Mühendisliği Dersleri ve Bir Örnek olarak Kırklareli Üniversitesi:
+Java Thread'ler (İşletim Sistemleri 7, Java Eğitim Serisi 9. Video)
+Senkronizasyon (Çoklu İşlemlerde , Process ve Thread), İşletim Sistemleri 6. Videosu:
+"settings"> "privacy" > "location services" > "system services" altında bulunan "Frequent locations" seçeneğini kapatabilirsiniz.
+iphone'ların içerisinde gizli bir haritada bulunduğunuz yerlerin geçmişi ve tarihleri/saatleri tutuluyor. Bunu kapatmak için
+Sistem Tasarımı ve Modellemesi (Yazılım Mühendisliği 5. Video):
+HTML Giriş 2 (Internet Nasıl Çalışır 6. Video):
+Java Web Programlama Giriş 1 (JSP ile)
+Akademisyen olmak için Üniveriste Tercihi (y.lisans ve doktora seviyesinde):
+Yurt Dışında Akademik İş Bulmak ve Hoca olarak Çalışmak:
+Youtube'dan gelen istekler:
+Thread (İplik) Kavramı ve Multi Threading (İşletim Sistemleri 5):
+Tercihler, Hangi Üniversitede Bilgisayar Mühendisliği veya Bilişim
+Mühendislik Nedir? Mühendis Kimdir?
+Programcılık vs Mühendislik:
+Açık ve Uzaktan Eğitim , ve Akademisyenlik:
+Ana Dilde Eğitim mi İngilizce Eğitim mi?:
+Soru: Amerikadaki başkanlık yüzleşmeleri (Clinton vs Trump) neden üniversitelerde oluyor sizce?
+Ve Maaşlar ... (Soru Cevap):
+Bilişimde Hangi Konuda Çalışacağıma Karar Veremiyorum?
+Öğrenci Kulüpleri ve Üniversitede Sosyalleşmek:
+Akademik Alanda Gelişim
+HTML Giriş (Internet Nasıl Çalışır - 5 )
+Sistem Analistliği, Analiz Raporları ve İster Analizi (Yazılım Mühendisliği 3):
+Yeni bir fikri olmak, girişimcilik, finansal destek bulmak ve iş planı hazırlamak.
+İş Planı (Business Plan) ve Girişimci Olmak
+Not Ortalaması ve Bölüm Birinciliğinin Önemi:
+C Dilinde Standartlar ve Kaynaklar (Soru-Cevap):
+WWW Nedir? (Internet Nasıl Çalışır - 4)
+İşlem Yönetimi-Process Management (İşletim Sistemleri 3)
+Python 5: Hash Table / Dictionary kavramı ve basit komutlar
+İşletim Sistemlerinin Özellikleri ve Çekirde (Kernel) Kavramı (işletim Sistemleri Eğitimi 2. Video):
+Yazılım Süreçleri (Yazılım Mühendisliği Dersleri 2)
+Ağ Protokolleri (TCP/IP) (Internet Nasıl Çalışır Serisi 3)
+NAT Nasıl Çalışır? (İnternet Nasıl Çalışır Eğitim Serisi 2 ek video):
+Ders Çalışmanın Zor Gelmesi ve Bilgisayar Mühendisliği (Soru
+Yönetim Bilişim Sistemleri (MIS) Ne İş Yapar? (Soru Cevap 17 Şubat
+Girişimcilik ve Girişimcilik Bölümü Tercihi (Doç. Dr. Erkan
+Internet Protokolü, DNS ve Alan isimleri (Internet Nasıl Çalışır 2):
+Yazılım Mühendisliği Nedir (Yazılım Mühendisliği Eğitim Serisi 1):
+#kriptoloji (#şifreleme)eğitim serisi giriş Sezar/kaydırma şifrelemesi #bilgisayarkavramları
+Yücel Yüksel - Çalık Holding - Röportaj 24 Şubat 2016
+İbrahim Oral Emül (THY İş Zekası Müdürü) ile Büyük Veri ve
+Akademik Kadrolar ve Akademisyenlik (Soru Cevap 29 Mart 2016)
+Internet Nasıl Çalışır 1 (Ağ Teorisine Giriş) Temel Kavramlar:
+MySQL 5 - Birincil Anahtar (Primary Key):
+MySQL 4 - Tablolarda Yapısal Değişiklik (Alter) ve Tablonun Silinmesi (drop):
+MySQL 3 Silme (Delete) ve Veri Değiştirme (Update):
+İngilizceyi Nasıl Geliştirebiliriz? ve Hazırlık Okulları:
+Programlamaya Ara Verince Unutur muyuz? Askerlik için en iyi zaman?:
+#bilgisayarmühendisliği derslerine Nasıl çalışılr?İnternet siteleri vb #bilgisayarkavramları
+Akademik personel alımında dikkat edilecek hususları konuşuyoruz.
+Yazılım Zor mu?:
+Büyük Şehirde vs Küçük Şehirde Bilgisayar Okumak:
+Amerikada Bütünleşik Doktora Kabul Almak:
+#büyükveri ve #hp firmasının #vertica ve #IDOL ürün linkleri videoda #bilgisayarkavramları
+Amerikada Yüksek Lisansa Kabul almak ve İş bulmak:
+#bilgisayarmühendisliği eğitim içerği ne olmalı?Temelde nelr bilnmeli? #bilgisayarkavramları
+Nasıl bir toplum istersiniz? kendisi düşünen,üreten,kendi sözünü söyleyen bir toplu mu? Başkalarının sözünü tekrarlayan bir toplum mu?
+MySQL ile SQL Komutlarına Giriş (MySQL Eğitim Serisi 2):
+Çiçek Sepeti ve Yazılım Dünyası, Teknoloji Direktörü Boğaç Öznalçın:
+Çiçek Sepetinde Yazılım Geliştirmek ve Kıdemli Yazılım Uzmanı Çağrı Şişman:
+Çiçek Sepeti Akademi Programı ve Yazılımcı Olarak Kariyere Başlamak:
+MySQL Giriş Kurulum ve MAMP Paketleri (MySQL Eğitim Serisi 1):
+#Bilişim dünyasında #çalışanlar kararlara ne zaman dahil edilmeli? Ve #yönetici tipleri. Hoy-Tarter Yöntemi (#ybs)
+Çalışanlar Kararlara Dahil Edilmeli mi? (YBS Videoları 3)
+Bilgisayarlı Argüman Delfi Yöntemi (Computerized Argument Delphi)
+McGregor'un Teori X ve Teori Y yönetimi (Yönetim Bilişim Sistemleri)
+#java eğitim serisi giriş videosu (kurulum, netbeans, IDE) #bilgisayarkavramları
+Bosna veya Türki Cumhuriyetleri, Balkanlar veya Ora Asyada Bilgisayar Mühendisliği okumak?:
+Dev-CPP kurulumu ve C kodu derleme:
+#endüstri mi #bilgisayar #mühendisliği mi #girişimcilik #yapayzeka için#bilgisayarkavramları
+IBM'in büyük veri üniversitesi ücretsiz olarak 400.000 kişiye eğitim veriyor tavsiye ederim.
+#stajokulu kısa kısa (@stajokulu16)
+2016 Staj Okulu - Kısa Kısa:
+29 Ağustos 2016, son gün, merkezi yerleştirme ile yatay geçiş için ve diğer geçiş imkanları için:
+Yatay-Dikey Geçiş, ÇAP yandal ve Mühendislik Tamamlama:
+Çalıştığım Üniversites : Smith College Hakkında
+Hangi Filimleri Tavsiye edersiniz?:
+C ile Programlamaya Giriş 10 : Dosyalar (File):
+Lambda Calculus ve Fonksiyonel Programlama (Java Eğitim 8) Part 2/2
+Nasıl bir Bilgisayar Almalı?:
+Yapay Zeka Röportajı:
+Öğrencilkte hangi alanlara yönelmeli?#yapayzeka #verimadenciliği #java #bilgisayarkavramları
+Bilgisayar Mühendisliği ve Bilimleri Nedir?
+#bilgisayarkavramları mola köşesinde #uzaktaneğitim #kariyer planlaması üzerine sohbet
+#bilgisayarmühendisi olmak ve #yazılım geliştirmek üzerine röportaj #bilgisayarkavramları
+Hazırlık okumalı mı? Bilgisayar mühendisliğinde ilk sene neler bekliyor? Yazı nasıl geçirmeli?
+Bilgisayarı Kazandık Peki ya sonra?:
+Bu yıl @istanbulsehir #üniversitesi nde gerçekleştirilen @stajokulu nda sunuma başladıkVideosu #bilgisayarkavramları
+Sabah Çiçeksepeti'ne ziyarete, öğleden sonra da hakemlik için İstanbul Üniversitesi Teknokent'e geldik
+Bugün @ciceksepeti 'nde kariyer,staj,iş imkanları üzerine sohbet ettik. Video çok yakında #bilgisayarkavramları nda
+Dengesiz Veri Kümeleri (Imbalance/Unbalanced Data Sets):
+kişisel bilgisayarlarda ilk virüs 82 yılında 9. sınıf öğrencisi tarafından şaka için,ilk dos virüsü ise 86 yılında pakistanda yazılmıştır
+Veri Tabanı Normalizasyon (Nomal Form'lar) Ek Video:
+Rapid Miner Algoritmaların Karşılaştırması (ROC) (Eğitim Serisi 17):
+Rapid Miner Verinin Bölünmesi ve Performans Ölçümü:
+Rapid Miner Makine Öğrenmesi Modelleri ve Veriye Uygulanması (Eğitim Serisi 15):
+Rapid Miner Model Oluşturma ve Sonuçların Kayıt Edilmesi (Eğitim Serisi 14):
+Bilgisayardan Anlamdan Bilgisayar Mühendisliğine Gidilir mi?:
+Matematik Bilgisayar için Gerçekten Gerekli mi?:
+C ile Herşey Yazılır mı? C ile İşletim Sistemi ve GUI Kodlamak (Soru Cevap):
+3. Sınıf Bilgisayar Mühendisliği ve Alttan Dersler (Soru Cevap):
+Rapid Miner Zaman Serisi Analizi:
+Bilgisayar Mühendisi olmak ve Yazılım Geliştirmek:
+Pamukkale Üniversitesi #ekonomi yaz seminerleri #veri #madenciliği ve #pazarlama #zekası #rapidminer sınıf hatırası
+Pamukkale Üniversitesi Bilgi İşlem Daire Başkanlığı İş Zekası Birimi röportajı @
+PAÜ Yazılım Teknolojileri:
+PAÜ İş Zekası Birimi:
+Bilgi İşlem Turu, PAÜ Bilgi işlem dairesi
+Veri Madenciliği Yaz Okulu Dersleri Giriş:
+Pamukkale Üniversitesi Bilgi İşlem Daire Başkanı Dr. Abdulkadir Yaldır ile:
+Pamukkale Üniversitesi Bilgi İşlem Daire Başkanlığı davetinden bir kare
+Rapid Miner Döngü ve Dallanma (Loop, Branching) Eğitim Serisi 13:
+Pamukkale Üniv. Ekonomi Yaz Seminerleri (EYS) kapsamında Veri Madenciliği-Pazarlama Zekası derslerine başladık
+Rapid Miner Değişkenler (Macro) Eğitim Serisi 12:
+Rapid Miner, Boyut Döndürme (Pivot) (Eğitim Serisi 11):
+Rapid Miner Normalizasyon (Normalization) (Eğitim Serisi 10):
+Rapid Miner Eksik Veriler ile Uğraşmak (Eğitim Serisi 9):
+Tanıtın günü görevi, saat 14.30'a kadar istanbul şehir üniversitesindeyim. Beklerim.
+Rapid Miner, Basit Veri Madenciliği ve Karar Ağacı Uygulaması (Eğitim Serisi 8):
+Rapid Miner Ayrık Veri ve Hedef Tanımlaması (Eğitim Serisi 7):
+Rapid Miner, Özellik Üretimi (Generate) (Eğitim Serisi 6):
+Rapid Miner, Join ve Aggregate işlemleri (Eğitim Serisi 5):
+Rapid Miner Filitreleme ve Sıralama (Eğitim Serisi 4):
+Rapid Miner Repository Veri Yüklenmesi (Eğitim Serisi 3):
+Rapid Miner 2 Ekranları ve Ortamı Tanıma:
+Rapid Miner 1, Giriş ve Yazılım Hakkında:
+#ueniversitetercihleri #üniversite #bölüm #tercih #ösym #sınav hakkında #bilgi
+Girişimcilik ve Girişimcilik Bölümü Tercihi (Doç. Dr. Erkan Erdemir):
+bugün yarın ve çarşamba şehir üniversitesinin tanıtım günleri diye birşeyi için altunizadedeyim, yolu düşeni kahveye beklerim.tanıtım bahane
+Bilgisayar Alanında Üniversite Tercihi, Soru Cevap 2016
+Python 4: Listeler ve Dizi Yaklaşımı
+Dünyada iki tip insan vardır: eksik verilerden tahmin yapabilenler
+Python 3: Biraz daha Dizgiler ve Dizilere Giriş
+Acı Gerçekler ve Bilgisayar Mühendisliği (Soru Cevap 13 Temmuz 2016):
+Temel Dizgiler, if Yapıları, Bloklar (Python Eğitimleri 2)
+Python Giriş ve Temeller (Python Eğitimleri 2):
+Silikon vadisine nasıl gidilir? Nasıl iş bulunur? (Soru Cevap 9 Mart
+Prof. Vasif Nabiyev Hocamız ile Söyleşimiz (KTÜ Bilgisayar
+Kamu Yönetimi ve Bilişimde Kariyer (Soru Cevap 5 Mart 2016)
+Sözel Bölüm ve Bilişim'de Kariyer (Soru Cevap 20 Şubat 2016)
+Bilgisayar/Endüstri Mühendisliği ve İşletme Kariyeri (Soru Cevap
+Türkiyede Matematik Bölümleri ve Bilgisayar (OGÜ Soru Cevap Part
+Kariyer mi Mutluluk mu? (Soru Cevap 6 Mart 2016)
+Bilgisayar Mühendisliği ve Matematik (Soru Cevap 30 Ocak 2016)
+Üniversitelerin ne farkı var? (Soru Cevap 5 Şubat 2016)
+Bilgisayar Programcılığı vs Mühendisliği (Soru Cevap 1 Mayıs
+Matematik Mühendisliği (Bilgisayar Kavramları Mola)
+Adli Bilişim Mühendisliği vs Bilgisayar Mühendisliği (Üniversite
+Yönetim Bilişim Sistemleri Bölümü (Doç. Dr. Selçuk Burak
+Yönetim Bilişim Sistemleri (MIS) Ne İş Yapar? (Soru Cevap 17 Şubat
+İşletme mi Yönetim Bilişim Sistemleri mi? (Soru Cevap 18 Mart 2016)
+Uzaktan Eğitim ve Yönetim Bilişim Sistemleri
+İstanbul Şehir Üniversitesi Yönetim Bilişim Sistemleri Bölümü
+Lambda Calculus ve Fonksiyonel Programlama (Java Eğitim 8) Part 2/2:
+Yapay Zeka (oyunlar, sektör ve nereden öğrenilir?) Soru Cevap
+Lambda Calculus ve Fonksiyonel Programlama (Java Eğitim 8) Part 1/2
+113. maili de cevapladım ve bitti (nisanda main atıp yeni cevap yazdıklarım lütfen darılmasın) youtube yorumlarını daha hızlı cevaplıyorum
+Youtube İzleyici maillerine cevap (52 mail cevapladım,mayıs ayına yeni geldim) (starbucks, Umass gezisi sonrası)
+Yönetim Bilişim Sistemleri Röportaj (8 Temmuz 2016)
+Bilgisayar Mühendisleri Ne İş Yapar?
+Elektronik vs Bilgisayar Mühendisliği (Üniversite Bölüm Tercihi)
+1.Sınıf #bilgisayar #mühendisliği öğrencisi nereden başlamalı,neler yapmalı?(#Esogü) #bilgisayarkavramları
+Yazılım Mühendisleri ve Bilgisayar Mühendisleri ne kadar maaş alır?:
+Bilgisayar Mühendisliği tercihi, ingilizce, 2. yabancı dil, donanım, uygulama geliştirme:
+Programlamayı Nasıl Geliştiririz?
+Endüstri Mühendisliği, Yapay Zeka ve Girişimcilik
+Bilgisayar Mühendisliği Tercihi ve Bölümdeki Akademik Kadro:
+Lisede Program yazmak ve Siber Güvenlik ve Bilgisayar Mühendisi olmak:
+Python Giriş ve Temeller (Python Eğitimleri 1):
+MyNet Vidobu Projesi Yöneticisi Hakan Çamoğlu ile Röportajımız:
+Mühendisler Başka Ne iş yapar? (Soru Cevap 27 Haziran)
+Müşteri Kayıp Analizi (Customer Churn Analysis) Rapid Miner Eğitimi 7:
+Zuckenberg,webcam ve mikrofonunu banlıyormuş,artık moda olur herkes 300 milyar dolarlık şirket yönetiyor zaten
+Yazılımın Bireysel olarak Pazarlanması (Soru Cevap)
+İş Zekası ve Veri Ambarı Uzmanlığı #businessintelligence #datawarehouse videosu @bilgisayarkavramları
+Bilgi Güvenliği Alanı (Bilişim Meslekleri)
+Roksit DNS, Kurucusu Erhan Yüksel Anlatıyor
+Veri Yönetimi Üzerine, Ahmet Tekin, Kontra Dijital Servisleri
+Ofis Turu , Kontra Dijital Servisleri:
+Master Theorem (Ana Teorem) (Algoritma Analizi 12):
+İşletim Sistemlerine Giriş 2 (İşletim Sistemleri 2)
+İşletim Sistemlerine Giriş (İşletim Sistemleri 1)
+Matematik Mühendisliği (Bilgisayar Kavramları Mola)
+Matematik Mühendisliği bölümü (Doç.Dr. Ayla Şaylı ile) tanıtım videosu kamera arkası, video çok yakında.
+Kavala Yunanistan Turu (Motovlog Denemesi 2):
+Ve sosyal Hayat, Uçmak Dere Virajları (ilk motovlogging denemesi)

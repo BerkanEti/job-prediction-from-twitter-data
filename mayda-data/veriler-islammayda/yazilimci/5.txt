@@ -1,0 +1,511 @@
+Eğer bir kodun anlaşılması için dökümantasyona ihtiyaç duyuluyorsa, bunun çözümü öncelikle dökümantasyon değildir. Uncle Akın Abi :) @kaldiroglu
+Faydalı olması dileğiyle. “Flutter ve Sqlite ile Todo Uygulaması” - İbrahim Kürce tarafından
+Sevgili kod geliştiren arkadaşlarım; en azından sayfanın çalışan halinin bir benzerini tasarım haline de yansıtırsanız, sizden sonra bu sayfaların bakımını yapacak arkadaşlara büyük bir iyilik yapmış olursunuz.
+En hoşlanmadığım şeylerden biri de Mobil/Webte bir sayfanın tasarımına giriyorsun,hiçbir şey yok gözükmüyor. Aynı sayfanın bir de çalışan haline bakıyorsun, bir sürü iş yapan dopdolu bir sayfa. Ama hangi input nerede hangi alan kimi gösteriyor tasarımdan hiçbir şey anlayamıyorsun
+#iyikivarsınEren Allah rahmet eylesin sana.
+Eğer mümkünse işlerin yazılımcının/benim elimde olmasını tercih ediyorum. 2 yerde de tanıma gerek olmuyor.
+Dışardan alınırken hangi menüye tıklayınca hangi sayfayı açacağını da söylüyoruz. Ben bu sayfayı kafama göre değiştiremem, kodda muhakkak bir karşılığı olmalı. Buna gerek yok bence. Menünün İd'sini dışardan alsın tamam ama hangi sayfayı açacağına kod içinde biz karar verelim.
+Dışardan bir konfigürasyon ayarı değiştirilirken içerdeki kod da değiştirilecekse o konfigürasyon dışarda değil yazılımın içinde olmalıdır. En azından yazılımcının kontrolünde olur işler. Şöyle örnek vereyim; mobil uygulaması menü yapısını ağaç şeklinde dışardan alıyoruz.
+Sürekli SMS/Mail/Bildirim ile rahatsız ederek bir şey yaptırabileceğini düşünen şirketleri anlamakta zorlanıyorum. Kara listeye eklenmekten başka bir işe yaramıyorsunuz, bunu bilin.
+Pilotlara bir şey olmasın da Allah'ın izniyle telafisi yapılır. Geçmiş olsun, nazarlık olsun.
+Bir de yazılımcılar.
+Devlet kredileri düşürdü, müteahhitler ev fiyatlarını artırdı. Bizim sitede bile ev fiyatları 100bine yakın artırdılar. Devletin yapması gereken ya kredileri geri yükseltmek ya da fiyatları şişiren bu adamlara gerekli cezaları vermek.
+Faydalı olması dileğiyle. “Android Kotlin, Dagger 2, Dependency Injection Örneği” - İbrahim Kürce tarafından
+Yıl 2020, hâlâ kod satırları arasında yorum yapılmış kodlar görüyorum. Yapmayın böyle güzel arkadaşlarım, silin gitsin. Git kullanıyoruz sonuçta değil mi?
+Ah o "anlaşılmamak üzere yazılan kodu" yazan developer'ı kaynanası kovalasın.
+İki türlü kod vardır; bir anlaşılmak üzere yazılan kod, bir de anlaşılmamak üzere yazılan kod.
+Gerçekte,
+Reklamlarda,
+Kısa bir süre sonra, bu yapılan yeniden yazmanın da işe yaramadığı anlaşılacak ve tekrardan yeniden yazma yoluna gidilecektir. Yaşayarak ve çevremizden bunun böyle sonuçlandığı birçok örnek gördük. O yüzden "yazılımda hızlanmak istiyorsan yavaşla" diyoruz.
+Temeli güzelce oturttuktan bir süre sonra, o sabırsız müdürlerinizin görmek istediği ekranların çok hızlıca meydana çıktığına şahit olacaksınız. Aksi takdirde yeni yapılan iş de yığın üzerine yığın konulan molozlar gibi olacaktır.
+Projeyi yeniden yazmak da böyle olmalıdır. İlk başta çok yavaş ilerlenmeli ve temel mümkün olduğunca sapasağlam atılmalıdır. Bir an önce ekran görelim hastalığına kapınılmamalı, her şey olduğunca nizami yapılmaya gayret edilmelidir.
+Bir süre sonra bilir ki; hareketleri hızlanacaktır, adımlar daha çabuklaşır ve koşmaya dönüşür. Ameliyat sonrası ilk hali aklına gelmez artık.
+Bir yazılım projesini yeniden yazmayı, ameliyat olmuş bir insana benzetebiliriz. İnsan, ameliyat sonrası yavaş yavaş da olsa her gün küçük adımlarla hareket eder. Acele etmez çünkü acele ederse ters bir harekette kendini daha kötü sakatlayabileceğini bilir.
+Generic'leri aşırı kullanmak over-engineering oluyor bence. Bir süre sonra yazandan başka kimse - belki kendisi de - kodu anlayamıyor. Bazı durumlarda Generic ile daha az kod yazılsa da, basitlik adına normal yöntemleri kullanmakta fayda var. @kaldiroglu abi siz ne düşünürsünüz?
+Kod yazmak bence çok önemli. Bir insan yazılım üzerine mimar gibi bir pozisyonda da olsa, günün bir kısmını - mesela 2 saat gibi - kod yazmaya zaman ayırmalı. Diğer türlü aldığı kararların çok sağlıklı olacağını düşünmüyorum.
+Çocukken biz de uğraşırdık İHA ile, elimizden tutan olmadı :)
+Herkesin Ramazan Bayramını kutluyorum, bayramımız mübarek olsun.
+Şöyle bir yazı paylaştım. Faydalı olması dileğiyle. Kotlin, ViewModel, LiveData, Room Database Örneği
+Hayvanlar şehri çizgi filminde memur olarak Tembel Hayvanı seçmişler, tesadüf mü acaba :)
+Yazılıma nereden başlanmalı? Net birşey demek zor, daha küçük yaşlar için belki Scratch doğru adım olabilir. Ben üniversitede C dili sınavından sıfır alarak başlamıştım :)
+Kalite zaman alır, en çok da yazılım projelerinde.
+Android geliştirici arkadaşlara duyurulur.
+Şöyle güzel bir resme denk geldim. Belirli bir seviyeye gelmiş projeye dahil olmuş yazılımcı da diyebiliriz :)
+Son golü tekrar biz atınca da, en azından rakibe bir şans daha verdik diye kendimizce mutlu olurduk. Rakip ise yenebilmek için bir şans daha bulduğu için mutlu olurdu. Zaten yenilmiş oldukları için de üzüntüleri bir nebze azalırdı. Böyle düşünceli çocuklardık biz :)
+Çocukken arkadaşlar ile maç ederken, skor farkı bazen çok açılırdı. Bunun üzerine maçın sonlarına doğru, "atan kazansın" derdik ve böylece rakibe bir şans daha verirdik. Son golü rakip atıp kazanırsa mutlu olurdu, biz de zaten yenmiştik diye çok üzülmezdik.
+Gizli Sayılar güzel bir film. Fortran yazma isteği doğuruyor insanın içinde.
+Çocuklar için güzel bir kaynak. Her yaşa uygun var. Evde kaldığımız şu dönemlerde can kurtarıcı.
+Önceki şirketimde, iyi bir mimar abinin kurduğu monolitik bir yapı üzerinde çalışmıştım, daha sonraki şirketlerimde değişik mikroservis yapıları gördüm ama bu monolitik yapı gördüğüm sistemlerden hâlâ en iyisidir. Hâlâ da çalışmaktadır.
+Bu yazı dizisini Medium üzerinde de okuyabilirsiniz.
+Neticede, bir işte başlayıp oradan devam edebilirsiniz. Kader karşınıza değişik fırsatlar çıkarır ve siz de istekli olursanız benim gibi farklı dallanmalar da yapabilirsiniz. İkisine de saygım sonsuz. Sonuçta önemli olan ne yapıyorsak elimizden geldiğince onu kalite yapabilmektir
+Değişik şirketlerde iyi yazılımcılar gördüm ama yaptığı işe en ince ayrıntısına kadar hakim yazılımcı pek az gördüm. Genelde benim gibi biraz ondan biraz bundan bilen ama bir şeyi derinlemesine tam bilemeyen tipler :) Ama yine de derinlemesine öğrenmeye çalışırım.
+Çoğu zaman, "bir alan seçip oradan mı devam etmem daha doğru olurdu" diye sorarım kendime. Hala kafamda netleştiremedim bunu. Türkiye'nin sorunu bence biraz da bu. Bir işte uzmanlaşmış ve en ince ayrıntısına kadar hakim yazılımcılara ihtiyacımız var bence.
+Yazılım zaten yeteri kadar yorucu olduğundan, bir de farklı dillerde/platformlarda tekrar tekrar öğrenme aşamasından geçmek daha yorucu olabiliyor. Bazen her şeyi bırakma isteği doğuyor insanın içine.
+Kötü yöneticiler soruna neden olabiliyor. İlk defa mobil projemizi yaparken, bizi eğitime bile göndermeyen ve işi beceremeyeceğimize inanan bir müdürle çalışıyorduk. Gelip gidip laf sokardı, yapamazsınız diye ama Allah'a şükür mor suratını görmek nasip oldu.
+Yeni dil/platform öğrenmek demek hafta sonlarının bir kısmını da bu işler için ayırmak demektir. Çocuklarının zamanından çalmak zorunda kalıyorsunuz. Hanımdan fırça yiyebiliyorsunuz.
+Peki şimdi böyle fazla dallanmanın olumsuz yanları hiç yok mu? Olmaz mı. Öncelikle kafada saç kalmadı. Bakmayın resmime, biraz eski kaldı o :) Özellikle sıkışık zamanlarda yeni bir dil öğrenip onunla proje yapmaya çalışmak çok strese neden oluyor.
+Kariyer fırsatlarını da daha çok artırıyor. Bilgisini tazelemediği ve kendini geliştirmediği için iş değiştiremeyen birçok insan tanıdım.
+Bilgi kırıntılarının bile boşa gittiğini düşünmüyorum. Bir dili/platformu kullanırken, ilerde bu nerede işime yarayacak diye ona kem gözle bakmıyorum. Yeni şeyler öğrenmek insanı dinç tutuyor.
+Şimdi tekrar yeni alanlara dalacağız ve yeni şeyler öğrenip kullanacağız. Bunu her zaman sevmişimdir. Çünkü öğrendiğimiz her şey başka yerlerde, muhakkak bize yine faydası olmaktadır. Yeni şeyler öğrenme hızın artmaktadır, çünkü yeni gördüklerin bir yerden tanıdık gelmektedir
+Java ve Akka sayesinde mesajlaşma ile sınıflar arasında nasıl veri alışverişi yapılabileceğini öğrendim.
+Objective C sayesinde Apple tarafında işlerin nasıl döndüğünü öğrendim. Daha sonra Swift'e geçtik. O da güzel bir dildi. Clojure mantığını daha iyi anlamamı sağladı.
+Web'te ufaktan tasarım tarafına girmemiz Mobil tarafta da işimize yaradı. Tasarımcı gözüyle mobil uygulamalar geliştirmeyi öğrendim.
+React sayesinde Virtual DOM'u öğrendim, component mantığını öğrendim. Önyüzde de test yazmanın çok keyifli olduğunu öğrendim.
+Java sayesinde Nesne Yönelimli Programlamayı daha iyi öğrendim. Hala da kendime Java'cı derim. Golang sayesinde thread'lerin nasıl kolayca yönetilebileceğini öğrendim.
+Daha sonraları bu CSS selector'leri, Ruby ile UI testi yazan testçi arkadaşlara HTML elementlerinin nasıl daha efektif seçebilecekleri anlatırken kullanacaktım. JSP sayesinde HTML'i daha iyi öğrendim.
+Jquery'in kral olduğu zamanlar Javascript yazdım. Javacı bir abimiz o zaman dalga geçerdi benimle,"Javacı adam Javascript yazar mı", diye. İşin komik yanı Java'yı da ondan daha iyi yazardım. JS'nin geldiği aşama zaten belli. Jquery sayesinde CSS selectorleri iyi şekilde öğrendim.
+C Dili ile büyük bir projede yer aldım, pointer yapısını daha iyi anlamamı sağladı. Ayrıca, C projesinde fonksiyonlar arası kaybolurken Nesne Yönelimli Programlamanın ne kadar gerekli olduğunu anladım :)
+Önce olumlu yönlerine bakalım; Her kullandığımız dil/platform başka alanlarda da muhakkak işime yaradı. SAP işine girmem tecrübesizliğimdendi. Fazla sürmedi zaten. ABAP yazmamız, SQL ile bütünleşik yapısından dolayı SQL'i daha iyi anlamamı sağladı.
+Bunu iyi bir şey yapmışım diye söylemiyorum. Bunu bazı durumlarda kendi tercih ettim, bazı durumlarda tecrübesizliğime denk geldi ve bazen de kader bize değişik fırsatlar sundu, biz de o yoldan gittik.
+2008'den beri kullandığım diller ve platformlar; - 1 yıl SAP(ABAP) - 1 yıl C/C++ Dili - 6 yıl Java, JSP, Android, iOS(Obj. C), JS - 1,5 yıl Golang ve React - 1,5 yıl Android ve iOS(Swift) - 8 ay Java, Akka - Şu sıralar muhtemel adaylar .NET(WCF), React, Android, iOS(Obj. C)
+Sonuç olarak bence bu iş yapılabilir. Ciddiyet ile üzerine düşülürse ve nicelik ile nitelik iyi dengelenirse neden olmasın.
+Delphi'den ziyade Python veya JavaScript gibi yazılımcıların daha çabuk adapte olabileceği diller seçilebilir. Bu dillerin gelecekleri hem Delphi'ye göre daha iyi gözüküyor hem de gereksiz lisans ücretleriyle uğraşılmamış olunur.
+Kodlama öncesinde yazılımın felsefesi iyi öğretilmeli ve "çalışsın yeter" mantığıyla iş yaparak, sağlam projeler çıkmayacağını iyice adaylara nakşedilmesi gerekiyor.
+Yazılım eğitmenlerinin de kaliteli olanları seçilmeli, piyasada iş yapabilen ama ömründe doğru düzgün proje yapmamış birkaç yıllık vasat adamlardan uzak durulmalıdır.
+Yani ciddiyet ilan edersek, 1 milyon olmasa da yine büyük bir sayıda başarılı yazılımcı yetiştirebiliriz. İş sadece online eğitimler ile kalmamalı, öğretmenler ile öğrencilerin aynı havayı teneffüs etmesi sağlanmalıdır.
+1 milyon yazılımcı ile ilgili düşüncem; eğer öğrenciler sıkı bir şekilde takip edilirse, başlangıç aşamasından ileri aşamaya doğru kademeli bir şekilde adım adım geçiş yapılabilirse, teorik bilgide kalmayıp projelerle konular daha iyi pekiştirilirse,
+Haftada birkaç gün bir süre böyle çalıştım. Şaşırıyordu insanlar, fazladan kendi rızamla çalışmama. Sonra müdürüm gelip, "İbrahim kendi işini yapmıyorsun değil mi?" dedi :):):) O an içimden neler geçti, ne düşündüm, hiç hatırlamıyorum. Bu da böyle güzel bir anımdır.
+Önceki iş yerlerimden birinde, yeni işe başlamıştım. Başkasının kodu üzerinde çalışıyordum. Bir yandan kodu tanımaya çalışıyordum, bir yandan geliştirme yapıyordum. Düzgün bir yapı kurmak içinde akşamları herkes gittikten sonra 1-2 saat sakin kafayla çalışıyordum.
+Bu biraz daha iyi.
+Havalar temizlenince, uzaklardan Uludağ gözüküyor.
+F. Terim, “Tamam egomuz var da, Amerika’dan daha büyük bir ego mu vardı bu dünyada? Onu atarım, bunu keserim, şunu vururum.Bak bir virüs ne hale getirdi.Yani artık benim egom, onun egosu, bunların hiçbirinin manası yok.Hiçbirinin esamesi okunmaz.Bütün dünyanın başına geldi bu."
+Ve gitti açtı. Abisinin, ablasının açamadığı yatağı o açtı. Neden? Çünkü o, kendinden hiç şüphe etmedi. İmanı tamdı.
+Bugün akşam 10yaş oğlumu ve 9yaş kızımı yataklarını açmaları için odalarına gönderdim, alttan çekmeli bir yataktı. Açamadım dediler geri yanıma geldiler. Biliyordum ki çok uğraşmamışlardı. 4yaş kızıma, "git onlara yardım et" dedim. Tamam baba ben açarım dedi ve gitti.
+Bugün Cuma.
+Faydalı olması dileğiyle. IPv4 Adres Formatlama Üzerinden Temiz Kod Örneği
+Full + Full + Full Stack Developer: Backend ve frontend çalışan, analiz ve test yapan, üstüne bir de projeyi yöneten, ayrıyaten üstüne evde çocukların ödevine yardım eden developer.
+Bu tür adamlara diyeceğim şey şudur, "evet, ben belki çok bir şey bilmiyorum ama yine de senden daha çok şey biliyorum".
+Sonuç olarak baştan over-engineering hatasına düşmeden, çalışabilir birşeyler ortaya çıkardıktan ve konuyu daha iyi anladıktan sonra sen istemesen bile "şurasını şöyle daha iyi yapabilirim" diyorsun. Ve daha iyisini yapıyorsun.
+işi daha da iyi anlayınca kod da kendine göre güzelleşti. Hele bir de kodu kapsayacak şekilde güzel testler yazdıysam --ki her seferinde test yazmak mümkün olmuyor-- sonra değme keyfime. Kodlarım üzerinde istediğim kadar takla atabiliyorum.
+"Biraz kod ortaya çıksın o zaman resim daha netleşir ve ona göre gerekirse aksiyon alırım" diyorum. Gerçekten de bugüne kadar hep böyle oldu. Baştan "mükemmel kod yazayım" düşüncesi yerine "zamanla ben bunu daha güzelleştireyim" dediğim her seferinde zamanla,
+Sonra kendi kendime, "junior iken işim kolaymış, ne güzel yazıp kodu geçiyordum, çalışıyorsa bir daha dönüp düşünmüyordum" diyorum ve "sakin ol champ" diyorum. Derin bir nefes alıp tekrar kodlamaya başlıyorum ama bu sefer üzerinde fazla düşünmemeye gayret ediyorum.
+Yeni bir iş/proje kodlarken, temiz kod yazacam diye aklımdan 40 tane tilki geçiyor. Ayrı sınıflara mı bölsem, ayrı metod mu yapsam, bilmem ne tasarım şablonunu mu kullansam, alanlar ne olsa filan diye bir süre düşünceler deryasına gark oluyorum.
+Herkes gücü yettiğince... 8119 a Corona yaz gönderiver.
+"Kıyametin kopacağını bilseniz elinizdeki fidanı dikiniz" hadisini referans alarak kendimize, bu zorlu günlerde çalışmaktan başka seçeneğimizin olmadığını düşünüyorum.
+Batı her zamanki gibi hırsızlık derdinde ama bu sefer gizliden yapamıyorlar.
+Gürültü argümanı değişti sadece.
+Evden çalışalım dedik değişen bir şey olmadı. Yine kulaklık takıyoruz.
+Ağ teknolojileri ile alakalı güzel bir eğitim serisi. Mehmet Ceyhan Yağlı hocanın da anlatımı çok başarılı.
+11 Mart — 1 vaka 13 Mart — 5 14 Mart — 6 15 Mart — 18 16 Mart — 47 17 Mart — 98 ve 1 ölüm 18 Mart — 191 ve 2 ölüm 19 Mart — 359 ve 4 ölüm 20 Mart — 670 ve 9 ölüm Ölenlere Allah rahmet eylesin. Bir an önce #SokağaCıkmaYasağıSart
+İnsanları saatler ile dakikalar ile sıkıştıracağınıza, verdiğiniz projelerin tahmini süreleri içerisinde özgür bırakın ve onlara güvenin. Güvenmediğiniz insanlar belki olabilir ama bunun için tüm takımı zan altında bırakmayın. İnsanlara güvenin.
+Ofis ortamlarında çok değişik insanlar gördük. Günde 2-3 saat oyun oynayanları da gördük. Verimli şekilde işini yapanları da. Bilgisayarın başında oturunca çalışmış olmuyoruz ama bu bürokrat zihniyeti hala bunu böyle zannediyor.
+Ben kendi vicdanıma göre, kul hakkına göre, Allah rızasına göre bu eksik saatleri tamamlıyorum. Ya hafta içi akşamları ekstradan 1-2 saat çalışıyorum. Ya da hafta sonları fazladan çalışıyorum. Başka türlü de takip edilmesinin çok zor olduğunu düşünüyorum.
+Daha önceki çalıştığım şirketlerden biri de evden çalışmaya geçmiş. VPN ile günde 8 saat(sabah-akşam saatleri belli) çalıştığı takip edilip ona göre mesai filan hesaplanacakmış. Benim gibi çocuklu aileler için gün için verimli bir şekilde 8 saati doldurmak çok zor hatta imkansız.
+Aselsan'dan Büyük Veri, Yapay Zekâ, Otonomi, Robotik Sistemler ve Karar Destek Sistemleri (BYORK).
+Eyvallah hareketi için zamanında bir hoca şöyle demişti. Peygamberimizin ölümünden sonra, onun adı anıldığı zaman müslümanlar o kadar heyecanlanırlarmış ki kalpleri yerinden çıkacak gibi olurmuş. Onlar da kalplerini tutmak zorunda hissederlermiş ve bu hareket böyle doğmuş.
+Gerçek şiiri şiar edinmiş şuurlu şairlerden olmalıyız. Muhammed İkbal
+“Java’da İç İçe ve Etiketli Döngüler” - İbrahim Kürce tarafından
+Nobel Akademik Yayıncılık kitapları genel olarak kaliteli oluyor. Teşekkürler yayınları için. Şuradan bakabilirsiniz, ilginizi çeken kitaplara muhakkak denk gelirsiniz.
+da gezerken şöyle bir kitaba denk geldim. Yakın zamanda piyasaya çıkmış. Ben okumadım ama ilgililere duyurulur.
+Ioan James, Büyük Matematikçiler kitabından alıntıdır.
+"Abel Bahçesi" adı verilen kraliyet sarayının bahçesinde bulunun büyüleyici bir anıt Oslo'da görülmesi gerekenlerin başında yer alır. Abel'in bir dahi olduğu konusunda hiçbir şüphe yok; erken ölümü matematiğin gelişimi açısında son derece trafik bir olaydır.
+Anlaşılan Sophie Germain'in yaşam öyküsünde karşımıza çıkan sahtekar Libri metni akademiden alarak buraya getirmişti. Abel, Norveç'te ulusan bir kahramandır. Doğumunun 100. yılı geniş kapsamlı olarak kutlandı ve anısına çeşitli anıtlar dikildi.
+Abel'in yazgısında belki de her durumda erken bir ölüm vardı. Norveçli yetkililer daha yapıcı olmadıkları gerekçesiyle suçlanırken, benzer bir durum da incelemeye karşı tutumu nedeniyle Cauchy için geçerlidir. En nihayetinde eserin metni Floransa'da oraya çıktı.
+Abel'e duyulan saygının tek nedeni onun sahip olduğu büyük yetenek değildi. Kişiliğinin saflığı ve soyluluğuyla, ayrıca kendini, zekasının olağanüstülüğü kadar saydırmasına neden olan az rastlanır mütevazılığıyla diğerlerinden ayrılırdı."
+"Abel'in tüm çalışmaları, yazarın gençliği göz önüne alınmasa dahi alışılmadık ve kimi zaman şaşırtıcı bir yaratıcılık etkisi ve düşünce gücü taşır. Karşısına çıkan engelleri problemin köklerine kadar inerek karşı konulmaz bir güçle delip geçme becerisine sahipti.
+Abel 6 Nisan 1829'da henüz 26 yaşındayken yaşama veda etti. İki gün sonra Crelle'den Berlin'deki eğitim bakanlığının bir iş teklifi mektubu geldi ama artık çok geçti. Crelle Journal'da yazdığı kapsamlı anma yazısında şöyle diyordu:
+1826'da akademiye teslim ettiği incelemeye gelince Abel artık bu incelemenin kaybolmuş olduğundan korkuyordu. İncelemenin bir özetini Journal'de yayımlaması için Crelle'e gönderdi. Çok kısa bir süre sonra yaşadığı bir kanama sonrasında Abel'e verem teşhisi konuldu.
+Bu sıralarda kuramları da Fransa ve Almanya'da ilgi çekmeye başladı. Academie Royale des Sciences, İsveç ve Norveç kralına yazarak Abel'in sıra dışı yeteneğinin olduğunu, takdir edilmesi talebinde bulundu. Abel bundan haberdar değildi ve zaten mektup herhangi bir sonuç doğurmadı
+Çok geçmeden Abel hastalandı. Belli ki bu yaşamına mal olacak veremin ilk işaretiydi. Mayıs 1827'de Oslo'ya döndüğünde uygun iş olasılığı olmadığı gibi çok miktarda borç altına girdiğini gördü. Özel dersler vererek güçlükle geçiniyordu.
+Abel büyük bir umutla raporun çıkmasını beklese de bu gerçekleşmedi. O zamana kadar Abel önde gelen çok sayıda Fransız bilimciyle tanışmıştı. Eski kuşak matematikçiler arasında yalnızca Legendre ona sıcak davrandı.
+Abel, Academie Royale des Sciences'a sunulmak üzere başyapıtı olarak nitelendirdiği aşkın fonksiyonlara ilişkin bir inceleme yazmıştı. Makale akademiye Ekim 1826'nın sonlarında sunuldu. Cauchy kıdemli olmak üzere Legendre'la birlikte hakem olarak tayin edilmişlerdi.
+Abel onunla Ocak 1826'da tanışmasının ardından eski öğretmeni Holmboe'ya şöyle yazdı: "Onun ne kadar iyi bir insan olduğuna inanamazsınız. Diğer dostlarımla olduğu gibi onunla da iyi ilişki içindeyim." Crelle'nin teşvikiyle Abel, Journal dergisinde düzenli yayınlar yaptı
+daha sonra koruyucusu olacak büyük August Leopold Crelle ile temasa geçecekti. Crelle, Prusya'daki demiryollarının inşaatı gibi kimi büyük kamu işlerini yönetmiş başarılı bir inşaat mühendisiydi. Crelle dost canlısı, hoşsohbet bir insandı.
+Norveç'e geri dönmesi sonrasında üniversitesi onu çalışmalarını sürdürmesi için Paris'e gönderilmesi gerektiğine karar verdi. Yol arkadaşları Berlin'e gideceği anlaşılınca Abel de onlara katılmaya karar verdi. Mali açıdan kötü bir plan olmasına rağmen,
+Bu dönemde biri integral denklemlerine ilişkin öncü bir çalışma olan iki araştırma makalesi yazdı. 1823'te üniversitedeki profesörlerinin sağladığı bursla Danimarkalı matematikçilerle tanışmak üzere 21 yaşındayken Kopenhag'a gitti. Burda Crelly ile tanıştı ve nişanlandı.
+Üniversitede bazı profesörler ona mali olarak destek oldu. Üniversitede ileri düzel matematik dersleri yoktu ama o kendi başına en önemli yapıtların üzerinden geçerek kendi yolunda ilerledi.
+Bu tarz ruh hali değişimleri manik depresif eğilimlere işaret eder. Babası 1820'de öldüğünde annesi büyük bir borç yükü altına girdi.Bununla başa çıkamayan annesi de alkolik oldu.Bilimci ve kaşif Christopher Hansteen'in karısı bu zor yıllarında onu üniversiteye göndermeyi başardı
+eliptik integrallerin ters fonksiyonlarının yani eliptik fonksiyonların ilginç özelliklere sahip olduklarını fark etti. İki yıl içinde buna ilişkin bir kuram geliştirdi. Abel orta boylu, ince yapılı biriydi. Kimi zamanlar şen şakrak kimi zamanlarsa kederli olurdu.
+ilk başlarda olan entelektüel heyecanı kısa sürede söndü. Daha sonra yeni matematik öğretmeni Holmboe'nin etkisiyle ünlü matematikçilerin çalışmalarını incelemeye başladı. 20'li yaşlarındayken, eliptik integrallerle ilgilenmeye başladı ve
+Ailesinin ikinci çocuğu olan Niels, 5 Ağustos 1802'de dünyaya geldi. Babası siyasi başarısızlıktan sonra kendini alkole verdi ve alkolik oldu. Abel 13 yaşından itibaren, Oslo'da katedral okuluna gitti. Okulun iyi öğretmenleri başka okullara gidince,
+çocukluk aşkının kollarında veremden ölür ve aşırı derecede ihtiyaç duyduğu göreve kabul edildiğinin haberi geç ulaşır. Öykü yeterince trajiktir...
+Niels Abel(1802-1829) İskandinavya'dan çıkmış en parlak matematikçilerden biri olan Niels Abel'in yaşam öyküsü sık sık dile getirilmiştir. Bu yaşam öyküsü bir melodramın tüm unsurlarını barındırır gibidir: Bencil akademisyenler onun başyapıtını sahiplenirken beş parasız dâhi,
+Fener yine yenilmiş, damat bu sefer istifa etsin bari.
+Neden? Çünkü doktor, enfeksiyon ve mikrop bulaşma riskini hastadan daha iyi bilir. Bunu yapması profesyonel olmaz, bırak profesyonelliği yasal olmaz. Aynı şekilde, ortalığı karmaşaya sürükleyen kod yazmamıza salık veren yönetici isteklerine de karşı çıkmalıyız.
+Bunu hastane örneği üzerinde düşünürsek; doktor olduğunuzu ve hastanızın ameliyattan önce şu aptalca el yıkama işini, zamandan tasarruf adına, bırakmanızı istediğini düşünün. Hastanız da bir nevi yöneticinizdir; tabi olarak doktor bu durumu kabul etmez.
+Birçok yönetici, o şekilde davranmasalar da hakikati ister. İyi kod isterler ama yine de takvimle ilgili takıntıları vardır. Takvimlerini ve gereksinimlerini takıntılı bir şekilde savunurlar, bu onların görevidir. Sizin göreviniz de iyi kodu bu tutkuyla savunmanızdır.
+"İyi kod yazmak istiyorum ama yönetici baskısı yüzünden yapamıyorum" ile ilgili Clean Code kitabında şu olayı anlatır. TR'ye ne kadar uyar bilemedim. "Eğer yöneticimin dediğini yapmazsam, kovulurum." diyebilirsiniz. Büyük ihtimalle kovulmazsınız.
+Bir sınıfı mümkün olduğunca küçük tutup, onla ilgili Birim Testleri düzgünce tamamladıktan sonra, o sınıfın içinde istediğin gibi refactor yapmak çok zevkli oluyor. Biliyorsun ki bir yeri bozunca testler de patlayacak. Korku kayboluyor.
+Tabi en güzeli, iş bitimi sonrası daha temiz bir yapı ortaya çıkması ve onun mutluluğu.
+Bu IDE'lerde Bul bölümünde parantez ile yazdığınız her ifadeyi-örneğin (.*)-, Değiştir bölümünde $1, $2 vb. olarak alıp, istediğiniz gibi kullanabiliyorsunuz. Daha detaylı bilgi için,
+Ben bu tür isim değiştirme, yeni parametre ekleme/silme gibi toplu işlemler sayesinde Eclipse/Intellij IDE'lerinin regex ile Bul/Değiştir işlemlerini öğrenmiştim. Daha sonra topluca değiştirme işlemlerimi çok kolaylaştırmıştı.
+Yazılımda sık sık amelasyon dediğimiz, yapılsa güzel olacak ıvır zıvır işler karşımıza çıkıyor. Bunlardan kaçınmamamız gerekiyor. Bunların da insana kattığı faydalar olabiliyor.
+Büyük Matematikçiler'den Joseph-Louis Lagrange.
+Büyük Matematikçiler 'den Euler, iyi okumalar.
+Allah çığ altında kalanlara rahmet eylesin, ailelerine sabırlar versin. #Bahcesaray
+Türk futbolu için kazanç olur.
+Uğurcan çok iyi kaleci, nazar değmez inşallah.
+Aşıyı ilk hangi şirket bulursa hain odur. #coronaravirus
+Bilgisayar mühendisiyiz diye printer tamiratından anlayacak değiliz. Bu millet buna alışacak :)
+Bugün de bir tanesi gelmiş. Hakkımız varsa alanlara helal olsun.
+Bizim bakkalı bilen bilir. Rahmetli babam çok boş bırakırdı. Boş görünce niyeti olmayan adam bile birşeyler aşırmak isterdi :) 15-20 sene önce kapatmıştık zaten. Hala ara ara böyle mektuplar gelir, gizlice kapımızın altından atarlar.
+Dışardan geldiğimizde ellerimizi, yüzümüzü ısıtacağımız sobalar da kalmadı.
+Oralarda dolaşan İngiliz gazeteci William Digby, yedi gün ve yedi gece sürün büyük ziyafet esnasında yaklaşık yüz bin Hintlinin açlıktan öldüğünü hesapladı.” (E.Galeano, Aynalar kitabı.s.231 ) Alıntı.
+Kuraklığın tam ortasında, güneş tarlaları kavururken ve gece onları dondururken, Genel Vali ziyafet sırasında, Hintli tebaasına mutluluk, bereket ve refah dileyen İmparatoriçe Victoria’nın teşvik mesajını okudu.
+“Victoria İmparatoriçe ilan edilince, Lord Lytton Delhi’deki sarayında yedi gün yedi gece boyunca yetmiş bin konuğu ağırladı.The Times gazetesinin çalım satmasına göre, evrensel Tarihin en pahalı ve en kalabalık yemeği oldu bu.
+Java'da bir kodu test edilebilir şekilde yazmak için, mümkün olduğunca new sözcüğünü kodda kullanmamak gerekiyormuş, yaşayarak öğrendik.
+İnşallah sizin nesliniz yine Kitap okuyan nesil olacak Mehmet. Milletin ve İslam âlemin akıbeti buna bağlı’ dedi." Mehmet Alparslan Çelebi | Fuat Sezgin Hoca’nın ardından..
+Bir kenara geçer onun ibadeti bitene kadar beklersin’ dedi. Utancımdan ne yapacağımı şaşırdım. Hafif tebessüm etti, ayağa kalktı ve ensemi şefkatle kavradı. ‘Nasihat ediyorum. Üzülmüyorsun değil mi? Size kitap okumayı unutturdular.
+Allah’ın rızasını kazanmak, ilim yapmak için okuduğun zaman okumuş olursun bir Kitabı. Tıpkı namaza durduğun gibi kendini etrafında olan bitenlerden arındırır, kitabın ruhuna verirsin. Ve tıpkı namaz kılan insana seslenmediğin gibi kitap okuyan insana da seslenmezsin.
+‘Hocam 2-3 dakikadır, kusura bakmayın bir an endişelendim’ dedim. ‘Sen hiç kitap okudun mu?’ diye sordu kendisi. ‘Okudum hocam’ dedim, tam okuduğum kitapların birkaçını sayacaktım ki ‘Sen kitap okumadın hayatında Mehmet. Kitap okumak ibadet gibidir.
+Haddimi aşarak biraz daha sesli bir şekilde seslendim. Tepki yoktu. Bu sefer korkmaya başladım. En son yanına yaklaştım ve elimle omzuna dokundum hafifçe. Bir an ürktü ve ‘Mehmet!’ diye seslendi. Çok mahcup olmuştum. ‘Ne zamandan beri buradasın’ dedi sessizce.
+Sessiz bir şekilde kendisine seslendikten sonra da tepki alamamıştım. Bir adım attım masasına doğru ve tekrar seslendim. Hocam kitabı iki avcu arasına almış sanki harfleri teker teker seçercesine gözleriyle satırlar arasında hızlıca akıp duruyordu.
+"Bir gün enstitüye geç vakit gelmiştim. Saat 16 sularında. Kış günüydü. Kocaman enstitüde hocam ve 2 araştırmacı vardı. Işıklar loş bir şekilde yanıyordu. Karanlık bir odada hocam bir kitaba dalmış durumdaydı. Nazikçe kapıyı tıkladım. Hocam bir tepki vermemişti.
+Bir kodu ortaklaştırmayı baştan mı başlayarak devam etmek yoksa ayrı yapıp sonradan gelişimine göre ortaklaştırmaya çalışmak mı daha kolay bilemedim.Sanki baştan ortak yapmaya başlamak ilerisi için daha kolay oluyor.Sonradan ortaklaştırmak istediğinde daha çok yoruluyorsun
+.Net dünyasının başı sağolsun, Scott Allen vefat etmiş. @OdeToCode
+Bir şekilde bu kodun daha iyi olabileceğini düşündüğüm her durumda, kodu daha iyi yapan bir yol ortaya çıkıyor. Önemli olan mevcut kodu kanıksamak yerine daha iyisi olabilir düşüncesine sahip olmak gibi.
+Şöyle güzel bir kitabı okuyacağım inşallah. 600 sayfa kadar hacimli bir kitap.
+İstinat duvarının çökme ihtimali var. Sarmaşık Evler Sitesi, Çamlık Mahallesi, Pendik, İstanbul.
+Belediyeye aylar öncesinden defalarca şikayet ettik. Son durum bu. Kış vakti insanları evlerinden çıkardılar. İlla insanların ölmesi mi gerekiyor müdahale edilmesi için. @Pendik_Belediye @Akparti @istanbulbld @tcbestepe @ibbBeyazmasa @ibbPR @Sabah @Haberturk @yenisafak
+Allah rahmet eylesin sana Eren #iyikivarsınEren
+Bilgi birikimin arttığında ve söylediğin/önerdiğin şeyler takım arkadaşlarına veya patronlarına mantıklı, sorun çözücü gelmeye başladığında kendi değerini de kendin belirlemeye başlıyorsun artık. Yeni yılınızın her şeyden önce sağlıklı olması dileğiyle. Sağlıcakla kalın.
+Mesela basit bir hesapla günde 30 sayfa kitap okumak, yılda 11bin sayfaya yakın bir sonuç verir. 200 sayfadan hesaplarsak, 50 civarı kitap eder. 300 sayfadan hesaplarsak, 35 civarı kitap eder. 30 sayfa kitap okumak aşağı yukarı 30 dakika tutar. Günde 30 dk nelere ayırmıyoruz ki?
+Teknik anlamda kendimizi geliştirmeye odaklanmak kendimize ve ülkemize faydalı olmayı hedeflemek, işte bu bizi asıl mutlu eden şey olacaktır. Maaşın da siz istemeseniz bile kendiliğinden arttığını göreceksiniz.
+Maaşı artırmanın yolu bu konu hakkında sürekli şikayet etmek değildir, ki en sık yapılan durumlardan biri bu. Bu hem takım ruhuna zarar veriyor hem de çok yakın arkadaşlar arasında bile sıkıntılara yol açıyor. Bu ortamlarda güzel projeler de ortaya çıkmıyor zaten.
+Hatta maaş arttıkça daha büyük borçlara girildiği için mutsuzluk daha da artıyor. Her şeyden önce şükretmek lazım, asgari ücretin 2300 TL civarı olduğunu unutmamak lazım.
+Yine bir zam dönemi arefesindeyiz. İnşallah gönlümüzden geçen zamlara kavuşuruz ama şunu da unutmayalım sadece maaş ile mutlu olunmuyor. 12 yılı bulan çalışma hayatımda maaşı 3bin TL ile mutsuz olanı da hatırlıyorum, 5bin TL ile de, 10bin TL olanı da.
+İbn-i Haldun'a zamanı sormuşlar: Bekleyince yavaşlar, Gecikince hızlanır, Üzülünce can yakar, Mutlu olunca kısalır, Acı çekince bitmek bilmez, Sıkılınca uzar demiş. @gelecekegitimde
+"One of my most productive days was throwing away 1000 lines of code." - Ken Thompson Kod yazmak kod silmek kadar sevindirmiyor beni de. 20 yere yayılmış kodu ortaklaştırdıktan sonra silince sevince gark oluyorum :)
+Robert C. Martin'in Clean Code ile alakalı Safari Online Books'ta 40 saatlik bir eğitimi var. İmkanı olan dinleyebilir. 50 dakikalık giriş bölümünü youtube da eklemiş. Şiddetle tavsiye ederim.
+Oysa yolculuk asla sona ermez. Bir yol biterken, yenisi başlar. Bir kapı kapanırken, bir başkası açılır. Alıntıdır.
+Bir yol biter yenisi başlar. Lao Tzu, öyküsünü şu nasihatla tamamlarmış, etrafına anlattığında: "Acele karar vermeyin. O zaman sizin de kimseden farkınız kalmaz. Hayatın küçük bir parçasına bakıp tamamı hakkında karar vermekten kaçının.
+"Siz erken karar vermeye devam edin" demiş, ihtiyar.. Oysa ne olacağını kimseler bilemez. Bilinen bir tek gerçek var. Benim oğlum yanımda, sizinkiler askerde.. Ama bunların hangisinin talih, hangisinin talihsizlik olduğunu sadece Tanrı biliyor."
+"Gene haklı olduğun kanıtlandı" demişler. "Oğlunun bacağı kırık, ama hiç değilse yanında. Oysa bizimkiler belki asla köye dönemeyecekler. Oğlunun bacağının kırılması talihsizlik değil, şansmış meğer.."
+Çünkü savaşın kazanılmasına imkan yok gibiymiş; giden gençlerin ya öleceğini ya esir düşüp köle diye satılacağını herkes adeta biliyormuş. Köylüler, gene ihtiyara gelmişler..
+Birkaç hafta sonra, düşmanlar kat kat büyük bir ordu ile saldırmış. İmparator son bir ümitle eli silah tutan bütün gençleri askere çağırmış. Köye gelen görevliler, ihtiyarın kırık bacaklı oğlu dışında bütün gençleri askere almışlar. Köyü matem sarmış.
+İhtiyar "Siz erken karar verme hastalığına tutulmuşsunuz" diye cevap vermiş" O kadar acele etmeyin.Oğlum bacağını kırdı.Gerçek bu. Ötesi sizin verdiğiniz karar.Ama acaba ne kadar doğru.Hayat böyle küçük parçalar halinde ilerler ve ondan sonra neler olacağı size asla bildirilmez"
+"Bir kez daha haklı çıktın" demişler. "Bu atlar yüzünden tek oğlun uzun süre yürüyemeyecek. Sana bakacak başkası da yok.. Şimdi eskisinden daha fakir, daha zavallı olacaksın" demişler.
+Bir hafta geçmeden, vahşi atları terbiye etmeye çalışan ihtiyarın tek oğlu attan düşmüş ve ayağını kırmış. Evin geçimini temin eden oğul şimdi uzun zaman yatakta kalacakmış. Köylüler gene gelmişler ihtiyara..
+Bu daha başlangıç.. Birinci cümlenin ilk kelimesini okur okumaz kitap hakkında nasıl fikir yürütebilirsiniz?.." Köylüler bu defa ihtiyarla dalga geçmemişler açıktan ama, içlerinden "Bu ihtiyar sahiden normal değil" diye düşünmüşler..
+Atının kaybolması bir talihsizlik değil, adeta bir devlet kuşu oldu senin için.. Şimdi bir at sürün var.." "Karar vermek için gene acele ediyorsunuz" demiş ihtiyar. Sadece atın geri döndüğünü söyleyin. Bilinen gerçek sadece bu. Ondan ötesinin ne getireceğini henüz bilmiyoruz.
+Ama aradan iki hafta geçmeden, at bir gece ansızın dönmüş.. Meğer çalınmamış, dağlara gitmiş kendi başına. Dönerken de, vadideki 12 vahşi atı peşine takıp getirmiş. Köylüler, ihtiyar adamın etrafına toplanıp özür dilemişler.. "Babalık" demişler.. "Sen haklı çıktın..
+Ondan ötesi sizin yorumunuz ve verdiğiniz karar. Atımın kaybolması bir talihsizlik mi, yoksa bir şans mı, bunu henüz bilmiyoruz. Çünkü bu olay henüz bir başlangıç. Arkasının nasıl geleceğini kimse bilemez.." Köylüler ihtiyara kahkahalarla gülmüşler.
+Bu atı sana bırakmayacakları, çalacakları belliydi. İmparatora satsaydın, ömrünün sonuna kadar beyler gibi yaşardın. Şimdi ne paran var, ne de atın" demişler.. İhtiyar, "karar vermek için acele etmeyin" demiş.. Sadece 'at kayıp' deyin. Çünkü gerçek bu..
+İmparator at için ihtiyara neredeyse hazinesinin tamamını teklif etmiş, ama adam satmaya yanaşmamış. "Bu at, bir at değil benim için.. Bir dost.. İnsan dostunu satar mı?" dermiş hep.. Bir sabah kalkmışlar ki, at yok.. Köylüler ihtiyarın başına toplanmış.. "Seni ihtiyar bunak..
+Ünlü Çin düşünürü, Lao Tzu’nin çok sevip, sık sık anlattığı söylenen bir hikaye: Bir zamanlar köyün birinde yaşlı bir adam varmış. Çok fakirmiş. Ama kral bile onu kıskanırmış.. Öyle dillere destan beyaz bir atı varmış ki..
+Bir yazılım işini mevcut kodla aynı çalakalem anlayışıyla yapmak 2 saat sürüyor. Ben ise ona başta 4 saat harcıyorum ki, daha sonra her gelişimizde yeni bir 2 saat harcamak yerine 5 dakikada işimiz bitmiş olsun. Bir yeri bulduğumuzdan daha temiz bırakalım.
+Yazılım akıllı adam işi değil diyorum, sonra boğuştuğum sorunu bir şekilde çözüyorum. Sonra da bu mesleği sevdiğimi düşünüyorum. Ta ki bir sonraki soruna kadar.
+Mübarek Cuma indirimi yapmış. Benim gördüğüm en kaliteli eğitim platformlarından. Abone olmak isteyenlere duyurulur.
+Bakım maliyetini gözardı eden projeler başarısız olmaya mahkumdur veya getirisinden çok götürüsü olur.
+Yöneticiye düşen ise, yazılım projesinin temiz bir şekilde tamamlanması için, çalışanlarına gerekli desteği sağlamak ve onları bu yönde teşvik etmek. Şu unutulmasın; yazılım projelerinde asıl maliyet, geliştirme maliyeti değil bakım maliyetidir.
+Yazılımın kodları kötü olsa bile, "refactor yapmayın, kod çalışıyor bir an önce bitsin" diyen yöneticiyi, "Temel önemli değil, inşaat bir an önce bitsin ve insanlar kullanmaya başlasın" diyen denetimciye benzer.Denetimciye düşen inşaatın demiri, çimentosu tam mı kontrol etmektir
+Gecikmiş bir projeye adam gücü eklemek projeyi kısaltmak yerine daha da uzatır
+Bir gün bir arkadaşla kodların üzerinden geçiyorduk. Anlamadığımız bir kod parçasına geldik, hangi akıllı bu kodu yazmış diye arkasından giydirirken, benim yazmış olduğumu anladık :)
+dan bir kitap arıyorum tavsiye olarak çay ile kampanya söylüyor. Ya çok akıllılar çayı sevdiğimizi anladılar ya da sallıyorlar. a girdiğimde en sevdiğim özelliklerden biri, benzer ürünler kısmı.
+Algoritmalar ile ilgili başarılı kitaplardan biri Türkçeye çevrilmiş. İlgili arkadaşlara duyurulur.
+Takip etmediğimiz kişilerin paylaşımlarını görüyoruz. Bunu kapatabiliyor muyuz?
+Allah ordumuzun yardımcısı olsun.
+Bunun için Java 9 ile gelen, StackWalker sınıfından yararlandık.
+Java'da loglama yaparken bazen bulunduğumuz metod adına ihtiyaç duyuyoruz. Bunu jenerik olarak almak özellikle lambda ifadesi içindeyken zorlaşıyor. Bunu jenerik bir şekilde alabilmek için şöyle bir kod parçası oluşturdum, işe yarıyor gibi duruyor.
+Allahın gazabından yine Allahın merhametine sığınıyoruz
+"Şüphesiz Allah gökleri ve yeri, nizamları bozulmasın diye tutuyor. Andolsun ki onların nizamı eğer bir bozulursa, kendisinden başka hiç kimse onları tutamaz. Şüphesiz O, halîmdir, çok bağışlayıcıdır." Fatır Suresi 41. ayet
+Yine sallandık
+İyi sallandık. Allah korusun hepimizi. #deprem
+Verilen argümanı bulunduğu klasörün ismi eşleşen alt-klasörlerinde gezip, hepsinin son halini git pull ile çeken kod parçaso. Senden öğrendik otomatikleştirme işlerini @UstunOzgur hocam.
+Bir süredir arıyordum, sonunda buldum. @lazamani nasıl hocam?
+Bugün itibariyle Ziraat Teknolojideki görevim sona eriyor. Bundan sonra çalışmalarımıza i2i Systems'de devam edeceğiz inşallah.
+Teknopark JS validasyon
+Devam böyle inşallah #GururumuzsunTrabzonspor
+Oysa ben, beynimin içindeki bu elektrik fırtınasını algılamıyorum bile. Beyin, Senin Hikayen. David Eagleman
+Dudaklarıma iyice yaklaşan fincana, şimdi biraz eğim verebilirim; kendimi haşlamadan içinden bir miktar sıvı çekebileceğim kadar. Böyle bir işin üstesinden gelecek bilgisayımsal gücü sağlamak, dünyanın en hızlı bilgisayarlarından düzinelercesini gerektirir.
+Yoğun hesaplamalar ve geribildirimler sonucunda, uzun bir kavis çizerek fincanı sarsmadan ve açısını bozmadan yukarı doğru kaldırabilmek için, kaslarımda ayarlamalar yapıyorum. Bu mikro-ölçekli ayarlamalar bütün yol boyunca devam ediyor.
+"genel duyu korteksi" gibi isimler alan birçok beyin bölgesi arasındaki karmaşık dansın bir sonucu. Fincanı kaldırırken kullandığım kuvvet ve fincanı kavrayış kuvvetim üzerinde yapılan ayarlamalar için geçen süre, saniyenin kesirleri ölçeğinde.
+sinirler ile beyne iletiliyor. Bu bilgi omurilikten beyne doğru aktıkça, tamamlayıcı bilgiler de yeniden aşağı taşınıyor ve böylece çift yönlü bir yolda hızla akan trafiğe benzer bir düzenek işler hale geliyor. Aşağı taşınan bilginin ortaya çıkışı,"bazal gangliyonlar","beyincik",
+Burası, fincanı kavrayabilmem için gövdem, kolum, önkolum ve elim boyunca devreye girecek kasların kasılmasını çok ayrıntılı biçimde koordine eden bölge. Fincana dokunduğumda, fincanın ağırlığı, uzaydaki konumu, sıcaklığı, kulpununu kayganlığı vb. hakkında tonlarca bilgili,
+başka ortamlarda içmiş olduğum kahvelerle ilgili olarak belleğimi yeniden harekete geçiriyor. Ardından frontal korteks(alın korteksi), sinyalleri motor kortekse gönderiyor.
+Çünkü bu basit eylemin arkasında, eşgüdümleri beyniim tarafından titizlikle sağlanan trilyonlarca elektrik akımı var. Görme sistemim, önümde duran fincanın yerini tam olarak belirleyebilmek için, önce etrafı şöyle bir kolaçan ediyor; yıllara dayanan deneyimlerim ise,
+Ama hakkını vermek lazım: Fincanı ağıza götürmek aslında hiç de öyle az buz iş değil. Robotik alanında, bu tür bir işin aksamadan yürütülebilmesi için hala büyük çaba sarf ediliyor. Neden mi?
+Bir kafede birlikte oturduğumuzu düşünelim. Sohbet ederken, kahvemden bir yudum almak için fincanı yukarı kaldırdığımı fark ediyorsunuz. Bu eylem öylesine sıradan ki, kahvenin bir kısmını yanlışlıkla gömleğimin üzerine dökmediğim sürece, üzerinde konuşmaya bile değmez.
+#KurbanBayramınızMubarekOlsun Allah kurbanlarımızı kabul etsin inşallah.
+Geleneksel cuma karpuzumuz.
+Sabahları güne güzel başlamanın sırrı; tandır ekmeği, tulum peynir ve çay.
+Siz bay ve bayanların matematiği kısmen de olsa anlamanızı isterdim. Kaçırdıklarınız, matematiğin mantık ve kesinliği değildir yalnızca; içerdiği şiir de vardır bunların arasında. Richard Feynman
+Şehit mühendislerimiz. Allah rahmet eylesin.
+Bir radyoyu tamir etmek için düşünmek-küçük bir çocuğun durup düşünmesi ve nasıl yapacağına karar vermesi- ona göre mümkün olmayacak bir olaydı. Eminim Şaka Yapıyorsunuz Bay Feynman kitabından.
+Bir kişi size karşı başta olumsuz tavır almışsa,siz böyle bir şey başardığınızda çoğu zaman yüzde yüz diğer yönde davranır.Bu bir tür denkleştirme sayılabilir.Bana başka işler buldu ve herkese ne kadar büyük bir dahi olduğumu anlatırken,"Düşünerek radyo onarıyor!" demeyi sürdürdü
+Ona "düşünüyorum!" dedim. Kendi kendime, "Tamam, lambaları çıkar,cihaz içindeki sıralarını ters çevir, dedim" Böylece lambaların yerini değiştirdim.Radyonun önüne geçtim,aletin düğmesini açtım.Kuzu kadar sessizdi: ısınana kadar bekledik ve sonra mükemmel şekilde çalıştı, sessizce
+Ve bir şey kayıp onun için böyle büyük bir gürültü çıkarıyor. Sonunda RF devresi tam çalışmaya başlayınca kafes voltajlar ayarlanıyor ve her şey yoluna giriyor. Adam, "Ne yapıyorsun? Sözde radyo tamir etmeye geldin ama sadece bir aşağı bir yukarı yürüyorsun!" dedi.
+Düşünmeye başladım: "Bu neden olur?" İleri geri yürüyerek düşünürken lambaların yanlış bir sırayla ısınmaya başlamalarının böyle bir sonunca yol açabileceğini anladım. Amplifikatörün tümü sıcak, lambalar çalışmaya hazır, henüz hiçbir besleme yok ya da belki biraz geri besleme var
+Oraya ulaşınca radyoya şöyle bir bakıp düğmesini çevirdim. Biraz mı gürültü demişti? Aman Allahım! Zavallı adamın neden buna dayanamadığı belli oldu. Alet kükremeye başladı. WUH BUH BUH BUM BUH! Müthiş bir gürültü! Sonra yavaşladı ve normal bir sesle çalmaya başladı.
+Ve eve giderken tüm yol boyunca, "Radyolar hakkında bir şey biliyor musun?" Nasıl bilebiliyorsun, sen daha küçük bir çocuksun!" tarzı sözler söyledi. Yolda devamlı beni aşağıladı. Ben de, "Bu adamın nesi var. Radyosu azıcık gürülü yapsa ne olur sanki!" diye düşündüm.
+"Radyoyu açtığım zaman gürültü yapıyor, bir süre sonra gürültü kesiliyor ve düzgün bir şekilde çalışmaya başlıyor, ama başlangıçtaki bu gürültüyü istemiyorum" dedi. Kendi kendime düşündüm: "Cehenneme kadar! Parası yoksa biraz gürültüye dayansın."
+Richard Feynman 11-12 yaşlarında radyo tamir etmeye başlar. Bir gün bir adam radyosu bozuluyor. Gerisini kendinden dinleyelim. Beni almak için bir adam göndermiş. Belli ki adam fakir -arabası tamamen külüstürdü- ve biz kentin fakir mahallelerinden birinde olan evine gidiyorduk
+Ne oldu trt siz de mi modaya uydunuz? #Tozkoparan
+"‘Bilmeden nasıl yaşayabiliyorsun?’ diye soranlar çıkar arada. Ne demek istediklerini hiç anlamamışımdır. Ben her zaman bilmeden yaşarım. Orası kolay. Benim asıl bilmek istediğim, nasıl bilir hale geldiğimiz.” Richard Feynman
+Harmandere Mahalle Muhtarlıgı'nın karşısı, Pendik
+Building Microservices, pragmatic programmer ve Go In Action kitapları gitti.
+Lazım olan kitap varsa ve Kurtköy teknopark civarında iseniz yardımcı olabilirim.
+Allah rahmet eylesin #FuatSezgin hocam. Bıraktığın güzel eserler için minnettariz.
+Teşekkürler yapmışsınız elinize sağlık.
+ENIAC bilgisayarıyla 1958 yılında hava tahminini hesaplamak için gereken süre 24 saate yakındı. Yani havanın hızına zar zor ayak uyduruluyordu. 1960 yılına gelindiğinde bu süre 5 dakikaya düşmüştü. Kod Ekonomisi kitabı.
+Kurtköy Teknopark'ta Ziraat Teknoloji taraflarında olan bir arkadaşımız var ise kitabı hediye edebilirim. Şimdiden iyi okumalar.
+Bektaşi'ye "Neden namaz kılmıyorsun?" diye sormuşlar, "Cenab-ı Allah Kur'an'da namaza yaklaşmayın buyuruyor" cevabını vermiş.
+Az gerisine asfalt tumsek yapmışken bizim bozuk yeri de düzeltseydiniz bari.
+Şehidimize Fatiha'lar gönderdik.
+Çok ilginç.
+İşlere daha az veya daha fazla süre verilebilir ama ben yazılım projelerini her zaman tam zamanında tamamlarim.
+Sonuç olarak, teknik borcu yüksek bir proje oldu. Baştan yazılması pardon yapılması gerekiyor.
+İstanbul teknopark önüne kavşak yapımını bizim yazılım projelerine benzetiyorum. İyi planlanmadan, çok hızlı bir şekilde yapıldı. Şimdi karşıya geçeyim diye beklerken saga dönüşe engel oluyorsun, diğer taraftan havaalanı yolundan hızlı gelenler yüzünden her gün kaza oluyor.
+Kendime uyarı: mesaiye kalıyorsan fazla kalmam diye yemek söylemezlik yapma, hemen siparişi ver. Sonra yemeğin biskevit olur.
+Allah rahmetiyle muamele eylesin sana güzel insan, Rachel Corrie.
+Allah, Yeni Zelanda'da şehit edilen müslümanlara rahmet eylesin. #ChristchurchMosqueAttack
+etkinliğindeyiz.
+... ve en kötüsü bazen seni sadece ayak numarandan tanıyan bi salağa aşık olursun. Kadın olmak masallarda bile zor. Turgut uyar
+Ya 7 tane minicik adamla yaşarsın, ya kurbağa öpersin, ya en sevdiğin meyveden zehirlenirsin, ya kuleye kapatılırsın, ya saçlarını elin adamı tırmansın diye uzatırsın, ya gece 12de kül kedisine dönersin elbiselerin yırtılır... ...
+Faydalı olması dileğiyle. Genişlik Öncelikli Arama (BFS) ve Dijkstra Algoritması
+Kötü programcılar kodları hakkında düşünürler. İyi programcılar ise, veri yapıları ve onların ilişkileri hakkında düşünürler. Linus Torvalds
+Lemi hocamın yakında şöyle bir sunumu varmış. Başlık çok anlamlı ve bir türlü bunu proje yaparken anlatamıyoruz. Bir kez daha yazalım, "Yazılımda hızlı gitmemiz için yavaşlamamız lazım."
+Flashli çekince kar taneleri böyle çıktı.
+Bu gece kar var İstanbul'da.
+Python yazarken, "yth" karakterlerinin yerini sürekli karıştırıyordum. Sonra order by desc olduğunu gördüm, artık düzgün yazıyorum :)
+8 yaşındaki oğluma ders çalıştırmak için "yanıma gel" dedim.3 yaşındaki kızım koşarak geldi yanıma.Baba ben yapacam diyor.Kızım senin biraz daha büyümen lazım,biraz daha ekmek yemen lazım dedim.Tmm ekmek yiyecem diyerek koşarak mutfağa gitti.Almış ekmeği bana ağzını gösteriyor :)
+Kitaptan: "Sık sık geri bildirim sağlayan bir sisteme sahip olmak, içinde bulunduğu kültür bu geri bildirimlere yanıt vermeyi destekliyorsa, ancak o zaman iyidir." TR'de ki en büyük problemlerden ya çalışandan geri bildirim alınmaz ya da alınır ama bunla ilgili bir şey yapılmaz.
+Geleneklerimizi devam ettiriyoruz.
+Genellikle, bir projeye daha fazla kişi eklediğimizde, bir projeyi hızlandırmak yerine yavaşlatır, çünkü daha fazla iletişim ve koordinasyon gerektirir. Beyond Legacy Code
+İmalatta paralellik kuralı vardır, iki tane bağımsız montaj hattı ile üretkenlik iki katına çıkarılabilir. Ancak yazılımda, insanlar arası etkileşim o kadar fazladır ki, daha fazla insan eklediğimizde daha fazla etkileşim olur ve işler yavaşlar.
+Programlama dilleri arası geçiş yaparken beyin bir süre bocalıyor ama sonra bir şekilde adapte oluyor. Bir süre, satır sonuna noktalı virgül koyacak mıydık, tip adını başta mı yazıyorduk sonda mı gibi ikilemlerde kalıp duruyoruz.
+Kitap okumakla ilgili en güzel şey, onların sayesinde başka güzel kitaplarının da farkına varıyorsun.
+Faydalı olması dileğiyle. Öngör veya Uyum Sağla
+Bir taraftan ölmemeye çalışıyoruz, diğer taraftan geri kalmamaya. Şafi ismine sığınıyoruz.
+Hiç yazılım ile uğraşmamış veya uzun süre uğraşmadığı için unutmuş kişiler tarafından, yazılımın basit bir şeymiş gibi bahsedilmesi var ya, yazsak kitap çıkar ortaya.
+Allah rahmet eylesin sana güzel insan #FethiSekin
+Kitaptan, Yıllarca önce yazılmış, dökümantasyonu olmayan ve kötü isimlendirilmiş değişkenlerden oluşan bir sisteme baktığımda, bir arkeologun, kaybolmuş ve eski bir medeniyetin gizemlerini bir çömlek parçasından çıkarmaya çalışmasındaki duyguyu hissederim.
+Beyond Legacy Code, 3. yazısı. Faydalı olması dileğiyle... Şelale Modeli Neden Çalışmaz?
+Google'da yapılan güzel bir sunum. Tuhafıma giden, hocaya soru soranların büyük kısmının konuşmasından anladığım kadarıyla, yurt dışından çalışmaya gelenler olması. John Ousterhout: "A Philosophy of Software Design"
+Faydalı olması dileğiyle... Miras(Legacy) Kod Nedir?
+Faydalı olması dileğiyle. I just published Beyond Legacy Code
+Faydalı olması dileğiyle. I just published Refactoring: 2nd Edition — Yazı 3
+2.kısım
+2018 yılının en çok okunan yazılım kitapları. 1.kısım
+Kavga iki insan arasında olur. Biri öldü mü kavga biter, ikisi de öldü mü aşk olur. Hayati İnanç
+Kodda birşeyler kopyalayınca, hemen bir yerlere yapıştırma isteği...
+Refactoring 2nd Edition kitabının 2.yazısı yayında. Faydalı olması dileğiyle. I just published Refactoring: 2nd Edition — Yazı 2
+Bir bug'i çözmenin vermiş olduğu haklı gurur ve onu oraya ilk seferde koymuş olmanın vermiş olduğu üzüntü ile evime gidiyorum.
+Refactoring(Yeniden Düzenleme) 2.Baskısına ufaktan bir giriş yaptık. I just published Refactoring: 2nd Edition — Yazı 1
+Java By Comparison kitabının ilk 12 maddesinin yer aldığı sunumumuz. Faydalı olması dileğiyle.
+Çok çalışmama yoktur, az marihuana vardır. Elon Musk
+Yine Martin Amca şöyle demiş, "Temiz kodu ne kadar yavaş yazdığınızın önemi yoktur, ortalığı birbirine katarsanız bu sizi her zaman daha fazla yavaşlatacaktır."
+Temiz kod yazmada ki amacımız; "kod satırını en aza indirmek değil, insanların kodu anlama süresini en aza indirmek" olmalıdır.
+Kodda aslolan geliştirmek değil, değiştirmektir. Zaten zor olan programlama sürecini, insan ürünü zorluklarla daha da karmaşıklaştırmamaktır. @kaldiroglu abimizden.
+Kent Beck’e göre temiz kodun kuralları; • Gereksinimleri karşılayan, • İçine konulan tasarım düşüncelerini ifade edebilmiş, • İçinde çoklama olmayan, • Bileşenlerinin sayısını en aza indirmiş yapı.
+Dikkatli, önem veren birisi tarafından yazılmış görünen koddur. Michael Feathers, Working with Legacy Code
+Orijinal yazarı harici bir geliştirici tarafından, okunabilen ve geliştirilebilen koda, temiz kod denir. Robert C. Martin, Clean Code
+Bilgisayarın anlayacağı kodu herhangi biri yazabilir ama yalnızca iyi programcılar, insanların anlayacağı kodu yazarlar. Martin Fowler, Refactoring
+Temiz kod diye neye denir, bazı yazılımcı abilerimizin tarifleri şöyledir:
+Yüksek binalarda, asansör beklerken yapılan muhabbetlerin kitabı yazılmadı mı hala?
+Eskiden babam ayın sonlarına doğru 2 tane 100lük 1 tane 100lük kaldı diye sayardi. Büyük paraları bozdurursam bitiyor diye bozdurmamak için elinden geleni yapardı. Kredi kartı ile farkına varmıyoruz ama nakit ile alışveriş yapınca ayni duyguları yaşıyoruz.
+Bazılarının yardıma ihtiyacı vardır. Bazılarının ise sevaba. O yüzden fırsatları kaçırmayalım.
+Kural 1. Dolmuslarin her zaman yol üstünlüğü vardır. Kural 2. Dolmuslarin yol üstünlüğü yok ise Kural 1 geçerlidir.
+Varan 2. @hepsiburada 'nin da masallahi var. 2 gün önce sepete ekledigim ürüne 40-50 lira zam bindirmisler. Cuma günü de tekrar indirim yaparlar artık.
+Güya trendyol indirim yapıyor ama da daha ucuz. Milleti kandırmayın. @Trendyol @hepsiburada
+Ağaç dikmenin en iyi zamanı 20 yıl önceydi, ondan sonraki en iyi zaman ise şimdidir. Atasözü
+Bir öneri. Bip mesajlarında ulaşma aşamalarını kırmızı sarı yeşil trafik lambasi ışıklariyla sembolize edebilirsiniz. Okunduğunda yeşil gösteriyorsunuz zaten. @Turkcell @BiPMobil
+İnsan, en yakınındaki beş kişinin ortalaması olurmuş. Biz de şöyle ekleme yapabilir miyiz? "Ayrıca, insan okuduğu son 10 kitabın da ortalaması olur." Ne dersin @mserdark amirim?
+Eskiden ai denilince aklımıza eşek gelirdi, şimdi ise yapay zeka.
+Çaya şeker atarsın, tam karıştırmazsın, her yudumda bardağın dibine doğru çay seviyesi azaldıkça, şeker kıvamı artar. İşte o tadı çok seviyorum.
+Nasıl işlediğini, neyin yapılması ya da yapılmaması gerektiğini anlatmak için elle yazılıp kapıya veya ürünlere yapıştırılmış bir kağıt görüyorsanız, baktığınız şey kötü bir tasarımdır.
+Diğer türlü işler yürümüyor.
+Geçen da görmüştüm herhalde. Yazılım ve projelerindeki sorunlarla ilgili bir söz, hoşuma gitti. Amacımız, bataklıkların üzerinden geçmek. Bataklıktaki her timsah ile kavga etmek değil.
+Kodu refactor ederken, bir dosyanın içini tamamen temizleyip, içi tamamen temizlenen dosyayı sağa tıklayıp silmek, işte bu, büyük mutluluk.
+Arkadaşlara anlattığımız Fuat Sezgin hocamızın hayat hikayesi ve İslam Bilim Tarihinden kesitler. Sunum ektedir.
+Allah rahmet eylesin #AraGüler
+Allah rahmet eylesin #BahaettinKarakoç
+Adamın biri yaşlanan babasını aşağı atmak için uçurumun kenarına götürmüş. Tam uçurumun kenarına varmışken, babası demiş ki, "At oğlum at, zamanında ben de babamı atmıştım".
+Gündelik Şeylerin Tasarımı Don Norman
+Aslında iyi tasarımı anlamak, kötü tasarımı anlamaktan zordur; iyi tasarım gereksinimlerimizi kolayca karşıladığından göze görünmez, bize hizmet ederken dikkati kendine çekmez. Oysa kötü tasarım yetersizliklerini haykırır, dikkatleri belirgin biçimde üzerine çeker.
+Bu "Kitap Dünyası" satıcısı ne yapmak nereye varmak istemektedir @umutluoglu hocam?
+Neyse geç olsa da, kitaplarımız geldi. Bulamadıklarının fiyatını da iade ettiler. Bu aralar yoğunluktan biraz yavaşlama var ama zamanla düzelir herhalde. @kitapyurducom
+7 dil biliyordu. 13 Aralık 1048 yılında 75 yaşındayken hayatını kaybetti. Allah rahmet eylesin.
+Dünyanın çapını çok az farkla hesapladı. Jeodezi denilen bilim dalını kurdu. Pek çok alet geliştirdi. Yaptığı dünya modelinin üstüne bildiği ülkeleri yerleştirdi. Amerika kıtasının varlığını öngördü. Işığın sesten daha hızlı olduğunu savundu. Hayatı boyunca 180 kitap yazdı.
+973 yılında doğan Biruni, 17 yaşında bilimsel çalışmalara başladı. Mevsimlerin ne zaman başlayıp bittiğini tam olarak hesapladı. Dünya'nın Güneş etrafında döndüğünün Galileo'dan 600 sene önce buldu. Yerçekimi diye bir şey olduğunu Newton'dan 700 sene önce farketti.
+Fuat Sezgin'i okurken güzel bir noktaya değindi. "Biz Türklerde ara durum bildirme diye birşey yok" dedi. Mesela, eve bir tamirci çağırırsınız tmm bugün gelirim der gelmez ya da geç gelir ama geç geleceğim demez. Hoca çok haklı. Allah gani gani rahmet eylesin.
+Piri reis caddesi. Çamlık mahallesi. Doğa sitesi önü. Yeni yapılmış 1 metre kadar yola girmiş çöp alanı. Yarın birgün burda kaza olma ihtimali çok yüksek. @ibbBeyazmasa @Pendik_Belediye
+Yanlarından geçip gittiğimiz insanlarda ne hikayeler var
+Çok basit belki ama yine de rastlıyoruz if success { // nothing } else { self.goToHome() } yerine, if !success { self.goToHome() }
+ye yazılımla ilgili temel bazı kitaplar gelmiş ama fiyatları en az 2'ye katlamışlar.
+Kodda iyileştirme yaparken genelde gördüğüm, bir bilginin tek bir yerde olmasını sağlasak bile, bayağı temiz bir iş yapmış olacağız aslında.
+Ben herkesin kendi çalışmasında yapması gerekeni yaptım: öncüllerinin başarılarını minnettarlıkla karşılamak, onların yanlışlarını ürkmeden doğrulatmak, kendisine gerçek olarak görüneni gelecek kuşağa ve sonrakilere emanet etmek. El-Biruni
+Ne diyorsun @kaldiroglu abi bu işe? Aynı kitap amazon tr de 2 katı fiyat.
+Kod kalitesi, yanlış kullanılan bir kelimenin, kaç yerde benzer şekilde kullanılması ile ters orantılıdır.
+Çalışanların mutlu olduğu şirketlerde, daha çok halı saha maçı yapılıyor gibi.
+Tuvaletlerin sayısı azdı maalesef. @haluk abimizi gördük orda uğraşıyordu ek tuvalet getirmek için. 300 tane seyyar tuvalet istemişler, sadece yarısı gelmiş.
+İlk 2 gün 250k insan gelmiş festivale. Bugün çok daha fazlası gelmiştir herhalde. İnsanımızın akın akın gitmesi bu tür faaliyetlere ne kadar özlem duyduğunu gösteriyor.
+Genel olarak başarılı. Bu kadar aracı bir arada göremezsiniz. En iyi yaptığım iş erkenden gitmek oldu. Daha sonra gelenlerin trafiği çoktu.
+Zeybek oynayan Atak var dediler biz de geldik. #TEKNOFEST
+Canan hocamız 1. sırada.
+Bilim adamları bunu da açıklasın, ne diyorsun @umutluoglu hocam? Bilgisayarlar ve İnternet kategorisi çok satanlar.
+Bir gün yine İstanbul'a bayram dönüşü geliyoruz...
+Allah rahmet eylesin. #AdnanMenderes
+Kaliteli bir kitap, nasıl bir zorluklar sonucunda meydana geliyor? "Daha önce de başlayıp çeşitli sebeplerden dolayı sık sık ara vermeme rağmen, kitabın üzerinde yoğun biçimde son 3 yılı tatilsiz ve haftasonu olmadan çalıştığımı söylemeliyim." Algoritmalar Vasif Nabiyev
+Maalesef doğru tespitler. Giden insanlarımızın hikayesi.
+Birçok zalim başka zalimlerin eliyle cezalandırılmış ama tek bir mazluma başka bir mazlumdan zarar gelmemiştir.
+2- Kendi inancını, mezhebini ve kabilesini ötekilerden üstün görmek, insanlar arasında sürtüşmelere yol açmaktadır. 3- Hurafeler ve boş inançlar, insanlığın gelişmesini önlemekte ve anlaşmazlıklar doğurmaktadır.
+Büyük alim Biruni'nin doğum günüymüş (973). Biruni'ye göre insanlar şu üç nedenle mutsuz olurlar: 1- İnsan yeryüzündeki yaratıkların en seçkinidir. Ancak insanlar kıskançlık nedeniyle birbirlerinin ellerinde olan nesnelere göz dikerler. Bu da toplumsal huzursuzluğa neden olur.
+İnanilmaz aile 2 filmini izledik çocuklarla. Çoğu filmden çok daha güzeldi ama ilk filmini daha çok beğendim sanki.
+Denzel amcanın her filmi genel olarak güzel. Adalet filmi de öyle. Ne alakaysa, filmin başında bir istanbul sahnesi vardı. O kısmı ajan rahip brunson olayları ile iliskilendirdim biraz. 5 ile 10 dk istanbulda geçti sonrası yoktu.
+Upgrade filmini izledik. Genel olarak beğendim. Yapay zekanın gidebileceği yer ile ilgili tahmini ise korkunç.
+Öğüt verme, öğüt ol.
+Diziyi güzel yapan şey oyuncularıdır, diziyi efsane yapan şey ise müziğidir.
+Aradığınız yer: N 37.027151 E 35.276348. Yandex.Navigasyon'da rota oluştur:
+Sevgili @SeyhanBelediye @CukurovaBelTr belediyelerimiz, bu parkın sıkıntılarına çare olur musunuz? Engelli basketbol sahasının çemberi yok.
+Çay demliğine elini atınca, herkesin bardağının bir anda boşalması gibi hayat bazen.
+Müdürü ile yazılımcı arasındaki ilişki senkron olmamalıdır. Müdür sürekli bitti mi diye sormak yerine, asekron olmalıdır. İş bitince yazılımcı "iş bitti" callback metodu ile müdüre haber vermelidir. :)
+Bir yazılım projesinde, elinden geleni yaptığını bildiğin adama, "Bu iş daha bitmedi mi?" diye sormak kadar abes bir iş yok.
+#iyikivarsınEren
+Ramil Guliyev'in şampiyon olması, dolar üzerinde olumlu bir etki yapar mı diye, ister istemez düşündürüyor insanı :)
+“Swift ile String Decode Etme”
+Yazılımda bir şeyin doğru okunabilmesi için öncelikle doğru yazılması gerekir.
+#BebekKatiliPkk
+Akşama kadar kod içinde çok fazla mantıksal durumlarla karşılaştığımız için mi mantıksız durumlara bu kadar çabuk öfkelenmemiz?
+Alime sormuşlar; iyi kod yazmayı kimden öğrendin? Daha öğrenemedik hala çalışıyoruz ama kötü kod yazanlar işimizi kolaylaştırıyor, demiş.
+Bir problemle birkaç gündür gündüzleyin ve fazladan rüyamda birkaç gece uğraştıktan sonra Allah'a çok şükür çözdüm. #yazılım
+Hepimiz #MesutOzil'iz.
+Okuduğum İTÜ'nün eski rektorlerinden Mustafa İnan ve eşi Jale İnan'ın(ilk türk kadın arkeolog) hikayesi. Okurken duygulandım. Kütüphanede az zaman geçirmedik. #bilimveteknik #tübitak #itü
+Allah şehitlerimize rahmet eylesin. #15TemmuzDestanı
+Gün sonunda yaptığımız iş; if, else, try, catch, while, for, foreach, class, interface, public, private, void, String, Exception, extends, protected, static, . . .
+Dünya mi küçülüyor biz mi duyuyoruz herşeyi. Dünyanın bir ucunda olan birçok kötü habere üzülüyoruz bazen de, Tayland da çocukların kurtarılması gibi haberlere seviniyoruz.
+Dünyanın bozulmaya başlamasının dönüm noktaları; yemeğin yanında ki suyun para ile satılması ve Adana kebabının yanında pilav verilmeye başlanması.
+Yeni milli eğitim bakanımız @ziyaselcuk 'dan sorunlara güzel teşhisler.
+Yeni eğitim bakanımız inşallah eğitimin sorunlarına çare olur. Hayırlı olsun. #YeniKabineYeniTürkiye
+Ne büyük bir acı. Allah rahmet eylesin hepsine. #trenkazasi
+Keçinin yavrusuna oğlak, insanın yavrusunu ağlak denir. Nazlı bir kız babasından aforizma.
+Golovin tusubasa hareketi yaptı. #Russia2018
+#Russia2018 kulağa hoş gelen futbolcu isimleri. Umtiti, asensio...
+Bugün arkadaşlardan çok dua aldım. #adana #karpuz
+Almanya sonuncu olarak #Russia2018 den elendi.
+Türklerle uğraşan iflah olmaz.
+Almanya'ya güle güle 😄😄😄
+Karmaşık kodun içinde iyicene boğulunca, daha iyi anlıyor insan; kodda aslolan şey basitlik olmalıdır.
+Ziraat Teknoloji uzman yardımcısı alımı hakkinda.
+Ah garip Afrika.
+Bu brezilya ne yapmak nereye varmak istemektedir? @umutluoglu hocam tam senlik bir söz.
+Beter olsun Almanya :) Hepimiz Meksikaliyiz.
+Babalar günü hediyemizi aldık. Teşekkürler @UstunOzgur hocam.
+#MoSalah yedekte. Gönlümüz Mısırda.
+Bayram günü, birşeyler yerken hissedilen o suçluluk duygusu.
+#BayramınızMübarekOlsun
+Başının en çok ağrıdığı vakit, çözüme en yakın vakittir. İhtiyacın olan şey biraz temiz havadır. Sonrası kendiliğinden gelecektir.
+Çocuklarla ofise geldik. Onları oyalamak için, açık bilgisayarlar ekranlarını kapatın hadi dedim. Hoşlarına gitti. Şimdi geziyorlar tüm bilgisayarları. Win-win :)
+Yaptığım yazılım işini seviyorsam işkoliğim, yok sevmiyorsam mecburen yapıyoruz işte :)
+#iyikivarsınEren Allah sana rahmet eylesin.
+Allah rahmet eylesin sana, en nazik başbakan. #27Mayıs
+Nazar değdi adama. #MoSalah
+Tam cuma namazı sırasında kesin birinin telefonu çalıyor nedense, namazın ortasında oynamalı şarkılar, türküler... Ne zaman ciddiyet ilan edeceğiz?
+Yeni gördüm. Kendi kitap kapaklarınız oluşturabilirsiniz.
+Mağazada bir çocuk sürekli ağlıyordu. Annesi sonra, "seni terlikle dövecem" deyince sustu. Geleneklerimizin devam etmesi insanı mutlu ediyor :)
+25 Mayıs'ta güzel bir film geliyor.
+Algoritmaları daha temelden anlatan ve şekillerle zenginleştirilmiş güzel bir kitap, ben de başlarındayım ama hoşuma gitti. Örnekler Python ile verilmiş.
+Avrupa'yı parçalama işini İspanya'dan başlayalım abi. Baksana adamların maçına; adam yerde yatıyor, kimsenin topu dışarı attığı yok. Kendi içlerinden bölünmüşler zaten :) @kaldiroglu
+Yumurtaları kırılmış herhalde. Etrafında geziyorlar.
+Riberry bitmiş abi @kaldiroglu
+Gurbette yaşamanın sevmediğim yanlarından biri, hasta olup hastaneye gideceğin vakit, çocuklarını kimseye bırakamıyor oluşun.
+Eskiden yol arasına tümsek konulurdu, şimdi ise tümsek arasına yol.
+Dün hanım, çocuğa yemek yedirmek için benim telefonu kullandı. Bugün acıktığım vakit telefon üzerindeki yemeklerden tırtıklıyorum.
+Defalarca denk geldi bize ve her seferinde ucuz kurtulduk.
+Bu tür araba kullananları adam öldürmeye teşebbüsle aynı cezayı vermek lazım.
+!prod && !preProd Olmasi gerekiyordu.
+Önemsiz gördüğün mantıksal operatör kullanımının bazen o kadar önemli sonuçları olur ki...
+Amazon birkaç gündür kullanıcı adını setlemeyi unutuyor :)
+Sarmaşık evler sitesi, çamlık mah. oyun parki bazi kırık araçları. Tamir ettirebilir misiniz @Pendik_Belediye
+Arkadaşım anlatmıştı küçükken ninesiyle geçen bir olayı, bir köpekleri varmış. Ninesi bir gün demiş ki; oğlum köpeğin yemeğini koydun mu? A: Nine boşver köpeği bulur birşeyler, yer Nine ise, şu muazzam cevabı veriyor. Olur mu oğlum? Sen neysen o da o.
+Hayattan bıkmış bir yazılım geliştiricisinin commit loglarının özeti. 1. Bugs fixed. 2. Feature added.
+Çocuklarla oyun oynarken aklıma gelen; Önemli olan oyuncağı yapmak değil, çocuklar onunla oynamaya başlayıp bozmaya çalıştıklarında onun bakımını sağlamaktır :)
+The quality of code is inversely proportional to the amount of effort to understand it. Kodun kalitesi, onun anlaşılması için göstereceğin efor ile ters orantılıdır. By @venkat_s
+#Katilİsrail zulüm elbet payidar olmaz.
+Sonra çaycı abla sana en tazesinden çay getirir ve hayat bir anda güzelleşir.
+Hayırlı Cumalar Ayşenur Arslan abla.
+Sabah çay içersin, çok hoşuna gider, ikinci çayı almak istersin ama onun da suyu kaynamamıştır gibi hayat bazen.
+Anlarsa uzağım yakınımdır. Anlamazsa yakınım uzağımdır İbrahim Hakkı Hz. Türbesinden.
+Rüyamda üniversitedeki hocam doktora yapmamı söylüyordu. Benim yüksek lisansım bile yok. Kafa karıştırıcı :)
+İstanbul teknopark'ta yeni günlerimize adım attık. #kurtköy
+Sarmaşık evler sitesi çamlık mah. İstinat duvarlari dışa doğru yarım metre kaymış. Yarın burda çökme olursa, insanlar ölürse sorumluluğu kimde olur? @ibbBeyazmasa @Pendik_Belediye @istanbulbld
+Demir parmaklıkların ardında bir masum. #Üsküdar
+Çiftlik bankası vb. diğer tüm vakıalar için: Beni bir kere kandırırsan sana ayıp, iki kere kandırırsan bana ayıp. Kolay yoldan zengin olmayı isteme hastalığından kurtulmamız lazım.
+Mühendis: Evleniyorum. Ofiste çok çalışmak için evde bir aile olması gerekiyor. İroniye bak. Rüzgar yükseliyor Hayao miyazaki
+Başka bir yerde de soğuk çay isteyince, Abi senden başka kimse soğuk çay demiyor dediler. :)
+Geçenlerde yemek yediğimiz yerde bir soğuk çay ve ayran dedim. Çocuklara zannedip, normal çay içine su katip getirmişler. İlla ice tea mi diyelim yani :)
+2 yaşındaki kızıma annesi sütü göstererek soruyor, çocuklar ne içer? Kızım: Çay Biz: !?!?!? Bu kız yazılımcı olacak herhalde :)
+Yoğun kar sonrası kar kalınlığı 1 milimi geçti. #istanbul #kar #kurtköy
+Yağmur yağıyor, gözlere dikkat. #şemsiye
+Eğer metroda, aşırı müzik sesi gibi dikkat dağıtan etkenler yok ise, birşeyler okumak güzel gidiyor.
+Toplu taşımada erkeklere yayılarak oturmayin uyarısı var. Bayanlara da(genelde onlarda gördüm) bacak bacak üstüne atıp ayakta durulacak alana kadar yayılmayin uyarısı olsun.
+Kurtköy İstanbul Teknopark'ta temizlik işçisi olarak çalışan abimizin, çöplerden topladığı kitaplarla kendine kurduğu dünya. :) #pazartesi #kitap #teknopark #istanbul
+Kolay olan hiçbirşey kıymetli değil, zor olan hiçbirşey kıymetsiz değil.
+Olmadı trt olmadı. Yakışmadı bu yaptığın. #dirilis
+Hayatımızın özeti; içerdekiler dışarı çıkmaya çalışıyorlar, dışardakiler ise içeri girmeye. (Metrodan gözlem ile)
+En sevdiğim kitap çeşitleri. 35dolar altı olanlar :) Yetkililere burdan sesleniyorum, en azından 75dolar kalsaydı.
+Üsküdar Aziz Mahmud Hudai turbesine yakın kitapçıdan. Atalarımız gibi dini ve dünyayı birbirine tercih etmeyip, dengeyi gozetmisler.
+O metronun yaklaşırken çıkardığı far izi var ya, siz onu anlayamazsınız :(
+Kim demiş edevlet çalışmıyor diye. Gece 4te pat diye getirdi sonuçları.
+Gece bebeğin uyutmadığında en iyi yapılacak iş nedir? -Tabi ki edevletten soy ağacına bakmak :)
+Dedim sen bunu hiç yapmadin mi hesap makinesinde? Yok abi ilk önce defa görüyorum dedi. Yaslaniyoruz valla.
+Bugün 95li bir arkadaşa bunu gösterdim. Ne olduğunu anlamadı.
+Tatmin eden bir haram, tatmin etmeyen bir helal yoktur.
+Dünkü roket fırlatılmasından sonra, çevremdeki mühendis arkadaşlarımın karamsarlıklarını gidermeye çalışıyorum. - "Abi adam neyle ugraşıyor biz hala if-else yazalım." - Tamam, güzel kardeşim bizde yaparız. Sen derin nefes al, bir çay iç, sakinleş.
+SpaceX roketlerin gui programlamasi için ne kullandı? Tabi ki react native:)
+Musk uzaya aracı gönderdi, ben de bizim kızı yatırdım. Görev tamamlanmıştır.
+Metroda yaşlı bir amca bindi. Ben ayaktaydım. Yüksek sesle "oturacak mısın amca" dedim. Hemen biri kalktı yer verdi. Yer verdirme taktiğini buldum :)
+Yaş ilerledikçe zam dönemleri daha az ilgi çekmeye başlıyor, yeni bir projeye başlamaksa daha çok.
+Amazon'da indirime girmişti alalım dedik. Oğlum elinde kitapla geldi -Baba birşey diyecem. Bu kitap trenlerle ilgili mi? Ben: ?#!?#! :) Yok oğlum
+En sıradan esprilerinize bile kahkahalarla gülen kişiye kız evlad denir ve neşenize neşe katar.
+Nenemden bir söz: "Eskisi olmayanın yenisi olmaz."
+Bugünkü sabah aklıma gelen parça: Mektupları yırtıp attım diyelim Resimleri bir bir yaktım diyelim Bir mazi var onu nasıl silelim Sen beni ömrünce unutamazsın
+Çocukken aynı odada ben ders çalışırken, abim Müslüm Gürses dinlerdi sürekli. Müslüm Gürses'in birçok parçası ezberdir aklımda. Ara ara gelir parçaları aklıma.
+Toplu taşımaya binince 2 türlü de ağrı çekiyorsun. Ya oturamayıp ayaklarının ağrısını ya oturup vicdanının ağrısını.
+Bugün cumayı "bulgurlu mescid caminde" kıldık. Cami ne bulgurludaydı ne de mescid idi :)
+Sabah Üsküdar meydanında 10 yaşlarındaki bir kızı köpekle oynarken gördüm. Çok mutlulardı. Sabah sabah beni de mutlu ettiler.
+Bozuk yürüyen merdivenlerden çıkmak normal merdivenlerden çıkmaktan daha fazla yoruyor adamı. Nedendir acep?
+I just published “Etkin Java — Madde 9 Kullanılmayan Nesne Referanslarının Temizlenmesi”
+Effective Java 3 sipariş vermek istersek fiyat bu. Sağolsun devletimiz 35 doları geçen kitaptan da vergi alıyor. Yurt dışına giden bir arkadaştan getiririz artık.
+Değişik Türkçe anlam önerileri var ama bana şöylesi daha açıklayıcı geldi. High cohesion, loose/low coupling: Yüksek iç bağlılık, gevşek/düşük dış bağımlılık veya @kaldiroglu hocamın deyişiyle "kendini bil dedikodu yapma" :)
+Kışın çocuklardan kaçıp biraz dinlenmek için öneri. Saklambaç oynayın ve bulunmayacak bir yere saklanın. Onlar sizi ararken siz de kestirin biraz.:)
+Bir cahil adamla bir alim adam tartıştığı zaman, dışardan bakan 2 cahil adamın tartıştığını zannedermiş.
+Bazen kötü kod görürüz ve "Bunu temizlemeliyim" deriz. Bir sonraki düşüncemiz ise, "kesinlikle buna dokunmam" olur. Çünkü koda dokunursak, onu bozacağız. Onu bozarsak da suç bize kalacak. Korku, bizi kodu temizlemekten alıkoyar. #cleancode
+Yollarin orta bölümleri bari beton ile kaplamayın ki araba çarpması ile ölen hayvanlarin cesetlerinin toprağa karışabilecegi yer olsun.
+Yolda yürürken kare şeklinde olan halı veya başka nesnelerin çizgisine basmadan yürümeye çalışıyorsanız, hâlâ çocukluğunuzu kaybetmemişsiniz demektir.
+Milyonlarca masum insanın kanı ellerinde olan #ABDTürkiyeyiYargılayamaz
+Kendi yazdığımız uygulamayi kullanmak zorunda kaldık ama bizi büyük külfetten kurtardı. Verdiğimiz emeklere değdiğini görmek güzel. #mobilkazatutanagi
+Eve doğru yol azaldıkça, varış sürenin arttığı memlekete Istanbul denir.
+1 çocuğunuz var ve büyütürken sorun mu yaşıyorsunuz 2.yi yapın. 2 çocuğunuz var ve hala mi sorun yaşıyorsunuz 3.yü yapın :)
+Artik çinko çatılarımız olmadığı için, sadece arabanın içinde dinleyebiliyoruz yağmurun sesini.
+Mısır'da, camiye yönelik adice saldırıdan sonra tekrar aklıma geldi. İşidliye soruyorlar, ne zaman İsrail'e saldıracaksın diye. İşidli, onlar ne zaman müslüman olursa diyor. Allah sizin belanızı versin İşid ve sizi destekleyen ülkelerin.
+İstanbul trafiğinde serviste dinlemek için @BilgemCakir hocam en iyi seçeneklerden.
+Bizim için Cuma mübarek bir gündür. Başka isimlendirmeleri kabul etmiyorum.
+Türkiye'de agile olan ama acele etmeyen şirketlerin sayısını artırmamız lazım.
+Türkiyede temiz kod yazmamanın proje süresine olumsuz etkisi. Projeyi hızlıca canlıya almak 1 ay. Canlıda hatayı bulup düzeltmek 3 ay. Ufak bir yeni geliştirme eklemek 5 ay.
+Maziye bakma mevzu derin. #anlik #kamyonyazilari
+Bir işin zorluğu, hergün onu yapmaya çalışırken ne kadar az kısmını rutin olarak ne kadar çok kısmını kafa patlatarak yaptığınızla doğru orantılıdır. Bu yüzden yazılım mühendisliği zor işlerdendir.
+- Oğlum bir bardak su verir misin. - Yok baba vermeyeceğim. Kardeşim versin. - Bunu söyleyeceğine koluma ok saplasan daha iyiydi :)
+Bu ülkeden bir şey olmaz düşüncesini kabul etmiyorum. Ne kadar da kötü durumda olsak hâlâ bu ülkeden ümitliyim. Üzerimizde ki ölü toprağını atacağız birgün elbet.
+Fırından alınmış sıcak bir ekmek veya yazılmış temiz bir kod, beni mutlu eden şeylerden.
+Allah, depreme yakalanlara yardım etsin, çok zor gerçekten.
+I just published “Bir Örnek Üzerinden Kotlin, Swift ve Golang”
+Ne iş olsa yazarım abi.
+#atsummit17 Biz de agile summite geldik.
+Hey sıkılmaz, ağlamazsan, bari gülmekten utan! ...
+Sayin @Pendik_Belediye sahil lambalarini ne zaman yakmayi düşünüyorsunuz? Çocukları göremiyorum.
+I just published “Okunabilir Kod Sanatı — 2”
+Bir de ayırt edici boyalar geçiyor zamanla, göremeyip pat giriyorsun tümseğe. Geçmiş olsun arabana sonra.
+dan gizli gizli kitapları arattığım, gezindiğim, yorumlarını okuduğum doğrudur:)
+Belediyeler sağolsunlar yollara tümsek değil duvar örüyorlar sanki. Az biraz yükseklik olsa amaç hasıl olur, bu kadara gerek yok.
+Ofiste kimse yokken bile elim "git pull"a gidiyor. İyi bir şey mi kötü mü anlayamadım.
+I just published “ReactJS Kodunda Refactor — Saf(Pure) Fonksiyon Kullanımı”
+I just published “Kodun Yeniden Düzenlemesi — 1”
+#GameOfThrones7X06 izlerken "bir ejderham olsa trafiğe takılmadan işe giderdim" diye içimden geçirdim. Ah istanbul ne hale soktun bizi :(
+I just published “Kod Basitliği — 1”
+"High cohesion low coupling" türkçesi "kendini bil dedikodu yapma". Duyduğum en iyi tanımlardan :) by @kaldiroglu hocam
+++sebebi nedir acep? Sadece İstanbul trafiğiyle açıklanabilir mi?
+Normal kendisi emniyet şeridine girmezken, bulunduğu servisin şoföründen emniyet şeridine girmesini isteyen beyaz yakalı paradoksunun++
+Clean code yazmayı kimden öğrendin? Cevap, dirty code yazanlardan. By @kaldiroglu İzlemeyen kalmasın.
+Yolları küllük olarak kullanmaktan vazgeçelim artık.
+Sulu yemekle pilavı tek tabakta karıştırmaya başladım. Yaşlanıyorum herhalde.
+I just published “Android Programlamanın Yeni Dili Kotlin — 2” @ustunozgur
+Şirketimiz sağolsun @starbuxman davet etmiş. Bize spring boot anlatıyor. @UstunOzgur hocamla beraber.
+İlim bir nokta idi, onu cahiller çoğalttı. Hz. Ali
+Yiğit adam, haini gebertirken kafasına sıkar, hainler onu şehit ederken sırtından vururlar.
+“Pragmatik Programcı — 2”
+Şehidimize selam verdik. #15temmuz
+Devletimiz bu işe bir el atsın. @TC_Basbakan
+“Javascript reduce Fonksiyonu”
+Bir yazılımcı show-case sevmez, switch-case sever :)
+Benim, oğlumun, kızımın. #golang #gopher @jsonmez

@@ -1,0 +1,569 @@
+"Internet" yerine "Stackoverflow ve GitHub" da yazabiliriz
+Internet bağlantısı varken: Senior developer Internet bağlantısı kesilince: Junior developer
+"Ne tarz" "bu tarz" bombardımanı 14. saniye itibariyle başlıyor😂 Dinleyenlere kolay gelsin.
+Yazılımcılar için hangi firmalar ne gibi olanaklar sunuyor, teknik gelişim için nereleri, kurumsal ortam için nereleri tercih etmeli gibi konularda düşüncelerimi anlattığım yeni video yayında.
+2020'de Westworld dahil her şey elimizde patladı. Son umudumuz Dark. 1 yıl bekledik, bir amorti ikramiyesi çıkar umarım.
+Bu arada, videoda o kadar çok "bu tarz firmalar" "bu tarz ekipler" demişim ki, videoyu izledikten sonra "hay senin bu tarz'ına" diyebilirsiniz. Sonraki videolarda dikkat edeceğim bu tarz ifadelere :)
+Türkiye'de yazılım alanında hangi sektörler, hangi firmalar teknik gelişiminize katkı sağlar, kurumsal ortam, iyi maddi olanaklar sağlar... Bu konularla ilgili bir video hazırladım. Bu akşam yayında olacak.
+Ne zaman Ege taraflarına gelsem en az bir defa 5+ şiddetinde depreme denk geliyorum, hiç şaşmıyor. Merkez üssüne 150 km uzaktayım ama koltuk beşik gibi sallandı.
+Bu ayrımcılık bazı firmalarda hâlâ devam ediyor maalesef. "Firma neresi, ifşa edelim" demeye çok gerek yok. Bir firmada 15-20 kadın çalışıyor ve bunlardan 1 tanesi bile başörtülü değilse çok büyük ihtimalle orada bu ayrımcılık vardır. İstisnalar olabilir, ama genel durum böyle.
+Video çekimi yapmadan önce görüntü sabitleme için bana yardımcı olan minik aparat :)
+Yok artık dedirten olaylar :)
+Topu topu 2 binary sayı var, kaç farklı yazılım yapılabilir ki?
+Burak Selim Şenyurt ile canlı yayınımız başladı. Zamanı olanları bekleriz.
+Bu arkadaş üniversite son sınıftayken üç büyük mobil operatörden birinin günde ~100k ziyaret alan web sitesinin önyüzünü tek başına kodlamıştı. "Öğrenciler mezun olduklarında sektöre hazır değil" dememek için üniversitelerdeki bazı derslerin güncellenmesi şart!
+Akademik dünyanın değişime uyması lazım, en azından bilgisayar bilimlerinde. Bir arkadaşım 6-7 yıl önce HTML ödevini div layout ile verdiği için 50/100 puan almıştı. Hocası "ben table öğrettim size, table ile yapman lazımdı" diye 50 puanını kırmış.
+Bu akşam saat 22.15'te Burak Selim Şenyurt ile Youtube'da canlı yayında katılımcılardan gelen soruları yanıtlayacağız. Katılmak isterseniz videodan hatırlatıcı oluşturabilirsiniz.
+Devnot yazarı @kerimkaraman24 cumartesi günü katıldığı Microservices ve DDD Konferansı için kısa sunum özetleri ve sunum videolarına yönlendirmeler içeren bir yazı hazırlamış. Henüz izlemeyenlere güzel bir rehber olabilir.
+Baya yazan olmuş, tek tek dönemedim kusura bakmayın. Gelenlerden bazı ilginç notlar: - İlk parasını ne kadar çok ödev yapıp, wifi hackleyip kazananlar olmuş. Tasvip etmiyorum, çok ayıp😀 - Ortaokul hatta ilkokul yıllarında kod yazarak para kazananlar olmuş. Helal olsun valla👏
+Tasarım, HTML, veritabanı her şeyini yapmıştım. İşi teslim ettiğimde mağaza sahibi 200 TL ile kalan 50 TL yerine eski bir pc kasası vermişti. Baya kızmıştım napayım bu kasayı diye ama içindeki birkaç donanımı Kadıköy'de bir yere 50-60 TL'ye satmıştım :)
+Kod yazarak para kazandığınız ilk iş neydi/nasıldı? Ben 2003'te üniversite yaz tatilinde bir mobilya mağazasının web sitesini yaparak ilk paramı kazanmıştım. Siteyi PHP ile 1 ayda hazırlamıştım, 250 TL ücret almıştım.
+Çoğu eski backendcinin benzer deneyimleri olmuştur sanırım. O zamanlar bugünkü gibi mikroservis yazıları sunumları olsaydı, sanırım daha kaliteli işler çıkarırdık. Kılavuz olmadan yolu bulmuşuz bir şekilde.
+Yine bazı kaos testleri yapıyorduk. A servisini kapatıyorduk, cache servisini veya veritabanını kapatıp servisler nasıl tepki veriyor diye testler yapıyorduk. Tabi o zamanlar bu yaptığımızın kıyısından ucundan "chaos engineering" denilen şey olduğunu da bilmiyorduk :)
+2010'da Innova'da domain bazlı ayrı geliştirilen, ayrı deploy edilen servisler yazıyorduk. O zamanlar mikroservis diye bir konu gündemde olmadığı için uyguladığımız yaklaşımın mikroservis olduğunu bilmiyorduk tabi.
+İlk @devnot_ online konferansını 6.5 saatte tamamladık. Spesifik bir içerik olmasına rağmen toplam 3200 katılımcımız olmuş. Tam takip edemedim ama sanırım anlık 550 kişiye kadar çıktı sayı. Umarım katılan herkes için keyifli ve faydalı geçmiştir.
+Sabah yayına başlamadan önce 1 like, 1 dislike vardı. Şu an hâlâ 1 dislike var ve bunu yapan arkadaş yayını bile izlemeden bastı o butona.
+Sokağa çıkma yasağı var diye üzülmeyin, henüz haberiniz olmadıysa buyrun online yazılım konferansına. Sırada 3 tane daha sağlam konu var. Youtube'dan takip edebilirsiniz:
+Ben hariç herkes televizyondan mı izliyor etkinliği?🙄
+Televizyonda online yazılım konferansı izleme qeyfi 😀
+Microservices & DDD Konferansı 2 dakika sonra başlayacak. Gün boyu tüm sunumları adresinden takip edebilirsiniz.
+Yazılımcı adayları bu mesleğe nasıl odaklanmalı, nelere dikkat etmeli, nelere önem vermeli? Türkiye'nin yazılımcı açığı ve 1 milyon BT çalışanı hakkında fikirler düşünceler... Hepsi bu videoda.
+Youtube'da bu hafta konuğum PHP tişörtü ile @EmirKarsiyakali Yazılımcı adaylarının ve yolun başındaki arkadaşların kafalarındaki bazı sorulara yanıt bulmaya çalıştık kendisiyle. 3 ay önce yapacaktık bu muhabbeti ama kısmet bu haftayaymış. Video yükleniyor, 21.30 gibi yayında.
+Daha ne kadar rezillik olabilir derken buyrun. Az önce markete giderken site girişinde iki Sürat Kargo paketi gördüm, biri bizim paketmiş. Tüm gün evdeydik, ne kapıya getirdiler ne de zili çaldılar. Böyle bırakıp gitmişler biri alıp götürse haberimiz yok. Kargo poşeti de yırtık
+Bu haftasonu düzenleyeceğimiz Online Microservices & DDD Konferansı'nın hazırlıkları tamam, yarın saat 10.00'da başlıyoruz. Hala kayıt olmadıysanız adresinden kayıt yapabilirsiniz.
+22 Haziran Pazartesi akşamı Youtube'da Burak Selim Şenyurt ile birlikte canlı yayında sorularınızı yanıtlayacağız. Sorularınızı adresinden iletebilirsiniz.
+Kod yazdığım ilk dil: Basic (GW Basic) Kullandığım ilk IDE: Frontpage Insert attığım ilk database: MySQL
+Bundan sonra n11 vb. yerlerden alışveriş yaparken kesinlikle @SuratKargoTR ile gönderim yapan yerleri tercih etmeyeceğim. Aldığım ürün 10 gündür Esenyurt aktarmada bekliyor. 5 gün önce müşt. hizm. aradım, aksiyon aldırıyoruz dediler, aksiyon bu.
+Bugün saat 14'te başlayacak IBM Developer Summit Online'da ben de 14.40'da "2020'de Geliştirici Ekosistemi" konulu bir sunum yapacağım. Katılmak isteyenler şuradan kayıt olabilir:
+2020 yılında hâlâ "puanını yakma git tıp oku" diye lise öğrencilerine baskı yapanlar var. Üstelik belki de geleceğin cevval yazılım mühendisine.
+Çalıştığım şirket/şirketler son yıllarda resmi enflasyon rakamına göre maaşıma ...... zam yaptılar.
+Galatasaray-Rizespor maçını izliyorum, 2020 özeti gibi maç. İlk yarı Muslera'nın ayağı kırıldı, sanırım az önce de Andone'nin ayağı kırıldı :(
+Dün akşam yaptığım soru-cevap canlı yayınının video kaydına buradan ulaşabilirsiniz. İlk 6 dakikayı direkt geçebilirsiniz, hatta asıl konu 8. dakikada başlıyor.
+Canlı yayın esnasında şuradaki soruları yanıtlayacağım. Ekran paylaşımı yapamadığım için buradan paylaşmak zorunda kaldım :(
+Yaklaşık 15 dakika sonra Youtube canlı yayınında olacağım. 41 soru gelmiş, hepsi yetişir mi bilmiyorum ama elden geldiği kadarını yanıtlayacağım.
+Bu akşamki Youtube canlı yayınına biraz hazırlık yaparken aklıma 2013'te başladığımız DevelopersTube yayınları geldi. Internetten radyo yayını falan da yapmıştık o zamanlar. Güzel günlerdi.
+Ege taraflarını çok seviyorum bu arada, hatta yazın 1 ayım oralarda geçiyor. Ama bütün aile, akraba, dost İstanbul'da olunca yakın bir yer daha mantıklı geliyor.
+İleride tamamen evden çalışabilecek olsam tercihim Ege değil de Sapanca olurdu. Yıllar önce yayınlanan şu sözlerim aynen geçerliliğini koruyor.
+Şirketler remote çalışmaya geçmeden bu olmaz diye yazanlar olmuş. Evet remote çalışma en önemli etken. Ama pandemi olmasaydı bile İzmir'e ofis açıp bazı operasyonlarını oraya taşıyan şirketler zaten vardı. İzmir'deki popülasyon kesin artacak, remote çalışma bunu hızlandıracak
+Canlı yayına başladık.
+Yarın akşam da bu videoda eksik kalan birkaç konu ile birlikte sizlerden gelen soruları canlı yayında yanıtlayacağım.
+Türkiye'deki yazılımcı maaşlarıyla ilgili somut rakamlar verip, ne tarz etkenlerin maaşa olumlu yönde etki ettiği gibi konularda düşüncelerimi dile getirdiğim yeni video yayında.
+5 yıl içinde İzmir'deki yazılım geliştirici sayısının bugünki sayının 2 katına çıkmasını bekliyorum.
+Babam ihtiyatlı adamdır, ısrar etmemize rağmen "kandırmaca bunlar" deyip kuponla eve bir çöp bile aldırmadı. Sadece bir kere ısrarıma dayanamayıp 9 kupona basketbol topu almıştık, onu da uzun yıllar kullanmıştık mahalledeki arkadaşlarla.
+Yeni nesil belki bilmez ama 90'ların sonunda gazeteler kuponla buna benzer bir sürü dolandırıcılık işi yapmıştı. Reklamdaki ile verilen ürünler arasında böyle devasa farklar olabiliyordu. 100 kupon toplayıp ürünü alamayan binlerce insan vardı.
+Bu efsaneyi unutmam. Reklamlarda devasa müzik seti gösterip avuca sığan müzik seti vermiştiler kuponla. Komşumuz "sizin müzik setinin 2 katı" diye bana sürekli hava atmıştı. Kadının kutuyu balkonda açıp sinir krizi geçirdiğine bizzat şahit olmuştum :)
+Günlük hayatta konuşurken "yapacağım" gibi fiilleri nasıl söylüyorsunuz?
+* Free hesapta 10'dan fazla web sitesi eklenebiliyormuş sanırım(benim 8 tane var, sınır 10 diye biliyordum). Eğer öyleyse iş daha da ilginç.
+Cloudflare internetin en cömert servislerinden biri. 10 tane websitenin DNS, SSL, cache, firewall ve daha bir çok yapılandırmasını ücretsiz sağlıyor. Başkası olsa 2 bilemedin 3 site için free sağlar bunları.
+Madem yeni etkinlik merkezimiz Kommunity, Youtube canlı yayınları için bir grup açtım. İlk etkinlik bu cumartesi(içeriğini dün duyurmuştum zaten)
+Gelin Twitter ahalisi olarak birleşip para toplayalım, şu şirkete yatırım yapalım. 2-3 seneye buralar da değerlenir, milyar $'a gider bu şirket🤑
+Çocuğunuza "hayır" demenin farklı bir yolu: + Baba ... yapabilir miyim? - Bilmem kızım, annene sor + Anne ... yapabilir miyim? - Babana sor, o izin verirse + Babaa.... - Ben bilmem annene sor + Ya uf tamam, yapmam daha iyi
+Evet en fazla %25 çıkar diyordum, %33 çıkmış. 3 kişiden 1'i katılabilirim diyor. Bence yapmayın, evinizden online etkinlikleri izleyin en azından vaka sayısı 0 olana kadar.
+Akşam büyük bir holdingde teknoloji GMY olan bir abimizle telefonda görüştüm, "şu an kod yazıyorum" dedi. Kodlama aşkı böyle bir şey, patron da olsan GMY de olsan hobi olarak yazmaya devam ediyorsun bir şekilde.
+Sorular anonim erişime açık. Beğendiğiniz ve mutlaka yanıtlanmalı dediğiniz soruları beğenebilirsiniz. Dikkatimden kaçsa bile beğeni sayısına göre yanıtlamaya çalışırım soruları.
+Yazılımcı maaşları, sektördeki yazılımcı arayışları, iş arama-bulma, kariyerinizle ilgili aklınıza takılan konularda varsa sorularınızı şu linkten yollayabilirsiniz: Canlı yayını 22.15 civarı başlatırım, sorulara göre 1-1.5 saat sürer sanırım.
+Öğlen Türkiye'deki yazılımcı maaşları konusunda bir video çektim Youtube kanalı için(cuma akşamı yayında). İzlediğimde aklımdaki bazı konuları atladığımı ve ufak tefek de olsa boşluklar olduğunu farkettim. Bu cumartesi akşamı canlı yayın yaparak bu boşlukları doldurayım dedim👇
+TikTok için yazılımcı dramı video önerisi: Kodu build oldu diye seviniyor, sonra unit testleri çalıştırıyor, 10 tane falan kırmızı yanıyor. Tam bu esnada acıklı duygusal bir müzik çalmaya başlıyor...
+Ekranı patlayan eski telefonum. Logolar baya eski ve nostaljik geldi gözüme. 2013'ten kalma bu uygulamalar ve logolar
+Developer Summit'i 2020 yılı içerisinde fiziki ortamda yapma şansı olmadığı için etkinliği iptal ettik. Bilet iadelerini 2-3 hafta içinde yapacağız. 2020'de fiziki bir etkinlik yapmayacağız. Aksilik olmazsa Eylül-Ekim döneminde Summit'i online yapabiliriz.
+Eylül ayından sonra günlük vaka sayısı 100'ün altına inerse fiziki ortamlarda yapılan meetup/konferans gibi etkinliklere katılır mısınız?
+Zaten 4-5 sene önce güncel videoları Youtube kanalına taşımıştık. Belki anasayfayı Youtube videolarını içeren subdomain'ine yönlendirebilirim ama o eski portal ile tüm video içeriği artık olmayacak.
+Soranlar olmuş. Kapanmanın maddi bir yönü yok, sunucu VPS olduğu için bana ek maliyet getirmiyor. Ancak yedekleme, sunucu taşımalarında 20+ GB database-video taşıma işleri ve bakımsız(hatta player'ı çalışmayan) site artı beni kapat diyordu.
+Türkiye'nin ilk online video portallarından olan 15 Haziran itibariyle kapanıyor. 2006'da ADSL'i olan kullanıcı yok denecek kadar azken açtığımız ve videolarla onbinlerce yazılımcıya ulaştığımız eski gözbebeğimize hoşçakal demenin zamanı geldi 😢
+Devnot mentor programında mentoruyla verimli çalışmaya devam eden ve mentorunu övmek isteyen öğrenci arkadaşlar bu twitin altına mentorunu mentionlayabilir mi? Bir yoklama alalım :)
+Videolara çok klasik başlıklar atıyorum ama aksine Youtube'da da böyle enteresan ve ilgi çekici başlığı olan videolar alıyor yürüyor. "Ben sana ilgi çekici başlıklar bulurum" diyen varsa yardımlarını alırım :)
+7 yıldır İngiltere'de çalışan @brsk ile Londra'ya yerleşme sürecini, Ankara Antlaşması'nı ve oradaki yaşam şartlarını konuştuk. Pandemi sonrası İngiltere'ye gitmeyi düşünen yazılımcılar için çok önemli uyarıları var Barış'ın.
+Scott Hanselman'ı iptal olmasa Kasım 2020'deki DOTNET KONF'ta ağırlamak istiyorduk biz de. Bu yıl Türkiye'den baya taliplisi varmış adamın :) Belki 2021'de İstanbul'da ağırlamak kısmet olur.
+Bu harika etkinlik bu yıl @shanselman ile ayrı bir boyuta taşınmış. 25 Haziran'da yapacak daha iyi bir işiniz yoksa kaçırmayın.
+IBM Developer Summit Online'ın topluluk destekçisi @devnot_ oldu 😍 Bu önemli etkinlikte ben de "2020 Yılında Geliştirici Ekosisteminin Geldiği Nokta" konulu kısa bir sunum yapacağım. Kayıt olmak için:
+Adaylar artıyor :) Sahibinden dışında Modanisa, Getir ve Çiçeksepeti diyenler var. Sahibinden ağır basıyor ama bekleyip görelim.
+Yorumlara da bakılırsa Sahibinden dışında bir alternatif yok sanırım
+Bildiğim kadarıyla Hepsiburada satılmayacak, Trendyol'un %75'i Alibaba'da, Gittigidiyor Ebay'in, n11'in yarısı Korelilerde. Kim bu unicorn olacak e-ticaret platformu?
+Web sitesine x işi için giriyorum, orada y linki dikkatimi çekiyor, tıklıyorum ve x işini unutup siteden ayrılıyorum. Sonra x işi aklıma geliyor, tekrar giriyorum siteye bu defa z linki dikkat çekiyor... Böyle devam ediyor.
+7 yıldır Python'da kod yazmayan @EmirKarsiyakali kendine meydan okuyor ve canlı yayında Python ve Django'u yeniden hatırlayıp API'ını geliştiriyor. Code challenge saat 00.00'a kadar devam edecek, hala geç kalmadınız.
+Hosting paketleri 10-15 yıl önceki fiyatlara ve güncel dolar kuruna rağmen baya ucuz hale gelmiş. Üstteki paketi 2008'de almışım, alttaki ise güncel. 12 yıl geçmiş ama fiyatlar neredeyse aynı.
+önümüzdeki günlerde yeni yazarlar ve yazılarla baya güncel olacak. Şu an sırada bekleyen 3 yazı var ve 3-4 tane de yeni yazı hazırlanıyor.
+Cumartesi günü paylaştığım @yakuter ile yaptığımız açık kaynak projelere katkı sağlama ve bu projeleri yönetme sohbetini hafta sonu buralarda olmayanlar için yeniden paylaşayım.
+Dün gece televizyonun harici klavye menüsüne girip bluetooth cihaz tara dedim, evde açık cihaz var mı diye. Bu sabah iki farklı yerde bluetooth klavye reklamı karşıma çıktı. Bu da mı tedadüf? 🤔
+Geçen sene yapılan ve hatırlayamadığım tavsiye Güzel Hosting'di. Diğer tavsiyeleri de araştıracağım, teşekkürler yazan herkese.
+Geçen yıl bir arkadaş iyi bir yer önermişti ama mesajları ara tara bulamadım. Bookmark'lara eklemeyen aklımı seveyim.
+Devnot ve kişisel web sitelerimin bulunduğu Windows ve Linux sunucuları Türkiye'deki bir yere taşıyacağım. Çok bilinen hosting firmaları dışında önereceğiniz yerler var mı?
+Karantina başında @Koctas'tan ufak bir masa aldım. Hem yanlış renk, hem de kusurlu ürün yolladılar. Ürüne yorum yazdım ama 2 aydır onaylamadılar. 10 gün önce yazdım, yorumu onaylamazsanız Twitter'dan bu durumu paylaşırım dedim. Hala yayınlamamışlar yorumu.
+SpaceX'in 2021'de uzay turizmine başlayacağı söyleniyordu. Bugün fırlatılan roketten sonra artık uzay seyahatlerinin de önünde pek engel kalmaz galiba. 20-30 milyon $'ı olana tabi.
+Video içeriklerini işitme engelliler için işaret dili destekli yapmak isteyen yazılımcılar varsa şu söyleşiyi kaçırmasın. Yazılımcılara gönüllü destek veren bir oluşum konuk oluyor, saat 22'de başlayacak.
+Yazılım sektörünün yarısı mevcut işlerini bırakıp oyun geliştirmeye başlasın bence. Mobil oyun işinde iyiyiz, bu belli artık. Oyun ve oyun şirketi sata sata teknolojide çağ atlayacağız.
+Adamlarla dandik robotları yüzünden baya dalga geçtik ama yüzümüzü kara çıkaracaklar sanırım. İnşallah yüzümüzü kara çıkarırlar!
+Yeni video yayında. Açık kaynak projeler nasıl doğar, nasıl yönetilir, bu projelere nasıl katkı yapılır ve @pass_wall projesinin hikayesini @yakuter anlattı.
+Bu hafta @yakuter ile açık kaynak üzerine çok güzel bir söyleşi yaptık. Öğleden sonra full mesai yaptım ama videosu bu akşama yetişmedi. Yarın sabah yayında olacak video.
+Stack Overflow geliştirici anketine göre çalışanların %52'den fazlası ayda 1-2 gün ve üzeri mesaiye kalıyormuş. Oran biraz yüksek geldi gözüme, Türkiye'de de ortalama çok farklı değildir sanırım.
+20-21 Haziran tarihlerinde evinizden/ofisinizden online bir yazılım konferansına katılmak isterseniz sizi şöyle alalım👇
+Prison Break 5. sezon, ele çizilen yüz ile kamera sistemini hackleme vs. bu kod ile bir şeyleri hackleme
+Dark'ın farklı zaman dilimlerindeki karakterlerini, kesinlikle oyuncu veritabanından image recognition ile buluyorlar, artık bundan eminim. Yeni fragmanda 3 kişi farklı zaman diliminde görülüyor, 3'ü de asıl karakterlerin hık demiş burnundan düşmüş.
+Gelen yorumlara göre eski tarihli videolarmış. TV kanalı ana haber bültenlerinde bile görmüştüm bu videoları.
+Korona virüs ilk çıktığında Çin'de yere düşüp bayılan, zombi gibi gezen insan videoları çok dönmüştü haberlerde. Başka hiçbir ülkede o tarz görüntüler çıkmadı sanırım. Çin'deki görüntüler feyk miydi, yoksa onlar başka türlü mü geçirdi hastalığı?
+Yazılım ve teknoloji şirketlerimizin çok değil %5'i şu sektörlerdeki gelişimi yakalasa, belki dünyada ilk 5'e girmeyiz ama teknoloji alanında ciddi gelişim gösterip ülkeye çağ atlatabiliriz. 1. Savunma sanayi 2. Oyun (bilhassa mobil oyun) 3. Güvenlik yazılımları
+Çocukluk yıllarımızın takımı Anadolu Efes ömrü hayatında ilk kez EuroLeague şampiyonluğuna bu kadar yaklaşmışken virüs ona da mani oldu. Lanet olası Covid-19!
+Bu kadar genç mühendisin bir araya gelip böyle önemli ve stratejik bir uçağı üretmesi gerçekten umut verici. Şu videoda göreceğiniz yüzlerin yaş ortalaması 30 falan sanırım.
+Adam aralıksız yazıyor efendim, durduramıyoruz @ZaferAyan
+Son bir yorum daha; teknoparkı olan bir üniversitede okuyorsanız çok şanslısınız. Değilseniz de mutlaka teknoparklardaki şirketleri araştırıp, ilgi alanınıza uygun yerlerin varsa iş ilanlarına başvurun, yoksa web sitelerindeki iletişim kanallarından CV iletin.
+Bir programlama dilini iyi şekilde öğrenin, kütüphaneleri inceleyin, algoritma vs. çalışın demeye gerek yok sanırım. Bu aşamaları geçmeden hem özgüven kazanmak hem de iş bulmak zor olacaktır.
+Son sınıfta 2-3 günün boş olması büyük fırsat. İş bulamasanız bile bu süre kişisel gelişim için bulunmaz bir nimet. "Ben bu işi yaparım" özgüveni de çok önemli. Girdiğiniz iş görüşmelerinde karşı tarafa bu güveni verirseniz şansınız baya artıyor.
+Bu video vesilesiyle kendi tavsiyelerimi paylaşayım: Üniversitenin son 1.5 yılında 2 farklı şirkette part time çalışma fırsatı buldum. Yazılıma merakı olan ve öğrenciyken çalışmak isteyen arkadaşlara, üstten ders alıp son sınıfta programlarında yer açmalarını öneririm.
+Yeni video yayında. Full stack kampının en başarılı öğrencilerinden @nyanik_ ile üniversite öğrencisiyken nasıl part time developer olarak iş bulduğunu ve tecrübelerini konuştuk. Bilhassa öğrenci arkadaşların izlemesini öneririm.
+Bugün Meetup ödememizi iptal ettik ve üyelerimize bundan sonra etkinlikleri sadece Kommunity'den yayınlayacağımızı duyurduk. Artık sadece Kommunity'deyiz.
+Shazam'da 10 deneme yaptım, şarkıyı durdurup sonra ara dediğimde o an şarkı çalmamasına rağmen 4 defa şarkıyı buldu. Şu iki ayar da kapalı üstelik :)
+Ortamda müzik algıladığı an, ara butonuna basmadan arkaplanda arama mı yapıyor acaba? @peacecwz sen bilirsin bu konuları.
+Shazam'ın bazı şarkıları bulma süresi 1 saniyenin altında. Butona basıyorum, elimi ekrandan kaldırmadan şarkıyı buluyor. Nasıl oluyor bu iş?
+Efsaneyi hatırlayalım. Bunun 1 saatlik versiyonu da vardı bir ara.
+Sahnede terli gömleğiyle "developers developers developers" şovu yapan Steve Ballmer'dan, base64 koduyla gizli mesaj(Devs) veren hakiki developer dostu Satya Nadella'ya.
+Bundan sonra Windows'ta next > next > next demeden önce "winget install x" diyoruz. Mavi ekranı da çözdüklerinde bu iş tamamdır.
+MS Build'deki önemli gelişmeler @ArdaCetinkaya'den geliyor. Adam istikrarlı şekilde her yıl takip ediyor ve anında bizlere aktarıyor👏
+10 dakika dayanabildim :)
+Üniversite yıllarında IDE fontu için çoğu kişi gibi Courier New kullanırdım. Yeni nesil fontların yanında çok sönük kalır sanıyordum ama fena durmadı sanki.
+Bu arama özellikleri advanced search'de zaten vardı, butonlar yeni gelmiş(en azından bende yeni çıkmaya başladı)
+Gmail web aramada şöyle güzel kullanışlı butonlar gelmiş👍
+Superbox yazanlar var. Onun 12-24 ay gibi benim için çok gereksiz bir taahhütü var. Superbox dışında başka seçenekler varsa alalım
+Ev telefonu olmayan bir yere 2 aylığına internet bağlatılabiliyor mu örneğin? Bir ara Turkcell VINN falan vardı, o tarz paketler hala var mı, 2 aylığına almak mantıklı mı?
+Yazın İstanbul dışında, ADSL olmayan bir yerde 1-2 aylık kullanabileceğim en mantıklı internet paketi nedir? GSM operatöründen ek paket almak dışında bir seçenek var mı?
+Çocuğunuzu, meslek seçimi konusunda yazılımcı olması için teşvik eder misiniz? Yoksa olağan akışına bırakayım, aklını çelmeye gerek yok mu dersiniz?
+Beynimizin geçmişteki alakasız olayları hatırlayıp durması, içeride bir rand() fonksiyonu çalışıyormuş hissi uyandırıyor. Bilimsel kısmını bilmem ama beyinde random anı üretici çalıştığı fikri developerlar için baya ikna edici.
+20-30 tab diye yazdım ama yorum yazanların büyük kısmı 60-100 tabdan bahsediyor. Sorun bende sanırım. Yarın itibariyle 10+ tab açma izni veriyorum kendime.
+Yeni video yayında. Trabzon'un en kral yazılımcısı @apostylee ile uzaktan bir söyleşi yaptık. Kendisi çalışma ortamından, kullandığı donanım ve araçlardan bahsetti.
+Dotnet İstanbul takipçileri. Yayın başladı.
+Örnek:
+Tarayıcıda aynı anda 20-30 tab açanlar görüyorum bazen. Ben 10'dan fazla tab açsam işi gücü bırakıp, tek tek tabları gezip gereksizleri kapatıyorum. Fazlasını takip etmek baya zor.
+Dün baya Deno geyiği yapılmış, yapılacak şaka da kalmamış. O zaman Deno ile ilgili şu güzel inceleme yazısını bırakalım timeline'a. Ortadoğu ve Balkanların en hızlı Devnot yazarı @ZaferAyan'a bu güzel yazı için teşekkürler.
+MacBook lobisi icraatlerine ara vermiyor, sağlı sollu ataklara devam ediyorlar.
+Rakamsal veriler dikkate alınırsa Türkiye'de korona virüs 11 Eylül 2020'de tamamen bitecekmiş. Kaynak:
+Bu soruyu daha önceden de soran birkaç kişi olmuştu. Yazılım alanında profesyonel kariyer koçluğu yapan kimseler var mı?
+Güncelleme: 3. sezon 8 bölümden oluşuyormuş. Son 3 bölümde baya toparladı, önceki yorumuma göre bir tık daha iyi oldu diyebilirim. Ama 3. sezonun geneliyle ilgili fikrim çok da değişmedi.
+Çok fazla eğitim seti doldurmak yerine seçici davranıp daha kaliteli içerikler tercih edilebilir. Sadece programlama dersleriyle başarı elde etmek zor. Gençlere vizyon katacak, yol gösterici nitelikte non-teknik içerik ve programlara da ihtiyaç var.
+BTK Akademi, ücretsiz yazılım eğitimlerine ulaşmak için iyi bir kaynak olmuş ama kalite ve yeterlilik açısından soru işaretleri var. 3 farklı programlama dilinden dersler dinledim, birini baya kaliteli bulmakla beraber diğer ikisi maalesef anlatım ve içerik olarak vasat.
+Bu arada yazılımcıyı delirten şu hissi çok iyi bilirim: "Problem Düzeldi Ama Nedenini Bilmiyoruz". Neyseki daha sonra asıl problem bulunmuş ve nihai çözüm üretilmiş.
+Okurken "bu da değilse neden olabilir" diye beyin jimnastiği yaptıran, problem sebebini bulmak için geçilen aşamaların tane tane anlatıldığı güzel bir yazı olmuş. Böyle gerçek hayat problemlerinin daha sık paylaşılması dileğiyle.
+Online meetup video kayıtlarını, teknik bir problem çıkmadığı sürece 1 hafta içinde Devnot TV Youtube kanalında yayınlıyoruz. Her etkinlik esnasında ve sonrasında sormanıza gerek yok arkadaşlar, kesin bilgi bu :)
+2 saattir Late Night Talks'tayım dinleyici olarak(söze giremedim bir türlü). Tecrübeli kişilerin çok değerli paylaşımları var, baya keyifli ve ufuk açıcı muhabbetler dönüyor. Bugünki muhabbet bitmeye yakın ama sonraki haftalar zamanı olanlar için katılmaya değer.
+Bu şey değil mi? Hakan Muhafız'ın tılsımlı yeleği :)
+İki developer çıktı meydane İkisi birbirinden merdane Al Flutter'ı vur React Native'e 356 kişi izliyor sen de gelsene 😎
+1 dakika sonra başlıyoruz
+Yapılacak örnek şu mesajlaşma uygulaması ekranının hem önyüzünün nasıl oluşturulacağı hem de arkaplanda data bağlantılarının nasıl yapılacağı üzerine olacak.
+Bu akşam aynı mobil uygulama ekranının hem React Native hem Flutter ile nasıl geliştirileceğini izlemek isterseniz Kommunity etkinliğine katılabilirsiniz. @ZaferAyan @10VBacik
+Şöyle kategorileri de renk renk yaptım, içerikleri daha da dolunca çiçek gibi olacak inşallah :)
+Youtube kanalı açarken takipçi veya izlenme sayısından ziyade istikrarlı olmayı kendime amaç edinmiştim. Her hafta 1 video hedefiyle 12. haftaya geldik ve dün 12. videoyu yayına aldım.
+Yeni video yayında. Ne tarz yapay zekâ uygulamaları geliştiriliyor, Python mu R mı, machine learning nedir, deep learning nedir? Ben sordum, @basakbuluz ve @YavuzKomecoglu yanıtladı, detaylar videoda.
+Birkaç dakika sonra başlıyoruz.
+Anlık durumumuz böyle.
+Online yazılımcı iftarına başlıyoruz. Gelenleri bekleriz.
+Sonradan öğrendimki, adam nadiren de olsa denk gelirse bazı ekiplere dahil olup pair programming yapıyormuş. Tabii 2005'lerde öyleymiş, şimdilerde sanmam tek satır koda dahi baktığını.
+Eski bir yazılımcı olarak en son ne zaman kod yazdığını, onca işin arasında bazen çalışanlarla beraber pair programming gibi aktivitelere katılıp katılmadığını soracaktım. Sorabilsem canlı yayının tek developer sorusu olacaktı :)
+Ankara'dan kalkan bir otobüsle günübirlik İstanbul'a geldik. NTV canlı yayındaydı. Bill Gates'e soru soracaktım, yarım saat boyunca İngilizce mi sorsam Türkçe mi sorsam derken tam karar verdim, elimi kaldırdım "evet bu kadar soru yeterli" deyip bitirdiler. Bu da böyle bir anımdır
+Bu arada StackOverflow'a bir şey olmaz demeyin. StackOverflow'dan önce ExpertsExchange vardı belki hatırlayanlar vardır. Dağ gibi platform SO'a 2-3 sene zor dayandı. Şimdi yerinde yeller esiyor.
+GitHub bu sefer de "halkımız merak etmesin, gerekirse yazılımcıları yeni özelliklere ve araçlara boğarız" demiş.
+StackOverflow'un elinde 10-12 yıllık veritabanı olmasa, GitHub Discussions 2-3 yıl içinde sonunu getirebilirdi.
+Mekanik klavye alalı 4-5 ay oldu ama ilk kez bu klavyede doğru düzgün kod yazmaya başladım. Baya eğlenceli oluyor yazması, ortam gürültü kaldırırsa kodlamada motivasyonu baya arttırıyor.
+Düzenlediğimiz etkinliklerle ilgili sık twit atıyorum farkındayım. Kendi hesabımdan atınca baya etkileşim oluyor ve çok fazla insana ulaşabiliyoruz. Yani çok istemesem de sizleri ara ara rahatsız ediyorum. Anlayışla karşılayacağınızı umuyorum.
+Bu durumlar olmasa 10 Eylül'de İstanbul'da Microservices & DDD Konferansı düzenleyecektik. Madem fiziki ortamda yapamıyoruz, o zaman online yapalım dedik. Konuşmacı başvurusu yapmak isteyenler için bu pazar son gün.
+Kaç tane programlama dilini "iyi seviyede" bildiğinizi düşünüyorsunuz?
+Dotnet İstanbul meetuplarını uzun süredir yapamıyorduk. .NET developerların Kommunity grubumuza katılmalarını öneririm, önümüzdeki dönemde güzel konularla devam edeceğiz.
+Berberler Odası'na 5 gün içinde yakınımızdaki berberleri bulup, randevu alınabileceğimiz bir uygulama sunan yazılım şirketi hem memlekete ciddi fayda sağlar, hem de maddi açıdan tatmin olur.
+Fermuar = zip Katran topu = tar ball Bu arada bunlar insan elinden çıkmış çeviriler değil, makine çevirileri. Yapay zekââ, daha öğreneceğin çok şey var aslanım :)
+Günün sorusu: Fermuar ve katran topu nedir?
+Mailjet kullananlara bir sorum var. Bir kişi mail listesine dahil olmak istiyorum dediğinde ona sunabileceğimiz bir arayüz var mı? Feature list ve API'lara baktım ama göremedim.
+güzel bir T-SQL kitabı hazırlamış ve ÜCRETSİZ olarak indirilmeye açmış. 30-40 TL'lik bir SQL kitabıyla eşdeğer içeriğe sahip. Karantina günlerinde SQL öğrenmek isteyenler için güzel fırsat.
+Mentor programı çok güzel yerlere doğru gidiyor. Şu an birçok mentor arkadaş @EmirKarsiyakali gibi öğrencilerini toplayıp böyle 30-45 dakikalık seanslarla ders anlatıp onların sorularını yanıtlıyor. Herkesin emeğine sağlık.
+Flutter'a giriş yapayım diyenleri bekleriz. 5 dakika sonra canlı yayındayız:
+B firmasının ve Ali'nin yaptığı doğru mu? A firması olsanız bu durumda B ve Ali'ye bakışınız ne olurdu, onlarla tekrar iş yapar mıydınız? Ben hiç yorum yapmayacağım, sadece insanların düşüncelerini merak ediyorum :)
+A firması, birlikte çalıştığı Ali isimli freelance danışmanı B firmasına danışmanlığa gönderiyor. Sonra B firması, bilgi vermeden A firmasını aradan çıkarıp doğrudan Ali ile anlaşıp çalışıyor. Ali de bu durumu A firmasına söylemiyor. Bu durumla ilgili yorumunuz nedir?
+Amerika'da Yazılımcı Olmak konusunda dün akşam yayınladığım yeni videoyu buradan izleyebilirsiniz.
+Bu videoda yorumları açık bıraktım. Volkan sorusu olanlar videoya yorum yazarsa, müsait zamanımda yanıtlamak isterim dedi.
+Yeni video yayında. 1 yılı aşkın süredir Amerika'da yazılım geliştirici olarak çalışan @volkankorkmaz ile Amerika'ya yerleşme süreci ve oradaki çalışma şartlarıyla ilgili bir söyleşi yaptık. Kanalın en uzun videosu oldu. İyi seyirler
+Geçen hafta yapılan React Native sunumundan sonra yarın akşam Flutter'a Giriş konusunda bir sunum olacak. Haftaya "React Native vs. Flutter" düellosundan önce kaçırmayın.
+Yazanlar için söylüyorum; CV'nizde adres kısmını sokak ve apartman no'ya kadar yazmanıza gerek yok. İl/ilçe mutlaka, semt isteğe bağlı yazılabilir. Google Street View'dan inceleyen meraklılar çıkar sonra.
+Bu yıl geleneksel yazılımcı iftarını Zoom'dan online yapacağız. Online iftar mı yapılır demeyin, maksat muhabbet olsun, gelenek devam etsin.
+Yıllardır fiziki etkinliklerde gördüğümüz 1/3 katılım oranı online etkinliklerde de aynen geçerli galiba. 2 online etkinlik yaptık, ikisinde de 1/3 katılım oldu.
+2004'ten beri kullandığım diller ve platformlar; 1,5 yıl PHP 6 ay Visual Basic .NET (WebForms, WinForms) 13 yıl C# (MVC, WCF, WebForms, WinForms, WCF, Core...) 1 yıl JavaScript 10 ay Python Sırada muhtemel olanlar: Vue, Go
+Sunumun video kaydı sağlıklı şekilde alınmış. Edit ve encoding işlemleri sonrası 3-5 gün içerisinde Devnot TV Youtube kanalında yayınlarız. Youtube kanalı veya @devnot_ hesabını takip edebilirsiniz.
+Anlık olarak ~440 katılımcı oldu. Giriş-çıkış yapanları dikkate aldığımızda 748 farklı kişi sunumu izlemiş. Çılgın rakamlar bunlar. Bu kadar yazılım geliştirici ile etkileşim kurmamızı sağlayan @Kommunitycom ve @EmirKarsiyakali'ya ve sunumu için @ZaferAyan'a çok teşekkürler.
+330+ kişi online takipteyiz, akıyor bu akşam :)
+Az sonra canlı yayında @ZaferAyan React Native anlatacak. Bu linkten yayına katılabilirsiniz:
+Evde Zoom için kamera açacak yer bulmakta zorlanıyorum. Az sonra bir canlı yayın yapacağız, gidebileceğim tek yer mutfak.
+Bu hafta yeni videoyu dün akşam yayınladım. Görmeyenler için tekrar paylaşayım.
+Yeni video yayında. @ArdaCetinkaya ile yazılımcının temiz kod yazamama problemini konuştuk. Bu sefer değişiklik yaptım ve cuma akşamından yayına aldım videoyu.
+Durmuyorlardı, sürekli online etkinlik düzenliyorlardı. Yeter diyordu, hepsine yetişemiyoruz diyordu yazılımcılar ama dinlemiyordu @serverlesstr😀
+Şöyle bir icat varmış. Sadece Ramazan'da kullanmak için biraz pahalı, demlikteki çayın lezzetini de verir mi bilmem ama seneye araştırıp belki bir tane alırım. Tavsiye edenlere teşekkürler.
+Sahurda çay problemi 🤔 Sallama çay yapsan aynı lezzeti alamıyorsun. Yatmadan önce demlesen sahura kadar tadı kaçıyor. Sahurda demlesen 30 dakika erken kalkmak gerekiyor.
+Bizim kızlar beni hacklenmenin yolunu bulmuşlar. Az önce gelip "Bugün 23 Nisan, senin koltuğuna oturup biraz bilgisayarda resim çizebilir miyiz?" dediler.
+Yazan arkadaşların çoğu doğru konulara değinmiş ama ben "İngilizce şart" söylemini farklı bir açıdan eleştirmek istedim. Özet; yazılıma başlamak için İngilizce şart değil, ama uzmanlaşmak için "teknik İngilizce" şart diyebiliriz. Hepimiz haklıyız diyerek konuyu kapatıyorum.
+Twitter'da derdini 2 twitle anlatmak gerçekten zor. Anlatılan yanlış anlaşılıp çok farklı yerlere sürükleniyor. Şurada "öğrenme" aşamasına dikkat çekmeme ve "İngilizce çok önemli" dememe rağmen, dediklerimi çok farklı yorumlayanlar olmuş.
+3 haftalık harika bir meetup serimiz var. Bu cumartesi React Native, haftaya Flutter. 9 Mayıs'ta ise çok farklı ve keyifli bir etkinlik var. @ZaferAyan ve @10VBacik karşılıklı birebir aynı ekranı hem React Native hem de Flutter'da yazacaklar. RN vs. Flutter 👊
+Bunları neden yazdım; İngilizce bilgim iyi değil, ben bu işi öğrenemem diyenler varsa bunları bahane etmesin. Şu an ortaokul mezunu olan ve İngilizce bilgisi sıfır olan birine 4-5 aydır mentorluk yapıyorum. Gelişimi çok iyi gidiyor. Azmettikten sonra gerisi geliyor.
+Kaldı ki Türkçe kaynağın çok az olduğu 2000-2005 yılları arasında öğrendim bu işi. Bugün Türkçe kaynak sayısı çok daha fazla. Kaliteli içerik bulmak biraz zor, bunu da kabul ediyorum ama azmettikten sonra az İngilizce ile bile bu işi başarabilirsiniz.
+Yazılım öğrenmek için İngilizce çok önemli, bunu kabul ediyorum. Ama "İngilizce olmadan yazılım öğrenilmez" fikrine de karşıyım. Ben üniversitede %80-90 Türkçe kaynaklardan(kitap, blog, forum) okuma yaparak yazılımı öğrendim ve 16 senedir bu işten paramı kazanıyorum.
+Karantina döneminde gün aşırı akrabalara Teamviewer ile bağlanır oldum. Zoom'u açamayan, mikrofondan ses alamayan, oyun kurup çalıştıramayan... teknik destek ekibi olduk çıktık.
+Teknopark İstanbul Yazılımcı Buluşmaları grubunu da Kommunity'e taşıdık. Karantina döneminde buluşmalar online olacak. 25. buluşma haftaya salı öğle arasında, UI test otomasyonuna ilgi duyanlar katılabilir
+1 milyon kişi yine de uçuk bir hedef, gerçekleşmeyeceğini herkes biliyor. Ekonominin düzelmesi durumunda ise 2023'te 500 bin BT çalışanı zor ama gerçekleştirilebilir bir hedef gibi duruyor.
+Açıklamayı dinlememiştim ama bakanlık programı "1 milyon yazılımcı" değil "Bilgi teknolojilerinde 1 milyon çalışan" diye açıklamış. Şu an Türkiye'de 140 bini yazılımcı olmak üzere 250 bin BT çalışanı var.
+Şunları da ek şartlar olarak ekleyelim: - 10 bin yazılımcının yarısı frontend ve mobile developer olmalı - 10 bin kişinin en fazla %5'i yurtdışına göç etmeli
+1 milyon yazılımcıya gerek yok. 10 bin iyi yetişmiş yazılımcı, yazılım geliştiren bütün şirketleri önümüzdeki 4-5 yıl kurtarır.
+Bir de bu sezon güçlü karakter kalmamış dizide. Bernard çok silik, Meave aynı şekilde, Ford zaten gitti, Ed Harris'in oynadığı karakter de yok gibi. Tüm karizma karakterler gitmiş, yerlerine gelen elle tutulur güçlü bir karakter yok.
+Westworld'ün 3. sezonunu beğenen var mı? İlk 5 bölümünü izledim ama iyi gitmiyor sanki. Tarzı, ortamı, hikayesi değişmiş, temposu düşmüş. Kalan bölümler böyle olursa biraz hayalkırıklığı olacak sanki.
+Mentor programıyla ilgili 100'e yakın teşekkür maili geldi. Tek tek geri dönüş yapmam zor, buradan okuyanlara en azından ben de teşekkür etmek isterim destekleri ve ilgileri için.
+2020 olimpiyatlarını İstanbul Tokyo'ya kaybettiğinde baya üzülmüştük. Ucuz yırtmışız meğer, kazansak elimizde patlayacakmış.
+👋 @devnot_ yazılım geliştirici mentor programına katıldım, rozetimi de @Kommunitycom profilime ekledim: #ShareTogether
+Mentor programında mentorluk yapan arkadaşlar, kayıt oldukları mail ile Kommunity'e giriş yaptıklarında @EmirKarsiyakali'nın belirttiği rozet profiline eklenecek. Kommunity'nin yeni bir özelliğini, yine ilk kez kullanmanın gururunu yaşıyoruz 😍
+2000'li yılların başında web sayfalarımıza şöyle counter'lar koyardık. Ben her gün heyecanla bakardım, acaba bugün kaç kişi siteyi gezmiş diye.
+Uzaktan video çekim konusuna baya ısındım. Konuk olan kişiye biraz zahmet oluyor ama ortaya kaliteli ve boşluklardan arınmış iyi bir video çıkıyor. @ArdaCetinkaya ile yaptığımız sohbetin videosu haftaya cumartesi yayında.
+Bir sonraki mentor programını böyle yapmayacağız. Daha profesyonel ve nokta atışı eşleştirmeler yapmamızı sağlayacak bir portal üzerinde çalışmaya başladık.
+Elimizden geldiğince doğru eşleştirmeleri yapmaya çalıştık. Kimse boşta kalmasın diye defalarca listeleri elden geçirdik ama buna rağmen 22 mentor boşta kaldı. Bazı alanlarda ilgili öğrenci hiç çıkmadı maalesef.
+Devnot ekibinden 3 arkadaşımla birlikte 1 haftalık yoğun bir çalışmanın sonucunda mentor programında eşleştirmeleri yaptık. Bugün ve yarın mail ile mentor/öğrencileri birbiriyle tanıştıracağız. Tüm detaylar mailde yer alacak.
+Bilhassa karantina döneminde işini kaybeden yazılımcı arkadaşlar varsa arayışımız olan pozisyonlara göz atabilir. Şu an .NET, PHP ve frontend için 4-5 farklı pozisyonda arayışımız var. Web sitesi: Telegram grubu:
+Yeni video yayında. Karantina sürecinin yazılım ve girişim ekosistemine etkileri ile yazılımcıların bu süreci nasıl değerlendirebileceği konularını @firatdemirel ile konuştuk.
+Yanıt veren ve detaylı şekilde ilgilenen tüm arkadaşlara teşekkür ederim. Koda bulaşmadan çözmenin zor olacağını anlayıp şu çözümü kullanmaya karar verdim.
+Elimde şöyle bir liste var. Mailchimp vb. servislerden bu tarz bir listeyi import edip, her satır için ayrı ayrı nasıl mail gönderimi yapabilirim bilen var mı?
+Anladığım kadarıyla karantina nedeniyle Tutunamayanlar dizisine ara verilmiş ve setteki kameraları uzaktan kontrol ederek tek kişilik çekimlerle farklı bir diziye başlamışlar. "Remote dizi film" bunu da gördük.
+Xiaomi sanırım birkaç yıl sonra dünyanın en değerli 4-5 markasından biri olur. Çok geniş yelpazede baya ilginç ürünleri var. Apple benzeri bir çizgide kalite/fiyat olarak da baya başarılılar.
+GitHub "Kimse panik yapmasın, gerekirse yazılımcıları ücretsiz private repoya boğarız" demiş.
+Cloud-DevOps Mühendisi olarak işe girmek: Soru Cevap konulu söyleşiye az sonra başlıyoruz. Katılmak için:
+Bugün marketten trende uyup Luppo alacaktım, sonra bir tane Luppo'nun içinde 4 küp şeker olduğunu hatırlayıp vazgeçtim. Gıda Dedektifi Instagram hesabını takip etmenin sağlığa faydaları.
+Bu yıl bahar alerjisi öksürükleri koronavirüse denk geldi. Her öksürükte "alerjik mi yoksa korona mı" diye ufak bir tedirginlik oluyor.
+Yarın öğlen 12'de Cloud ve DevOps alanlarında çalışma ve iş fırsatları üzerine online sohbet edeceğiz. İlgili arkadaşlara duyurulur.
+90'larda nüfus sayımı için sokağa çıkma yasağı olmuştu. Çocuktuk, akşam üzeri arkadaşlarla gizlice gezmeye çıktık. E-5 yolunda futbol maçı yapanlar vardı. Messi görse özenirdi.
+Online buluşmalar için gün-saat belirliyoruz. Katılmayı düşünen arkadaşlar oy verebilir.
+Bir tane daha: tıp fakültesi mezunuyum, şu an bilgisayar programcılığı okuyorum.
+Mentor programı öğrenci başvurularını inceliyorum. İki ilginç ve güzel başvuru denk geldi. Bakalım daha ne gibi sürprizler çıkacak: - Ortaokul 6. sınıftayım ve yazılım alanında çalışmalarım var - 42 yaşındayım ve yazılıma karşı baya bir merakım var
+Bu arada kamera karşısına geçip kendi başına konuşmak baya zor bir iş. Evde tek başınıza denemeyin bence.
+Yeni video yayında.
+Devnot Yazılımcı Buluşmaları'nda ağırlıkla yazılım mimarileri ve yeni teknolojiler/araçlar üzerine sunumlar planlıyoruz her zamanki gibi. Dotnet İstanbul adından belli zaten, .NET ile ilgili güncel konularda sunumlar bekliyoruz.
+Devnot Yazılımcı Buluşmaları ve Dotnet İstanbul olarak Kommunity'nin sağladığı platform üzerinden online buluşmalara başlıyoruz. Sunum yapmak isteyenler bilgi@devnot.com adresinden bize ulaşabilir.
+Mentor başvuruları güzel gidiyor. Destekleyen herkese teşekkürler. Sanırım akşam 100-150 kişilik ek kayıt kontenjanı açabiliriz.
+Denklemin sağına istenen FIFA versiyonu konulabilir.
+Şu anki tabloda 510 öğrenci açıkta kalıyor. Soranlar olmuştu, yeni öğrenci kaydı alamayacağız maalesef :(
+Yazılım Geliştirici Mentor Programı'nda bugün son başvuru günü ama henüz 490 öğrenciyi eşleştirebileceğimiz kadar mentor başvurusu aldık. Eğer siz de mentorluk yapabileceğinizi düşünüyorsanız gece yarısına kadar başvurularızı bekliyoruz:
+Filmin Sezai Aydın'ın seslendirdiği versiyonu internette yoktu. 1.5 yıl kadar önce filmin ses dosyasını bulabilmiştim uzun aramalar sonunda. Videoyu sesle eşleştirdim, sonuç başarılı
+Ve sonunda Dr. Emmet Brown'ı Sezai Aydın'ın seslendirdiği Geleceğe Dönüş montajını yaptım. Akşam TV'de izleyip çocukluk yıllarıma zaman yolculuğu yapacağım.
+3 çocuklu evde 22. karantina gününde delirip kendimi dışarı atmışımdır.
+Not: Hızlı konuşan biriyim. Videoyu 1.25 hızı idare edebilir ama 1.5 hızına alayım demeyin. Anti İlber Ortaylı modu oluyor 1.5 :)
+Yeni video yayında. Yazılımcıların teknik mülakatlarda dikkat etmesi gereken bazı konulara değindim.
+Stokta video kalmadığı için iş başa düştü, bu hafta kendim kamera karşısına geçtim. Videoyu 2 gün önce çektim, dün montajladım, bugün convert edip yükledim. Yarın 9'da yayında. Sabah çayı kahveyi alın gelin.
+Kommunity'nin altyapısı yazılı olarak bir kenarda duruyordu. Sanırım @EmirKarsiyakali'nın Kommunity'e el atmasını tetikleyen en önemli anlardan biriydi bu.
+2. dereceden 300 kişi etkilendi, 3. dereceden binlerce kişi yapar... 100 PTT şubesinde daha benzeri manzara olsa... Neden insanlar bu kadar rahat, bu kadar virüs yaymaya, kapmaya, ölmeye-öldürmeye meraklı anlamak çok zor.
+Sadece şu manzaradan 10 yeni koronavirüs vakası çıktığını varsayalım. Bakanın açıkladığı 30 kişiye bulaştırma senaryosundan 10x30=300 kişi. Ölüm oranı %1.5, yani bu insanlar 4 insanın ölümüne yol açabilir.
+Sanırım Windows'un kronik bir mikrofon sorunu var. Farklı farklı makinelerde çok başıma geldi. Mikrofon kendi kendine devre dışı oluyor, donanım listesinde çıkmıyor, sistem mikrofonu görüyor ama ses almıyor vs.
+Bilhassa frontend, mobil, veri analitiği, yapay zekâ alanları için baya mentor açığı var. Çevrenizde bu alanlarda çalışan ve mentorluk yapabilecek kişileri bilgilendirebilirseniz çok iyi olur.
+Şu an 179 mentor var, 2-3 öğrenci ile ilgilenirim diyenler olduğu için 340 öğrenciye slot açılabilir. Dolayısıyla böyle giderse başvuran öğrencilerin en az %65'i açıkta kalacak. Eğer mentor slotu 600'ü geçerse öğrenci başvurularını tekrar açabiliriz.
+Mentor programında tahminimin çok üzerinde öğrenci başvurusu geldi sadece 1 günde. Mentor başvurularının ise bu talebi karşılaması imkansız görünüyor. Bu nedenle geçici olarak öğrenci başvurularını 1000 kişide kapatacağız(şu an 980 kişi).
+Mentor programını bu cumartesi Developer Summit'in açılış konuşmasında duyuracaktık. Etkinliği erteleyince daha fazla bekletmek istemedim. Şu ana kadar 126 öğrenci, 30 mentor başvurusu gelmiş. Daha çok mentore ihtiyacımız var:
+Öğrencilere ve junior yazılımcılara yol göstermek için bilhassa mentor olabilecek deneyimli yazılımcıların başvuruları bizim için çok önemli. Bir kişinin bile gelişimine katkı sağlamak çok değerli bir olay.
+Deneyimli yazılımcıları, yazılım alanında ilerlemek isteyen öğrencilerle buluşturan bir mentorluk programı başlattık. Mentor veya öğrenci olarak başvurmak için adresine göz atabilirsiniz.
+Aşının bulunması 1-2 yıl sürecek deniyor, yani seneye de evlere kapanacağız. İnsanlar salgın olmasa bile uzun yıllar kendini dışarıdan izole edecek. 5G de geliyor, 2020'yi bilmem ama 2021 teknolojik açıdan VR'ın yılı olabilir.
+Salgın krizi sanal gerçekliğin(VR) artık hayatımıza girmesini zorunlu hale getirdi. VR oyunlar, eğitimler, toplantılar... Bu kriz bittiğinde VR'a yatırım yapan firmalar çalışmalarına kat kat hız verecektir.
+Yazılım projelerini tahminlemek neden bu kadar zor? Yeni video yayında.
+Yazılım projelerini tahminlemek neden bu kadar zor? Flaş sorular, şaşırtan yanıtlar ve şok edici gerçekler... Yarın sabah saat 9'da yeni video yayında.
+Deepfake çok fena bir olay. Narcos izlememiş kişilere şu videoyu izletin, %80'i İbrahim Tatlıses'in bir filminden kesit olduğunu düşünür. Gerçek mi fake mi ayırt etmek baya zor
+Bill Gates yıllar önce "Ben Microsoft'ta olduğum sürece Visual Basic hayatına devam edecek" demişti. Microsoft: VB dilini artık geliştirmeyeceğiz - 12 Mart 2020 Bill Gates Microsoft yönetiminden ayrıldı -14 Mart 2020 Adamın Microsoft'tan ayrılık sebebi VB dili olabilir mi? 😀
+Microsoft, Visual Basic dilini artık geliştirmeyi düşünmüyoruz demiş. Dil desteği devam edecek ama dilde geliştirme olmayacakmış.
+Zamanda yolculuk mümkün olsa, geçmişe gidip kaç yaşınızdaki halinizi kısa süreliğine de olsa uzaktan izlemek isterdiniz?
+Editör arkadaş evde sıkılanlar için çarpma/bölme işlemli haber başlığı atmış. Birlikte hesaplıyoruz, 120 saat kaç gün eder?
+Uzaktan Çalışma Kulübü'nün ilk kuralı, uzaktan çalışmayı övmektir. Uzaktan Çalışma Kulübü'nün ikinci kuralı, uzaktan çalışmayı daha çok övmektir.
+Eve kapanmadan önce günlük ortalama 6500 adım atıyorken bu hafta ortalamam 3200 adım olmuş. Ev içinde yürüme seansları yapmama rağmen tablo böyle.
+Yeni video yayında. Onur Yılmaz, Netsparker'da hem kendi hem de şirket olarak edindikleri uzaktan çalışma deneyimlerini anlattı.
+Bu arada video stoğum yakında bitecek ve yeni çekim yapmayacağım şu dönemde. Hedefim kanalda hep başkalarını ağırlamaktı ama hiç istemesem de sanırım evde kendim bir şeyler çekeceğim. Konu önerileriniz olursa paylaşabilirsiniz.
+Youtube kanalımda yeni konuğum Netsparker'da 11 yıldır uzaktan çalışan Onur Yılmaz. Video yarın sabah yayında. Çekimi 4 hafta önce yapmıştık, uzaktan çalışma gündeminin tam ortasına düştü.
+2000'lerin başında çok sık bilgisayar virüsü vakaları olurdu. Hatta bazen korkudan internete girmez, setup dosyası çalıştırmaya dahi korkardık. Bu karantina günlerini birden o zamanlara benzettim.
+2020'de başımıza yeterince bela geldi. Bir göktaşı bir de uzaylı istilası eksikti dediğimizi göktaşı duymuş sanırım.
+İyi tedbirler alındı ama artık daha radikal kararlar lazım. İnsanlar umursamazca dışarıda, virüs de aynı şekilde gezip dolaşıp onbinlerce kişiye bulaşacak bu gidişle. Umarım kontrollü sokağa çıkma yasağı kararı alınır bir an önce.
+MR cihazı fiyatları 1-1.5 milyon € civarı diye okumuştum. Türkiye'de bu cihazdan belki de binlerce adet var ve hepsi yabancı ürün(dü). Aselsan ürettiyse söylenecek fazla söz yok. Bu kötü günlerde ilaç gibi haber.
+Halı yıkamacı bile virüsü fırsata çeviriyor ülkede. Corono'dan korunun diye halınızı hijyenle %10 indirimle yıkıyoruz diye sms gelmiş telefona.
+Bu tip içerikleri üretenler işten kalan zamanlarında zar zor online ders hazırlayıp paylaşıyorlar. Misal bir içerik üreticiye 50 bin TL hibe verilse, belki 4-5 aylığına işi bırakıp yüzlerce video üretip sektöre milyonlarca TL'lik katma değer sağlayabilir. @varank @mfatihkacir
+Devletin yazılımın öğrenilmesine katkı veren kişilere, bir program kapsamında hibe vermesi gerekiyor bence. Örneğin Youtube'dan gençlerin yazılım öğrenmesi için kaliteli içerik sunan kişilere, belirli şartlar dahilinde hibe verilebilir. @varank @mfatihkacir
+Adam resmen Youtube'da destan yazıyor. Frontend developer yetişmesine çok ihtiyaç duyulan şu dönemde "nereden başlamalıyım?" diyen herkesin mutlaka takip etmesi gereken bir kanal. Emeklerine sağlık @ademilter
+1 ayda Avrupa çöktü, ekonomiler batıyor, işsizlik artacak, milyonlar eve kapanıyor, hepimiz paranoyak olduk. Sanki dünyada yeni bir düzen kurmak isteyenlerin planı gibi bunlar. Komplo teorilerine inanası geliyor insanın.
+Microsoft platform bağımsız yeni framework'ü ilk başta .NET 5 diye duyurmuş, sonra isim karmaşası oluyor diye .NET Core ismine dönmüştü. .NET 5'i görünce insan dejavu diyor.
+Şeytan diyor, Kurtlar Vadisi'nin ilk 97 bölümünü sar başa yeniden izle. Hızı 1.25 yap, Ömer Baba ve Elif sahnelerini hızlı geç, 4 haftaya biter. O zamana belki virüsün de etkisi geçer. Şeytan çık aklımdan çık çık...
+Şirketler "uzaktan çalışmanın faydalarını görüp benimseyecek" fikri çok mantıklı gelmiyor. Şu an yapılan plansız programsız uzaktan çalışmadan fazla verim alamayabilir şirketler. Sevecekler derken hiç sevmeyebilirler.
+Yeni bölümde konuğum @ibrahimkurce beğendiği ve yazılımcılara önerdiği kitapları anlattı. Hazır herkes evdeyken cumartesi sabahı izlenir bence :)
+90'lı yıllarda kolonya pompalı damacanalarda satılırdı, elde şişe giderdik almaya. Bu kriz günlerinde her bakkala markete lazım.
+Korona virüs etkisi. Havayolu şirketleri çakılırken ilaç şirketleri uçuyor. Bir virüs bütün dünya ekonomisini sarstı.
+Akşam markete ve eczaneye uğradım, ana gündem kolonya. Her yerde kolonya bitmiş. Adamın biri civardaki tüm marketleri gezip bulamamış, sonra bir markette 3 kiloluk bidonda kolonya bulup onu almış.
+Bir haftadır "virüs kesin gelir, etkinliği iptal etmek lazım" ile "ortada bir şey yok, hayat devam ediyor ve etmeli de" ikilemi arasında kalmıştım. Sivilce uçuk çıkarmama ramak kalmıştı.
+Ülkemizdeki ilk koronavirüs vakası sonrasında olası bir salgının etkilerini en aza indirmek adına büyük ihtimalle Developer Summit 2020 konferansını ileri bir tarihe erteleyeceğiz. 1-2 gün içinde kesin durumla bilgi vereceğiz @devnot_ hesabından
+Bu perşembe Kültür Üniversitesi'nde "Daha İyi Bir Yazılım Geliştirici Olmak için 10 Öneri" başlıklı bir sunumum olacak. Öğrenci arkadaşlara hitap eden bir konu, dışarıdan katılıma açık.
+Dünya Kadınlar Günü arefesinde bu nasıl bir istatistiktir? Yanlış anlaşılma olmasın, Youtube kanalımda askerlik anıları falan anlatmıyoruz :) İnanmayan bakabilir:
+Muhammed Tahiroğlu ile yazılım mimarisi ve yazılım mimarlığı üzerine yaptığımız 17 dakikalık söyleşi yayında. @mc_tahiroglu
+Youtube kanalımda sıradaki konuğum üstad @mc_tahiroglu. Bu cumartesi kendisiyle yaptığım söyleşiyi yayınlayacağım. Abone olmak veya yayındaki videolara göz atmak için:
+Milyar dolarlık Instagram'a bile "yetersiz çalışan ve bekleyen bir sürü iş var" diye söyleten bu dünya senin çalıştığın şirkete neler söyletmez?
+Milyoner yarışmasında seyircisiniz, yarışmacıya acayip gıcık oldunuz. Yarışmacı seyirciye sorma jokerini kullandı ve doğru cevabı biliyorsunuz. Ne yaparsınız?
+Yeni video yayında. Konuğum yine @hmert
+Türk girişimcilerin geliştirdiği DataRow (eski adı TeamSQL'di) Amazon tarafından satın alınmış.
+Bu arada ilk konuğum olan @hmert'e ayrıca teşekkür ediyorum. İş arasında twit atınca ona değinmeyi unutmuşum. Bu cumartesi onunla yaptığımız bir diğer söyleşiyi yayınlayacağım.
+Her hafta 1 video iddiam yok, ama içerik oldukça cumartesi sabahları yeni videoları yayınlayacağım. Kanalı tanıtmak adına buradan bir süre video paylaşıp, daha sonradan video akışı için ayrı bir Twitter hesabı açacağım. Siz yine de abone olun ama :)
+Youtube kanalımın ilk videosunu yayınladım. Müsait zamanınızda izleyebilir, beğenirseniz paylaşarak daha çok insana ulaşmasını sağlayabilirsiniz.
+Ben de okuduklarımdan, duyduklarımdan yola çıkarak yakın vadedeki yazılım trendleriyle ilgili birkaç kelâm ettim. Bu güzel çalışmada emeği olan herkese teşekkürler.
+Firmalarla mülakat için sözleşip, önceden haber vermeden gitmeyen çok fazla insan var. İş arama-bulma konusunda firmalara çok laf ediyoruz ama iş arayan birçok insanda da ciddi problemler var.
+Ooo bulut savaşları. Amazon, Microsoft'un kazandığı 10 milyar dolarlık Pentagon bulut ihalesini durdurma kararı aldırmış.
+Şimdi farkettim, yazılıma Commodore 64 ile başlayamadım ama atari salonları da iyi ve yakın bir başlangıç noktası gibi duruyor. Bio'mu "yazılım hayatına atari salonlarında başlayan Uğur" diye güncelleyeyim 😀
+Kanalda henüz içerik yok. Uzun zaman önce çektiğim ve ancak editleme aşamasında olduğum birkaç video var. Haftaya ilk 1-2 videoyu yükleyip yayınlayacağım.
+Nedirtv ile başlayıp Devnot Youtube kanalıyda devam eden, ama gerisi gelmeyen video söyleşi mevzularına kişisel Youtube kanalımdan tekrar başlayacağım. İlk videodan itibaren takip etmek isteyenler olursa şimdiden kanala abone olabilir:
+Malum nedenlerle evde verimli çalışamadığım için 1.5 aydır eve yakın bir açık ofiste küçük bir oda kiraladım. Haftada 3 gün, günde 6-7 saat çalışıyorum, verimlilik %200 falan arttı.
+Yazdıklarım işin geyiği tabiiki. Burada kastedilen şeyler saldırı veya kasıtlı zarar verme niteliğindeki işleri kapsıyordur. Yani onları kapsadığını düşünüyorum. Yoksa kapsamıyor mu? "Bakınız hakim bey, bug bu işin doğasında var, ne 1 yılı yapmayın lütfen"😀
+Canlı sistemde kritik bug 1 yıl, tablodan veri silmek 2 yıl, veritabanını drop etmek 5 yıl... Yazılımcı ve sistemci arkadaşların dikkatine, sonra mapus damlarına düşmeyelim! 🤔
+Ben aslında bu mesaja "Udemy videoları ile başladım" "Facebook hesabı patlatmayı denerken başladım" gibi yanıtlar bekliyordum. C, Pascal, MS-DOS, Pentium 3 işlemcili desktop gibi yanıtlar geliyor. Kitleyi çok kötü analiz etmişim :)
+Bu arada, benim hiç Commadore 64'üm olmadı.
+Bizim nesil çoğu yazılımcı hikayelerini "Commadore 64 ile başlayan yazılım hayatıma..." diye anlatırlar. Yeni nesil arkadaşlar hikayelerini nasıl anlatacak acaba?
+TV kumandalarında tüm tuşları pasif yapan sürgülü bir buton olmalı. Çocuklar aşırı meraklı kumandaya, vermesen ortalık kıyamet, versen tüm tuşlara basıp bölüm geçmeye çalışıyorlar.
+Kar yağışlı bir cumartesi gününde 100 kişilik salonu dolduran bu kadar Angular severleri görmek beni şaşırttı. Angular, Türkiye'de hem kullanım hem de topluluk açısından baya güçlü. Emeklerinize sağlık @ngTurkiye @ArmanOzak
+İlham perisi L&M'deki ak sakallı dededen esinleme gibi, ama dizinin en iyi ve komik karakteri. Bir de zengin eleman(Geniş Aile'deki Zekai) çok iyi. Diziye 1-2 karakter daha katarsalar 2-3 sezon akar gider bence.
+Bir Leyla ile Mecnun fanı olarak Tutunamayanlar'ın ilk 4 bölümünü beğendim. L&M kadar tempolu ve ince göndermeli bir dizi değil. Kadro daha dar, komedi sürekli 2-3 kişinin etrafında dönüyor. Daha sade ve yalın, sadece yeni nesle değil herkese hitap ediyor.
+Bir ek yapayım buna: Bu sorunun yakın vadede pek çözümü yok. Bu nedenle bazı firmalar TC vatandaşı olmayan kişi istihdamına yönelerek bu sorunu çözmeye çalışabilir. Azerbaycanlı, İranlı hatta Hintli yazılımcı sayısı artabilir.
+Ülke olarak resmen bir frontend developer krizindeyiz. Kimse frontendci bulamıyor, yurtdışı, remote... giden gitmiş. Yakında sektörde bazı işler durma noktasına gelir, benden söylemesi.
+"Hocam çok acil, yandık tutuştuk .... konusunda sorunumuz var, yardımcı olabilir misin?" 20 dakika sonra dönüş yapılır, üzerinden 1 hafta geçer ama cevap gelmez. Bu acil işler hep böyle oluyor, "çözdük sağol" yazmak racona ters sanırım.
+Geç kaldı veya daha kârlı alanlara(ör. cloud) odaklandığı için yapamadı, benim aklıma gelen en basit iki cevap.
+Masaüstü pazarını 25+ yıldır domine eden, hatta el terminallerinde de başarı yakalamış koca Microsoft, mobil işletim sistemini neden o kadar denemeye rağmen mail başaramadı? Anlamak zor.
+Yazılım geliştirici ilanları için bir Telegram kanalı açmıştım geçenlerde. Görmeyenler için bir kez daha linki buraya bırakıyorum. Kanalda sadece Talentops için arayışlarımız olan pozisyonların duyurularını yapacağım.
+Developer Summit'te tam 2 ay kaldı! Konuşmacıları bu sefer baya erkenden netleştirmeye başladık. Konuları da yakında birer birer duyuracağız.
+İzmir'deki yazılım geliştiricilerin önemli bir kısmı remote çalışıyor sanırım. Ya da bana öyle çalışanlar denk geliyor.
+Plaza çalışanlarının İngilizce sevdasına Türk esnafının tabelaları da ayak uydurdu sonunda. Çoğu et lokantası ve kebapçı steakhouse, pastane cafe & patisserie, berber de coiffeur olmuş.
+Yazılım geliştirici ilanlarını duyurmak için bir Telegram grubu oluşturdum. Burada sadece Talentops için arayışlarımız olan pozisyonların duyurularını yapacağım. Takip etmek isteyen olursa bu linkten kanala üye olabilir:
+Çok iyi bir inceleme olmuş. Bu adamla ilgili aklında 1 gram "acaba" sorusu olan varsa da bundan sonra ciddiye almaz sanırım.
+Developer Summit'e hiç kadın konuşmacı başvurusu olmadı :( Konuşmacı çağrılarını kapattık ama aranızda konuşma yapabilecek arkadaşlar varsa bizimle bilgi@devnot.com adresi üzerinden iletişime geçebilir.
+- Kodu karıştırmak için hangi obfuscator aracını kullanıyorsunuz? + Obfuscator kullanmaya ihtiyaç duymuyoruz. Kodu o kadar karışık yazıyoruz ki biz bile 3 ay sonra okuyamıyoruz.
+İstanbul'daki bir şirket için Senior Delphi Developer arıyoruz. Şaka şaka, öyle birini aramıyoruz.
+Cahillik ve tembellikte sınır yok. 4 yıldır Windows 10 kullanıyorum, şu touchpad gesture özelliklerini yeni öğrendim, birkaç gündür de kullanıyorum. Verimliliğim %20 arttı.
+Az maaşa bol mesai yapan full+full stack developer için yazılmış enfes bir şiir
+Gmail'de bir göndericiden gelen mailin, spam kutusu da dahil olmak üzere hiçbir şekilde bana gelmesin demenin bir yolu var mı?
+Bu ilanların tamamı İstanbul için geçerli. Aynı zamanda İzmir için Sr. PHP ve Sr. Frontend Dev. arayışımız var. İlgilenen arkadaşlar cv'lerini ik@talentops.net adresine gönderebilir.
+Twitter'da çok iş ilanı paylaşmamaya çalışıyorum. Hızlı özet geçeyim; aşağıdaki pozisyonlar için arayışlarımız bulunuyor. - Sr. PHP Developer(Laravel) - Sr. Java Developer - Sr. Frontend Developer (Vue, React) - Jr. DevOps Engineer - Mid/Senior. .NET Developer - Architect (.NET)
+Erkek çocuğu yaramazlıkta sınır tanımazmış, bizzat yaşıyoruz. İki kız büyüttük, oğlan daha 16 aylık, ablalarının verdiği zahiyatın 3-4 katını şimdiden verdi. Kırdığı onlarca bardak çanak oyuncaktan sonra bugün dede evindeki TV'yi bu hale getirdi
+Yapay zekâ alanında Türkçe kaynak ve açık kaynak projeler üreten değerli kişilerin başlattığı Yapay Zekâ Araştırma İnisiyatifi'ni takip etmenizi öneririm. Katkı sağlayabilecek arkadaşların da desteklerini bekleriz:
+Almanya'daki bir firma için .NET Developer ve UI Developer arayışımız var. Detaylar şu Linkedin post'umda bulunuyor, ilgilenenler bakabilir:
+Tabii ki şuna da parantez açmak lazım: Deneyim süresi çok artınca, beklentiler yükselince ve artık işveren seni değil, sen işvereni seçmeye başlayınca bu süre uzayabilir :)
+2 yıl ve üzeri deneyimde ortalama bir yazılımcı iseniz, İstanbul'da 2 aydan uzun süre işsiz kalmanız imkansız gibi bir şey.
+Adamlar dükkanın adresini yanlış tarif etmişler, 60-70 metre ilerideymiş. Karın da yağacağı yok ama taktırdık lastikleri.
+O kadar üniversite açıldı ki, artık üniversite isimlerini takip edemiyorum. Biri cv'sine trollük yapıp Abdurrahman Çelebi Üniversitesi yazsa "vardır kesin böyle bir okul" deyip inanırım.
+Cevaplar burada varmış: Özet: Hem şirket hem de kişi için zor ve uğraştırıcı işler varmış.
+Bilhassa İran ve Azerbaycan'dan Türkiye'de iş aradığını söyleyen yazılımcılar ulaşıyor bazen. Yurtdışından gelip Türkiye'de çalışmayla ilgili kanuni bir prosedür var mı? Bu arkadaşlara yardımcı olmak gerekir mi?
+Antalya'daki bir holding için 2 yıl ve deneyimde backend(.NET) ve frontend(Vue.js) yazılım geliştiricileri arıyoruz. Antalya'da ikamet eden/edebilecek kişiler ilgili pozisyonlar için bize ik@talentops.net adresinden ulaşabilir.
+İstanbul'da yeni kurulan startup bir firma, tam zamanlı ve uzaktan çalışacak React Native bilen developer arıyor. React Native ile en az 2 proje bitirmiş adayları dikkate alacaklar. İletişim için şu adrese yazabilirsiniz: eyyupguner@gmail.com
+Westworld S01E01 öncesi son hazırlıklar. Black Mirror S07E13 da olabilir
+Kış lastiklerini taktırmaya lastikçiye gittim, dükkan boş. Şu adrese taşındık yazıyor, gittim baktım orası da boş. Lastikler onların depoda. Bir Çiftlik Bank vakası mı diye tedirginim, Lastik Bank.
+Bu özelliği @devnot_ olarak ilk kullanacak topluluklardan biri(hatta sanırım ilki) olmanın gururunu yaşayacağız. İleride bol bol övünürüz artık 🥳
+Bu Linkedin'deki "Finansal Güvence Danışmanı" arkadaşlar tam olarak neci oluyorlar? Her hafta 1-2 kişi ekliyor, hep de aynı şirketten.
+"İstanbul'a lütfen kar yağsın, lütfen. Amin" (Çocukları tarafından 3 senedir şiddetli 'kar ne zaman yağacak' sorularına maruz kalan İstanbullu ebeveynler)
+İleride emekli olup "Bir gün yine deployment yapıyoruz..." ile başlayan anılar anlatır mıyız acaba?
+Uyku modundaki Windows 10 kurulu bir bilgisayarı, uzaktan açmak için en pratik ve stabil çalışan yol nedir?
+Teknopark İstanbul'da düzenlediğimiz meetuplarda hafta içi öğlen saatlerinde konuşma yapmak isteyen arkadaşlar varsa bana ulaşabilir. Teknopark'ın Kurtköy'de olduğunu hatırlatayım :) Mail: umutluoglu@gmail
+Çocukları Rafadan Tayfa Göbeklitepe filmine götüreyim dedim, boş salon yok. Filmi Christopher Nolan yönetti, müziklerini Hans Zimmer falan mı yaptı diye baktım ama öyle bir şey de yok.
+Soran çok oldu ama eminim 1 haftada 300 kişi, 1 ayda 500 kişi zor izler :)
+Geçtiğimiz günlerde iki kez yaptığım sunumun video kaydını al diyen çok kişi olmuştu. Buyrun, Devnot'un Youtube kanalından izleyebilirsiniz:
+Şöyle bir oyuncak reklamı gördüm TV'de, biraz ürperdim. Oyuncak 4.0 denir buna. Bunun iki gelişmiş versiyonu Boston Dynamics robotu gibi bir şey olur sanırım.
+Dizi kadrosuna ve fragmanlarına baktım. Leyla ile Mecnun, Kardeş Payı, Geniş Aile karışımı bir şeyler çıkabilir, merak ettim şimdiden. Bölümler 60'ar dakikalık olacakmış.
+2020 deyince aklıma gelen ilk şey Westworld ve Dark'ın 3. sezonları. Bir diziye 1.5 yıl ara verip insanı manyağa bağlıyorlar.
+Bu çok hassas bir konudur. Eğitmenlik yaptığım yıllardan beri hep aynı şeyi söylerim; Eğitim, eğitim kurumundan alınmaz, eğitmenden alınır. Eğitmenin kim olduğunu bilmeden ve araştırmadan hiçbir yerden eğitim almayın.
+Yağmurlu ve soğuk etkinlik günlerinde söylemesi adettendir: "Bu soğuk, yağmurlu cumartesi sabahında, sıcacık evi dururken kalkıp gelen herkese teşekkürler"
+Yolculuğun hayırlı olsun. İnşallah birkaç sene sonra yollarda görmeye başlarız seni. Ben şu resimlerdeki aracın aynısını almanın hayalini kurmaya başladım bile.
+Aşırı gereksiz bir soru ama merak ettim: Birinin aynı yumurta ikizi çocukları doğdu diyelim. Gitti nüfus müdürlüğüne, ikisinin de adını Ahmet koymak istedi. Bunun önünde kanunen bir engel var mı?
+Bu cumartesi Bahçeşehir Üniversitesi'nde Machine Learning Day etkinliğindeyiz. Katılmak isteyenler için son duyuru, kayıt formunu yarın öğlen kapatacağız.
+Geçen hafta @volosoftcompany ofisini ziyaret ettiğimiz Yazılım Ofisleri videosu @caykahveinsan'da yayınlandı. İçerik de video da akıyor maşallah @tarikcayir 😎
+Şu şarkının bilhassa müziğine hastayım. Baba Zula var bildiğim benzer tarzda parçaları olan. Benzeri tavsiyeleriniz olursa paylaşın dinleyelim.
+Bir şirkete toplantıya gittiğim zaman, orada gördüğüm 20-40 yaş arası herkesi yazılımcı sanıyorum. Çaycı, muhasebeci, herkes. Meslek hastalığı sanırım.
+Bilhassa Hollanda ve İngiltere'de o kadar Türk yazılımcı oldu ki, orada Türkçe içerikte bir yazılım konferansı yapılsa 150-200 kişi toplanır sanırım. Tanışma-kaynaşma açısından da harika olur sanki.
+Devnot & BAÜ Yazılım ve Bilişim Kulübü ortaklığıyla bu cumartesi günü düzenleyeceğimiz Machine Learning Day'de alanında uzman 4 konuşmacı yer alacak. Katılım ücretsiz, Kommunity'den kayıt olup geliyorum diye işaretlemeniz yeterli.
+Buradan duyurmayı unuttum sanırım. Geçen cuma günkü sunumun biraz kısa halini yarın öğlen Teknopark İstanbul'da anlatacağım. O civardaki arkadaşların bilgisine.
+Geçenlerde iş başvurusu için gelen dosyanın adı "bos-cv.docx" Adam ironi mi yapmış yoksa dosya adını mı değiştirmeyi unutmuş bilemedim.
+Üniversiteden yeni mezun olan, Go dilinde kendini geliştirmiş, ELK stack üzerine projeler yapmış iyi bir Go developer adayı ulaştı bana. İyi bir işe yerleşmesini çok isterim. İlgilenecek arkadaşlar varsa cv'sini hızlıca iletebilirim.
+Üzerimde bilimsel araştırma yapmak isteyene iki bulgu daha vereyim 😀 - 10-15 dakika uyursam karabasan görmüyorum - İki uyku arasında 8-9 saat olursa karabasan görmüyorum
+Ne zaman 17-18 saatleri civarında 30+ dakika uyusam, o gece, uykuya ilk daldığımda karabasan görüyorum. %95 çalışıyor bu bende, aynı durum kuzenimde de var. Benzeri şeyi yaşayan kimse var mı? Bu durumun bilimsel bir açıklaması var mı?
+Summit'te sunumlar 40 dakika olacak Gelen talebe göre iki veya dört tane 20 dakikalık lightning session olacak. CFP sayfasında belirtilen konularla ilgili yapılan başvuruları öncelikli olarak değerlendirmeye alacağız. Umarım güzel bir etkinlik olur.
+Developer Summit 2020'yi 4 Nisan Cumartesi günü düzenleyeceğiz. Konuşmacı başvurularını almaya başladık. Kommunity sayfasındaki Call for Papers sekmesinden başvurularınızı iletebilirsiniz.
+Katılan herkese çok teşekkür ederim. Güzel bir akşamdı, benim için çok keyifli bir konuşmaydı. Konuyu ilk kez anlattığım için süre biraz yetmedi. Kusurum olduysa affola.
+Bu akşam sunumun son karesinde yer verdiğim twit. Sunumda sonunda varmak istediğim nokta burasıydı ama süreyi aştığım için çok toparlayamadım sanırım.
+Masterchef'te Danilo diye İtalyan bir şef var. Adamla otursak sabaha kadar goygoyun dibine vurup baya muhabbet ederiz gibi geliyor.
+2 jetonla 3. bölümün sonunu zor getirdim. Paslanmışım :(
+Bugün Yazılım Ofisleri'nin yeni bölüm çekimi için @tarikcayir ile @volosoftcompany ofisindeydik. Ben çekimleri bırakıp çocukluk yıllarıma gittim ve atarinin tadını çıkardım. Yeni bölüm yakında @caykahveinsan'da
+Bu cuma akşamı Eminönü Santral'de ekteki mevzu ile ilgili bazı önemli konulara değinip, ileride kendi işini kurmak ve bilhassa danışmanlık gibi konular üzerine çalışmak isteyenlere deneyimlerimi aktaracağım. Beklerim.
+Sunum yapmanın en zor kısmı kesinlikle sunumu hazırlamak. Sunum yapan birini "geldi, 40 dakika anlattı" diye düşünmeyin, çoğu sunumun arkasında en az 3-4 günlük emek var.
+Programın Ankara'da olduğunu belirtmekte fayda var. Katılım tamamen ücretsiz ve yaklaşık 6 ay boyunca çok sağlam bir kurs içeriği bulunuyor. Detaylar ekte bulunuyor:
+Ülkedeki yazılımcı açığını kapatmak için yapılan en güzel işlerden biri NBUY programı. Bildiğim kadarıyla programdan çıkanların %70'inden fazlası bir işe yerleştiriliyor. Bilgeadam'daki arkadaşlar yeni dönem kayıtlarını size duyurmamı rica etti:
+Internet alışveriş iadesi vs. yapmadım bu arada, basit bir evrak göndermek istedim. Şu diyaloğu 1985 yılında yaşasam dahi yuh derdim. Tarih 16 Aralık oldu, hala 3-4 hafta önceki alışveriş yoğunluğunu çözemediler
+Kargo şirketleriyle ilgili çok saçmalık yaşadık ama böylesini ilk kez gördüm. Az önce @YurticiKargo ile İstanbul Anadolu yakasından Avrupa yakasına gönderi için şubeye gittim, şöyle söylediler: "Avrupa yakasına gönderiler kapalı, maalesef kargo alamıyoruz. Yarın tekrar gelin"
+Youtube'un Music servisini ücretsiz dene diye sürekli karşıma çıkması, Microsoft'un Internet Explorer'ı varsayılan tarayıcı yap ısrarını geçti.
+Bak mikroservislerin arkasında Pentagon var Lakin React'i yazan da benim dedem Dedem kim? Kubernetes Google, Microsoft ayağını denk alsın
+Yaklaşık 3 aylık bir aranın ardından ilk kez bu sabah HTML dışındaki bir dilde kod yazdım. Böyle foreach'ler, süslü parantezler falan... çok özlemişim 😍
+SharePoint Saturday'e sadece birkaç gün kaldı. Etkinlikten henüz haberi olmayan SharePoint developer arkadaşlar varsa mutlaka göz atsın
+Maslak, Ataşehir, Gebze'de 3 farklı yere yönlendirmek üzere - İyi seviyede JavaScript bilen - React bilen veya hızlıca öğrenip projelerde görev alabilecek - En az 1 yıl frontend projelerinde görev almış jr. frontend yazılımcıları arıyoruz. İletişim ve cv için: ik@talentops.net
+20 Aralık Cuma akşamı ~4 yılda edindiğim serbest danışmanlık deneyimlerimi bu buluşmada anlatacağım. Yakın veya uzun vadede ben de şirket kurabilir, danışmanlık vb alanlarda çalışabilirim diyenler için güzel bir içerik hazırlıyorum.
+Borsada son zamanlarda yazılım şirketi hisselerinde ciddi bir yükseliş var. Bugün en çok değer kazanan ilk 4 şirketin 3'ü yazılım şirketi. Manipülasyon mu var yoksa bizim yazılımda gömü mü buldular?
+İş yeri İstanbul Avrupa yakasında.
+Kariyerine DevOps mühendisi olarak devam etmek isteyenler için uygun bir iş fırsatımız var. Aşağıdaki kriterlere uyan arkadaşlar cv'lerini ik@talentops.net adresine iletebilir - DevOps alanında hobi veya proje çalışmaları yapmış - Tercihen 1+ yıl yazılım geliştirme deneyimi olan
+Takır takır ses çıkaran mekanik klavyeli ilk günümüzde evden gelen tepkiler: Çocuklar: "Aa ışıklar ne güzel, bi daha yaksana baba" Eşim: "Ya kaldır şu klavyeyi, kafam şişti"
+Bu anketten en fazla %50-55 evet bekliyordum. Hatta mavi-beyaz yakalı tespiti yapacaktım, şu anketi mavi yakalılara yapsan %80+ evet çıkardı diye. Hevesim kursağımda kaldı :)
+"Zaten mesaiye kalıyor ama para almıyorum, tabi ki kabul ederim" diyenler çıkabilir. Mesaiye kalmadığınız ortamda böyle bir teklif aldığınızı düşünerek yanıtlayın lütfen :)
+Çalıştığınız firma, mesai ücretinizi ödemek şartıyla haftada 6 saat (3 akşam x 2 saat) fazla mesai yapmanızı önerse, yanıtınız ne olur?
+Emeği geçen herkesi tebrik ederim. Çok güzel bir hackathon olmuş, katılımcıların yorumları ve ortam çok iyi. Çıktıları da güzel olur ve devamı gelir umarım.
+Tanıştırayım; 1950-60'lı yıllarda kodlama için kullanılan punch cards(delikli kartlar). Lisede kapalı bir dolapta görmüştüm, ilk kez inceleme şansım oldu. Kod kötü yazılmış galiba, hiçbir şey anlamadım :)
+Hoşbulduk JetBrains #jetbrainsday
+3.5 yıldır yönettiğim Devnot meetup grubununda ben dışında herkesin konuşma yaptığını farkettim. Bu böyle gitmez dedim ve 20 Aralık Cuma akşamı biraz gevezelik etmeye karar verdim.
+Developer Summit 2020'den başlayarak bundan sonra konuşmacı başvurularını Kommunity'den alacağız. Topluluk yöneticileri ve konuşmacılar için harika bir özellik daha. Tebrikler @itsmoneo @EmirKarsiyakali
+"Abi bütün gün iştesin, sen ne ara yapıyorsun bu freelance projeleri?"
+Teknoloji mağazalarındaki çoğu ürünü %25-30 daha ucuza HB, n11 gibi sitelerde çok rahat bulabiliyoruz(garanti vs. aynı). Bu mağazalar parayı nelerden nasıl kazanıyorlar acaba?
+Twitter'ın reklam yönetimi gerçekten başarısız. Aylarca süren dolandırıcı reklamları yetmedi, 3-4 gündür sürekli Çince/Japonca reklamlar çıkarıyor. Nasıl başaramıyorlar anlamak zor.
+Eskiden oyuncular, futbolcular bizden hep yaşlı olurdu. Şimdi oyuncu bio'suna bakıyorum, 27 yaşında, 32 yaşında. O mu çok küçük, biz mi yaşlandık diyorum. İkincisi tabi.
+Abi siz ABP(@abpframework)'nin isim haklarını almış mıydınız? :) @hibrahimkalkan @alperebicoglu
+Bu cumartesi günü düzenlenecek JetBrains Day için 1 kişilik biletim var. Bilgisayarında herhangi bir JetBrains ürünü(Rider, Resharper, dotMemory vb) kurulu olan ve ekran görüntüsünü mention atan ilk kişiye bu bileti vermek istiyorum.
+Aranızda meslek hayatı boyunca fazla mesai yapmış, fazla mesaiyle ilgili eğlenceli ve sinir bozucu anıları olan kimler var? Ben varım diyen FAV atsa yeterli olur, fazla mesaiyle ilgili soracağım birkaç şey olacak.
+"Cuma mesai bitiminden 1 saat önce deployment mı yapılır yaa?" diye söylenen yazılımcıya şirket müdüründen sert cevap!
+O kadar vergiye ÖTV'ye rağmen Xiaomi'nin sağlam donanımlı ve kameralı telefonları 1300-1500 TL'ye satılabiliyor. Vergiler olmasa 1000 TL altına inecek demek bu telefonlar.
+Yenilen kazığın ciddiyetine parmak basmak için otelin niteliğini ".. yıldız" diye belirtmek istedim, kusura bakmayın. Esnafı, ustayı geçtim, otel bile bizi öptü. Başka da bir şey demiyorum. Saygılarımla.
+Bir işimiz düzgün gitsin diye gidip 5 yıldızlı otelde toplantı salonu ayarlıyoruz, diyoruz ki sıkıntı olmasın her şey dört dörtlük olsun. Otelden bile sağlam kazık yiyor, saygısızlık görüyoruz. Memlekette itibar edecek kurum-insan kalmamış.
+Böyle önemli bir konuyu yarın @gokhansengun anlatacak ve gelirim diyen kişi sayısı 80 küsür. Tahminen onların da 1/3'ü gelecek. O kadar emek, bilgi, birikim daha fazla kişiye ulaşmalı bence, böyle değerli şeylere ulaşmak kolay değil.
+Uygulama önerileri geliyor. Görev ve notlar için TickTick ve Evernote uygulamalarını aktif olarak kullanıyorum zaten. Sorun uygulama kullanmamak değil, unutmamam gereken görevi/notu uygulamaya kaydetmeyi "unutmak" :)
+Bir işi unutmayayım diye not edeyim diyorum, sonra not etmeyi de unutuyorum. Yaşlılık belirtileri sanırım bunlar.
+Vue.js ile en az 2 proje bitirmiş, 2-3 yıl ve üzeri iş deneyimine sahip bir Frontend Developer arayışımız var. Firma İstanbul'da. İlgilenenler ik@talentops.net adresine güncel cv'lerini iletebilir.
+Bolu'da 4 farklı yere gittik bugün, navigasyon elimizle koymuşuz gibi mekânların önüne götürdü bizi. Foursquare'de 9 puanlık 2 mekana gittik, kalite gerçekten 9 numara. İnternetin gözünü seveyim.
++ Merhaba. Faturayı ne zaman alabilirim? - Kargoya verdik, yarın sizde 1 hafta sonra + Fatura hâlâ gelmedi? - Bugün kargoya veriyoruz, 2 güne sizde olur 1 hafta sonra + Fatura hâlâ gelmedi??? - Abi sizin adres neydi? Birebir gerçek diyalogdur.
+Siber Güvenlik, robotics ve/veya yapay zekâ gibi alanlara ilgi duyan öğrenci arkadaşlar için bu perşembe Bahçeşehir Üniversitesi'nde bir etkinlik var. Katılım ücretsiz, şu linkten kayıt olabilirsiniz:
+Uzun uğraşlar, değerlendirmeler ve birebir görüşmeler sonrasında kampa bugün başladık. Kamp programı düzenlemek çok yorucuymuş gerçekten. Kodluyoruz, Linux Yaz Kampı vb. kampları düzenleyen ekiplere helal olsun.
+Türkiye Açık Kaynak Platformu, 30 Kasım'da "Türkçe Dil İşleme" konusunda açık kaynak hackathonu düzenliyor. Dereceye girenlere güzel hediyeler, giremeyenlere katkı sağlamanın güzelliği var. Detaylı bilgi:
+2 Kasım 2019 günü düzenlediğimiz DOTNET KONF için @caykahveinsan tarafından kısa bir video kolajı hazırlandı. Gün boyu etkinlikte bulunan ve bu güzel çalışmaları yapan @tarikcayir'a çok teşekkür ediyoruz 😍
+Yakın zamanda machine learning üzerine yapacağımız bir mini konferans olacak. Etkinliğin adını ne yapmamızı önerirsiniz? Farklı isim önerileriniz olursa yorum yazabilirsiniz, titizlikle inceleyeceğiz.
+Işıklı yanar dönerli model olmasına gerek yok, hatta ışıksız modeller daha iyi olur. Bir de ışığıyla falan uğraştırmayın beni :)
+Uygun fiyatlı mekanik klavye tavsiyeleriniz varsa alırım. Not: Klavyeyi arada sırada motivasyon için kullanacağım. Takır takır sesle kod yazmak nasıl olur, bir süre denemek istiyorum. O yüzden pahalı bir model düşünmüyorum.
+Teslim tarihine 1 gün kala proje toplantısı 😎
+Alışveriş sitelerinin yerinde olsam Kasım ayında fazla kampanya reklamı yapmam. İndirim günü birkaç sunucuyu kasıtlı kapatırım, "yoğun trafikten site çöktü" daha etkili bir reklam yolu sanki.
+Bir belgeselden alıntı: "Teknolojinin özü, değişerek doğal olandan uzaklaşmaktır"
+Türkiye'de arama motoru olarak Yandex'in kullanım oranı %12 imiş. Yandex için baya iyi bir oran sanki, şaşırdım.
+Daha önceden kedi veya köpeğini İstanbul Üniversitesi Veterinerlik Fakültesi'ne ameliyat vb. bir operasyon için götüren oldu mu? Bir yakınımın danışmak istediği konu var, yardımcı olacak biri çıkarsa sevinirim.
+"Projede ben fullstack'tim", "DevOps olarak çalıştım" gibi ifadeleri çok duymaya başladım. Bir anlam kayması var sanki?
+Son durum. 1967 doğumlu, geçmişte bir projede beraber çalıştığımız bir abimiz ben varım dedi. Hesabı gizli olduğu için görmüyorsunuz büyük ihtimalle. Var mı arttıran?
+Lizbon'da düzenlenen Web Summit 2019 etkinliğinden bir kare. 4 gün sürecek etkinliğe 70 bin kişinin katılımı bekleniyormuş. 70 bin!!! 🙄
+Ben 1965'e kadar iner diye düşünüyorum ama şu ana kadar 1971 doğumlu 2 kişi çıktı. Var mı yükselten?
+92, 82 derken 79'a kadar indik. Twitter'daki en yaşlı yazılımcıyı arıyoruz. Aktif olarak kod yazan en yaşlımız kim var, bu twitin altına yazsın lütfen.
+Bu adamı dikkatle takip edin => @peacecwz Barış DOTNET KONF'un en genç konuşmacısıydı. Onun seansında ana salonda Jon Galloway sunumu olmasına rağmen salonu full doluydu. Resim sunumun başında çekildi, sonrasında bu salona en az 15-20 kişi daha gelmiştir
+Edge tarayıcının yeni logosu baya tanıdık geldi. Tarayıcı Chromium tabanlı, logoyu da Firefox tabanlı yaparsak bu defa belki tutar demişler sanırım.
+Dün gece 23.12 itibariyle çalışmalara başladık 😊 #developersummit20
+15 yıl önce bu zamanlar: Bayram ziyaretinde bilgisayarın ve internetin ne işe yaradığını anlatırken; biz vs. akrabamız
+Wechat'in 1 milyardan fazla kullanıcısı varmış ve bunların %90'ı mobil ödeme için bu uygulamayı kullanıyormuş. Apple+Starbucks+Google bile kat kat küçük kalıyor. Çin etkisi. - -
+İlginç bir istatistik. Starbucks bugün "market, giyim, benzin ödemelerinizi uygulamamızdan yapabilirsiniz" dese dünyanın 1 numaralı mobil ödeme sistemi olabilir.
+Dün 580'den fazla kişinin katılımıyla gerçekleştirdiğimiz DOTNET KONF'a ait güzel kareleri Flickr albümümüzde yayınladık. Katılan ve destek olan herkese çok teşekkür ediyoruz. #dotnetkonf
+Adım adım Black Mirror s02e01...
+3 aylık emek, birkaç haftalık yoğun tempo ve koşturmaca derken bir etkinliği daha tamamladık. Katılan herkese, destek olan tüm firmalara ve organizasyon ekibimize sonsuz teşekkürler. #dotnetkonf19 #dotnetkonf
+DOTNET KONF'un en junior katılımcısı #dotnetkonf19 @fcoskun
+DOTNET KONF hatıra köşesi item'ı fotojenik fotolarınız için kuruldu. Yarın bekleriz #dotnetkonf19
+DOTNET KONF'a katılacak arkadaşlar; böyle bir durum var. E-postaları gönderdik bugün ama belki okumamışsınızdır. Aman diyeyim karıştırıp yarın Maslak yollarına düşmeyin. Konferans 2 Kasım Cumartesi günü :)
+Millet lisede sevdiği kızı hatırlar hüzünlenir, ben üniversite yurt labında PHP ve MySQL derslerini HTML olarak diskete kaydettiğim günleri hatırlayıp hüzünleniyorum.
+Bir müşteriden "teklif dosyasında revize var, bakın onaylayın" diye dönüş geldi. Bir sürü işi vardır diye erteleyip durdum 5-6 gündür, meğer 1 cümlelik ekleme yapmışlar :)
+Henüz Vue.js ile bir proje yazmadım, hatta Vue dokümanı bile okumadım ama GitHub'daki örnek projeleri incelerken bile ne kadar sade ve kolay öğrenilebilir bir kütüphane olduğu çok net anlaşılıyor.
+Freelance çalışan ve Xamarin veya Vue.js eğitimi verebilecek arkadaşlar varsa bir firmaya yönlendirme yapabilirim. Eğitmen arkadaşın önceden bu konularda eğitim vermiş olması önemli.
+658 sayfa olanını yazmışlar, 350 sayfa eksiği var.
+HTTP ile ilgili 1000 sayfalık kitap yazılır, kitabın son cümlesi "HTTP son derece basit bir protokoldür." olur.
+DOTNET KONF'ta sunum ve aralarda kısa videolar çekebilirim diyen bir arkadaşla Twitter üzerinden mention veya DM yoluyla konuşmuştuk. Aradım ancak bulamadım. O babayiğit adam kimdi, bana tekrar yazabilir mi?
+DOTNET KONF için son 50 bilet kaldı. Bu sene Dotnet Reconnect gibi tekrarını da yapmayacağız. Gelmek isteyenlere son çağrı :)
+945 başvuru 😍
+Yapay zekâ çağındayız, text mining almış başını gitmiş ama Twitter hâlâ yazınca aslında bir kütüphaneyi belirttiğimizi anlamıyor. Sonra gidip ifadeyi linkliyor.
+Örneğin aynı seviyede React/Angular'ı çok bilmeyen biri net 7 bin TL istiyorken, iyi bilen biri net 11-12 bin TL isteyebiliyor. Arz-talep meselesi ama dengeleri de baya bozuyor, bilhassa firmaların kime ne maaş vermeli konusunda kafaları karışık.
+Frontend piyasasında maaşlar çok ilginç noktalara geldi. Bilhassa React veya Angular ile birkaç proje bitiren kişiler baya yüksek rakamlar talep ediyor. Yüksek maaş beklentisine karşılık bulan da var, bulamayıp aylardır iş bakan da var.
+Çok sağolun arkadaşlar, baya fikir verdiniz Discord mu yoksa Slack mi kullanalım diye... Bu ne yaa, %50-%50 😂 Yazı-tura atarız artık
+Bu akşam Bahçeşehir Üniversitesi'nde öğrenci arkadaşların 2.5 saat boyunca kafalarını şişirdim. Gelen herkese teşekkür ederim.
+Aradan yıllar geçti ama hâlâ Haydarpaşa-Gebze arasındaki tüm istasyonları 1-2 tanesinde biraz takılsam da tek tek sayabiliyorum.
+Az önce bir meetup duyurusunda şöyle bir şey okudum. Patron resmen çıldırmış! "katılımı teşvik amacıyla toplantıda 6 adet gerçek külçe altın dağıtılacak olup, ayrıca gelenlere toplamda 3500 TL değerinde coin hediye edilecektir."
+İlk konunun benzeri bir sunum bu zamana kadar pek yapılmadığı için ve konunun ağırlığını dikkate alarak kesin 1 olur demiştim ama gelen yorumlardan sonra 2 veya 3'ü seçeceğiz. Mention atan arkadaşların dikkatine :)
+Meetup'ın katılımcılardan ücret alma adımından sonra artık Kommunity'e geçmeyen kalmasın lütfen. Devnot olarak ilk günden beri oradayız, hatta bu cuma akşamı bir etkinliğimiz daha var. Bekleriz:
+Dotnet Konf'ta konuşma yapacak bir arkadaşın ilettiği konu başlıkları. İnsanın "gel 3 konuyu da anlat" diyesi geliyor ama ilk konu bariz ağır basıyor sanki.
+Bilgi seviyenizi anlatmak için CV'nize şu tarz anlaşılması zor grafikler yerine Orta/İyi/Çok iyi veya 4/5 gibi değerler yazmanızı öneririm.
+Taahhüt yok, bir şekilde sisteme böyle işlenmiş, ama bizim yapabileceğimiz bir şey yok, cayma bedelini sizden alacağız diyorlar. Kabul ediyorsunuz, kayıt açın düzeltin diyorum, hâlâ bizim yapabileceğimiz bir şey yok diyorlar. Tam çıldırmalık olay @DSmartDunyasi @DSmartDestek
+D-Smart aboneliğimi sonlandırmak istedim, taahhüt vermemiş olmama rağmen uydurdukları bir taahhüt ile benden cayma bedeli istiyorlar. 40 dakika telefonda @DSmartDunyasi MH ile görüştüm, kendileri de bir taahhütüm olmadığını kabul ediyorlar.
+Bu otobüs firmaları ha bire iflas ediyor, birine satılıyor. Alan 2 yıl sonra başkasına satıyor, yeni alan 1 yıl sonra başkasına satıyor. 5 yıl önce iflas eden firma hâlâ yollarda, anlamak zor.
+Haftaya çarşamba saat 18:30'da Bahçeşehir Üniversitesi'nde Yazılımda Kariyer konulu bir sunum yapıp, öğrenci arkadaşların sorularını yanıtlayacağım. Öğrencilere hitap eden bir sunum ama herkesin katılımına açık. Kayıt için:
+Mission completed. 40+ fav ile bana verdiğiniz yüksek yetkiye dayanarak salonda 2 tur gezdirdim süpürgeyi
+20 fav'a Clean butonuna basarım :D
+Bu iki oldu. Çin'den 12 TL ve 15 TL'ye aldığım ürünler için iki defa 11.5 TL gümrük vergisi ödedim. Gümrük vergisi 22 avro üzeri miktarlar için geçerli değil mi? Bu vergi neye dayanarak, nasıl alınıyor? @TCSanayi
+Evet @EmirKarsiyakali nın ev temizliği bundan sonra benden sorulur. Robot süpürge Emir'in telefona bağlanmayınca benim telefondan çalıştırdık. İstediğim saatte adamın evinde süpürge gezdirebilirim, hahaaa :)
+Bu nasıl tesbid üstad!!!
+7 yıl tecrübeli, ağırlıkla .Net teknolojileri ile çalışmış, yanında Javascript, biraz da Angular bilen sevdiğimiz bir arkadaş, remote veya Gebze civarlarında iş arıyor. Bizim şirkette böyle bir açık pozisyon var diyen varsa yönlendirebilirim.
++ Merhaba. Senior .. Developer ilanına başvurmak istiyorum - Tabi, ama üniversitede öğrenci görünüyorsunuz hâlâ. + Evet, ama çalışmayı çok isterim - Peki haftada 5 gün çalışacak durumda mısınız? + Yok, en fazla 1.5 gün çalışabilirim, dersler var - Tebrikler, işe alındınız👏🥳👌
+Başvurular iyi gidiyor, ama bazı üniversitelerden pek başvuru gelmediği için oradaki arkadaşlara da ulaşmak istiyoruz. Boğaziçi, İTÜ, YTÜ... herkesten destek bekliyoruz :)
+İstanbul'daki üniversitelerde okuyan arkadaşlar, acaba okullarındaki öğrenci gruplarında Full Stack Yazılım Geliştirici Kampı'nın duyurusunu yapma konusunda bize destek olabilir mi? Kamp başvuru sayfası:
+İstanbul'daki bir şirket için aşağıdaki 3 pozisyonda arayışlarımız bulunuyor. İlgilenen arkadaşlar ik@talentops.net adresine güncel cv'lerini iletebilir. - Senior Full Stack Developer (.NET + JS) - Mid. Test Engineer - Mid. Android Developer
+Geçtiğimiz günlerde anket çalışması yapan Burak hocanın anketine iyi katılım olmuş, kendisi de baya hızlı ve güzel şekilde sonuçları değerlendirip paylaşmış. Merak edenler göz atabilir:
+Eski zamanlarda tarih ve gün nasıl takip ediliyordu acaba? Biz bile elimizdeki araçlara rağmen bugün ayın 3'ü mü 5'i mi, salı mı çarşamba mı derken misal 1300'lü yıllarda insanlar tarihi düzenli şekilde nasıl takip ediyordu?
+Kodiks'in yeni ofisine hayırlı olsun ziyaretine gidip tribünler meetup yapmaya uygun mu diye saha ve zemin kontrolü yaptım.
+Flutter ile ilgilenen arkadaşlar için güzel bir etkinlik var bu cumartesi günü. Aksilik olmazsa 8 Kasım'da da bizim bir meetup'ımız olacak Flutter konusunda.
+Bir arkadaşımızın ameliyat olacak babası için A Rh+ kana ihtiyaç var. Kan verebilecek arkadaşların desteğini bekleriz. Detayları twitlerde bulabilirsiniz.
+İsmail abi yazılım mülakatında: "İsmail yazılımda bir klasiktir. Benim genlerimde X'ler Y'ler yoktur, genlerimde 1'ler 0'lar vardır. Dennis Ritchie dayımdı benim"
+Miles&Smiles mail bülteninden çıkmak istiyorum, telefon numaramı doldurmadan çıkarmıyor. 1. Telefon numaramı neden vermek zorundayım? 2. Böyle sallamasyon Angola kodlu numara girmeme rağmen sistemde nasıl kayıtlı biri olabiliyor hayret @TurkishAirlines
+Yöneticimizle hafta sonu mesaiye kalıp kalmayacağımızı konuşuyoruzdur. "Biz sizi ne zaman mesaiye bıraktık ki, bizde mesai olmaz. Sizi mesaiye bırakacak kadar enayi miyiz biz?"
++ Baba bugün çarpmada 0'ın yutan eleman olduğunu öğrendik - Hmm iyi bakalım + Peki bölmede de 0 yutan eleman mı oluyor? - Yok. Nasıl desem... orada DividedByZeroException oluyor
+Burak Selim Şenyurt hazırladığı bir anketi sizlere ulaştırmamızı istedi. Bence buradan blog yazısı hatta sunum bile çıkabilir. Zaman ayırıp doldurabilirseniz sevinirim.
+Full Stack Yazılım Geliştirici Kampı için başvuruları almaya başladık. 20 Ekim başvuru için son tarih.
+🔥🔥Hazırsanız yarın başvuruları almaya başlıyoruz
+İşin daha da kötü tarafı doktoru asistanı kanıksamış bu durumu, umursamıyorlar bile. 13.45'teki randevuya zor bela 14.25'te girdik, ne özür dileyen var ne telafi etmeye çalışan.
+Ülkede para verip özel sağlık hizmetini bile doğru düzgün alamıyoruz. Yıllardır doktor için 6-7 farklı özel hastaneye gideriz, randevu saati 45 dakika geçer hâlâ kapıda beklersin. Az önce 40 dakika bekledik çoluk çocuk.
+Kodun çalışmayacağını bile bile heyecanla debug yaptığımız gibi akşam PSG'nin bizi çok fena pataklayacağını bile bile heyecanla maçı bekliyoruz. Fark olmasa bari.
+Kontenjan dolmak üzere, an itibariyle 20'den geri saymaya başladık. Öğrenci arkadaşlar geç kalmasın :)
+Peaky Blinders'ın bir bölümünde içilen sigara Kurtlar Vadisi'nin bir sezonunda içilen sigaradan bile daha fazla. O değil de Kurtlar Vadisi ne diziydi bee(ilk 97 bölümü)
+Reklamlardaki akışkan bol çikolatalı bisküvi / Ambalajından çıkan bir tutam kuru çikolatalı bisküvi
+Öğretmenlik yapan bir yakınım sınıfta kullanılmak üzere bir printer alacak. Haftada ort. 100 sayfa basıyorlarmış, bütçe de 800-1000 TL civarında. Önerebileceğiniz düzgün cihazlar varsa link veya model iletebilir misiniz?
+Full Stack Developer: Backend ve frontend çalışan developer Full + Full Stack Developer: Backend ve frontend çalışan, analiz ve test yapan, tüm bunların üstüne bir de projeyi yöneten developer
+Ne kadar da MSc, PMP, Scrum Master, ITIL, ITSM, MBA ve Project Manager bir beyaz yakalı.
+Bu arada PTT kargo takibini niye e-devlet'ten yapıyoruz onu da anlamadım :)
+E-devlet'ten PTT kargo takibi yapayım dedim. Güvenlik resmini 5. denemede geçebildim. Bunlar 3. ve 4. seferde çıkan imajlar. Tek seferde doğru yazabilene helal olsun
+Alışverişe çıkıyorum, cepte bir tane madeni para yok. 2-3 dükkana girip eve geliyorum, cepte bir avuç dolusu madeni para. İnsanın her yerde kredi kartı kullanası geliyor.
+Meğer herkes şikayetçiymiş. Hiç abartmıyorum, toplam 3 sayfa yazdırmak için 1 saatten fazla bekledim(restart vs. herşeyi denedim) Yarım saattir tarama yapacağım, bağlı görünen printer her defasında "bağlı değil" hatası veriyor. Tam kafa yemelik 😠
+Printer konusunda ben mi şanssızım, yoksa donanım olarak problemli cihazlar mı anlamadım. Evde 2. yazıcıyı kullanıyorum, dosyalar kuyrukta kalıyor yazılmıyor, bazen de kağıdın yarısını yazmıyor. 2 çıktı için 30 dakika uğraştım.
+İzmir'deki akrabamızla görüştük, öğlenden beri Türk Telekom GSM İzmir'de bile çekmiyormuş. Bu saatte halâ sorun varmış. Sorun yoğunluktan öte teknik bir soruna benziyor. Yarın itibariyle Turkcell ve Vodafone'a büyük göç başlayacak sanırım
+Uzun zaman sonra İstanbul'da bir deprem nedeniyle insanların sokaklara döküldüğüne şahit oluyorum, şebekeler de gitmiş. En son Bolu'daki 99 depreminde böyle olmuştu.
+Marmaraereğlisi 5.9 deniyor. Kısa sürdü ama buraları bile baya salladı
+Fena sallandık. İstanbul, Bursa, Sakarya... baya bir yer hissetmiş. Umarım büyük bir deprem değildir.
+1 ay önce doğru kişiyi tahmin eden ilk kişiye etkinlik bileti hediye edeceğimi söylemiştim. İlk doğru tahmini @adiyahsi_44 yaptı, Jon'dan haberi yoktu ama bizim etkinlik ekibinde zaten, onu es geçiyorum. 2. doğru tahmini yapan @MesutTalebi kazandı 🥳
+DOTNET KONF'ta bu yılın sürprizini takdim ederiz. Jon Galloway 2 Kasım'da bizlerle olacak. Kendisini ikna eden ve gelmesi konusunda bize çok büyük destek veren @hibrahimkalkan'a ve @volosoftcompany'a çok teşekkür ederiz.
+10 yıl önce kitap ve blog okuyorduk, yine öğreniyorduk ama video izlemenin heyecanı ve motivasyonu farklı. İzleyerek bir şeyler öğrenme trenini kaçırdım sanırım. Vakti ve fırsatı olanlar kaçırmasın.
+Yaş ilerledikçe tecrübe etmek kolaylaşıyor, yeni şeyler öğrenmek ve öğrenmeye zaman ayırmak zorlaşıyor. 10 yıl önce Udemy bu kadar yaygın olsa ayda bir kurs bitirirdim sanırım. Şimdi görüyorum, izlemek istiyorum ama olmuyor.
+Allah başka dert vermesin
+Videodan çıkamıyorum
+Bir tane tüpçü dükkanı gördüm, damacana su ve bal da satıyor. Aynı zamanda camında kiralık-satılık ev ilanları var. Adam full stack esnaflığını ilan etmiş.
+Son zamanlarda Oracle/SQL Server'dan PostgreSQL'e, Windows'tan Linux'a, MS Office'den Libre Office'e geçiş hikayelerini çok sık duymaya başladım. Hatta bir holding Adobe yerine alternatif araçlara(Gimp vb) geçmek için ar-ge çalışması yapıyormuş. Güzel haberler.
+Tüm şıklar eşit çıkacak neredeyse. 3 seçenekten 10'ar oy alıp diğer seçeneğe versek hepsi %25 olacak :)
+Çok yakında üniversite öğrencileri için Full Stack Yazılım Geliştirici Kampı düzenleyeceğiz. HTML, CSS, JS, React, Node.js ve MongoDB konularından oluşacak toplam 18 günlük kampın duyurusunu tahminen 2 hafta içinde yaparız. Takip => @devnot_
+Sabah iş yerine geldiğinizde bilgisayarda ilk neye bakıyorsunuz?
+Dün Teknofest'te Altay tankında kaç cc motor var diye soran bir amcaya da, aralarında robotik kodlama ve yazılım konularını konuşan 10 yaşında çocuklara da denk geldim.
+5 yaşındaki kızım: "Baba telefonda da bilgisayarda da hep senin kafan çıkıyor(profil resmi). Bu bilgisayarlar seni tanıyor mu, nasıl çıkıyor o kafa orada?"
+Savunma Sanayi Başkanlığı alanındaki @icsdefence standını mutlaka ziyaret edin. Çok stratejik ve önemli bir ürün, umarım hakettiği ilgiyi görür. Güzel evsahipliğiniz için teşekkürler @yakuter @halidaltuner
+Bugün Teknofest'teydim. Hem sergilenen araçları ve ürünleri, hem de bu müthiş etkinliği yapanların emeğine sağlık. İlkokula, liseye giden kardeşiniz, kuzeniniz varsa takın kolunuza getirin, onların motivasyonu için çok önemli bir gezi olacaktır.
+İstanbul dışında yaşayan, teknik bilgisine ve kişiliğine referans olabileceğim yakın bir arkadaşım remote çalışabileceği bir iş arıyor. Uzmanlık alanı .NET, 12 yıldan fazla deneyimi var. Remote .NET developer arayan firmalar varsa yönlendirmek isterim.
+Türkçe ile İngilizce 2 kelimeyi birleştirip 8 harfli bir ifade uyduruyorum, kim alırki bu saçma domaini diyorum, bir bakıyorum o da alınmış
+6-7-8 karakterli .com domain almayı düşünüyorsanız hiç boşa heveslenmeyin. Sanırım birileri oturmuş, latin alfabedeki tüm harflerden oluşan uyduruk kelimelerin dahi kombinasyonunu çıkarıp bütün .com domainleri almış.
+Bu projeyi ben yazdım
+Bu arada film 4 sezon, Netflix'te son sezon nedense yok. Benim gibi Netflix'ten izleyip 3. sezon sonunda "bu ne biçim final lan" deyip sonra dizinin 4. sezonu olduğunu öğrenip şaşırmayın :)
+12 Monkeys dizisini geçen gün bitirdim. Bilimkurgu ve zamanda yolculuk temalı uçuk kaçık dizi severlere önerebilirim. Kurgu iyi, oyunculuklar biraz vasat, öyle çok beyin yakan yanı yok ama heyecanlı ve sürükleyici. Puanım 8/10
+Yıllar önce "Bırak tamamını, ben bu alanın yarısını bile dolduramam" dediğim 15 GB'lık ücretsiz Google cloud alanının %98'ini doldurmuşum.
+Elektronik bir cihaz alacağım zaman bakmadan karar vermiyorum. Gerek arama, gerekse ürün karşılaştırma ekranları çok başarılı. Ürünleri neredeyse en ince detayına kadar indekslemişler, emeklerine sağlık👏
+Bunu Maslak Oto Sanayi'de yapay zekâ destekli kokain saklama modülü diye montajlayan bir usta vardır kesin.
+Aralık veya Ocak ayında Machine Learning kütüphaneleri kullanarak projeler çıkarma hedefiyle bir hackathon düzenlemek istiyoruz. Gerek veri-servis sağlama, gerekse bütçe desteği için bu hackathon'a sponsor olmak isteyen firmalar varsa iletişime geçmek isteriz.
+Yabancı bir dizi izliyorum, "primary" olarak nitelenen insanları şu ana kadar birincil, öncül, ata ve asal olarak Türkçe'ye çeviren 4 farklı alt yazıya denk geldim. Türkçe mi çok zengin, çevirenler mi çok kararsız anlamadım.
+Yazılım sektöründe çalışan arkadaşlara bir sorum var. Geçmiş iş deneyimlerinizi de dikkate aldığınızda ortalama kaç yılda bir iş değiştiriyorsunuz?
+Bu cuma akşamı Türk Telekom Santral'de "Xamarin Forms ile Native iOS ve Android Uygulamaları Geliştirmek" buluşmamız var. Meetup öncesi pizzalar Santral'den. Kayıtları Kommunity üzerinden alıyoruz.
+3.5 yıldır devam eden danışmanlık işlerime bu hafta itibariyle ara veriyorum. Biraz inzivaya çekilip DOTNET KONF hazırlıkları yapma ve TalentOps tarafındaki işleri toparlamakla uğraşacağım. Bu süre zarfı içerisinde Twitter'da bol bol gevezelik yapabilirim, bilginize.
+Ziraat Teknoloji'de 10 ay süren ve heyecan verici bir projeyi geçen hafta tamamladım. 10 ay boyunca polyglot yazılımcı olma keyfini yaşadım. %50 Python, %30 pure JS, %20 C# geliştirmeleri yaptım. Yıllar sonra yeni bir dil(Python) öğrenmek ve kullanmak hem zor hem güzeldi
+Ankara'daki kurumsal bir firma için 5+ yıl deneyimli .NET developer ve 3+ yıl deneyimli Android developer arayışımız bulunuyor. İlgilenen kişiler ik@talentops.net adresi üzerinden bizimle iletişime geçebilir.
+Daha önceden bu konularda eğitim vermemiş kişilerin başvuruları dikkate alınmayacak maalesef. Eğitim İstanbul'da olacak.
+Kasım-Aralık ayında düzenleyeceğimiz bir kamp programı için hafta sonları JavaScript ve/veya Node.js eğitimi verebilecek eğitmenler arıyorum. Eğitim verebilecek arkadaşlar detaylar için bana umutluoglu@gmail.com adresimden ulaşabilir
+10 yıldır kadın basketbol milli takımına Potanın Perileri, voleybol milli takımına Filenin Sultanları deniyor bu ülkede, itiraz eden 1 kişi görmedim. Sporcuya iltifat olan ifade yazılımcıya hakaret mi oluyor anlayamadım. Yoksa linç edelim, adet yerini bulsun mu?
+Ya yazmayayım dedim dedim ama yazacağım. Bu twit'te kadınları rencide edecek veya küçük düşürecek ne var Allah aşkına biri yazabilir mi? Ben mi körüm veya anlamıyorum? Ayıp ediyorsun, rencide ediyorsun diyen diyene
+Kadın yazılımcı gruplarına isim önerileri: - Java'nın Sultanları - C#'ın Perileri - Python'un Prensesleri
+Kaos mühendisliği üzerine blog yazısı ile yüksek lisans tezi arasında, çok kaliteli ve başarılı bir yazı olmuş.
+Zaman yolculuğu ve paralel evren temalı film ve dizi izlemekten olaya kendimi baya kaptırdım. Karşıma 50'li yaşlarda bana benzeyen biri çıkıp "2035'ten geldim, senin yaşlı halinim" dese inanıp "kanka anlat hele neler oldu 15 yıl içinde" diyebilirim.
+Geçtiğimiz günlerde katıldığım bir toplantıda SGK kayıtlarına göre Türkiye'de 140.000 yazılımcı olduğunu öğrendim. 2 yıl önceki şu thread'de 100-150 bin civarında yazılımcı olabileceği tahminleri yapmıştık, baya yaklaşmışız
+İki üniversite öğrencisi başlattıkları bir girişim için React bilen frontend developer(tercihen öğrenci) arıyorlar. İlgilenen olursa şu ilana göz atabilir:
+Linkedin'deki enteresan şirket/pozisyon kalıpları: Kendi şirketinde Patron İnşaat şirketinde Mühendis Umutluoğlusoft şirketinde CEO (şirket toplam 1 kişi)
+Yol ile ilgili en önemli problem servis alanları. İzmir-Gemlik arasındaki servis alanlarının çoğu bitmemiş, yemek için bir servis alanına gireyim derseniz eli boş çıkabilirsiniz.
+İzmir-İstanbul ücretli otoyolunun tamamını hususi araçla kullandık bugün. İzmir gişelerden Kurtköy gişeler arası molasız yaklaşık 3.5 saat sürdü. Molasız gelmedik tabii, arada 40 dakikalık bir mola var.
+Hanselman veya Hejlsberg değil, peşinen söyleyeyim beklenti zirveye çıkarmayayım :)
+Doğru tahmini yapan ilk kişiye DOTNET KONF'a ücretsiz katılım bileti hediye edeceğiz. Tahminlerinizi tek isim olacak şekilde bu twite mesaj olarak yazabilirsiniz.
+Büyük bir aksilik olmazsa bu yılki DOTNET KONF'ta .NET dünyasının en sevilen ve saygı duyulan isimlerinden birini İstanbul'da konuşmacı olarak ağırlayacağız. İsmini tahminen 1 ay sonra açıklarız.
+Haber sitelerinde Ve... ile başlayan haber başlıkları var. "Ve ortalık karıştı", "Ve beklenen haber geldi", "Ve o ünlü yeni yaşına girdi". O "ve" ne işe yarıyor anlamıyorum, aşırı saçma geliyor.
+7 yaşındaki yeğenim telefonda girdiği uygulamaları görevlerden bulup tek tek siliyor görmeyelim diye. Ben 16 yaşımda Ctrl+Alt+Delete tuşlarına aynı anda basmayı zor beceriyordum.
+C# çok kötü bir dil arkadaşlar, sakın bulaşmayın. C#'da kod yazınca böyle saçma iddialarda bulunabiliyorsunuz. Java iyidir, Java'dan şaşmayın 😎 #RadamelFalcao
+Fiber internet için 12 aylık abonelik yaptırdım. Aylık 455 TL yerine 100 küsür TL ödeyecekmişim. Yani 3. ay memnun kalmayıp vazgeçersem 1000 TL'den fazla ceza ödemem gerekecek. Valla kapı gibi sözleşme, kimse iptal ettirmeye cüret edemez sanırım.
+Devnot'un gözü kara yazarı @ZaferAyan iki yazılık harika bir iş çıkardı. React Native ve Hooks ile basit bir haber uygulamasının nasıl geliştirileceğini detaylıca anlatan yazılara şu iki linkten ulaşabilirsiniz:
++ Anne, arkadaşlar gelecek bilgisayar ve yazılımda, boşver tıp fakültesini diyorlar - Herkes kendini kurtarır, olan yine sana olur oğlum. Boşver onları, doktorluk yaz sen
+Geçtiğimiz haftalarda @ndrx42 ile yaptığımız söyleşinin podcast kaydını dinlemek isterseniz sizi şöyle alalım

@@ -1,0 +1,585 @@
+Docker Image Nedir? - - #Docker, #Dockerimage, #container, #ESXi, #vExpert
+Apple'ın yeni Mac modellerinde Intel işlemcilerden ARM tabanlı işlemcilere geçiş yapacağı uzun zamandır konuşuluyor. Ortaya çıkan yeni bir iddia, şirketin Mac'lerde ARM tabanlı işlemcilere geçeceğini WWDC konferansında duyuracağını öne sürüyor.
+Brand Finance, 2020 yılının en değerli Türk markaları araştırmasının sonuçlarını açıkladı. Yapılan açıklamalara göre Türkiye'nin en değerli markası, geçtiğimiz yıl olduğu gibi bu yıl da Türk Hava Yolları oldu. Şirket, yaklaşık 2 milyar dolarlık marka değerine sahip.
+Apple, iOS 14 güncellemesiyle birlikte arama kaydetme özelliğini mobil işletim sistemine entegre edebilir. Yeni bir habere göre iPhone kullanıcıları, iOS 14 ile telefon ve Facetime görüşmelerinde arama kaydı yapabilecek.
+ABD merkezli mikroçip üreticisi AMD'nin RDNA 2 mimarisi kullanacak grafik kartlarından yeni bilgiler geldi. 7 nm+ üretim teknolojisinin bir sonucu olacağını bildiğimiz kartlar, önceki nesle kıyasla büyük performans artışı ve gelişmiş çekirdek saat hızları sunacak.
+ABD Kongresi’ne bir mektup kaleme alınan IBM CEO'su Arvind Krishna, şirketin artık genel amaçlı yüz tanıma teknolojisi veya analiz yazılımı sunmayacağını söyledi. ABD merkezli bilişim devi, bundan sonra yüz tanıma teknolojisini geliştirmeyecek ve araştırmayacak.
+Satürn’ün atmosferi ve üzerindeki deniz ve nehirleriyle dikkat çekici bir yer olan uydusu Titan hakkında yapılan yeni bir çalışma, uydunun tahmin edilenden 100 kat daha hızlı bir şekilde Satürn’den uzaklaştığını gösteriyor.
+Bir yatırım şirketinin analisti olan Toni Sacconaghi, Apple’ın Google’a baskı yapmak için bir arama motoru satın alması gerektiğini söyledi. Sacconaghi, Apple’ın bu noktada Google'a rakip olabilmesi için en uygun adayın DuckDuckGo olduğunu belirtiyor.
+Dünyanın en popüler klavye uygulamalarından Microsoft SwiftKey, yeni bir güncelleme aldı. iOS sürümü için yayınlanan güncelleme ile birlikte uygulamaya Türkçe dahil 400 yeni dil desteği geldi.
+İspanya’dan bilim insanları, kuantum bilimi için ciddi bir adım atarak 15 trilyon atomu dolaştırmayı başardılar. Bilim insanları, elde ettikleri bu büyük dolaşmanın yeni beyin görüntüleme teknolojilerinden karanlık maddenin bulunmasına kadar birçok alanda kullanılabilecek.
+MIT araştırmacıları, on binlerce yapay sinapsı içerisinde barındıran ufak bir yonga geliştirmeyi başardı. Gelecekte bu teknoloji sayesinde süper bilgisayarlara ya da internete bağlanmadan karmaşık işlemleri yapabilen yapay beyinlere sahip olabileceğiz.
+Gökbilimciler, 2018 yılında gözlenen muazzam bir uzay patlamasının sınıflandırmayı başardılar. Yeni patlama sınıfı, süpernova patlamalarından 10 kat daha güçlü.
+Çin'de üretilen ve MIC Model 3 olarak isimlendirilen Tesla Model 3'ün çarpışma testleri yapıldı. Yapılan testler, MIC Model 3'ün ön ve yan çarpışmalarda ne kadar güvenli olduğunu ortaya koymuş. Testlerin resmi sonuçları, 16 Haziran'a kadar açıklanacakmış.
+COVID 19) pandemisi dünyada birçok şirketi zarar uğratırken, Amazon’un CEO’su Jeff Bezos’un bunlardan biri olmadığı açıklandı. Ünlü iş insanı pandeminin başlangıncından bu yana servetine 35 milyar dolar ekledi.
+Google, kullanıcılarını rakiplerine kaptırmamak istiyor gibi görünüyor. Google, artık yeni bir bilgisayardan Edge kullanarak oturum açan Gmail kullanıcılarına Chrome odaklı reklam içerikli bir e-posta gönderiyor. Bu e-postada kullanıcılara Google Chrome öneriliyor.
+Hindistan’ın Maharaştra eyaletinde yaşayan 23 yaşındaki bir mühendis, özellikle COVID-19 hastalarını tedavi eden hastanelerin ihtiyaçlarını karşılamak için türünün ilk örneği olan 'İnternet kontrollü' bir robot geliştirdi.
+Antalya’da yaşayan ortaokul öğrencisi koronavirüse karşı kullanılan maskelerin sterilize edilip yeniden kullanılmasını sağlayacak bir ‘sterilizasyon kutusu’ geliştirdi. Bu sterilizasyon kutusu, maskeleri 30 dakika içinde sterilize ederek 50 kez kullanılabilmesini sağlıyor.
+Apple, insanların sosyal mesafe kuralına uyarken dahi sevdikleriyle fotoğraf çekilebilmesini sağlayan bir selfie çözümü üzerinde çalışıyor. Şirket, uzaktan grup selfie'leri çekebilmeyi sağlayacak bir yazılımın patentini aldı.
+Son dönemlerin en çok tercih edilen yarı iletken üreticisi AMD, CPU satışlarında Intel'i geride bırakmayı başarmıştı. Mindfactory isimli bir teknoloji perakendecisinin geçtiğimiz bir haftalık satış verileri ise Intel'in CPU satışlarının AMD'ye oranla çok düşük kaldığı yönünde.
+YouTuber Mr. Beast, amacı en uzun LEGO kulesini oluşturmak olan bir yarışma düzenledi ve yarışmada iki takım kıyasıya yarıştı. Yarışmayı kazanan takım, 50 bin dolarlık büyük ödülünün sahibi oldu.
+Apple, yakında Apple Card sahiplerinin 12 ay taksitle herhangi bir faiz ödemeden iPad, Mac ve AirPod satın almalarına imkan sağlayacak. Kullanıcılar, ödeme planına göre ürün alırken ödedikleri toplam tutarın yüzde 3'ü kadarını da nakit olarak geri kazanabilecekler.
+Ubuntu üzerine Docker Kurulumu - - #Docker, #Container, #vExpert
+TrueNAS Core Root Password Nasıl Değiştirilir? - - #FreeNAS, #TrueNAS, #vExpert
+Amazon, filosuna 12 yeni kargo uçağı eklemiş. Uçaklardan birini teslim alan Amazon, diğer 12 uçağı da 2021'de teslim alacağını belirtti. #Amazon
+Google+'ın devamı niteliğinde bir platform olması beklenen Google Currents 6 Temmuz'da kullanıma sunulacak. #Google
+Türk savunma sanayisi tarafından yürütülen Robotim Projesi ile insansız kara (İKA) ve hava (İHA) araçlarının etkinliği yeni teknolojilerle daha da artırılacakmış.
+577 kişi ile online yapılan araştırmada, daha önce 3 saat olan sosyal medya kullanımının salgın sürecinde 5 saate çıktığı ölçülmüş.
+Konya'da, İnsansı Robot Fabrikası tarafından geliştirilen ve 'ARAT' ismi verilen 4 ayaklı robot, eklem ve sensörleri sayesinde etrafını algılayıp, birçok hayvansal hareketi gerçekleştirebiliyor.
+Google, sponsorlu yayınların (varsa) hemen ardından gösterilen bilgi içeriği olan öne çıkan snippetler üzerine çalışmalar gerçekleştiriyordu. Yeni özellik geçen hafta itibarıyla kullanıma sunuldu. #Google
+En çok kullanılan güvenlik yöntemlerinden biri olan 2 faktörlü kimlik doğrulama anahtarı (2FA), kullanıcıların hesaplarını, kullandıkları cihaza bağlamasına yardımcı oluyor. Google bu teknolojinin Apple cihazlarda daha rahat kullanılabilmesi için yenilikler getireceğini açıkladı.
+Chromium tabanlı tarayıcılar için yeni sürükle ve bırak özelliği geliyormuş. #Chromium
+İtalyan otomobil devi Maserati, tarihindeki ilk hibrit modeli Ghibli’yi Türkiye’ye getirecek. Firmanın ülkemizdeki tek temsilcisi olan Fer-Mas’ın yaptığı açıklamaya göre Ghibli, Ekim ayında Türkiye’de olacak.
+Atmosferik karbondioksit seviyelerini inceleyen bilim insanları, yeni raporunda CO2'nin rekor kırdığını açıkladı. Isıyı tutarak Dünya’nın yavaş yavaş ısınmasına sebep olan karbondioksit gazının bir dizi ciddi değişiklik yarattığı söylendi.
+Dünya, en sıcak mayıs ayını yaşarken Sibirya'da sıcaklıklar ortalamanın yaklaşık 10 derece üstüne kadar çıktı. Bilim insanları, bu anormal sıcaklıkların ocak ayında başladığını ve o günden bu yana devam ettiğini belirtiyorlar.
+LinkedIn’in 3 Haziran’da yaptığı toplantının ses kayıtları, bir LinkedIn çalışanı tarafından anonim olarak paylaşıldı. Ses kaydında bir LinkedIn yetkilisinin platformu şiddete teşvik için kullananları sınırlandırabileceklerini ifade ettiği sözler yer aldı.
+Yeni bir rapor yayınlayan ABD Yol Güvenliği Sigorta Enstitüsü (IIHS), otonom araç teknolojisinin tüm kazaları engelleyemeyeceğini açıkladı. Yapılan araştırma kapsamında araç çekilmesi veya acil sağlık hizmeti gerektiren 5.000’den fazla kaza incelendi.
+İnternet protokolü dünyasında geniş çaplı alanlara yayılmış olan ilk internet protokolü İnternet Protokolü Versiyon 4 (IPv4), 5 ila 10 yıl içinde yerini İnternet Protokolü Versiyon 6'ya (IPv6) bırakacak.
+Koronavirüs salgını sebebiyle daralan ekonomiyle birlikte düşüşe geçen Apple hisseleri yeniden toparlandı. Salgın döneminde 224 dolara kadar düşen şirket hisseleri, geçtiğimiz cuma günü tüm zamanların rekorunu kırdı. #Apple
+Facebook, uzun süredir üzerinde çalıştığı mobil uygulamada karanlık mod özelliğini yayınlamaya hazırlanıyor. Bunun yanı sıra koronavirüs takip özelliği ve sessiz mod da yayınlanacak. Sessiz mod daha önce iOS için nisan ayında yayınlanmıştı.
+WhatsApp, popülerliğini korumak için bazı adımlar atmaya hazırlanıyor. Rakipleriyle arasındaki farkın kapanmaması için çalışan şirketin bu konuda atacağı adımlardan bir tanesi çapraz platform ve çoklu cihaz desteğini de içerisinde barındırıyor. #Whatsapp
+OPPO, Weibo üzerinden yaptığı bir 2020 yılındaki 5G yol haritasından bahsetti. Şirketin yaptığı paylaşımda ürünlerin arasında televizyonun da bulunması, akıllı TV pazarına girileceğini doğrulamış oldu. #OPPO
+Facebook ekibi Chatbotun faydalanacağı 13 bin diyalogdan oluşan SIMMC-Mobilya ve SIMMC-Moda veri setlerini ortaya çıkarmak için Unity'de sanal bir ortam yarattı. #Facebook
+Amazon Hindistan’da hizmet veren ve 411 milyon abonesi bulunan Bharti Airtel isimli mobil operatöre 2 milyar dolarlık yatırım için görüşmelere başlamış. #Amazon #bhartiairtel
+Rusya merkezli internet girişimi Yandex Hyundai ile birlikte yürüttüğü sürücüsüz otomobil projesinin 4’üncü nesil modelini görücüye çıkardı.
+Orta sınıf insansız kara aracını bu yıl kullanıma sunmaya hazırlanan HAVELSAN, üzerinde çalıştığı özgün algoritmayla da insansız kara, hava, su altı ve üstü araçları birbiriyle konuşturup birlikte görev yapmalarını sağlayacak.
+Bertelsmann Foundation tarafından yapılan araştırmada, 3D yazıcı, 5G, akıllı zeka, gıda ve enerji dönüşümü gibi ileri teknolojilerde Doğu Asya yükselirken, ABD'nin üstünlüğü devam ediyor.
+Türkiye'nin ilk cep uydusu Grizu-263A, 3 Mart 1992'de Zonguldak'ta meydana gelen grizu patlamasında yaşamını yitiren madencilerin isimleriyle yıl sonuna doğru uzay yolculuğuna çıkmak için gün sayıyor.
+Bilim insanları, Güneş’e benzeyen bir yıldızın etrafında dönen ve Dünya’ya çok benzeyen bir gezegen keşfetti. Bu uzak gezegen, bilim insanlarının açıklamasına göre Güneş Sistemimizin ayna görüntüsüne benziyor.
+Google Kamera için yeni bir güncelleme yayınlandı. Yayınlanan güncelleme, video odaklı iki ayrı özellik getiriyor. Google Kamera 7.4’le artık hızlı ayarlardan video çözünürlüğü değiştirilebiliyor ve video kaydı yaparken 8x zoom yapılabiliyor. #Google
+Geçtiğimiz haftalarda Microsoft tarafından yayınlanan Windows 10 Mayıs 2020 Güncellemesi’nin Intel Optane depolama ve bellek çözümlerini kullanan bilgisayarlarda ciddi sorunlara neden olduğu ortaya çıkmış.
+NASA, bu gece “Çilek Ayı” olarak da adlandırılan dolunay sırasında kısmi Ay tutulması yaşanacağını açıkladı. Ay'ın normalden daha kırmızı olacağı bu doğa olayı, hava koşullarına bağlı olarak Türkiye’den de gözlemlenebilecek. #NASA
+WhatsApp’ın en büyük rakibi olan Rusya merkezli anlık mesajlaşma uygulaması Telegram, video düzenleyici, iki faktörlü doğrulama, animasyonlu çıkartmalar, yeni GIF'ler ve daha fazlasını içeren yeni büyük Android ve iOS güncellemesini yayınladı.
+Harvard Üniversitesi'nden araştırmacılar, daha önce Rolls-Royce'un jet motorlarının tamirinde kullanılması için ürettiği mikro robotu HAMR'ı daha da küçük hâle getirdi. Önceki modelin yarısı büyüklüğünde olan HAMR-JR, böceklerden ilham alınarak tasarlandı.
+Çinli teknoloji devi Huawei’nin Amerika Birleşik Devletleri’nin İran’a karşı olan yaptırımlarını ihlal eden belgelerine ulaşıldığı söylendi. Reuters tarafından ele geçirildiği iletilen belgelerin ülkeler arasındaki derin bağlantıları ortaya çıkardığı aktarıldı. #Huawei #Reuters
+SpaceX’in her bölgeye internet hizmeti sunmak için başlattığı Starlink projesi, bu gece başarılı bir görevi daha geride bıraktı. Görev sonucunda 60 yeni Starlink uydusu yörüngeye yerleştirildi. #SpaceX #Starlink
+Türkiye’nin ilk yüksek çözünürlüklü yer gözlem uydusu olacak İMECE’nin montajı, Sanayi ve Teknoloji Bakanı, Ulaştırma ve Altyapı Bakanı ve Milli Savunma Bakanı’nın katılımıyla tamamlandı. Montajın tamamlanmasıyla birlikte İMECE’nin 2021 yılında uzaya fırlatılacağı açıklandı.
+Şifreli anlık mesajlaşma ve görüntülü konuşma uygulaması Signal, yüz bulanıklaştırma aracı içeren yeni Android ve iOS güncellemesini yayınladı. Kullanıcılar artık, paylaştıkları fotoğraflardaki kişilerin gizliliğini korumak için yüzlerini bulanıklaştırarak kapatabilecek.
+Apple’ın yatırımcılarından biri, beklentileri karşılayacak kadar iPhone satamadığı ve bu konuda yatırımcılara yalan söylediği gerekçesiyle Apple'a dava açtı. Yatırımcının davayı kazanması halinde Apple’ın karşısına neler çıkacağı henüz belli değil. #Apple
+ABD merkezli teknoloji şirketi ülkedeki protesto gösterileri sırasında yağmalanan mağazasından çalınan iPhone’lara mesaj gönderdi. #Apple #iPhone
+Facebook şirketi, baloncuk bildirimleri için kullandığı API'yi Android 11'in yeni API'siyle değiştirdi. #Facebook #Android
+Dünyanın en çok kazanan CEO’ları belli oldu. Listenin tepesinde ilk defa bir kadın yer aldı.
+Elektrikli ev aletleri üreten Dyson gücünü elektrikten alan otomobilinin prototipinine ait yeni kareler paylaştı. Şirket Ekim ayında projeyi durdurma kararı almıştı. #Dyson
+Hublot ‘Hublot Big Bang e’ isimli akıllı saat modelini görücüye çıkardı Fiyatı ise 5 bin 800 dolarmış.
+Wibit, denizlerde, havuzlarda ve aquaparklarda kullanılabilecek bir yüz maskesi geliştirmiş. Maskenin koronavirüs günlerinde suda vakit geçirmek isteyenler için güvenli bir çözüm olması bekleniyormuş. #Wibit
+9to5Mac ekibi, iOS 14'ün önizleme sürümünde şirketin internet tarayıcısı Safari'ye gelecek yeni özellikler keşfetti. Keşfedilen özellikler, Safari'nin iOS'te yerleşik çeviri özelliğine sahip olacağını ve Apple Pencil için daha iyi bir destek vereceğini gösteriyor. #Apple #IOS
+Ulaştırma ve Altyapı Bakanı Adil Karaismailoğlu, Türksat’ın önümüzdeki 3 yılda uzaya 3 uydu göndereceğini duyurdu. 2020’nin son çeyreğinde uzaya gönderilecek Türksat 5A’nın ardından 2021’de Türksat 5B, 2022 yılında ise Türksat 6A uzay gönderilecek. #Türksat
+Çin yönetimi, koronavirüs salgınında ikinci dalganın ortaya çıkması endişesiyle Wuhan’da iki hafta önce yaygın bir şekilde koronavirüs testi yapmaya başlamış. İki haftada 10 milyon kişiyi koronavirüs testinden geçiren Çin, Wuhan’ı en güvenli şehir ilan etti.
+Sakarya Üniversitesi’nin, insansız hava araçları (İHA) ve elektrikli otomobiller dahil pek çok alanda kullanabilmek için geliştirdiği lityum sülfür batarya projesi, Avrupa Birliği (AB) Horizon 2020 programından 980 bin euro destek aldı.
+Koronavirüse karşı yüzeylerin dezenfekte edilmesi için kullanılan yöntemlerden UV ışınlarının kullanılması artık daha kolay olabilir. Uluslararası bir araştırma ekibi, etkili el tipi UV dezenfeksiyon cihazlarının geliştirilmesini sağlayacak yeni bir malzeme keşfetmiş.
+Bilim kurgu kitaplarına ve filmlerine konu olan görünmezlik konusunda oldukça büyük bir adım atıldı. Bilim insanları, insan böbreğinin hücrelerini şeffaf hâle getirmeyi başarmış.
+Facebook’ta sanal iş bırakma ve yavaşlatma gibi protestolar düzenlenirken, Facebook’un çalışanlarından Timothy Aveni, “Mark bize yalan söyledi” diyerek istifa ettiğini ve iş aradığını duyurmuş. #Facebook #MarkZuckerberg
+Araştırmacılar yeryüzünde en temiz havaya sahip bölgeyi tespit ettiklerini duyurdu. Yeni yapılan bir çalışmaya göre insan etkisinin en az olduğu Antarktikayı çevreleyen Güney Okyanusu, Dünya'daki en temiz havayı barındırıyor.
+NASA potansiyel olarak tehlikeli kabul edilen bir göktaşının Dünya’ya yaklaştığını duyurdu. Göktaşının 6 Haziran’da TSİ 06.20’de Dünya ile en yakın konuma geleceği bildirilmiş.
+Demokratik Kongo Cumhuriyeti, ülkenin kuzeybatısında yeni Ebola salgını başladığını duyurmuş.
+AMD'nin akıllı telefonlar için geliştirdiği yonga setine dair detaylar ortaya çıkmış. AMD Ryzen C7 olarak adlandırılan yonga seti ARM tabanlı işlemcisi ve RDNA 2 grafik mimarisiyle mobil cihazlarda üstün performans sunabilir. #AMD
+Microsoft'un gelecekteki çift ekranlı cihazlarının katlanma mekanizmasını gösteren bir patent başvurusu ortaya çıktı. Patente göre Microsoft, gelecekteki cihazlarında geleneksel menteşe yapıları yerine mıknatıslı sistemler kullanacak. #Microsoft
+Intel'in yakında duyurmaya hazırlandığı Ice Lake-SP sınıfı Xeon işlemcileri, 24 çekirdek 48 iş parçacığıyla gelebilir. İnternette performans testleri paylaşılan işlemciler, çoklu çekirdek yapılarıyla veri işlemede farklı boyutlara ulaşabilir. #Intel #Xeon
+Net Applications isimli bir araştırma şirketi, mayıs ayında en çok tercih edilen internet tarayıcılarını araştırdı. Yapılan araştırma, Google Chrome'un hala zirvede olduğunu gösterdi. #Chrome
+Google, Android 11 lansmanı ertelenmesine rağmen Android 11'in ilk beta sürümünü bazı Pixel modelleri için yayınlamaya başladı. Beta sürümlerin yayınlanmasıyla birlikte Android 11 ile gelecek özellikler de resmiyet kazanmaya başladı. #Android
+Ünlü bir analiste göre Apple, önümüzdeki dört yıl içinde 2 trilyon dolar piyasa değerine ulaşacak
+Birleşmiş Milletler bünyesindeki INTERSTENO Uluslararası Bilgi İşlem ve İletişim Federasyonu tarafından düzenlenen ve on binlerce yarışmacının katıldığı Dünya İnternet Klavye Şampiyonası sonuçlandı. Milli takımımız, 8 madalya ile bu yılın şampiyonu oldu.
+Corona virüs salgını sonrası Hollanda’da bir restoran teması minimuma indirmek adına robot garsonları kullanıma sunmuş :)
+Çin'de inşa edilen ve 180 milyon dolara mal olan 30 futbol sahası büyüklüğündeki teleskop dünya dışı yaşama ait kanıtlar arayacakmış.
+Veri tabanı sunucularına yönelik saldırılar, web saldırıları ile birlikte tüm dünyada dörtte bir oranında artmış.
+Google'un yazılım mühendisleri, Chrome'da karşılaşılan güvenlik sorunlarının yüzde 70'inin hafıza ile ilgili sorunlarıdan kaynaklandığını açıkladı. #Google #googlechrome
+Çin, yörüngeye iki yeni teknoloji deney uydusu gönderdi. Uyduların, Dünya gözlem teknoloji deneyi için kullanılacağı belirtildi.
+Türk start up’ı “MYNU” temassız sipariş hizmetini restoranlara ücretsiz sunuyor. Bu platform ile kullanıcılar, sipariş ve ödeme sürecini online olarak gerçekleştirebilecek.
+Teknoloji şirketi Microsoft, internet sitesi MSN için çalıştırdığı gazeteciler yerine haber seçimi için yapay zeka programı kullanacak.
+Spark AR platformuna yeni fonksiyonlar ekleyen Facebook geliştiricilerin daha karmaşık filtreler üretebilmesini sağladı.
+Artık Windows'un arama kısmından herhangi bir tarayıcı aratıldığı zaman, önerilenler adı altında Edge kullanıcıların ekranında belirecek. Edge reklamı gibi duran bu özellik, birçok kullanıcıdan tepki aldı. #Windows #Edge
+Gmail, yeni arayüzünü kullanıcılara sunmaya başladı. Kademeli olarak dağıtılmaya başlanan arayüz, Gmail kullanımını çok daha kolaylaştırarak uygulamayı efektif kılıyor. #Gmail
+Sürekli yeni özelliklerle güncellenen YouTube, geçtiğimiz ocak ayında iOS kullanıcılarına açtığı filtre özelliğini Android cihazlara da getiriyor. Yeni filtrelerle birlikte abone olduğunuz kanallardan yayınlanan videolar ve yayınlar daha kolay bir şekilde görülebilecek.
+Windows işletim sistemlerine alternatif arayanlar için Linux Lite'ın yeni kararlı sürümü yayınlandı. Ubuntu tabanlı Linux Lite 5.0, daha gelişmiş özellikler ve yazılım tarafında yeni alternatiflerle geldi. #Linux #Ubuntu #Windows
+Devrim niteliğinde bir buluş olabilir. ABD'de Duke Üniversitesi’nden doktorlar ölü bir kişiden aldıkları kalbi çalıştırarak bir başka hastaneye nakletmeyi başarmış.
+Covid-19 etkisi ile Chatbot kullanımı bankacılıkta 5 kat, e-ticarette 2 kat artmış.
+İyzico, Anneler Günü ve Ramazan dönemini kapsayan online alışveriş istatistiklerini paylaştı. Online alışveriş, Ramazan döneminde önceki yıla göre yüzde 49 artış göstermiş.
+Trend Micro, milli işletim sistemi Pardus'a Deep Security desteği vereceğini açıkladı. #Pardus
+İran Meclisi kabul ettiği yasa tasarısıyla İsrail teknolojisi barındıran cihazların kullanımını yasaklamış.
+unc0ver hacker grubu piyasadaki tüm iPhone'ların kilidini açabilen bir jailbreak gereci yayınladı.
+HackerOne platformunun ABD'de federal kurumlar tarafından kullanılmasına izin verilmiş. #HackerOne
+Geçtiğimiz haftalarda Almanya, İsviçre, İngiltere ve İspanya'da bulunan kuantum bilgisayarlarına yapılan saldırıların araksında kripto para madencileri çıkmış.
+Kimlik yaşam döngüsü yönetimi üzerine çalışan 2 yıllık start-up Idaptive, CyebrArk tarafından 70 milyon dolara satın alındı.
+Amerika’nın başta Huawei olmak üzere Çinli firmalara yönelik yoğun baskısı gün geçtikçe artıyor. Kendini korumak isteyen Huawei, önümüzdeki iki yıl boyunca kendilerine yetecek kadar çok sayıda Amerikan yapımı çipi stoklamış. #Huawei
+TrueNAS Core Kurulumu - - #VMware, #TrueNAS, #FreeNAS, #ESXi, #vExpert
+Yeniden faaliyete geçen bazı alışveriş merkezlerinde, asansörler ayak pedalları ile kontrol ediliyormuş.
+CVS Pharmacy ile iş birliğine giden sürücüsüz otomobil girişimi Nuro, reçeteli ilaçların sürücüsüz bir şekilde dağıtılmasını sağlayacak. #CVS #Nuro
+Covid-19 nedeniyle uzaktan işlemlere olan rağbet nedeniyle Türk Telekom mobil uygulaması, nisan ayında 181 milyon kez ziyaret edilmiş.
+Apple, kendi standartlarına uygun QR kodları üretecekmiş, iOS 14 ile birlikte ilk adım atılabilir. Özel QR kodlar, AR uygulaması Gobi aracılığıyla okutulacak. #Apple #Gobi
+Londra'da az sayıda hastanede karma gerçeklik gözlüğü kullanılmaya başlanmış. Covid-19 hastalarıyla teması azaltmak için kullanılan karma gerçeklik gözlükleri hastane çalışanlarını ve doktorları korumayı amaçlıyormuş.
+Apple, 2020 yılının ilk çeyreğinde toplamda 21,2 milyon ünite giyilebilir cihaz satışı gerçekleştirmiş. #Apple
+Facebook’un Ar-Ge grubu New Product Experimentation (NPE), canlı etkinliklere odaklanan Venue adında yeni bir uygulama geliştirdi. Twitter ile benzerlikler taşıyan uygulama, kullanıcıların canlı etkinlikler sırasında birbirleriyle etkileşime girmesini sağlıyor.
+ABD donanması drone (İnsansız Hava Aracı) ve küçük deniz araçlarına karşı savunma kabiliyeti sunması için geliştirdiği lazer silahını test etmiş.
+Apple, dijital asistanı Siri'yi geliştirmek için Kanada merkezli yapay zeka ve makine öğrenimi alanında çalışmalar yapan Inductiv isimli startup’ı satın aldı.
+Bilim insanları, güneş ışığının şiddetine göre renk değiştiren yeni bir akıllı pencere teknolojisi geliştirmiş. Akıllı pencereler, renk değiştirmek için elektrik enerjisine ihtiyaç duyuyor ancak yeni teknoloji, harici güç kaynağına ihtiyaç duymuyor ve maliyetleri düşürüyor.
+Twitter, hikaye üreticisi Chroma Labs’ı satın almış. Instagram ve Snapchat’te olduğu gibi Twitter'da da hikayeler paylaşılabilirmiş. #Twitter
+Geçtiğimiz yıl The Irishman için Netflix ile bir araya gelen yönetmen Martin Scorsese’nin bir sonraki filminin Apple’dan destek alacağı raporlandı. Apple 180 milyon dolar bütçe ile Killers of the Flower Moon filmine yatırım yapacakmış. #Apple
+İlk dokunmatik telefonu 1993 yılında IBM yapmış. Hatta bu telefonunun içinde bir mail programı bile varmış.
+Güney Kore'de baristalık yapabilen robotlar şehrin bazı noktalarında kullanılmaya başlandı. Geliştirilen robotların, 6 farklı siparişi 7 dakika hazırlayabildiği belirtilirken 60 farklı kahve yapabiliyorlar. #SouthKorea
+2020'nin ilk büyük Windows 10 güncellemesi versiyon 2004, Microsoft tarafından yayınlandı. #Windows #Microsoft #Windows10
+Alanının en önemli isimlerinden bir tanesi olan çok uluslu yarı iletken şirketi Qualcomm, Wi-Fi 6E destekli ilk yongalarının duyurusunu yaptı. Qualcomm, yeni yongaların telefonlar ve router'lar için olmak üzere iki çeşit olarak tasarlanacağını da söyledi. #Qualcomm
+Hindistan’da TikTok'un kapatılması için başlayan kampanyalar nedeniyle uygulamanın Play Store sayfasına yapılan milyonlarca olumsuz yorum, Google tarafından kaldırıldı. Google’ın yorumları kaldırmasının ardından TikTok’un 1'e düşen Play Store puanı yeniden 4.4 yıldıza çıktı.
+COVID-19 ile mücadele kapsamında kullanılması için yerli olarak cihaz geliştirilmiş; yüz tanıma, maske tespiti ve temassız ateş ölçümü gibi işlemleri aynı anda gerçekleştirebiliyor. Cihazın haziran ayında satışa sunulması bekleniyor.
+Yazılım devi Google, insanların anksiyete durumunu kendilerinin ölçmesini sağlayacak yeni bir özellik geliştirdiğini duyurdu. Şirket, konuyla ilgili yaptığı duyuruda yeni eklenen aracın klinik olarak onaylandığını bildirdi. #Google
+Instagram, Türkiye’nin de aralarında olduğu bazı ülkelerde IGTV’de içerik üreten kullanıcılar için reklam ve satın alınabilir rozetler sistemini test edecek. Bu sistemin, daha fazla içerik oluşturucu çekerek kullanıcı sayısını artırması bekleniyor. #Instagram #IGTV
+Facebook’un Ar-Ge birimi NPE, 8 kişiye kadar sesli grup görüşmesi yapılmasına imkan tanıyan CatchUp adlı yeni bir iletişim uygulaması geliştirdi. Facebook hesabına ihtiyaç duymadan kullanılabilen platform, sade bir arayüze sahip. #Facebook #CatchUp #NPE
+Xiaomi, daha 5G yaygınlaşmadan bir sonraki adımı düşünmeye başladı. Çinli teknoloji devi, 6G bağlantı teknolojisi, uydu interneti ve diğer yenilikçi teknolojiler üzerinde çalışıyormuş. #Xiaomi #5G #6G
+ASELSAN, güvenlik güçlerinin kullanımına sunmak için zırhlı muharebe araçlarına yönelik yeni teknolojiler geliştiriyormuş (AA) #Aselsan
+Microsoft 365'in Kurumsal Başkan Yardımcısı Jeff Teper, verdiği bir röportajda Teams uygulaması hakkında konuştu. Uygulamanın son bir yılda yüzde 750 büyüdüğünü ifade eden Teper, bunun daha başlangıç olduğunu ve Teams'le ilgili önemli projelerinin olduğunu açıklamış #Microsoft365
+Facebook, bir süredir üzerinde çalıştığı bilinen kripto para birimi Libra ile ilgili yeni bir gelişmeye imza attı. Şirket, yaptığı açıklamayla Libra için yeni bir cüzdan oluşturduğunu ve bu cüzdana "Novi" ismini verdiğini duyurdu. #Facebook #Novi
+Google Play Store'da yeni bir özellik test edildiği ortaya çıktı. Söz konusu özelliğe göre YouTuber'ların bir oyun ile ilgili çekmiş oldukları oynanış videoları, ilgili oyunun Play Store sayfasının altında görüntülenecek.
+ARM tarafında yeni mobil CPU'ların tanıtılmasıyla birlikte Snapdragon 875 hakkında yeni olasılıklar belirmeye başladı. İddialara göre Qualcomm'un bir sonraki amiral gemisi işlemcisi Cortex X1 ve Cortex A78'in birleşimi olacakmış.
+Birleşik Krallık merkezli analist ve danışmanlık firması Omdia’nın raporuna göre Apple, 2020’nin ilk çeyreğinde 19,5 milyon adet iPhone 11 sevkiyatı gerçekleştirdi. Bu rakamlar, Cupertinolu şirketin uygun fiyatlı modelini dünyanın mevcut en popüler akıllı telefonu yapıyor.
+Avustralya ve Kanada’dan bilim insanları, soliton kristaller kullanarak oluşturdukları mikro tarak sistemi sayesinde 75km’lik standart fiber kablolardan rekor miktarda veriyi taşımayı başardıklarını açıkladılar.
+Güney Kore'de bir kafede sosyal mesafenin korunması için robotlar görev yapıyormuş. Kahve yapan ve garsonluk görevini üstlenen robotların virüs bulaştırma riskinin olmadığına dikkat çekiliyor.
+ahahhaha haykırdım şuan 🤣🤣
+New York'ta bilim insanları yüzde 4 oranında insan hücresinden oluşan bir fare embriyosu geliştirdiler. Elde edilen oranın da bu zamana kadar elde edilmiş en yüksek oran olduğu belirtiliyor.
+İlk insanlı Mars yolculuğu için çalışmalarını sürdüren NASA, 8 ay boyunca dış dünyadan izole bir yaşam sürecek gönüllüler arıyor. NASA’nın bu deneye kabul edilecek kişilere ödenecek maaşları henüz açıklamasa da aranan kriterleri duyurdu. #NASA
+Corona virüs salgını alışveriş yöntemlerini de değiştirdi. Hindistan'da bir mühendis oyuncak otomobil parçaları ve cep telefonu kullanarak uzaktan alışveriş yapmanın bir yolunu buldu. Ödemeyi de internet üzerinden yapan mucit, robotun 30 kilogram yük taşıyabildiğini iddia etti.
+Bilkent Üniversitesi araştırmacıları, fareler ve böceklerin vücut yapılarından esinlenerek, zorlu dar mekanlardan geçip engelleri rahatlıkla aşabilen yumuşak gövdeli minyatür robot üretti.
+Chrome, kullanıcıların CPU kaynaklarını, bant genişliğini ve elektriğini tüketen reklamları engellediğini açıkladı. 4 megabaytlık ağ verisi veya 30 saniyelik periyotta 15 saniyelik CPU kullanımı yapan reklamlar engellenecek. #Chrome
+Deutsche Bank analistlerinin tahminlerine göre Facebook Shops, yılda 30 milyar dolar gelir elde edebilir. Aynı analistler, Instagram'daki e-ticaretin 2021 yılına kadar şirkete kazandıracağı gelirin 10 milyar dolara kadar çıkabileceğini söylemişti. #FacebookShops
+İngiliz bilim insanları, Antarktika'nın kar örtüsündeki yeşil alglerin dağılımının ilk haritasını çıkardı. İklim değişikliğinin Antarktika'nın kıyılarındaki karların giderek daha yeşil bir hal almasına neden olduğu görüldü.
+Huawei, 5G baz istasyonunda güç kapasitesini artırıp radyasyon seviyesini düşürecek yeni anten teknolojisi CableFree’ye duyurdu. Anten, aynı zamanda kablosuz olmasıyla da dikkat çekiyor. #Huawei #5G #CableFree
+Linux'un babası Linus Torvalds, yıllar sonra Intel işlemcilerden vazgeçerek, ana bilgisayarını AMD Ryzen Threadripper'a yükselttiğini açıkladı. Torvalds ayrıca bir gün ARM destekli bir masaüstü işlemci kullanmayı da umuyor. #Linux #Torvalds #Intel
+Dünyanın ilk yüzen nükleer santrali Akademik Lomonosov, Rusya’nın en kuzeyindeki şehir olan Pevek’te tam kapasite ile hizmet vermeye başladı. #Lomonosov #Russia
+iOS 13.5 işletim sistemini tüm iOS kullanıcıları için kullanıma sunan Apple, maske takan kullanıcılarının Face ID'yi daha hızlı geçmelerini sağlayacak.
+Amazon, Hindistan'ın belirli bölgelerinde gıda dağıtım operasyonlarını başlattı. E-ticaret devi, bu hamlesiyle Zomato ve Swiggy gibi büyük oyuncularla rekabet içinde olacak. #Amazon #Zomato #swiggy
+Microsoft Solitaire 30 yaşını doldurdu. Windows işletim sistemi ile hayatımıza giren Microsoft Solitaire, aylık 35 milyon kullanıcıya sahipmiş.
+Çevrimiçi market alışverişi teslimat servisi JioMart'ı piyasa süren Reliance Jio Facebook'tan aldığı 5,7 milyar dolar yatırımla birlikte marketlere ve küçük işletmelere ulaşabilecek. #JioMart #Facebook
+İşletmelere parsiyel taşıma hizmeti sunan ve lojistik operasyon süreçlerini dijitalleştiren yolda, kuruluş sürecini takiben ilk yatırım turunu 830 bin dolar ile tamamladı. #yolda
+ABD'li bir teknoloji firması tarafından üretilen robot köpek Spot, bir koyun sürüsüne çobanlık yaptı.
+Microsoft Geliştirici Konferansı Build 2020 tamamlandı. Microsoft Imagine Cup 2020 ödülünün de verildiği etkinliğin ilk gününde, Azure, Microsoft 365, Güvenlik ve Windows 10’da geliştiricilere sunulan yenilikler tanıtıldı.
+Huawei, Google’ın alternatif olarak geliştirdiği arama uygulamasını resmi olarak kullanıma sundu.
+Ulaştırma ve Altyapı Bakanı: “2023’te her yerden herkese geniş bant ilkesiyle hareket ederek, tüm hanelere en az 100 Mbit/saniye hızda geniş bant erişimi sağlamayı amaçlıyoruz.”
+Bilim adamları robotların ve görme engelli insanların görmesini sağlayacak süper iletken perovskit maddesinin kullanıldığı ve ilk testlerde başarılı olan biyonik bir göz geliştirdiklerini duyurdu.
+Twitter, tweet zamanlama özelliğini kullanıcılara sunmaya hazırlanıyormuş. #Twitter
+Eğitim bilişim ağı platformu "eba" dünyanın en çok ziyaret edilen 6. eğitim sitesi konumuna yerleşti. #eba
+2019 sonu itibariyle Türkiye'deki kullanıcıların yüzde 51,6'sı 16 mbps ve altında, 75,9'u 24 mbps ve altındaki hızda internet tarifesine sahip olduğu paylaşıldı.
+ASELSAN, salgından en az etkilenen ilk 4 savunma şirketinden biri oldu. #aselsan #COVID19
+Intel tarafından üretilen ilk işlemci 1971 yılında bir hesap makinesi için üretilmiş.
+Dijital asistanlar bir süredir hayatımızda bulunuyor ve yaşamımızı çok daha kolaylaştırıyor. Bu asistanlardan biri de Microsoft'un Cortana'sı. Cortana, bir süredir beta sürümünde bulunuyordu ancak son güncelleme ile beta sürümünden çıktı.
+TUXEDO Computers, Book BA15 adında yeni bir model çıkaracağını açıkladı. Bu modelin en dikkat çekici özelliği ise dünyada ilk "Sadece AMD" olan Linux dizüstü bilgisayarı olması.
+ABD Havacılık ve Uzay Dairesi (NASA) yaklaşık 10 yıl aradan sonra Florida'daki Kennedy Uzay Merkezi’nden Uluslararası Uzay İstasyonu'na astronot gönderilmesi için son kontrollerin yapıldığını ve fırlatmaya hazır olunduğunu duyurdu.
+Avustralyalı araştırmacılar, internet bağlantısı hızında dünya rekoru kırıp saniyede 44,2 terabayta (TB) ulaştı.
+Dünyanın en akıllı bastonu olarak tanımlanan WeWalk, 37 ülkede kullanılıyor. Kurucuların hedefi bu ürünü görme engellilerin kişisel asistanı olarak konumlandırmak. #WeWalk
+Yok yok benden kaynaklı🤣#turkcell, #Vodofone, #turktelekom
+Google Chrome, sekme gruplama özelliğini kullanıma sunuyor. Bu özellik ile aktif olarak kullandığınız sekmeleri gruplamanıza ve bu gruplar için etiketler oluşturmanıza izin verecek olan Google, sekmeler arasında kaybolmanızı önlemeyi hedefliyor. #Google #GoogleChrome
+2,3 milyar dolara Facebook tarafından satın alınan Oculus, yeni çıkardığı Quest başlığının içerik satış rakamlarını açıkladı. Bu açıklamaya göre, şirket cihaz aracılığıyla 100 milyon dolarlık içerik sattı. #Facebook #Oculus
+Apple, kendi standartlarına uygun QR kodları üretme konusunda attığı adımlar, iOS 14 ile gün yüzüne çıkacak. Özel QR kodlar, AR uygulaması Gobi aracılığıyla okutulacak. #Apple #ios14
+Lenovo ile otonom siber güvenlik platformu şirketi SentinelOne, SentinelOne'ın otonom uç nokta koruma platformunun, Lenovo'nun ThinkShield güvenlik portföyüne dahil edilmesine yönelik bir stratejik ortaklık duyurdu. #Lenovo #ThinkShield
+DHL, taşıma ücretlerinden, tekliflere, taşıma modlarından, karbon salınımına ve taşımayla ilgili ihtiyaç duyulan tüm bilgilere tek bir platform üzerinden erişim olanağı sunan myDHLi platformunu kullanıma açtı. myDHLi platformu detaylı analiz ve raporları da kullanıcılara sunuyor.
+Türkiye Hava Sporları Federasyonu tarafından 19 Mayıs’ta dünyanın ilk Online Drone Kupası gerçekleşmiş.
+5G teknolojisi ile artan bant genişliği ve hız sayesinde BT ile ilgili her türlü çözümü as a service (XaaS) olarak sunmanın kolaylaşacağını söyleyen uzmanlar, bu sayede dijital dönüşümün önündeki engellerin daha ucuza ve kolayca aşılabileceğine dikkat çekiyor.
+Küresel Mobil Telekomünikasyon Derneği (GSMA), telekomünikasyon alanında Sahra Altı Afrika ülkelerinde yapılan çalışmalarla 2025'te 28 milyon cihazın 5G teknolojisine bağlanacağını açıkladı. #GSMA #5G #Africa
+Nokia, Teksas'taki Over-the-Air (OTA) şebekesinde dünyada şimdiye kadar görülmüş en yüksek 5G hızına ulaştığını duyurdu. #Nokia #5G
+Elektronik yazışmalarda ıslak imza yerine geçen elektronik ve mobil imza sertifika sayısı, geçen yılın sonu itibarıyla 4 milyon 553 bin 879 olmuş
+Normalleşme sürecindeki İtalya, salgında olası bir ikinci dalganın önüne geçme çabasında... Bu kapsamda havaalanları için akıllı kasklar tasarlandı. Son teknoloji kasklar, yolcuların ateşini ölçebilecek.
+Sosyal medya devi Facebook alışveriş uygulaması 'Facebook Shops'u tanıttı. İlk etapta Facebook ve ınstagram'a gelen Facebook Shops'un önümüzdeki döenmde WhatsApp, Messenger ve Instagram Direct'e de entegre edilmesi bekleniyor. #Facebook #socialmedia #Instagram
+Facebook, Kanada’da gizlilik şartlarını ihlal ettiği gerekçesi ile 6.5 milyon dolar (Yaklaşık 45 milyon TL) para cezasına çarptırıldı. #Canada #Facebook
+Bu çok güzel bir haber 👍👍
+Alaska’da eriyen buzullar gelecek yıl dev bir tsunami yaratması bekleniyormuş.
+Japon insansız uzay mekiği 'Kounotori' isimli 6 ton yük taşıyabilen kargo aracı, yörüngeye gönderildi. #Japonya
+Sosyal medya platformu Tiktok'un ana şirketi ByteDance, 100 milyar dolarlık piyasa değerine ulaştı. #TikTok #ByteDance
+Corona virüs (COVID-19) bulaşanların tespiti için ortak uygulama geliştiren ABD merkezli teknoloji şirketleri Apple ve Google’ın Covid-19 mobil takip sistemi için 23 ülkeden verilere erişim için talep yaptığı açıklandı. #Google #Apple
+Alibaba, akıllı hoparlörü için yapay zekaya 1.4 milyar dolar yatırım yapacağını duyurdu. #Alibaba
+Facebook’un çevrimiçi alışveriş özelliğini Facebook ve Instagram’da devreye almasının ardından hisse değerleri rekor kırdı. (Yüzde 6.5 değer kazandı) #Facebook #Instagram
+Teknoloji devi Google, yayınladığı yeni bir videoyla geliştirdiği yeni konsept kulaklık kablosunu tanıttı. Google, konsept kulaklık kablosuna iki parmakla dokunarak veya kabloyu sıkarak müzik kontrolü sağlıyor.
+ABD merkezli teknoloji devi Apple tarafından tanıtılması beklenen Apple Glass isimli artırılmış gerçeklik gözlüklerinin 499 dolar fiyat etiketiyle gelebileceği söylentileri ortaya çıktı. #Apple #AppleGlass
+Brezilya merkezli uçan taksi start-up’ı EmbraerX, dikey kalkış ve iniş yapabilen elektrikli eVTOL konsepti Pulse’un pratikteki kullanımını göstermek için oldukça fütürist bir video hazırladı.
+Paralel evrenler, insanlık için bilim kurgu filmlerinin bir parçası olmaktan öteye gidemedi. Ancak NASA destekli olarak yapılan bir araştırmanın bulguları, paralel evrenlere kanıt bulunmuş olunabileceğini öne sürüyor. #Nasa
+ASELSAN’ın ortak olduğu şirketlerden BİTES, ilk yerli video konferans uygulaması olan XperMeet’i geliştirdi ve kullanıma sundu. Yurt içinde BizBize adıyla kullanılacak olan video konferans uygulaması, ilk kez ASELSAN İcra Kurulu’nun toplantısında kullanıldı.
+Bilim insanları, 15 trilyon atomdan oluşan, beklenmedik şekilde büyük bir kuantum sisteminde dolanıklık gözlemlemeyi başardıklarını açıkladı.
+İsveç'in başkenti Stockholm'ün Upplands-Bro Belediyesinde yeni tip koronavirüs (Covid-19) önlemleri çerçevesinde Tengai adlı robot, halkla ilişkiler uzmanlarının yerine mülakatlara girmeye başladı.
+Fransa'dan Zuckerberg'e: Zararlı içerikler bir saatte kaldırılacak talimatı geldi. Bundan sonra Facebook ve Twitter, Fransa'daki zararlı içerikleri kaldırmak için 60 dakika süreye sahip olacak.
+BBC, koronavirüs günlerinde sevdiklerinden ayrı kalanların ortak içerik izleyebilemesi için BBC Together özelliğini duyurdu. Söz konusu özellik, Netflix Party ile benzer mantığa sahip.
+Bir süredir Twitch'te yayın yapan ve siber güvenlik eğitimleri veren "MDISEC" , bugün bir çevrimiçi konferans düzenleyecekmiş. Konferansta, aralarında Türklerin de bulunduğu 8 beyaz şapkalı hacker konuşma yapacak.
+Hindistan'da bir şirket, COVID-19'un semptomlarından olan ateşi ölçebilecek sensörlere sahip bir bileklik geliştirerek önemli bir adım attı. Bileklik vücut sıcaklığının yanı sıra kalp ritmini, kan basıncını ve uykuyu da takip ediyor.
+“Milyon Dolarlık Paranormal Yarışması” bilimsel test kriterleri çerçevesinde doğaüstü yeteneklerini göstermek isteyen herkese açıktı. Fakat 40 yıldır kazanan tek bir kişi bile olmadı.
+Koronavirüs salgınından kârlı çıkan şirketlerden bir tanesi olan Zoom, hisse değerlerinde dünyanın en büyük 7 havayolu şirketini geride bırakmayı başardı. Şirketin hisse değerleri 50 milyar dolara kadar yükseldi. #zoom
+iPhone ve diğer elektronik cihazların üreticisi Foxconn, Ocak - Mart 2020 arasındaki istatistiklerini açıkladı. Açıklanan rakamlara göre şirket, son 20 yıldaki en düşük geliri elde etmiş oldu.
+Canlı sanal gerçeklik yayınlarına odaklanan NextVR, Apple tarafından satın alındı
+27 Mayıs’ta gerçekleşecek Demo-2 görevi için NASA ve Kerbal Space Program, oyuncular için yeni bir etkinlik başlattı. Oyuncular, Demo-2 görevini oyun içinde oluşturarak görüntülerini paylaşacaklar. #NASA #KerbalSpaceProgram
+Türk yazılım mühendisleri yapay zeka ve derin öğrenme destekli COVID-19 tanı sistemi geliştirdiğini açıkladı. #yazılım
+Pandemi sürecinde internet alışverişinde 5 milyon yeni kart kullanıldı. Her 4 TL'lik ödemenin 1 TL'si internetten gerçekleşti.
+Yenimahalle Şehit Mehmet Şengül Mesleki ve Teknik Anadolu Lisesi'nde koronavirüse karşı ultraviyole ışınlarıyla dezenfeksiyon işlemi yapan robot geliştirildi.
+“Kalite asla bir tesadüf değil, daima akıllı bir gayretin sonucudur.” ~ John Ruskin
+Kaliforniya'da hayvanlar üzerinde test edilen kozmetik satışını yasaklama amaçlı yasa kabul edildi.
+Bilim insanları tarafından yakın zamanda yapılan bir araştırmaya göre, en iyi senaryo kapsamında önümüzdeki 50 yıl içerisinde 1,2 milyar insan 'yaşanmaz' sıcaklıklara maruz kalacakmış.
+Hong Kong’dan araştırmacılar, üst düzey performansa sahip bir çelik geliştirdiklerini açıkladılar. Geliştirilen yeni çeliğe 'süper çelik' ismi verildi. Bu çelik, standart çelikten çok daha güçlü ve dayanıklı.
+Siber güvenlik uzmanları tarafından geliştirilen CreepRank isimli bir trojan türünde bir algoritmanın, Google Play Store'daki uygulamalarda çalıştığı ortaya çıktı. Yapılan çalışmalar, 813 uygulamanın trojan içerdiğini ortaya koymuş ve bu uygulamalar Play Store'dan kaldırılmış.
+Algısal yanılsamalar, kişinin bakış açısına bağlı olarak bilinçli olmayan çıkarımlar yapması sonucu ortaya çıkan görsel yanılsamalardır.
+Uyduların dış yüzeyinin sıcaklığı -100°C ila +100°C arasında değişirken uydunun içindeki yüzeyler genelde 10°C ila 30°C arasında bir sıcaklıkta kalır. #uzay #Space
+ABD Başkanı Bill Clinton'ın 1997 senesinin Ocak ayında web yayını yapan ilk kişi olmuştur. #Clintons
+Tokyo Üniversitesi’ndeki bilim insanları deriye yapıştırılarak vücuttaki oksijen düzeyini ölçebilen bir cihaz geliştirdiler. #Tokyo
+Patagonya'da Arjantinli paleontologların çalışmasıyla, yaklaşık 70 milyon yıl önce yaşadığı tahmin edilen bir megaraptorun fosili bulundu.
+Tesla arabalarda bulunan bir açık ile kullanıcıların kişisel bilgilerinin ve şifrelerinin kolayca ele geçirilebildiği ortaya çıktı. Tesla sahiplerinin bilgi ve eğlence sistemlerindeki kişisel verilerini manuel olarak silmeleri tavsiye ediliyor. #tesla
+HP, Google, Microsoft ve Apple'ın, Teknoloji şirketleri olmalarından başka ortak bir yanları daha var. Hepsi garajda kurulmuşlardır.
+İlk İnternet tarayıcısı, 1993 yılında piyasaya sürülen Mosaic'dir.
+Thomas Edison dünyanın en yüksek patent sayısına sahip olan isimdir, patent sayısı 2332'dir. #Edison
+1850 yılında George Boole kendi adıyla anılan ve sadece 1 ve 0 rakamlarının kullanıldığı Boole Cebiri sistemini bulmuştur ve bilgisayarların gelişimi üzerinde önemli rol oynamıştır.
+Mobil dünyadaki zararlı yazılımların %99'lık dilimi Android kullanıcılarını hedef alıyor. #Android #yazilim
+Apple kurucularından Steve Wozniak, vaktinde 888-888-8888 telefon numarasını almıştır. Fakat telefonlarla oynayan bebekler yanlışlıkla kendisini her gün 100 kez arayınca bu numaranın aslında o kadar da kullanışlı olmadığına karar vermiştir. #Apple
+60 bin fit yükseklikte ve saatte yaklaşık 2000 kilometre hızla giderseniz GPS’iniz otomatik olarak kapanır. Çünkü telefonunuz kıtalar arası gönderilen bir füze olarak algılanabilir.
+İlk fotoğraf makinesinin tek bir fotoğraf çekmesi 8 saat sürüyormuş.
+Mikrodalga fırın, 2.Dünya Savaşı yıllarında radar geliştirme çalışmaları sırasında bir mühendisin cebindeki çikolatanın eridiğini fark etmesiyle tesadüfen geliştirilmiştir.
+Alexander Graham Bell‘in gömüldüğü gün ABD ve Kanada’daki 13 milyon telefon saygı duruşu için bir dakikalığına susmuştur. #grahambell
+İnternette açılan ilk alan adı ve hala aktiftir. Bu alan adı Mart 1985 yılında kaydedilmiştir. #Domains #domain
+Google Maps trafik kontrolünü Android cihazların trafikteki süratlerine göre hesaplıyor. Diğer navigasyon uygulamaları da buna benzer bir şekilde çalışıyor. #Android #GoogleMaps
+Google kurulduğundan beri akademik zekadan çok pratik zekaya önem veren bir firmadır. Şu anda bile çalışanları arasında üniversite diploması olmayan çalışanlar bulunmaktadır. Bu pek çok teknoloji firmasında bu şekilde devam ediyor. #Google
+'İspanya'nın en yaşlı kadını' Maria Branyas 113 yaşında koronavirüsü yendi.
+Eğer insan beyni kadar güçlü bir bilgisayar yapılabilseydi bu makinenin saniyede 38 bin trilyon işlem yapabilmesi ve 3 bin 580 terabayt RAM kullanması gerekecekti.
+ABD'de 1984'te piyasaya sürülen ilk cep telefonu olan Motorola DynaTAC 8000X yaklaşık 1 kg ağırlığındaydı. #telefon #ceptelefonu
+Teknoloji kelimesi, Yunanca tekhne (alet) ve logos (bilgi, bilim) kelimelerinin birleşiminden oluşur ve alet bilimi demektir.
+İlk helikopter tasvirini İtalyan ressam Leonardo da Vinci 1480’li yıllarda yapmıştır. İlk modern helikopter ise 1939 yılında Rus asıllı ABD’li bilim insanı Igor Skorksy tarafından yapılmıştır.
+Dünyanın en hızlı trenleri olan Maglevler yaklaşık 600 km/s hızla hareket eder. Bu hız bir uçağın kalkış hızından daha fazladır.
+Klavyedeki F ve J harflerine dikkat ettiniz mi? Tuşların üzerinde küçük bir çizgi vardır. Bunun sebebi, 10 parmak klavye kullanırken bu harflerdeki çıkıntıların size yol göstermesi içindir. İşaret parmaklarının bu iki tuşa koymalısınız ki diğer parmaklar ona göre yerine otursun.
+Dünyada 60 saniye içerisinde yaklaşık 187 milyon elektronik posta gönderimi yapılıyor. #emails
+İsveç, geri dönüşümde çok iyidir; bu yüzden ülkede çöp bitmiş ve yakıt enerjisi olarak kullanılmak üzere Norveç'ten çöp ithal edilmiştir. #isveç
+Bilim insanları, bazı Wikipedia sayfalarına giriş sayılarını takip ederek salgın hale gelen hastalıkları tespit edebiliyor. #Wikipedia
+FreeNAS Nedir? - - #VMware, #freenas, #opensource, #storage, #zfs, #truenas
+1956 yılında geliştirilen ilk kaset oynatıcı'nın (VCR) büyüklüğü piyano büyüklüğündeydi. #vcr
+iPhone ve diğer elektronik cihazların üreticisi Foxconn, Ocak - Mart 2020 arasındaki istatistiklerini açıkladı. Açıklanan rakamlara göre şirket, son 20 yıldaki en düşük geliri elde etmiş oldu.
+Teknolojinin getirdiği fobilerden birisi Phantom titreşim sendromu (Phantom Vibration Syndrome) telefonunuzun titrediğini sanmak ama titreyenin başkasının telefonu olduğunu görmek.
+Japonya'da bir fabrika robotlara bırakıldığında 30 gün boyunca çalışabilecek biçimde tasarlanmıştır. Neredeyse hiç insan çalışmıyor. #Japanese
+2012 yılında NYU-Poly firması robot bir balık geliştirdi ve bunu akvaryuma saldı. Diğer balıklar robot olduğunu anlamadılar. Robot balık ortama hemen uyum sağladı.
+Teknolojinin pilot bölgesi Yeni Zelanda.'dır. Birçok şirket ürünlerini veya servislerini Yeni Zelanda'da denerler çünkü kendi çapında, küçük, izole ve ana dilleri İngilizcedir. #Teknoloji
+Dünyanın en zengin 3 ailesi, en fakir 48 ülkenin toplam servetinden daha fazla servete sahiptir.
+Her iPhone modelinde, arka kamera lensinin yanında küçük bir delik var. Çok önemli bir amaca hizmet eden bu ufak ayrıntının ne işe yaradığını daha önce düşündünüz mü? iPhone’daki bu delik, bir mikrofon. #iPhone
+vCenter Server 7 Restore Nasıl Yapılır? - - #VMware, #vSphere, #vSAN, #ESXi, #vExpert
+2020’den itibaren Avrupa Birliği’ne bağlı kamu tarafından finanse edilmiş tüm araştırma sonuçlarına dair bilimsel yayınlar halka açık hale getirilecek.
+Sosyal medya devi Facebook, GIF uygulaması Giphy’yi 400 milyon dolara satın aldı. Firmanın planları arasında Giphy’yi Instagram ve diğer platformlara entegre etmek var #facebook #Giphy
+Ses dalgaları, nesneleri havaya kaldırmak için kullanılabiliyor.
+Antartika'da eriyen buzlar, bölgedeki yerçekiminin azalmasına neden oldu.
+Samanyolu’nun bir ucundan diğer ucuna seyahat, 100 bin ışık yılı sürüyor. #galaxy
+Bir yıldırım yaklaşık 30 bin Kelvin (29,726 derece) sıcaklığa ulaşabiliyor. Güneş’in yüzey sıcaklığı ise sadece 6 bin Kelvin (5,726 derece)’dir.
+Covid-19 ile mücadelede en büyük ihtiyaçlardan biri haline gelen ve yabancı uygulamalardaki güvenlik açıklarıyla gündemde olan video konferans ürünleri için Türkiye Siber Güvenlik Kümelenmesi tarafından yerli video konferans ürünleri geliştirildi. #siberguvelik #CyberSecurity
+Sera gazı emisyonlarının azaltılmaması durumunda, 50 sene sonra sıcaklıkların insanlığın üçte biri için 'yaşanamayacak seviyede' olacağı tahmin ediliyor. #sıcaklık
+Facebook'a ait platformlardan kaldırılan şiddet ve nefret söylemi içerikli paylaşımlarda büyük bir artış olduğu bildirildi. 2020 yılının ilk çeyreğinde Facebook uygulaması üzerinde nefret söylemi içeriğine sahip 9,6 milyon paylaşımı sildiklerini açıkladı. #Facebook
+Gökbilimciler, daha önce yüksek çözünürlüklü görüntüleri elde edilen Satürn’deki garip altıgen girdap hakkında yeni bir çalışma yaptılar. Yapılan çalışmada, altıgen girdabın en az kendi kadar garip sis tabakalarına sahip olduğu görüldü. #Saturn
+vCenter Server 7 Backup Nasıl Alınır? - - #VMware, #vSphere, #vSAN, #ESXi, #vExpert
+Teknoloji devi Microsoft, insanları harekete geçirmek için yeni bir yol deneyecek. Firma, insanlardan güç alan bir kripto para sistemi için patent satın aldı. İleride bu teknolojiyi görebiliriz. #Microsoft #hareket #spor #sport #kriptopara
+Çinli platformundan 25 milyon değerinde kripto para çalan hacker, arkasında önemli bilgiler bıraktığını anlayınca 25 milyon doları iade etti. Bundan önce hackerın para çaldığı platform, hackera tehdit içerikli mesajlar yollamıştı. #hacker #Hacking
+Microsoft, insanların beyin aktiviteleri ve diğer kişisel biyometrik verilerinini kullanarak kripto para madenciliği yapan bir teknolojinin patentini aldı. #Microsoft #kriptopara #Crypto
+Sanayi ve Teknoloji Bakanı Mustafa Varank, koronavirüse karşı ilaç geliştirme çalışmaları konusunda yaptığı açıklamada haziran ayında sentez ilaçla ilgili bir müjdenin verileceğini açıkladı. #Teknoloji #coronavirus #Corona
+BM Çevre Programı, gelecekteki olası salgınları azaltmak amacıyla hayvanlardan insanlara bulaşabilen hastalıkların küresel risk haritasını çıkaracak. Küresel risk haritası; vahşi hayvan ticareti, habitat parçalanması ve biyolojik çeşitlilik kaybı gibi verileri içerecek.
+Uluslararası Uzay İstasyonu'na kargolar taşıyan SpaceX, Crew Dragon ile ilk insanlı uçuşunu gerçekleştirmeyi planlarken astronotlarının eğitimde kullandığı simülatörü herkese açık olarak yayınladı. #SpaceX #CrewDragon
+Facebook’taki rahatsız edici içerikleri kontrol eden içerik yöneticilerinin Facebook’a açtığı davada taraflar, ön anlaşma sürecinde anlaşmaya varmış durumda. Buna göre Facebook, içerik yöneticilerine 52 milyon dolar ödemeyi kabul etti. #Facebook
+Google'ın birkaç aydır Mesajlar uygulamasının beta sürümünde test ettiği emoji özelliği geldi. Şu an için sadece kısıtlı bir kullanıcı kitlesi tarafından kullanılabilen bu özellik, kullanıcı parmağını bir mesajın üzerinde basılı tuttuğunda 7 emojiden birini göndermesini sağlıyor.
+Güney Koreli iki şirket Samsung ve Hyundai, elektrikli otomobiller için iş birliği yapmayı planlıyor. Samsung, Hyundai'nin elektrikli araçları için batarya ve dijital bileşenler tedarik edecek. #samsung #Hyundai
+Xiaomi CEO'su Lei Jun'un Weibo'da kitaplarla ilgili fotoğraflı bir paylaşım yapmak istedi ancak Jun, bu paylaşımı bir iPhone ile gerçekleştirdi. Xiaomi hayranlarının tepkisini çekti. #Xiaomi #Apple #iPhone #weibo
+Apple Store Uygulamasına Karanlık Mod Desteği Geldi.
+Estonya’da bilim insanlarının yaptığı yeni bir çalışma, dünyanın bilinenden çok daha erken bir dönemde yüksek oksijen seviyelerine ulaştığını ortaya çıkarmıştır. Çalışmada, incelenen antik kayalar, 2 milyar yıl önce Dünya’da yüksek oksijen seviyelerinin olduğunu gösteriyor.
+Tesla'nın kurucusu ve CEO'su Elon Musk, kişisel Twitter hesabından attığı bir tweet ile şirketinin piyasa değerinin 14 milyar dolar azalmasına sebep oldu. #Tesla #Musk
+Yerli solunum cihazında seri üretim başladı. Modül Grup tarafından üretilen yerli solunum cihazında seri üretime geçildi. Sağlık Bakanlığı'na Mayıs ayı sonuna kadar 5 bin adet solunum cihazı teslim edilecek. #solunumcihazı #saglikbakanligi
+Progress MS-14 isimli kargo kapsülü, Kazakistan'ın Baykonur Uzay Üssü'nden uzaya fırlatıldı. Kapsül, Uluslararası Uzay İstasyonu'na başarılı bir şekilde ulaştı.
+Dünyanın en popüler mikro-blog platformlarından olan Twitter, kullanıcıların bir tweetin yorum içeren ve içermeyen tüm retweetlerini görmelerini sağlayan yeni bir özelliği test etmeye başladı. #Twitter
+NASA, 10 yıl aradan sonra ilk kez Amerika'dan dünya yörüngesine, içinde astronot bulunan mekik fırlatacağını duyurdu.
+Facebook yaklaşık 2 sene önce kullanıma sunduğu Instagram Lite’ı tamamen kullanımdan kaldırdı. #Instagram #instagramlite #sosyalmedya
+En ucuz katlanabilir ekranlı telefon Samsung Galaxy Fold Lite tanıtıldı.
+150 TL’lik Nokia 125 tanıtıldı.
+vCenter Server 7 Servislerin Kontrolü - - #VMware, #vSphere, #vSAN, #ESXi, #vExpert
+Oyun şirketi Razer, Singapur'da maske otomatlarını piyasaya sürecek.
+Bu, 1925 yılında 2 tıp öğrencisi tarafından insan kadavrasından keserek alınan bozulmamış bir sinir sistemidir. Yapılan işlem 60 günden fazla sürmüştür. Bu çalışma, dünyadaki sadece dört örnekten bir tanesidir.
+1987 yılında Polonyada 23 saat süren kalp naklinin hemen sonrasından bir görüntü. Ameliyattan sonra tükenmiş, hastasının kalbini ekranda izleyen bir profesörü görmektesiniz. Fotoğraf #NationalGeographic dergisinin en önemli 100 fotoğrafı arasına eklendi.
+İnsan uyandığı andan itibaren beyin küçük bir ampulü yakacak kadar elektrik üretir. #Bilgi
+Bazı Çinli şirketler, Corona virüs de dahil olmak üzere bakteri ve virüslerin bulaşmasını engelleyen özelliklere sahip yeni otomobil modelleri üretmek için çalışıyor. 'Sağlıklı Araba Projesi' adı altında 52 milyon dolarlık” bir girişim başlatıldı.
+UC Berkeley ve UCSF’de görev alan bilim adamları robotların yardımıyla günde 3 bin corona virüs testi yapılabileceğini duyurdu.
+Çinli şirketler Everest'e 5G anteni yerleştirdi.
+Almanya Başbakanı Angela Merkel'in E-postalarının 2015 yılında Rus bir hacker tarafından ele geçirildiği ortaya çıktı.
+Koronavirüs salgın döneminde çalışanlarına evden çalışma zorunluluğu getiren Twitter, isteyen çalışanlarının salgın atlatıldıktan sonra da evden çalışmalarına devam edebileceğini açıkladı. #Twitter
+ABD merkezli teknoloji şirketi Apple, üretiminde Çin ağırlığını azaltma planı ile, iPhone üretiminin bir bölümünü Hindistan'a kaydırabilir.
+Koronavirüs sanal marketlere ilgiyi %251 artırdı. We Are Social raporuna göre, dünya genelinde sanal market trafiği yüzde 251 arttı. #eticaret
+Facebook tarafından tanıtılan Messenger Rooms ile aynı anda 50 kişinin görüntülü görüşebilecek. Facebook bu projeyi WhatsApp'a entegre etmeye hazırlanıyor. #WhatsApp #Facebook #messengerrooms
+Çin'de virüs salgını sürücüsüz akıllı araçlara olan ilgiyi arttırdı. Çinde tekno hayat başladı. #China #Apolong #Smartcar
+Yeni Zelandalı gök bilimciler "milyonda bir" rastlanan bir gezegen keşfetti. "Süper Dünya" olarak adlandırılan bu gezegen çekimsel mikro mercekleme tekniği ile keşfedildi.
+İTÜ Rover Takımı, tasarladığı insansız kara aracıyla Mars Society tarafından ABD'de düzenlenen University Rover Challenge yarışmasında 36 takım arasında 3. oldu.
+#VMware Learning Zone 6 Ay ücretsiz. Aşağıdaki linkten detaylı bilgiyi alabilirsiniz. #vexpert, #VMware
+Çin, iki sene içinde Dünya yörüngesinde uzay istasyonu kurmayı hedefliyor.
+Koronavirüs günlerinde siber saldırganlar artmış durumda. Açıklanan rapora göre siber suç şikayetleri 3-4 kat artmış durumda. Günde yaklaşık 1000 şikayet alan FBI bu rakamın salgın sürecinde 3-4 bine yükseldiğini duyurdu. #Siberguvenlik #CyberSecurity
+Corona virüs salgını sebebi ile Hindistan'daki hastanelerde, sağlık malzemesi ve yemek taşıyan robot hemşireler görev alıyor.
+NASA, Temmuz 2020'de Mars'a “Ingenuity” isimli helikopterini göndermeye hazırlanıyor. Perseverance uzay aracıyla birlikte Şubat 2021'de Kızıl Gezegene ulaşacak olan helikopter, uzayda ilk motorlu uçuşu gerçekleştirecek.
+SpaceX ve Tesla'nın sahibi Elon Musk, Neuralink tarafından gelecek sene beynimize bir çip yerleştirilebileceğini, konuşmadan anlaşabileceğimizi, 5 yıl sonra da tüm yabancı dilleri konuşabileceğimizi söylüyor.
+ICANN .org domain adlarını 1.1 milyar dolara satın almak isteyen Ethos Capitall'in teklifini reddetti.
+Güvenlik sebebiyle sorunlar yaşayan Zoom, Newyork merkezli olan kripto firması Keybase'i satın aldı. Keybase'in uçtan uca şifreleme geliştirmesi ile birlikte Zoom'a katkı sağlaması bekleniyor.
+Microsoft Linux tabanlı Azure Sphere'i hackleyebilene 100 bin dolara kadar ödül vereceğini duyurdu. --- Azure Sphere Security Research Challenge’a katılmak için 15 Mayıs’a kadar kayıt yaptırılması gerekiyor.
+ABD'nin biyometrik veritabanını artık Amazon muhafaza edecek Yüz tanıma verileri, parmak izleri, sosyal güvenlik numaraları gibi tanımlayıcı bilgiler yakında Amazon'un bulut tabanlı hizmetinde saklanacak.
+Çin uzayda 3D yazıcı test etti Çin’in uzaya gönderdiği deneysel kapsülde 3D (3 boyutlu) yazıcı test edildi.
+#Alibaba #Cloud, önümüzdeki üç yıl boyunca Çin'deki işletmelerin Covid-19 salgınının üstesinden gelmelerine yardımcı olmak için bulut altyapısına ilave 200 milyar yuan (28.2 milyar dolar) yatırım yapacak.
+HTC, 2 yıldır üzerinde çalıştığı Vive Sync sistemiyle kullanıcıları internet ortamında sanal olarak bir araya getiriyor. Tasarladığınız avatar ile 30 kişilik sanal gerçeklik toplantıları düzenleyebiliyorsunuz.
+Jüpiter'in dünyadan çekilmiş en net fotoğrafı
+Var bir anormallik. 25.87 PHz sanki.
+Fukang göktaşı, Çin'in Fukang yakınlarındaki dağlarda bulunan bir göktaşıdır. Yarı saydam olivin kristalleri içerir. Aydınlatıldığında muhteşem bir görüntüye sahip olmaktadır.
+#COVID19 gerçekleri :)
+Intel, #coronavirus pandemisi döneminde çip üretiminin devam etmesi için çalışanlarının sağlığından ödün vermekle suçlanıyor. Yakında CPU fiyatları 2 katına çıkar ben size diyim.
+Meksika'da çok ilginç bir otobüs... yarısı okul otobüsü, diğer yarısı ise hapishane otobüsü şeklinde. Üzerinde ise şu yazıyor; "Şiddet, eğitim başladığı anda biter" bu cümleyi nesilden nesile anlatabilsek keşke...
+hahahah çok iyi ya😀
+Abla çok açık sözlüymüş, hiç esirgememiş lafını. #Tesla #ElonMusk
+#bostondynamics 'in Singapur parklarında devriye gezen robotunun tanıtımı :) #Teknoloji
+Boston Dynamics'in robotu Singapur Bishan-Ang Mo Kio Parkında devriye gezecek ve park ziyaretçilerine güvenli mesafeyi korumaları için önceden kaydedilmiş mesajlar yayınlayacak. #teknoloji, #COVID
+#Google, çalışanlarının çoğunun 2021 yılına kadar evden çalışacağını söylüyor. Keşke bizim işyeride böyle yapsa diyende var demeyende biliyorum :) Bu evden çalışma olayı kimi insanı mutlu kimisini mutsuz etti. #COVID19TR
+Galler Parlamentosu’nun Zoom toplantısında mikrofonu kısmayı unutan Sağlık Bakanı, milletvekiline küfretti. Olacak böyle şeyler artık :)
+Yorum budur. Bitmistir daha fazla konusmaya gerek yok sanirim:)
+Cloud Director 10 Kurulumu Bölüm 7 - vCenter Server - - #VMware, #vSphere, #vSAN, #ESXi, #vExpert
+Bu sene aldigim en kotu haber bu. Allah mekanini cennet eylesin kardesim. Seni cok özleyeceğiz..
+Bizde yapariz bunu ne var yani😊
+Cloud Director 10 Kurulumu Bölüm 6 - NSX-T - - #VMware, #vSphere, #vSAN, #ESXi, #vExpert
+Multi Node OpenStack Kurulumu - - #VMware, #vSphere, #vSAN, #ESXi, #vExpert
+Docker Nedir? - - #VMware, #vSphere, #vSAN, #ESXi, #vExpert
+ESXi 7 ve Yeni Disk Yapısı - - #VMware, #vSphere, #vSAN, #ESXi, #vExpert
+Bizde @cozumpark olarak 1-2 seneye kendi uydumuzu gönderecez, çalışıyoruz üzerine😀
+Cloud Director 10 Kurulumu Bölüm 5 - Application Cell - - #VMware, #vSphere, #vSAN, #ESXi, #vExpert
+Cloud Director 10 Kurulumu Bölüm 4 - Standby Cell - - #VMware, #vSphere, #vSAN, #ESXi, #vExpert
+Cloud Director 10 Kurulumu Bölüm 3 - Primary Cell - - #VMware, #vSphere, #vSAN, #ESXi, #vExpert
+VMX Register VM Sorunu - - #VMware, #vSphere, #vSAN, #ESXi, #vExpert
+Bravo 😂😂
+Cloud Director 10 Kurulumu Bölüm 2 - NFS - - #VMware, #vSphere, #vSAN, #ESXi, #vExpert
+vCloud Director 10 Kurulumu Bölüm 1 - Ön Gereksinimler - - #VMware, #vSphere, #vSAN, #ESXi, #vExpert
+VMSA-2020-0006 - Önemli - - #VMware, #vSphere, #vSAN, #ESXi, #vExpert
+ESXi SSH üzerinden ILO IP Öğrenme - - #VMware, #vSphere, #vSAN, #ESXi, #vExpert
+Free ESXi 7 Özellikleri Nelerdir? - - #VMware, #vSphere, #vSAN, #ESXi, #vExpert
+Virtual Watchdog Timer Nedir? - - #VMware, #vSphere, #vSAN, #ESXi, #vExpert
+Precision Clock Nedir? - - #VMware, #vSphere, #vSAN, #ESXi, #vExpert
+Developer Center Nedir? - - #VMware, #vSphere, #vSAN, #ESXi, #vExpert
+vCenter Server 7 Kurulumu - - #VMware, #vSphere, #vSAN, #ESXi, #vExpert
+VMware vSphere ESXi 7 Kurulumu - - #VMware, #vSphere, #vSAN, #ESXi, #vExpert
+vSphere 7 Release Oldu! - - #VMware, #vSphere, #vSAN, #ESXi, #vExpert
+VSAN Stretched Cluster Nasıl Oluşturulur? - - #VMware, #vSphere, #vSAN, #ESXi, #vExpert
+Tebriklerrrrrr👍
+vCenter Server FQDN Nasıl Değiştirilir? - - #VMware, #vSphere, #vSAN, #ESXi, #vExpert
+#cozumpark ile olan ilişkimiz :) ahahhahaha
+Off şuan kotu oldum😢😢
+O nedir ya :)))
+asdhashdhad işe bak ya :)
+vCenter Server 7 Upgrade Öncesi - - #VMware, #vSphere, #vSAN, #ESXi, #vExpert
+Neden Custom ESXi ISO Kullanmalıyız? - - #VMware, #vSphere, #vSAN, #ESXi, #vExpert
+Hadi hayırlısı 😇
+ahahahah cok iyi ya :)
+Bazı şeyleri önceden bilmek ne garip bir duygudur..
+Baya iyi gidiyoruz sirada goktasi var😇
+Çok etkilendim şuanda 😅
+vSphere 7 DRS Yenilikleri - - #VMware, #vSphere, #vSAN, #ESXi, #vExpert
+vCenter Server 7 Yenilikleri - - #VMware, #vSphere, #vSAN, #ESXi, #vExpert
+vSphere 7 Yenilikleri - - #VMware, #vSphere, #vSAN, #ESXi, #vExpert
+VSAN 7 Yenilikleri - - #VMware, #vSphere, #vSAN, #ESXi, #vExpert
+Fault Tolerance Konfigurasyonu Nasıl Yapılır? - - #VMware, #vSphere, #vSAN, #ESXi, #vExpert
+Aynen boyleyiz :)
+PowerCli ile Aylık VM Performans Raporu - - #VMware, #vSphere, #vSAN, #ESXi, #vExpert
+Vay be bugunleride gorduk ya :)
+PowerCli ile Haftalık VM Performans Raporu - - #VMware, #vSphere, #vSAN, #ESXi, #vExpert
+PowerCli ile Günlük VM Performans Raporu - - #VMware, #vSphere, #vSAN, #ESXi, #vExpert
+PowerCli ile Datastore Kullanım Oranı - - #VMware, #vSphere, #vSAN, #ESXi, #vExpert
+ÇözümPark forumlarinda sorularinizi sorun, derdinize derman olalim 😊 #cozumpark
+PowerCli ile Snapshot Raporu - - #VMware, #vSphere, #vSAN, #ESXi, #vExpert
+PowerCli ile Kapasite Raporu - - #VMware, #vSphere, #vSAN, #ESXi, #vExpert
+Fault Tolerance Nedir? - - #VMware, #vSphere, #vSAN, #ESXi, #vExpert
+This Tweet from @tayfundeger has been withheld in: Turkey.
+HPE SimpliVity Clone mu Snapshot mı? - - #VMware, #vSphere, #vSAN, #ESXi, #vExpert
+ESXi USB Sorunu - - #VMware, #vSphere, #vSAN, #ESXi, #vExpert
+HPE SimpliVity Datastore Nasıl Oluşturulur? - - #VMware, #vSphere, #vSAN, #ESXi, #vExpert
+HPE SimpliVity VM Restore Nasıl Yapılır? - - #VMware, #vSphere, #vSAN, #ESXi, #vExpert
+HPE SimpliVity VM Backup Nasıl Alınır? - - #VMware, #vSphere, #vSAN, #ESXi, #vExpert
+Datastore Path Raporu Nasıl Alınır? - - #VMware, #vSphere, #vSAN, #ESXi, #vExpert
+Tüm ESXi Host'ların SSH'ı Nasıl Açılır? - - #VMware, #vSphere, #vSAN, #ESXi, #vExpert
+Kesin ip var :)
+#cozumpark ‘da birseyler oluyor:) kacirmayin bunlari:)
+of diyorum of..
+VMware Update Manager Nedir? - - #VMware, #vSphere, #vSAN, #ESXi, #vExpert
+Teşekkürler @Vargonen 👍
+vCenter Support Bundle Nasıl Oluşturulur? - - #VMware, #vSphere, #vSAN, #ESXi, #vExpert
+ESXi Support Bundle Nasıl Oluşturulur? - - #VMware, #vSphere, #vSAN, #ESXi, #vExpert
+#TOGG Çok merak ediyorum çok..
+#VMware ogrenmek isteyenlere sesleniyorum, neredesiniz😀 Yine süper bir egitim sizleri bekliyor!
+Kacmaz bu egitim:)
+#cozumpark büyüyor, sizde katılmak istemez misiniz?
+Biz arabayı çevirirken zorlanıyoruz adamlara bak..
+Ayip ayip..
+Uzman yorumu:)
+Uff cozumpark yine çıldırdı ☺️☺️
+Ahahahahha yarıldım:))
+Kesinlikle:)
+Yaratıcı :)
+Çok güzel bir makale okumanızı tavsiye ederim:)
+Vay anam ben #VMware bilmiyorum, öğrenemedim demeyin bu eğitim kaçmaz:)
+Kaçmaz kaçmazzzzzz :)
+Olm ben gerildim :)
+Cok iyi 😂😂
+Çok doğru çok :)
+#VMware #cozumpark Bu eğitimi kaçırmayın..
+vSphere Replication Nasıl Update/Upgrade Edilir? - - #VMware, #vSphere, #vSAN, #ESXi, #vExpert
+HPE SimpliVity Datastore Nasıl Extend Edilir? - - #VMware, #vSphere, #vSAN, #ESXi, #vExpert
+HPE SimpliVity File Restore Nasıl Yapılır? - - #VMware, #vSphere, #vSAN, #ESXi, #vExpert
+HPE SimpliVity Performans Nasıl İncelenir? - - #VMware, #vSphere, #vSAN, #ESXi, #vExpert
+HPE Simplivity Clone Nasıl Alınır? - - #VMware, #vSphere, #vSAN, #ESXi, #vExpert
+Multi Writer Disk Kullanımı - - #VMware, #vSphere, #vSAN, #ESXi, #vExpert
+HPE SimpliVity Backup Nasıl Çalışır? - - #VMware, #vSphere, #HPE, #SimpliVity, #vExpert
+ESXi 6.7 Update 3 'e Nasıl Update Edilir? - - #VMware, #vSphere, #vSAN, #ESXi, #vExpert
+HPE Simplivity Nedir? - - #VMware, #vSphere, #vSAN, #ESXi, #vExpert
+VMware Project Pacific Nedir? - - #VMware, #vSphere, #vSAN, #ESXi, #vExpert, @VMware
+VSAN 6.7 Update 3 Yenilikleri - - #VMware, #vSphere, #vSAN, #ESXi, #vExpert, @VMware
+vSphere 6.7 Update 3 Yenilikleri - - #VMware, #vSphere, #vSAN, #ESXi, #vExpert, @VMware
+VSAN - Thin Swap ve Performans - - #VMware, #vSphere, #vSAN, #ESXi, #vExpert
+vSphere 6.7 U2 - Converge Tool Kullanımı - - #VMware, #vSphere, #vSAN, #ESXi, #vExpert
+VSAN - Read Cache Nedir? - - #VMware, #vSphere, #vSAN, #ESXi, #vExpert
+vMotion Hatası - CPU incompatibilities - - #VMware, #vSphere #ESXi, #vExpert
+vSphere Replication 8.1 VM Replikasyonu – Bölüm 2
+vSphere Replication 8.1 Kurulumu – Bölüm 1
+#TopvBlog Bu sene 23. en iyi sanallaştırma blog'u seçildim. Destek veren herkese sonsuz teşekkürler..
+VSAN – Cluster Seçenekleri Nelerdir?
+vSphere 6.7 – Fault Tolerance Yenilikleri
+External PSC Desteği Bitiyor
+Bu güzel hediye için teşekkürler :) ⁦@Vargonen⁩
+Fiziksel CPU / Sanal CPU Oranı
+Top vBlog 2018 – Oylarınızı Bekliyorum!
+#TopvBlog2018 Oylarınızı bekliyorum!
+SAP HANA – vSAN
+Vembu BDR 3.9.1 ve vSphere 6.7 Desteği
+VMware Tools Nedir? Gerekli mi? @VMware, #vExpert, #VMware, #virtualization
+Dell EMC Bütünleşik Mimari Avantajları
+Latency Sensitivity Nedir? – vSphere DRS
+VCSA 6.7 Restore işlemi Nasıl Yapılır?
+VCSA 6.7 Backup Nasıl Alınır?
+vSphere Platinum Nedir?
+vSphere 6.7 Update 1 ile Gelen Yenilikler
+VCSA 6.7 – Offline Patch Nasıl Yüklenir?
+Neden Resource Pool Kullanılır?
+Free ESXi 6.7 Özellikleri Nelerdir?
+VCSA 6.7 – Online Patch Nasıl Yüklenir?
+vCenter Server Appliance 6.7 Kurulumu – Bölüm 2
+vCenter Server Appliance 6.7 Kurulumu – Bölüm 1
+vCenter Server Appliance Nedir? Embedded ve External Deployment
+Temizlik yapiyorum oradan cikan ganimetler :) #vExpert #VMware
+İzleyin, izlettirin..
+Altaro VM Backup 7.6 Yenilikleri
+VMware vSphere ESXi 6.7 Kurulumu #VMware, #ESXi, #vExpert
+vSphere 6.7 Upgrade – Dikkat Edilmesi Gerekenler
+vSphere 6.7 – vCenter Server Yenilikleri
+vSphere 6.7 – Genel Bilgiler
+#vExpert, #VMware, @VMware VCSA Domain User ile SSH Erişimi
+#vExpert, #VMware, @VMware vCloud Director 9.0 Yenilikleri Nelerdir?
+#vExpert, #VMware, @VMware vSphere Web Client Flash Crash Sorunu
+#vExpert, #VMware, @VMware VCSA 6.5 – Servislerin Yönetimi
+#vExpert, #VMware, @VMware Datastore Extend Sorunu
+#vExpert, #VMware, @VMware vSphere Web Client Kaldırılıyor
+#vExpert, #VMware, @VMware Top vBlog 2017 Sonuçları
+Gecen sene 58, bu sene 33 :) Top vBlog 2017 Full Results -
+#vExpert, #VMware, @VMware vSphere 6.5 Update 1 Yenilikleri Nelerdir?
+#vExpert, #VMware, @VMware CPU/Memory/Disk Shares Değerleri
+#vExpert, #VMware, @VMware Reserve All Guest Memory Seçeneği Nedir?
+#vExpert, #VMware, @VMware Petya Ransomware Dikkat Edin!
+#vExpert, #VMware, @VMware vSphere Replication 6.5 Kurulumu – Bölüm 1
+#vExpert, #VMware, @VMware vSphere HA Orchestrated Restart Nedir?
+#vExpert, #VMware, @VMware Proactive HA Nedir? Konfigurasyonu Nasıl Yapılır?
+#vExpert, #VMware, @VMware VCSA 6.5 Disk Boyutu Nasıl Değiştirilir?
+#vExpert, #VMware, @VMware Virtual Machine Crash Dump Nasıl Alınır?
+#vExpert, #VMware, @VMware Unitrends ile Virtual Machine Backup Nasıl Alınır?
+#vExpert, #VMware, @VMware ESXi 6.5 Basics – ISCSI Datastore Nasıl Eklenir?
+#vExpert, #VMware, @VMware Site Recovery Manager Nedir? Nasıl Çalışır?
+#vExpert, #VMware, @VMware ESXi 6.5 Autostart Özelliği Nasıl Kullanılır?
+#vExpert, #VMware, @VMware ESXi 6.5 Basics – Hostname Nasıl Değiştirilir?
+#vExpert, #VMware, @VMware vSphere Replication Nedir? Nasıl Çalışır?
+Hadi film izleyelim..
+#vExpert, #VMware, @VMware ESXi 6.5’a Patch Nasıl Geçilir?
+#vExpert, #VMware, @VMware Vembu ile Image Backup Nasıl Alınır?
+#vExpert, #VMware, @VMware ESXi 6.5 Basics – Sanal Makine Nasıl Oluşturulur?
+#vExpert, #VMware, @VMware Free ESXi 6.5 Özellikleri Nelerdir? Free Key Nasıl Girilir?
+#vExpert, #VMware, @VMware vCenter HA (VCHA) Nedir? Nasıl Enable Edilir?
+#vExpert, #VMware, @VMware vSphere 6.5 – Distributed Switch Mimarisi
+#vExpert, #VMware, @VMware vSphere 6.5 – 2TB VDMK Hot-Extend Desteği
+#vExpert, #VMware, @VMware vCenter Server 6.5 Topolojileri
+#vExpert, #VMware, @VMware VCSA 6.5 Restore Nasıl Yapılır?
+#vExpert, #VMware, @VMware VCSA 6.5 Backup Nasıl Alınır?
+#HomeLab çalışmalarına devam, yakında görüntüleri paylaşacağım...
+#vExpert, #VMware, @VMware Vembu BDR ile Hyper-V Ortamlarınızı Yedekleyin!
+#vExpert, #VMware, @VMware ESXi 6.5 Üzerinde Hyper-V Nasıl Çalıştırılır?
+#vExpert, #VMware, @VMware Vembu BDR ile VMware Ortamlarınızı Yedekleyin!
+#vExpert, #VMware, @VMware Vembu Backup Çözümlerini Incelediniz mi?
+#vExpert, #VMware, @VMware VCSA 6.5 Database Alarm Nasıl Oluşturulur?
+#vExpert, #VMware, @VMware Virtual Machine Monitoring Nedir, Nasıl Çalışır?
+#vExpert, #VMware, @VMware vCenter 6.5 Active Directory Entegrasyonu Nasıl Yapılır?
+#vExpert, #VMware, @VMware VSAN – Witness Appliance Nedir? Ne iş Yapar?
+#vExpert, #VMware vSphere 6.5 Content Library Nasıl Kullanılır?
+#vExpert, #VMware ESXi 6.5 Disk Latency Sorunu
+#vExpert, #VMware Memory Compression Nedir?
+#vExpert, #VMware Memory Overcommitment Nedir?
+#vExpert, #VMware Guest Operating System Seçimi Önemli mi?
+#vExpert, #VMware VMFS5 ve VMFS6 Arasındaki Farklar Nelerdir?
+#vExpert, #VMware vSphere 6.5 – HTML5 Client Limitasyonları
+#vExpert, #VMware vCenter Server Appliance 6.5’a Migration Süresi
+#vExpert, #VMware vCenter Server Appliance (VCSA) 6.5 Kurulumu – Bölüm 2
+#vExpert, #VMware vCenter Server Appliance (VCSA) 6.5 Kurulumu – Bölüm 1
+#vExpert, #VMware vCenter Server 6.5 Kurulumu Bölüm 3 – vCenter Installation
+#vExpert, #VMware vCenter Server 6.5 Kurulumu Bölüm 2 – Deployment Models
+#vExpert, #VMware vCenter Server 6.5 Kurulumu Bölüm 1 – Requirements
+#vExpert, #VMware VMware vSphere ESXi 6.5 Kurulumu
+#vExpert, #VMware vSphere 6.5 Download Edilebilir
+vSphere 6.5 release oldu, download edilebilir durumda.
+#vExpert, #VMware Altaro VM Backup Denediniz mi?
+#vExpert, #VMware vSAN 6.5 Lisans Detayları
+#vExpert, #VMware Virtual Machine Log Dosyaları Nasıl Disable Edilir?
+#vExpert, #VMware VMware Tools Kaynaklı Snapshot Sorunu
+vSphere 6.5 – HA Yenilikleri: Merhaba, vSphere 6.5’un bu yeni sürümü, oldukça basitleştiril... #vExpert, #VMware
+#vExpert, #VMware vSphere 6.5 – HA Yenilikleri
+vSphere 6.5 – Genel Bilgiler: Merhaba, vSphere 6.0 sürümünden sonra vSphere 6.5 sürümünün g... #vExpert, #VMware
+#vExpert, #VMware vSphere 6.5 – Genel Bilgiler
+VMware VSAN 6.5 Yenilikleri: Merhaba, vSphere 6.5 sürümünün duyurulması ile birlikte birçok... #vExpert, #VMware
+#vExpert, #VMware VMware VSAN 6.5 Yenilikleri
+vSphere 6.5 – DRS Yenilikleri: Merhaba, vSphere 6.5 ile birlikte gelen DRS yeniliklerinden ... #vExpert, #VMware
+vSphere 6.5 – vCenter Server Yenilikleri #VMware, #VMworld
+vSphere 6.5 – Fault Tolerance Yenilikleri #VMware, #VMworld
+vSphere 6.5 – DRS Yenilikleri #VMware, #VMworld
+#vExpert, #VMware vSphere 6.5 – DRS Yenilikleri
+vSphere 6.5 – vCenter Server Yenilikleri #VMware, #vExpert
+vSphere 6.5 – VM Encryption Nedir? #VMware, #vExpert
+vSphere 6.5 – Fault Tolerance Yenilikleri #VMware, #vExpert
+ESXi SSH Login Mesajı Eklemek: Merhaba, ESXi host’a SSH ile birçoğumuz bağlanıyor. ESXi’in ... #vExpert, #VMware
+vSphere 6.0 Update 2 Login Banner Özelliği: Merhaba, vSphere vCenter Server 6.0 Update 2 il... #vExpert, #VMware
+ESXi – Network Driver ve Firmware Versiyonu: Merhaba, Bir önceki yazımda ESXi üzerinde bulu... #vExpert, #VMware
+ESXi – HBA Driver ve Firmware Versiyonu: Merhaba, ESXi üzerindeki firmware ve driver versiy... #vExpert, #VMware
+VMware Integrated Openstack 3.0: Merhaba, VMware kullanıcıların aslında sıklıkla duymakta o... #vExpert, #VMware
+VSAN Observer Nedir?: Merhaba, Zaman zaman vakit buldukça VSAN ile ilgili yazılar yazıyorum... #vExpert, #VMware
+VSAN ve Storage Policies – Bölüm 2: Merhaba, Bir önceki bölümde VSAN’ın kullanmış olduğu st... #vExpert, #VMware
+VSAN ve Storage Policies – Bölüm 1: Merhaba, Daha önce VSAN ile ilgili çeşitli yazılar yazm... #vExpert, #VMware
+Runecast Analyzer Nedir?: Merhaba; Bu yazımda VMware ortamlarında kullanabileceğiniz mükemm... #vExpert, #VMware
+Nakivo Backup & Replication v6.1 Kurulumu – Bölüm 2: Merhaba, Bir önceki bölümde Nakivo Bac... #vExpert, #VMware
+Nakivo Backup & Replication v6.1 Mimarisi – Bölüm 1: Merhaba, Daha önce Nakivo ile ilgili ç... #vExpert, #VMware
+Nakivo v6.1 Release oldu!: Merhaba, Nakivo ürünleri ile ilgili daha önce bilgi vermiştim. O... #vExpert, #VMware
+Route Based on Physical NIC Load Nedir?: Merhaba, Bu yazımda Load balancing seçenekleri ara... #vExpert, #VMware
+Nutanix – Daha fazla IOPS!: Merhaba, Ara ara Nutanix ile ilgileniyorum ve bu ürünleri yakın... #vExpert, #VMware
+Nutanix – Health Dashboard: Merhaba, Eğer bir Nutanix kullanıyorsanız yapınızda olup-bitend... #vExpert, #VMware
+Route Based on IP Hash Nedir?: Merhaba, Bu yazımda VMware ESXi / vCenter üzerinde yeralan l... #vExpert, #VMware
+Nakivo v6.1 Beta: Merhaba, Bu yazımda Nakivo v6.1 beta ile ilgili çeşitli bilgiler vereceği... #vExpert, #VMware
+Route Based on Source MAC Hash Nedir?: Merhaba, Bir önceki bölümde Route Based on Originati... #vExpert, #VMware
+Route Based on Originating Virtual Port Nedir?: Merhaba, Community’lerde gördüğüm kadarıyla... #vExpert, #VMware
+Başımız sağolsun.. #Giresun
+Free ESXi 6 özellikleri nelerdir?: Merhaba, Hemen hemen her sürümde bu yazıyı yazıyorum çün... #vExpert, #VMware
+DRS Doctor: Merhaba, Flings‘in yayınlamış olduğu güzel bir tool’u sizinle paylaşmak istiyor... #vExpert, #VMware
+Supermicro X9DRH-7F: Merhaba, Daha önceki yazımda Supermicro ürünleri ile ilgili bir yazı y... #vExpert, #VMware
+OpenStack Dashboard Kurulumu – Bölüm 9: Merhaba, Bir önceki bölümde OpenStack Networking‘in... #vExpert, #VMware
+ESXi 6 üzerinde Microsoft Cluster – Bölüm 6: Merhaba, Bir önceki bölümde ESXi üzerinde Micr... #vExpert, #VMware
+Supermicro ürünlerini incelediniz mi?: Merhaba, Bugün yazacağım konu aslında benim sürekli ... #vExpert, #VMware
+ESXi 6 üzerinde Microsoft Cluster – Bölüm 2: Merhaba, Microsoft Cluster veya Failover Clust... #vExpert, #VMware
+ESXi 6 üzerinde Microsoft Cluster – Bölüm 1: Merhaba, ESXi üzerinde virtual machine’ler olu... #vExpert, #VMware
+Multiple-Nic vMotion Nasıl Yapılır?: Merhaba, vMotion network’unun kullanımı konusunda süre... #vExpert, #VMware
+Microsoft Update – VMxnet3 Uyumsuzluğu: Merhaba, Microsoft’un Windows 7 ve Windows Server 2... #vExpert, #VMware
+Son oylar, oy vermeyi unutmayın !
+#OpenStackDaysIstanbul Etkinlik HPE Helion OpenStack sunumu ile devam ediyor :) Bosverin VMware'den vazgecmeyin:))
+#OpenStackDaysIstanbul Etkinlik HPE Helion Openstack ile devam ediyor. Bosverin VMware'den vazgecmeyin:P
+#openstackdaysistanbul etkinlikdeyiz:)
+OpenStack Networking Kurulumu – Bölüm 8: Merhaba, Bu bölümde OpenStack için gerekli olan Ne... #vExpert, #VMware
+OpenStack Compute Node Kurulumu – Bölüm 7: Merhaba, Compute, IAAS sisteminin en önemli parç... #vExpert, #VMware
+OpenStack Image Service Kurulumu – Bölüm 6: Merhaba, IAAS’ın en önemli servislerinden birid... #vExpert, #VMware
+OpenStack Identity Service – Bölüm 5: Merhaba, İlk olarak servislerimizi oluşturmaya başlıy... #vExpert, #VMware
+Virtual Machine Hardware Version Nedir? Farkları Nelerdir?: Merhaba, Yeni bir virtual machi... #vExpert, #VMware
+OpenStack Identity Service – Bölüm 4: Merhaba, Bir önceki bölümde OpenStack’de kullanılacak... #vExpert, #VMware
+OpenStack Sunucularının Hazırlanması – Bölüm 3: Merhaba, Bir önceki bölümde gereksinimler h... #vExpert, #VMware
+OpenStack Mimarisi ve Gereksinimleri Bölüm – 2: Merhaba, Bir önceki bölümde OpenStack servi... #vExpert, #VMware
+OpenStack Nedir? Servisleri Nelerdir? – Bölüm 1: Merhaba, Openstack son zamanlarda oldukça ... #vExpert, #VMware
+Top vBlog 2016 – Oylarınızı Bekliyorum: Merhaba, Geçtiğimiz yıl benimde katıldığım ve 67. e... #vExpert, #VMware
+VSAN üzerinde Microsoft Cluster kullanılabilir mi?: Merhaba, VSAN ile ilgili ilk yazılarımı... #vExpert, #VMware
+vCenter Server 6 – vPostgres Database Restore: Merhaba, Bir önceki yazımda vCenter Server 6... #vExpert, #VMware
+vCenter Server 6 – vPostgres Database Backup: Merhaba, vCenter Server 6 ile birlikte artık ... #vExpert, #VMware
+VSAN Stretched Cluster: Merhaba, VMware VSAN 6.1 ‘in en heyecan verici konularından biriydi... #vExpert, #VMware
+ESXi 6 Non-persistent storage uyarısı: Merhaba, Yeni bir ESXi kurduktan sonra karşınıza bell... #vExpert, #VMware
+Esxtop üzerinden virtual machine kill edilmesi: Merhaba, ESXi host üzerinde bulunan virtual ... #vExpert, #VMware
+VSAN – Proactive Tests Nedir? Nasıl Yapılır?: Merhaba, VSAN kullanamaya başladığınızda birço... #vExpert, #VMware

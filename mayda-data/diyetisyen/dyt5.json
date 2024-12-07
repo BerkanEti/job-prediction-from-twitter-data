@@ -1,0 +1,1579 @@
+[{
+  "tweet_id": "1863915472250454181",
+  "bookmarks": 1,
+  "created_at": "Tue Dec 03 11:57:33 +0000 2024",
+  "favorites": 14,
+  "text": "Her gece yatmadan değişim listesini zihninden geçiren DYT/DYT ADAYLARI… https://t.co/NId9wozfIK",
+  "lang": "tr",
+  "views": "172",
+  "quotes": 0,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "replies": 0,
+  "retweets": 1,
+  "conversation_id": "1863915472250454181",
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/Gd31Pa4WgAAg_U6.jpg",
+        "id": "1863915466063773696",
+        "sizes": {
+          "h": 1200,
+          "w": 675
+        }
+      }
+    ]
+  },
+  "author": {
+    "rest_id": "774560768",
+    "name": "Emre",
+    "screen_name": "emrebayanmelek",
+    "avatar": "https://pbs.twimg.com/profile_images/1531396098681708549/fPWECvns_normal.jpg",
+    "blue_verified": false
+  }
+},
+{
+  "tweet_id": "1862415670052262003",
+  "bookmarks": 0,
+  "created_at": "Fri Nov 29 08:37:52 +0000 2024",
+  "favorites": 82,
+  "text": "İnsanın sinsinden, danışanın beleşçisinden, \nKorusun rabbim Diyetisyeni her ikisinden \nHayırlı Cumalar…",
+  "lang": "tr",
+  "views": "1666",
+  "quotes": 0,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "replies": 0,
+  "retweets": 6,
+  "conversation_id": "1862415670052262003",
+  "media": [],
+  "author": {
+    "rest_id": "774560768",
+    "name": "Emre",
+    "screen_name": "emrebayanmelek",
+    "avatar": "https://pbs.twimg.com/profile_images/1531396098681708549/fPWECvns_normal.jpg",
+    "blue_verified": false
+  }
+},
+{
+  "tweet_id": "1861861511792095611",
+  "bookmarks": 0,
+  "created_at": "Wed Nov 27 19:55:50 +0000 2024",
+  "favorites": 23,
+  "text": "Ya sen kimsin? \nBir insan daha fazla ne kadar daha itici olabilir bilmiyorum. Bu ülkenin ekmeğini yıllarca yediğin halde gidip başka ülkede vatanını kötülüyorsun. Sizin gibiler gidilen bir ülkede Türkiye hakkında kötü konuşmanın aydınlanmışlık olmadığını ne zaman anlayacak?",
+  "lang": "tr",
+  "views": "1015",
+  "quotes": 0,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "replies": 0,
+  "retweets": 1,
+  "conversation_id": "1861861511792095611",
+  "media": [],
+  "author": {
+    "rest_id": "774560768",
+    "name": "Emre",
+    "screen_name": "emrebayanmelek",
+    "avatar": "https://pbs.twimg.com/profile_images/1531396098681708549/fPWECvns_normal.jpg",
+    "blue_verified": false
+  },
+  "quoted": {
+    "tweet_id": "1861503931974852657",
+    "bookmarks": 4713,
+    "created_at": "Tue Nov 26 20:14:57 +0000 2024",
+    "favorites": 14215,
+    "text": "Gülse Birsel'in akıcı İngilizcesi sosyal medyada gündem oldu. https://t.co/p3kDhlEKpa",
+    "lang": "tr",
+    "views": "15932873",
+    "quotes": 2524,
+    "replies": 2222,
+    "retweets": 456,
+    "conversation_id": "1861503931974852657",
+    "author": {
+      "rest_id": "1153019699095060480",
+      "name": "Etkili Haber",
+      "screen_name": "etkilihaber",
+      "avatar": "https://pbs.twimg.com/profile_images/1544595750675529729/NFuB0bqt_normal.jpg",
+      "blue_verified": true
+    },
+    "media": {
+      "video": [
+        {
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1861503281853538305/pu/img/neUYW-mH4JRL1ejt.jpg",
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1861503281853538305/pu/pl/083n5ld9cePsglFU.m3u8?tag=12&v=4f5"
+            },
+            {
+              "bitrate": 632000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1861503281853538305/pu/vid/avc1/320x568/9bnCIg3FmM3Scji3.mp4?tag=12"
+            },
+            {
+              "bitrate": 950000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1861503281853538305/pu/vid/avc1/480x852/vvhHpFWDdiZ1WxTN.mp4?tag=12"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1861503281853538305/pu/vid/avc1/720x1280/b1O_8G3IFpk9Dr54.mp4?tag=12"
+            }
+          ],
+          "aspect_ratio": [
+            9,
+            16
+          ],
+          "original_info": {
+            "height": 1280,
+            "width": 720,
+            "focus_rects": []
+          },
+          "id": "1861503281853538305"
+        }
+      ]
+    }
+  }
+},
+{
+  "tweet_id": "1860809512472445001",
+  "bookmarks": 1,
+  "created_at": "Sun Nov 24 22:15:34 +0000 2024",
+  "favorites": 9,
+  "text": "Şöyle şeyler fazla samimiyetsiz geliyor, kar yağarken sevgilinle, eşinle vs en basit haliyle yüzünde gülümsemeyle yürümek varken sosyal medyaya akım atacağım diye kamera koyup doğallığı bozuyorsun beğenilme arzusuyla yapılan her şey(özenme durumları dahil) aşırı itici geliyor…",
+  "lang": "tr",
+  "views": "704",
+  "quotes": 0,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "replies": 0,
+  "retweets": 0,
+  "conversation_id": "1860809512472445001",
+  "media": [],
+  "author": {
+    "rest_id": "774560768",
+    "name": "Emre",
+    "screen_name": "emrebayanmelek",
+    "avatar": "https://pbs.twimg.com/profile_images/1531396098681708549/fPWECvns_normal.jpg",
+    "blue_verified": false
+  },
+  "quoted": {
+    "tweet_id": "1860409069925744957",
+    "bookmarks": 1835,
+    "created_at": "Sat Nov 23 19:44:21 +0000 2024",
+    "favorites": 6876,
+    "text": "su akimi bu gidisle 60 yasimda yapabilcem anca https://t.co/v6b6wnZRGO",
+    "lang": "tr",
+    "views": "2763161",
+    "quotes": 1217,
+    "replies": 119,
+    "retweets": 418,
+    "conversation_id": "1860409069925744957",
+    "author": {
+      "rest_id": "1380140597592358912",
+      "name": "sevval ç",
+      "screen_name": "agrilisazlarr",
+      "avatar": "https://pbs.twimg.com/profile_images/1804277211232444419/5ykZzUy-_normal.jpg",
+      "blue_verified": false
+    },
+    "media": {
+      "video": [
+        {
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1860408982088630272/pu/img/PhgwS0JNO9c4QUeU.jpg",
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1860408982088630272/pu/pl/dCReXMK2a-Zmn_sz.m3u8?tag=12&v=ee2"
+            },
+            {
+              "bitrate": 632000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1860408982088630272/pu/vid/avc1/320x568/QXbJB-rdFMo3s2Jk.mp4?tag=12"
+            },
+            {
+              "bitrate": 950000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1860408982088630272/pu/vid/avc1/480x852/vUkjyMvCUJstzHti.mp4?tag=12"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1860408982088630272/pu/vid/avc1/576x1024/Y2psfTlLi0C2Ypz2.mp4?tag=12"
+            }
+          ],
+          "aspect_ratio": [
+            9,
+            16
+          ],
+          "original_info": {
+            "height": 1024,
+            "width": 576,
+            "focus_rects": []
+          },
+          "id": "1860408982088630272"
+        }
+      ]
+    }
+  }
+},
+{
+  "tweet_id": "1860337815998865785",
+  "bookmarks": 14,
+  "created_at": "Sat Nov 23 15:01:13 +0000 2024",
+  "favorites": 486,
+  "text": "İşlek cadde üzeri diyetisyenlik ofisi açmış yüksek takipçili diyetisyen kadın kombini",
+  "lang": "tr",
+  "views": "18063",
+  "quotes": 5,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "replies": 3,
+  "retweets": 8,
+  "conversation_id": "1860337815998865785",
+  "media": [],
+  "author": {
+    "rest_id": "774560768",
+    "name": "Emre",
+    "screen_name": "emrebayanmelek",
+    "avatar": "https://pbs.twimg.com/profile_images/1531396098681708549/fPWECvns_normal.jpg",
+    "blue_verified": false
+  },
+  "quoted": {
+    "tweet_id": "1859665584931102778",
+    "bookmarks": 3436,
+    "created_at": "Thu Nov 21 18:30:01 +0000 2024",
+    "favorites": 31693,
+    "text": "https://t.co/ZHdgl2KVgP",
+    "lang": "zxx",
+    "views": "2794597",
+    "quotes": 870,
+    "replies": 376,
+    "retweets": 2995,
+    "conversation_id": "1859665584931102778",
+    "author": {
+      "rest_id": "1532301372657483776",
+      "name": "simple dress",
+      "screen_name": "1dress_",
+      "avatar": "https://pbs.twimg.com/profile_images/1651724868377821188/otYGcKPk_normal.jpg",
+      "blue_verified": false
+    },
+    "media": {
+      "photo": [
+        {
+          "media_url_https": "https://pbs.twimg.com/media/Gc7b_ZVXoAAYdjy.jpg",
+          "id": "1859665578329350144",
+          "sizes": {
+            "h": 903,
+            "w": 736
+          }
+        }
+      ]
+    }
+  }
+},
+{
+  "tweet_id": "1859921038530040175",
+  "bookmarks": 3,
+  "created_at": "Fri Nov 22 11:25:05 +0000 2024",
+  "favorites": 106,
+  "text": "Zor geliyorsa yaşam, Diyetisyenin sözünden çıkmayacaksın sevgili danışan.\nHayırlı Cumalar",
+  "lang": "tr",
+  "views": "2928",
+  "quotes": 1,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "replies": 1,
+  "retweets": 6,
+  "conversation_id": "1859921038530040175",
+  "media": [],
+  "author": {
+    "rest_id": "774560768",
+    "name": "Emre",
+    "screen_name": "emrebayanmelek",
+    "avatar": "https://pbs.twimg.com/profile_images/1531396098681708549/fPWECvns_normal.jpg",
+    "blue_verified": false
+  }
+},
+{
+  "tweet_id": "1858906110696018231",
+  "bookmarks": 15,
+  "created_at": "Tue Nov 19 16:12:08 +0000 2024",
+  "favorites": 287,
+  "text": "5 günde 3 kilo mu? Vücudunuzdan su, glikojen ve belki biraz kas gitmiştir, ama YAĞ değil. Gerçek yağ kaybı için 21.000 kalori açığı lazım, bu da her gün 4.200 kalori demek. Yani, her gün maraton koşsanız bile yetmez. Tartı her zaman gerçeği söylemez, DİYETİSYENLERE güvenin.",
+  "lang": "tr",
+  "views": "10561",
+  "quotes": 0,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "replies": 4,
+  "retweets": 36,
+  "conversation_id": "1858906110696018231",
+  "media": [],
+  "author": {
+    "rest_id": "774560768",
+    "name": "Emre",
+    "screen_name": "emrebayanmelek",
+    "avatar": "https://pbs.twimg.com/profile_images/1531396098681708549/fPWECvns_normal.jpg",
+    "blue_verified": false
+  },
+  "quoted": {
+    "tweet_id": "1858610293141893258",
+    "bookmarks": 12977,
+    "created_at": "Mon Nov 18 20:36:39 +0000 2024",
+    "favorites": 30929,
+    "text": "3 kilo almıştım Chatgpt’ye ulaşmak istediğim kiloyu boyumu vs yazıp beslenme listesi oluşturmasını istedim 5 günde 3 kilonun tamamını verdim. İdeal yapay zeka kullanımı budur..",
+    "lang": "tr",
+    "views": "3090205",
+    "quotes": 258,
+    "replies": 184,
+    "retweets": 295,
+    "conversation_id": "1858610293141893258",
+    "author": {
+      "rest_id": "1276276980498010117",
+      "name": "rümeysa",
+      "screen_name": "rumsahi",
+      "avatar": "https://pbs.twimg.com/profile_images/1861179584026202112/NjopSVXC_normal.jpg",
+      "blue_verified": true
+    },
+    "media": []
+  }
+},
+{
+  "tweet_id": "1858481989260558389",
+  "bookmarks": 10,
+  "created_at": "Mon Nov 18 12:06:49 +0000 2024",
+  "favorites": 128,
+  "text": "“Bir meslektaşımızın yaşadığı durum, mesleğimizin karşı karşıya kaldığı sorunların bir yansımasıdır. Düşük maaşlar, sigortasız çalışma ve emeğimizin değersizleştirilmesi kabul edilemez. Hep birlikte sesimizi yükseltmeli ve hak ettiğimiz şartlar için birlik olmalıyız.” https://t.co/OLGhUVbcFF",
+  "lang": "tr",
+  "views": "4855",
+  "quotes": 1,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "replies": 0,
+  "retweets": 18,
+  "conversation_id": "1858481989260558389",
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GcqnhBAX0AApMKh.jpg",
+        "id": "1858481981891268608",
+        "sizes": {
+          "h": 1200,
+          "w": 740
+        }
+      },
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GcqnhBBX0AAVUat.jpg",
+        "id": "1858481981895462912",
+        "sizes": {
+          "h": 1096,
+          "w": 828
+        }
+      }
+    ]
+  },
+  "author": {
+    "rest_id": "774560768",
+    "name": "Emre",
+    "screen_name": "emrebayanmelek",
+    "avatar": "https://pbs.twimg.com/profile_images/1531396098681708549/fPWECvns_normal.jpg",
+    "blue_verified": false
+  }
+},
+{
+  "tweet_id": "1857420319402639475",
+  "bookmarks": 3,
+  "created_at": "Fri Nov 15 13:48:08 +0000 2024",
+  "favorites": 123,
+  "text": "Biz insanların kalbini değil, Direnç kilosunu kırarız…\nHayırlı cumalar",
+  "lang": "tr",
+  "views": "4631",
+  "quotes": 1,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "replies": 0,
+  "retweets": 24,
+  "conversation_id": "1857420319402639475",
+  "media": [],
+  "author": {
+    "rest_id": "774560768",
+    "name": "Emre",
+    "screen_name": "emrebayanmelek",
+    "avatar": "https://pbs.twimg.com/profile_images/1531396098681708549/fPWECvns_normal.jpg",
+    "blue_verified": false
+  }
+},
+{
+  "tweet_id": "1854811850078089507",
+  "bookmarks": 3,
+  "created_at": "Fri Nov 08 09:03:00 +0000 2024",
+  "favorites": 88,
+  "text": "Allah’tan korkan huzurlu, diyetisyenini dinleyen sağlıklı ve mutlu olur. Hayırlı Cumalar…",
+  "lang": "tr",
+  "views": "2868",
+  "quotes": 0,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "replies": 0,
+  "retweets": 5,
+  "conversation_id": "1854811850078089507",
+  "media": [],
+  "author": {
+    "rest_id": "774560768",
+    "name": "Emre",
+    "screen_name": "emrebayanmelek",
+    "avatar": "https://pbs.twimg.com/profile_images/1531396098681708549/fPWECvns_normal.jpg",
+    "blue_verified": false
+  }
+},
+{
+  "tweet_id": "1854611271812817023",
+  "bookmarks": 0,
+  "created_at": "Thu Nov 07 19:45:58 +0000 2024",
+  "favorites": 0,
+  "text": "RT @GalatasaraySK: 3 puan bizim! 💪\n\nMaç sonucu: Galatasaray 3-2 Tottenham 👏\n\n#GSvTOT #UEL https://t.co/TgZe4Pwy1B",
+  "lang": "tr",
+  "views": null,
+  "quotes": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "GSvTOT"
+      },
+      {
+        "text": "UEL"
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id_str": "23186079",
+        "name": "Galatasaray SK",
+        "screen_name": "GalatasaraySK"
+      }
+    ]
+  },
+  "replies": 0,
+  "retweets": 7404,
+  "conversation_id": "1854611271812817023",
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GbzmqvbWAAQ0tij.jpg",
+        "id": "1854610768529850372",
+        "sizes": {
+          "h": 1200,
+          "w": 960
+        }
+      }
+    ]
+  },
+  "author": {
+    "rest_id": "774560768",
+    "name": "Emre",
+    "screen_name": "emrebayanmelek",
+    "avatar": "https://pbs.twimg.com/profile_images/1531396098681708549/fPWECvns_normal.jpg",
+    "blue_verified": false
+  },
+  "retweeted": {
+    "id": "1854610864919208093"
+  },
+  "retweeted_tweet": {
+    "tweet_id": "1854610864919208093",
+    "bookmarks": 208,
+    "created_at": "Thu Nov 07 19:44:21 +0000 2024",
+    "favorites": 70235,
+    "text": "3 puan bizim! 💪\n\nMaç sonucu: Galatasaray 3-2 Tottenham 👏\n\n#GSvTOT #UEL https://t.co/TgZe4Pwy1B",
+    "lang": "tr",
+    "views": "1762309",
+    "quotes": 1844,
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            58,
+            65
+          ],
+          "text": "GSvTOT"
+        },
+        {
+          "indices": [
+            66,
+            70
+          ],
+          "text": "UEL"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.x.com/TgZe4Pwy1B",
+          "expanded_url": "https://x.com/GalatasaraySK/status/1854610864919208093/photo/1",
+          "id_str": "1854610768529850372",
+          "indices": [
+            71,
+            94
+          ],
+          "media_key": "3_1854610768529850372",
+          "media_url_https": "https://pbs.twimg.com/media/GbzmqvbWAAQ0tij.jpg",
+          "type": "photo",
+          "url": "https://t.co/TgZe4Pwy1B",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "x": 768,
+                  "y": 85,
+                  "h": 47,
+                  "w": 47
+                },
+                {
+                  "x": 446,
+                  "y": 142,
+                  "h": 48,
+                  "w": 48
+                },
+                {
+                  "x": 88,
+                  "y": 156,
+                  "h": 47,
+                  "w": 47
+                },
+                {
+                  "x": 924,
+                  "y": 233,
+                  "h": 51,
+                  "w": 51
+                },
+                {
+                  "x": 158,
+                  "y": 309,
+                  "h": 50,
+                  "w": 50
+                },
+                {
+                  "x": 1009,
+                  "y": 123,
+                  "h": 51,
+                  "w": 51
+                },
+                {
+                  "x": 962,
+                  "y": 297,
+                  "h": 58,
+                  "w": 58
+                },
+                {
+                  "x": 508,
+                  "y": 1028,
+                  "h": 55,
+                  "w": 55
+                },
+                {
+                  "x": 510,
+                  "y": 38,
+                  "h": 60,
+                  "w": 60
+                },
+                {
+                  "x": 197,
+                  "y": 1104,
+                  "h": 61,
+                  "w": 61
+                },
+                {
+                  "x": 781,
+                  "y": 301,
+                  "h": 87,
+                  "w": 87
+                },
+                {
+                  "x": 175,
+                  "y": 1092,
+                  "h": 102,
+                  "w": 102
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "x": 682,
+                  "y": 75,
+                  "h": 41,
+                  "w": 41
+                },
+                {
+                  "x": 396,
+                  "y": 126,
+                  "h": 42,
+                  "w": 42
+                },
+                {
+                  "x": 78,
+                  "y": 138,
+                  "h": 41,
+                  "w": 41
+                },
+                {
+                  "x": 821,
+                  "y": 207,
+                  "h": 45,
+                  "w": 45
+                },
+                {
+                  "x": 140,
+                  "y": 274,
+                  "h": 44,
+                  "w": 44
+                },
+                {
+                  "x": 896,
+                  "y": 109,
+                  "h": 45,
+                  "w": 45
+                },
+                {
+                  "x": 855,
+                  "y": 264,
+                  "h": 51,
+                  "w": 51
+                },
+                {
+                  "x": 451,
+                  "y": 913,
+                  "h": 48,
+                  "w": 48
+                },
+                {
+                  "x": 453,
+                  "y": 33,
+                  "h": 53,
+                  "w": 53
+                },
+                {
+                  "x": 175,
+                  "y": 981,
+                  "h": 54,
+                  "w": 54
+                },
+                {
+                  "x": 694,
+                  "y": 267,
+                  "h": 77,
+                  "w": 77
+                },
+                {
+                  "x": 155,
+                  "y": 970,
+                  "h": 90,
+                  "w": 90
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "x": 386,
+                  "y": 42,
+                  "h": 23,
+                  "w": 23
+                },
+                {
+                  "x": 224,
+                  "y": 71,
+                  "h": 24,
+                  "w": 24
+                },
+                {
+                  "x": 44,
+                  "y": 78,
+                  "h": 23,
+                  "w": 23
+                },
+                {
+                  "x": 465,
+                  "y": 117,
+                  "h": 25,
+                  "w": 25
+                },
+                {
+                  "x": 79,
+                  "y": 155,
+                  "h": 25,
+                  "w": 25
+                },
+                {
+                  "x": 508,
+                  "y": 61,
+                  "h": 25,
+                  "w": 25
+                },
+                {
+                  "x": 484,
+                  "y": 149,
+                  "h": 29,
+                  "w": 29
+                },
+                {
+                  "x": 255,
+                  "y": 517,
+                  "h": 27,
+                  "w": 27
+                },
+                {
+                  "x": 256,
+                  "y": 19,
+                  "h": 30,
+                  "w": 30
+                },
+                {
+                  "x": 99,
+                  "y": 556,
+                  "h": 30,
+                  "w": 30
+                },
+                {
+                  "x": 393,
+                  "y": 151,
+                  "h": 43,
+                  "w": 43
+                },
+                {
+                  "x": 88,
+                  "y": 550,
+                  "h": 51,
+                  "w": 51
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "x": 768,
+                  "y": 85,
+                  "h": 47,
+                  "w": 47
+                },
+                {
+                  "x": 446,
+                  "y": 142,
+                  "h": 48,
+                  "w": 48
+                },
+                {
+                  "x": 88,
+                  "y": 156,
+                  "h": 47,
+                  "w": 47
+                },
+                {
+                  "x": 924,
+                  "y": 233,
+                  "h": 51,
+                  "w": 51
+                },
+                {
+                  "x": 158,
+                  "y": 309,
+                  "h": 50,
+                  "w": 50
+                },
+                {
+                  "x": 1009,
+                  "y": 123,
+                  "h": 51,
+                  "w": 51
+                },
+                {
+                  "x": 962,
+                  "y": 297,
+                  "h": 58,
+                  "w": 58
+                },
+                {
+                  "x": 508,
+                  "y": 1028,
+                  "h": 55,
+                  "w": 55
+                },
+                {
+                  "x": 510,
+                  "y": 38,
+                  "h": 60,
+                  "w": 60
+                },
+                {
+                  "x": 197,
+                  "y": 1104,
+                  "h": 61,
+                  "w": 61
+                },
+                {
+                  "x": 781,
+                  "y": 301,
+                  "h": 87,
+                  "w": 87
+                },
+                {
+                  "x": 175,
+                  "y": 1092,
+                  "h": 102,
+                  "w": 102
+                }
+              ]
+            }
+          },
+          "sizes": {
+            "large": {
+              "h": 1350,
+              "w": 1080,
+              "resize": "fit"
+            },
+            "medium": {
+              "h": 1200,
+              "w": 960,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 680,
+              "w": 544,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "original_info": {
+            "height": 1350,
+            "width": 1080,
+            "focus_rects": [
+              {
+                "x": 0,
+                "y": 745,
+                "w": 1080,
+                "h": 605
+              },
+              {
+                "x": 0,
+                "y": 270,
+                "w": 1080,
+                "h": 1080
+              },
+              {
+                "x": 0,
+                "y": 119,
+                "w": 1080,
+                "h": 1231
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "w": 675,
+                "h": 1350
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "w": 1080,
+                "h": 1350
+              }
+            ]
+          },
+          "media_results": {
+            "result": {
+              "media_key": "3_1854610768529850372"
+            }
+          }
+        }
+      ],
+      "symbols": [],
+      "timestamps": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "replies": 3558,
+    "retweets": 7404,
+    "conversation_id": "1854610864919208093",
+    "author": {
+      "rest_id": "23186079",
+      "name": "Galatasaray SK",
+      "screen_name": "GalatasaraySK",
+      "avatar": "https://pbs.twimg.com/profile_images/1855859596046278656/-gFTlOlh_normal.jpg",
+      "blue_verified": true
+    },
+    "media": {
+      "photo": [
+        {
+          "media_url_https": "https://pbs.twimg.com/media/GbzmqvbWAAQ0tij.jpg",
+          "id": "1854610768529850372",
+          "sizes": {
+            "h": 1200,
+            "w": 960
+          }
+        }
+      ]
+    }
+  }
+},
+{
+  "tweet_id": "1852053762065731909",
+  "bookmarks": 5,
+  "created_at": "Thu Oct 31 18:23:21 +0000 2024",
+  "favorites": 66,
+  "text": "DİYETİSYENLER NEDEN MİKROBİYOLOJİ BİLMELİ👇\nE.coli virüs değil BAKTERİ’dir toprağa veya hayvan dışkısına maruz kalan havuç, soğan, patates gibi sebzeler, bu bakteriyi yüzeyinde barındırır. Kabuğu soyup soğanı YIKAMAK ardından AYRI bıçak kullanılması gerekir.( çapraz bulaşma❌)",
+  "lang": "tr",
+  "views": "1841",
+  "quotes": 0,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "replies": 0,
+  "retweets": 1,
+  "conversation_id": "1852053762065731909",
+  "media": [],
+  "author": {
+    "rest_id": "774560768",
+    "name": "Emre",
+    "screen_name": "emrebayanmelek",
+    "avatar": "https://pbs.twimg.com/profile_images/1531396098681708549/fPWECvns_normal.jpg",
+    "blue_verified": false
+  },
+  "quoted": {
+    "tweet_id": "1851874490159898917",
+    "bookmarks": 79,
+    "created_at": "Thu Oct 31 06:30:59 +0000 2024",
+    "favorites": 912,
+    "text": "ABD'de McDonald's ürünlerinde görülen ve 1 kişinin ölümüne yol açan 'E. coli' virüsüne taze doğranmış soğanların neden olduğu tespit edildi. https://t.co/8IIMVqcKWj",
+    "lang": "tr",
+    "views": "270298",
+    "quotes": 39,
+    "replies": 93,
+    "retweets": 29,
+    "conversation_id": "1851874490159898917",
+    "author": {
+      "rest_id": "1338186398600482816",
+      "name": "Boşuna Tıklama",
+      "screen_name": "bosunatiklama",
+      "avatar": "https://pbs.twimg.com/profile_images/1661372433142624257/ZSJRRfb2_normal.jpg",
+      "blue_verified": true
+    },
+    "media": {
+      "photo": [
+        {
+          "media_url_https": "https://pbs.twimg.com/media/GbMsvf9XUAENlek.jpg",
+          "id": "1851873066323759105",
+          "sizes": {
+            "h": 1200,
+            "w": 1200
+          }
+        },
+        {
+          "media_url_https": "https://pbs.twimg.com/media/GbMsw3gW0AAP2f6.jpg",
+          "id": "1851873089824411648",
+          "sizes": {
+            "h": 1090,
+            "w": 1090
+          }
+        }
+      ]
+    }
+  }
+},
+{
+  "tweet_id": "1847344919351808469",
+  "bookmarks": 4,
+  "created_at": "Fri Oct 18 18:32:05 +0000 2024",
+  "favorites": 205,
+  "text": "Mesleki yasamızın olmaması, reklam peşinde koşanların alanımıza girmesi, atamaların az, KPSS, ALES, YDS puanlarının aşırı yüksek olması nedeniyle, gelecek kaygısı yaşayan diyetisyenlerin ortak buluşma noktası… https://t.co/Ncpyj8wQ8P",
+  "lang": "tr",
+  "views": "9873",
+  "quotes": 1,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "replies": 0,
+  "retweets": 11,
+  "conversation_id": "1847344919351808469",
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GaMWaWeWAAAMiPi.jpg",
+        "id": "1847344914117296128",
+        "sizes": {
+          "h": 935,
+          "w": 998
+        }
+      }
+    ]
+  },
+  "author": {
+    "rest_id": "774560768",
+    "name": "Emre",
+    "screen_name": "emrebayanmelek",
+    "avatar": "https://pbs.twimg.com/profile_images/1531396098681708549/fPWECvns_normal.jpg",
+    "blue_verified": false
+  }
+},
+{
+  "tweet_id": "1847245820099195233",
+  "bookmarks": 1,
+  "created_at": "Fri Oct 18 11:58:18 +0000 2024",
+  "favorites": 80,
+  "text": "Kesilmiş musluktan su, etik olmayan Diyetisyen(!)’den hayır gelmez Hayırlı Cumalar",
+  "lang": "tr",
+  "views": "2692",
+  "quotes": 0,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "replies": 0,
+  "retweets": 7,
+  "conversation_id": "1847245820099195233",
+  "media": [],
+  "author": {
+    "rest_id": "774560768",
+    "name": "Emre",
+    "screen_name": "emrebayanmelek",
+    "avatar": "https://pbs.twimg.com/profile_images/1531396098681708549/fPWECvns_normal.jpg",
+    "blue_verified": false
+  }
+},
+{
+  "tweet_id": "1843602471811465631",
+  "bookmarks": 0,
+  "created_at": "Tue Oct 08 10:40:56 +0000 2024",
+  "favorites": 157,
+  "text": "Sağlıklı beslenme eğitimi, toplumun geleceğini şekillendiren çocuk/ergenler için KRİTİK bir alandır. Bu eğitim, BESLENME VE DİYETETİK alanından mezun olan DİYETİSYENLER tarafından verilmelidir. Bu sebeple YALNIZCA DİYETİSYENLER, bu eğitimi öğrencilere aktarmalıdır!",
+  "lang": "tr",
+  "views": "3588",
+  "quotes": 0,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "replies": 0,
+  "retweets": 27,
+  "conversation_id": "1843602471811465631",
+  "media": [],
+  "author": {
+    "rest_id": "774560768",
+    "name": "Emre",
+    "screen_name": "emrebayanmelek",
+    "avatar": "https://pbs.twimg.com/profile_images/1531396098681708549/fPWECvns_normal.jpg",
+    "blue_verified": false
+  },
+  "quoted": {
+    "tweet_id": "1843212806692507749",
+    "bookmarks": 5,
+    "created_at": "Mon Oct 07 08:52:33 +0000 2024",
+    "favorites": 4,
+    "text": "Canik İSM Eğitim Ekibinden Hemşire Zekiye Erdik ,Ebe Nuray Yavuz ,Sağlık Memuru Hüseyin Aydın tarafından Demirci İlkokulunda\"Sağlıklı Beslenme ve Hijyen\", Demirci Ortaokulunda öğrencilere \"Ergen Sağlığı,Sağlıklı Beslenme,Hijyen\" eğitimi verilmiştir. https://t.co/nyk9bS4S3e",
+    "lang": "tr",
+    "views": "53383",
+    "quotes": 32,
+    "replies": 88,
+    "retweets": 0,
+    "conversation_id": "1843212806692507749",
+    "author": {
+      "rest_id": "1450793678092619776",
+      "name": "Canik İlçe Sağlık Müdürlüğü",
+      "screen_name": "canikism",
+      "avatar": "https://pbs.twimg.com/profile_images/1623039182175146020/etPvRTGd_normal.jpg",
+      "blue_verified": false
+    },
+    "media": {
+      "photo": [
+        {
+          "media_url_https": "https://pbs.twimg.com/media/GZRoOKXXAAEWyRP.jpg",
+          "id": "1843212740011163649",
+          "sizes": {
+            "h": 675,
+            "w": 1200
+          }
+        },
+        {
+          "media_url_https": "https://pbs.twimg.com/media/GZRoOKgWUAAltFD.jpg",
+          "id": "1843212740048867328",
+          "sizes": {
+            "h": 900,
+            "w": 1200
+          }
+        },
+        {
+          "media_url_https": "https://pbs.twimg.com/media/GZRoOKdXAAAN_93.jpg",
+          "id": "1843212740036329472",
+          "sizes": {
+            "h": 676,
+            "w": 1200
+          }
+        }
+      ]
+    }
+  }
+},
+{
+  "tweet_id": "1842690814511915398",
+  "bookmarks": 0,
+  "created_at": "Sat Oct 05 22:18:20 +0000 2024",
+  "favorites": 3,
+  "text": "#KadınaVeÇocuğaDokunma!",
+  "lang": "qht",
+  "views": "480",
+  "quotes": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "KadınaVeÇocuğaDokunma"
+      }
+    ],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "replies": 0,
+  "retweets": 0,
+  "conversation_id": "1842690814511915398",
+  "media": [],
+  "author": {
+    "rest_id": "774560768",
+    "name": "Emre",
+    "screen_name": "emrebayanmelek",
+    "avatar": "https://pbs.twimg.com/profile_images/1531396098681708549/fPWECvns_normal.jpg",
+    "blue_verified": false
+  }
+},
+{
+  "tweet_id": "1840316295020962271",
+  "bookmarks": 0,
+  "created_at": "Sun Sep 29 09:02:50 +0000 2024",
+  "favorites": 0,
+  "text": "RT @ErayGencR: 90+4 topu Muslera, kenarlara göndermek yerine 2 tane 1.90 stoperin olduğu yere vuruyor, dönüşünde gol yiyoruz.\n\nHer maç 3-4…",
+  "lang": "tr",
+  "views": null,
+  "quotes": 0,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id_str": "1694665774621671424",
+        "name": "Eray Can Gencer",
+        "screen_name": "ErayGencR"
+      }
+    ]
+  },
+  "replies": 0,
+  "retweets": 332,
+  "conversation_id": "1840316295020962271",
+  "media": [],
+  "author": {
+    "rest_id": "774560768",
+    "name": "Emre",
+    "screen_name": "emrebayanmelek",
+    "avatar": "https://pbs.twimg.com/profile_images/1531396098681708549/fPWECvns_normal.jpg",
+    "blue_verified": false
+  },
+  "retweeted": {
+    "id": "1840114589901467729"
+  },
+  "retweeted_tweet": {
+    "tweet_id": "1840114589901467729",
+    "bookmarks": 89,
+    "created_at": "Sat Sep 28 19:41:20 +0000 2024",
+    "favorites": 6979,
+    "text": "90+4 topu Muslera, kenarlara göndermek yerine 2 tane 1.90 stoperin olduğu yere vuruyor, dönüşünde gol yiyoruz.\n\nHer maç 3-4 tane sadece bu ayaklarının kötülüğü yüzünden pozisyon veriyoruz. Ben yıllar geçtikçe ayak kalitesi bu kadar olgunlaşmayan başka kaleci görmedim.",
+    "lang": "tr",
+    "views": "303519",
+    "quotes": 53,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "timestamps": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "replies": 248,
+    "retweets": 332,
+    "conversation_id": "1840114589901467729",
+    "author": {
+      "rest_id": "1694665774621671424",
+      "name": "Eray Can Gencer",
+      "screen_name": "ErayGencR",
+      "avatar": "https://pbs.twimg.com/profile_images/1772390134270320640/bgo-5TKw_normal.jpg",
+      "blue_verified": true
+    },
+    "media": []
+  }
+},
+{
+  "tweet_id": "1840089897065165096",
+  "bookmarks": 0,
+  "created_at": "Sat Sep 28 18:03:13 +0000 2024",
+  "favorites": 1,
+  "text": "SAHASINDA 3-0’dan ANADOLU TAKIMINA puan veren 2. Yarı tek isabetli şutu olmayan Galatasaray için 40. Dakikadan beri hak edilmeyen bir maç fazla şımarıklığın sebebi iç sahada bıraktığın 2 puan…",
+  "lang": "tr",
+  "views": "393",
+  "quotes": 0,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "replies": 0,
+  "retweets": 0,
+  "conversation_id": "1840089897065165096",
+  "media": [],
+  "author": {
+    "rest_id": "774560768",
+    "name": "Emre",
+    "screen_name": "emrebayanmelek",
+    "avatar": "https://pbs.twimg.com/profile_images/1531396098681708549/fPWECvns_normal.jpg",
+    "blue_verified": false
+  }
+},
+{
+  "tweet_id": "1839049460346691919",
+  "bookmarks": 0,
+  "created_at": "Wed Sep 25 21:08:53 +0000 2024",
+  "favorites": 0,
+  "text": "RT @GalatasaraySK: 𝐓𝐡𝐢𝐬 𝐢𝐬 𝐈𝐬𝐭𝐚𝐧𝐛𝐮𝐥! 😉 https://t.co/K4w2WtfChK",
+  "lang": "en",
+  "views": null,
+  "quotes": 0,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id_str": "23186079",
+        "name": "Galatasaray SK",
+        "screen_name": "GalatasaraySK"
+      }
+    ]
+  },
+  "replies": 0,
+  "retweets": 21633,
+  "conversation_id": "1839049460346691919",
+  "media": {
+    "photo": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/GYWb5yeWIAA02sf.jpg",
+        "id": "1839047439954616320",
+        "sizes": {
+          "h": 676,
+          "w": 1200
+        }
+      }
+    ]
+  },
+  "author": {
+    "rest_id": "774560768",
+    "name": "Emre",
+    "screen_name": "emrebayanmelek",
+    "avatar": "https://pbs.twimg.com/profile_images/1531396098681708549/fPWECvns_normal.jpg",
+    "blue_verified": false
+  },
+  "retweeted": {
+    "id": "1839047476017328542"
+  },
+  "retweeted_tweet": {
+    "tweet_id": "1839047476017328542",
+    "bookmarks": 975,
+    "created_at": "Wed Sep 25 21:01:00 +0000 2024",
+    "favorites": 173882,
+    "text": "𝐓𝐡𝐢𝐬 𝐢𝐬 𝐈𝐬𝐭𝐚𝐧𝐛𝐮𝐥! 😉 https://t.co/K4w2WtfChK",
+    "lang": "en",
+    "views": "4069297",
+    "quotes": 1368,
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.x.com/K4w2WtfChK",
+          "expanded_url": "https://x.com/GalatasaraySK/status/1839047476017328542/photo/1",
+          "id_str": "1839047439954616320",
+          "indices": [
+            20,
+            43
+          ],
+          "media_key": "3_1839047439954616320",
+          "media_url_https": "https://pbs.twimg.com/media/GYWb5yeWIAA02sf.jpg",
+          "type": "photo",
+          "url": "https://t.co/K4w2WtfChK",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": []
+            },
+            "medium": {
+              "faces": []
+            },
+            "small": {
+              "faces": []
+            },
+            "orig": {
+              "faces": []
+            }
+          },
+          "sizes": {
+            "large": {
+              "h": 1154,
+              "w": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "h": 676,
+              "w": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "h": 383,
+              "w": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "h": 150,
+              "w": 150,
+              "resize": "crop"
+            }
+          },
+          "original_info": {
+            "height": 2307,
+            "width": 4096,
+            "focus_rects": [
+              {
+                "x": 0,
+                "y": 13,
+                "w": 4096,
+                "h": 2294
+              },
+              {
+                "x": 792,
+                "y": 0,
+                "w": 2307,
+                "h": 2307
+              },
+              {
+                "x": 933,
+                "y": 0,
+                "w": 2024,
+                "h": 2307
+              },
+              {
+                "x": 1368,
+                "y": 0,
+                "w": 1154,
+                "h": 2307
+              },
+              {
+                "x": 0,
+                "y": 0,
+                "w": 4096,
+                "h": 2307
+              }
+            ]
+          },
+          "media_results": {
+            "result": {
+              "media_key": "3_1839047439954616320"
+            }
+          }
+        }
+      ],
+      "symbols": [],
+      "timestamps": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "replies": 1389,
+    "retweets": 21633,
+    "conversation_id": "1839047476017328542",
+    "author": {
+      "rest_id": "23186079",
+      "name": "Galatasaray SK",
+      "screen_name": "GalatasaraySK",
+      "avatar": "https://pbs.twimg.com/profile_images/1855859596046278656/-gFTlOlh_normal.jpg",
+      "blue_verified": true
+    },
+    "media": {
+      "photo": [
+        {
+          "media_url_https": "https://pbs.twimg.com/media/GYWb5yeWIAA02sf.jpg",
+          "id": "1839047439954616320",
+          "sizes": {
+            "h": 676,
+            "w": 1200
+          }
+        }
+      ]
+    }
+  }
+},
+{
+  "tweet_id": "1835053529343365483",
+  "bookmarks": 0,
+  "created_at": "Sat Sep 14 20:30:29 +0000 2024",
+  "favorites": 1,
+  "text": "Şu bitirişin güzelliğine bak aslanım benim. Yabancı bir oyuncu ya da Gs gündemindeki bir oyuncu olsa şu adamı eleştiren futbol cahilleri sadece şu golüne bile methiyeler düzer, editler yapardı",
+  "lang": "tr",
+  "views": "535",
+  "quotes": 0,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "replies": 0,
+  "retweets": 0,
+  "conversation_id": "1835053529343365483",
+  "media": [],
+  "author": {
+    "rest_id": "774560768",
+    "name": "Emre",
+    "screen_name": "emrebayanmelek",
+    "avatar": "https://pbs.twimg.com/profile_images/1531396098681708549/fPWECvns_normal.jpg",
+    "blue_verified": false
+  },
+  "quoted": {
+    "tweet_id": "1835047131960250660",
+    "bookmarks": 36,
+    "created_at": "Sat Sep 14 20:05:04 +0000 2024",
+    "favorites": 1827,
+    "text": "Kerem Aktürkoğlu'nun Benfica formasıyla ilk golü.\n https://t.co/Nt7jhcCavs",
+    "lang": "tr",
+    "views": "99034",
+    "quotes": 39,
+    "replies": 26,
+    "retweets": 67,
+    "conversation_id": "1835047131960250660",
+    "author": {
+      "rest_id": "2793124376",
+      "name": "Forza Cimbom",
+      "screen_name": "forzacimbomtr",
+      "avatar": "https://pbs.twimg.com/profile_images/1725619969541488640/XlhKC5K0_normal.jpg",
+      "blue_verified": true
+    },
+    "media": {
+      "video": [
+        {
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1835046353640009728/img/xsFn-GgTZBiNudx2.jpg",
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/1835046353640009728/pl/5U6qhpIkgE1DWLQN.m3u8?tag=14&v=cab"
+            },
+            {
+              "bitrate": 288000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1835046353640009728/vid/avc1/478x270/NPbfl72nw1eKvJAo.mp4?tag=14"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1835046353640009728/vid/avc1/638x360/vnrY9jtGZpXCKKMs.mp4?tag=14"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1835046353640009728/vid/avc1/1276x720/CeTNJ6qmL-XmPU2V.mp4?tag=14"
+            }
+          ],
+          "aspect_ratio": [
+            786,
+            443
+          ],
+          "original_info": {
+            "height": 886,
+            "width": 1572,
+            "focus_rects": []
+          },
+          "id": "1835046353640009728"
+        }
+      ]
+    }
+  }
+}]
